@@ -1358,3 +1358,5 @@ Game 18 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Talk 19 - Tamil Culture pathi pesalama? Sollu! 💬
 Quote 20 - Daily try pannu - Jeyichiduva! - Aira
 Reading 21 - Python Crash Course! 📚
+Story 22
+Oru chinna world la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
