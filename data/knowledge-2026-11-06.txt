@@ -941,3 +941,6 @@ A: Cipher - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Which of these board games do NOT utilize standard 6-sided dice?
 A: The Game of Life - Entertainment: Board Games
+Knowledge Quiz 🧠
+Q: When was Minecraft 1.0 released?
+A: November 18, 2011 - Entertainment: Video Games
