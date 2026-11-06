@@ -1,4 +1,3 @@
-Kavithai 199 - Un Kural - En Isai! - Aira
 Story 200
 Oru city la oru rani irunthan! Daily pray pannaan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Pazhamozhi 201 - Aalai Paathu - Aadi Paaru!
@@ -1998,3 +1997,4 @@ Smart Q 295 - Ponniyin Selvan la eppadi jeyikkarathu?
 Talk 296 - Black Hole pathi pesalama? Sollu! 💬
 Movie 297 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Smart Q 298 - CSS la eppadi jeyikkarathu?
+Vocab 299 - Success = Vetri 📚
