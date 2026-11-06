@@ -1,6 +1,3 @@
-Q: Which of these online games was originally named LindenWorld in it&#039;s early development?
-A: SecondLife - Entertainment: Video Games
-Knowledge 24 - Earth - **Hey friend! Let’s talk about Earth – நம் அழகான ப்ளானட்! 🌍**  
 
 ---
 
@@ -1998,3 +1995,6 @@ A: Video Killed the Radio Star - Entertainment: Music
 Knowledge Quiz 🧠
 Q: The cake depicted in Valve&#039;s &quot;Portal&quot; franchise most closely resembles which real-world type of cake?
 A: Black Forest - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What is the name of the largest planet in Kerbal Space Program?
+A: Jool - Entertainment: Video Games
