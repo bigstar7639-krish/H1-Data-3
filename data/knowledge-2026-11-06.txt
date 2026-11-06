@@ -373,3 +373,6 @@ A: Viltrumite - Entertainment: Comics
 Knowledge Quiz 🧠
 Q: Which of the following spacecraft never touched the moon?
 A: Mariner 4 - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: In the server hosting industry IaaS stands for...
+A: Infrastructure as a Service - Science: Computers
