@@ -962,3 +962,6 @@ A: Poincar&eacute; conjecture - Science: Mathematics
 Knowledge Quiz 🧠
 Q: In &quot;Star Trek&quot;, what sauce is commonly used by Klingons on bregit lung?
 A: Grapok sauce - Entertainment: Television
+Knowledge Quiz 🧠
+Q: What is the romanized Japanese word for &quot;university&quot;?
+A: Daigaku - General Knowledge
