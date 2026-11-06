@@ -115,3 +115,6 @@ A: Wolowizard
 Auto Quiz - Sea 🧠
 Q: What is the name of the only female &quot;Original Four&quot; Kerbal in Kerbal Space Program?
 A: Valentina Kerman
+Auto Quiz - River 🧠
+Q: In &quot;Magicka&quot;, which two elements are combined to cast the spell, &quot;Nullify&quot;?
+A: Arcane + Shield
