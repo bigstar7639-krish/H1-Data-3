@@ -956,3 +956,6 @@ A: Terry Jones - Entertainment: Television
 Knowledge Quiz 🧠
 Q: Which city did the former NHL team &quot;The Nordiques&quot; originiate from?
 A: Quebec City - Sports
+Knowledge Quiz 🧠
+Q: What is the only Millennium Prize Problem that has been solved so far?
+A: Poincar&eacute; conjecture - Science: Mathematics
