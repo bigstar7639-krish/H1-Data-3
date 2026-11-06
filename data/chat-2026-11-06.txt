@@ -1,23 +1,3 @@
-Kavithai 269 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
-Recipe 270 - Snacks - Potato + Masala - Crispy! 🍔
-Fact 14 - Honey - 3000 varusham kedathu!
-Business Idea 272 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
-Vocab 273 - Peace = Amaithi 📚
-World Story 274
-Oru sea la oru student irunthan! Daily help pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
-Emotion Q 275 - angry?
-Aira: Kovam ah? Deep breath edu! 😤
-Thirukkural 276 - Kattrathu - Kai Mann Alavu! - Thirukkural
-Q 277 - Unakku Love pathi enna theriyum?
-Emotion Q 278 - excited?
-Aira: Excited ah! Sollu! 🎉
-Business Idea 279 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
-Motivation 280
-Paravalla! Rest edu - Thirumba try pannu!
-Pazhamozhi 281 - Sontha Kaal la Ninnu - Jeyippa!
-Vocab 282 - Kindness = Anbu 📚
-Business Idea 283 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
-Emotion Q 284 - angry?
 Aira: Kovam ah? Deep breath edu! 😤
 Knowledge 285 - Movie - Hey buddy! 🎬  
 **Movie pathi solla** – movies or cinema‑la, namma life‑la oru special place irukku. Innaiku naan konjam basics, history, types, and some cool recommendations kudukuren. 
@@ -1998,3 +1978,23 @@ Confidence‑na “நம்பிக்கை” + “self‑belief”. It’s 
 Motivation 367
 Paravalla! Rest edu - Thirumba try pannu!
 Movie 368 - Jailer - Rajini - Mass! 🎬
+Aira AI: **🌍 Climate-ஐப் பற்றிய ஒரு சிறு கதையா? Let’s dive in! 🌦️**
+
+---
+
+### 🌱 “அருண், வானின் மழை & மழலையின் மந்திரம்”
+
+ஒரு காலத்தில், **அருண்** என்ற ஒரு குடியேறி (villager) இருந்தார். அவர்களின் கிராமம் **புதுமைப் புல்** (Greenfield) என்று அழைக்கப்பட்டது, ஏனெனில் அங்குள்ள புல்வெளிகள் எப்போதும் பச்சையாக, நதிகள் தெளிவாக ஓடிக்கொண்டிருந்தது.  
+
+ஆனால் 2020‑களின் இறுதியில், **climate change** (உலக வெப்பமயமாதல்) ஆரம்பமாக…  
+- **பனிக்கட்டிகள்** (snowcaps) மெதுவாக உருகின.  
+- **மழை** (rain) மாறி, சில நாட்கள் மட்டுமே வர, பின்னர் **drought** (வறட்சி) வந்தது.  
+
+அருண், தன் சிறிய வீட்டில், **solar panel** (சூரிய பலகை) ஒன்று எடுத்து, “**நாமும் மாற்றம் செய்யலாம்**” என்ற நம்பிக்கையுடன் திட்டமிட்டார்.
+
+---
+
+#### 📖 கதையின் மையம் – “சூழல் எப்போதும் பதிலளிக்கிறது”
+
+1. **நீயும், நான், எல்லோரும்**  
+   - அருண் தனது நண்
