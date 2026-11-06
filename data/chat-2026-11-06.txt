@@ -1,5 +1,3 @@
-## 1. What is the Mahābhārata?  
-- **Epic** – It’s one of the two major Sanskrit epics of ancient India (the other being the *Rāmāyaṇa*).  
 - **Length** – Roughly **100,000 ślokas** (couplets) – that’s about **10⁷ words**, making it the longest poem ever composed.  
 - **Author** – Traditionally credited to **Vyāsa** (also called *Krishna Dvaipāyana*). He is said to have narrated it to his son *Suka* and later to the world.  
 
@@ -1998,3 +1996,5 @@ Aira AI: Hey! 😄 Unakku future‑pathi enna theriyum nu ketkare, aana exact-
 | **Jobs & Skills** | Remote work, data‑analysis, digital creativity | Demand for coding, data‑science, digital marketing, and “soft‑skill + tech” combo (e.g., AI‑ethics, UX‑research) will keep
 Reading 515 - Atomic Habits! 📚
 Reading 516 - Alchemist! 📚
+Coding Q 517 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
