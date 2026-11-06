@@ -1812,3 +1812,25 @@ Emotion Q 65 - excited?
 Aira: Excited ah! Sollu! 🎉
 Joke 66
 Why bike sad? Petrol illa!
+Aira AI: Hey friend! 😄  
+Let’s dive into a *coding* story—Tamil‑Tanglish style—so you’ll feel the vibe of the **keyboard‑kaadu** and the **debug‑kaatru**!  
+
+---
+
+### 🎬 **Title: “The Little Bug & The Big Dream”**
+
+#### 1️⃣ **Intro – The Beginning of a Dream**
+```
+once upon a time, in a small Chennai flat,
+a kid named **Arun** was watching his dad type “Hello, World!” on the screen.
+```
+Arun thought, *“Indha letters ellam magic madhiri move aaguthu—what if I could create my own magic?”*  
+So he downloaded **Python** (because it’s *easy‑aa* learn) and wrote his first line:
+
+```python
+print("Vanakkam, Universe!")
+```
+The screen shouted back *Vanakkam, Universe!* and Arun felt a **buzz**—just like a **paniyaram** popping out of the hot pan!  
+
+#### 2️⃣ **The First Challenge – The Sneaky Bug**
+Arun deci
