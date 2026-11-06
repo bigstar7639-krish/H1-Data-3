@@ -1,6 +1,3 @@
-A: By clearing every 7th episode - Entertainment: Video Games
-Knowledge Quiz 🧠
-Q: How many voice channels does the Super Nintendo Entertainment System support?
 A: 8 - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Integration is the reverse of what mathematical operation?
@@ -1998,3 +1995,6 @@ A: The Resonance Cascade  - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?
 A: Casey Mongillo - Entertainment: Japanese Anime &amp; Manga
+Knowledge Quiz 🧠
+Q: What is the name of Ruby Rose&#039;s weapon from RWBY?
+A: Crescent Rose - Entertainment: Cartoon &amp; Animations
