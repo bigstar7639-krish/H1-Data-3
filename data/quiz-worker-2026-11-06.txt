@@ -283,3 +283,6 @@ A: 4
 Auto Quiz - Power 🧠
 Q: In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?
 A: Delirium
+Auto Quiz - Magic 🧠
+Q: Which Iron Maiden album did the song &quot;Dream of Mirrors&quot; feature in?
+A: Brave New World
