@@ -1589,3 +1589,4 @@ Talk 24 - Diet pathi pesalama? Sollu! 💬
 Coding Q 25 - React la component enna?
 Aira: React component - Chinna piece!
 Game 26 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
+Reading 27 - 【entity-Harry Potter¦canonical_name=Harry Potter】! 📚
