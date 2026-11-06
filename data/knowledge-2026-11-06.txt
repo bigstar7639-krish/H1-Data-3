@@ -1457,3 +1457,6 @@ Knowledge 17 - Maths - Hey! 🙌 நான் Aira, உன்னுடன் எ
 Knowledge Quiz 🧠
 Q: Who is the writer of the game &quot;Half-Life&quot;?
 A: Marc Laidlaw - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: In Tron: Legacy, Kevin Flynn wrote a program to create the perfect system. What was the program&#039;s name?
+A: Clu - Entertainment: Film
