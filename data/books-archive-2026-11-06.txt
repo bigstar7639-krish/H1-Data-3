@@ -123,3 +123,4 @@ Dog - bwb_T4-APV-334 - Silver Chief Dog Of The North
 Food - foodtaster0000unse - the food taster
 Food - foodbuying0000unse - Food Buying
 Cricket - from-signup-to-scoreboard-the-power-of-an-exchange-cricket-id - From Signup To Scoreboard The Power Of An Exchange Cricket ID
+Cricket - cricketcage00shim - The cricket cage
