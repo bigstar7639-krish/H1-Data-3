@@ -1230,3 +1230,6 @@ A: IMKO-1 - Science: Computers
 Knowledge Quiz 🧠
 Q: Which Marvel superhero did Chris Evans play prior to his role as Captain America?
 A: Human Torch - Entertainment: Film
+Knowledge Quiz 🧠
+Q: Which American president appears on a one dollar bill?
+A: George Washington - General Knowledge
