@@ -1610,3 +1610,4 @@ Knowledge 38 - Brain - AI - Data paathu - Pattern!
 Fact 1 - Honey - 3000 varusham kedathu!
 Coding Q 40 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Talk 41 - Black Hole pathi pesalama? Sollu! 💬
