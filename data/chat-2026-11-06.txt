@@ -1164,3 +1164,4 @@ Business Idea 467 - Tuition - Veetla Tuition!
 Smart Q 468 - Hope la eppadi jeyikkarathu?
 Story 469
 Oru chinna world la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Smart Q 470 - Python la eppadi jeyikkarathu?
