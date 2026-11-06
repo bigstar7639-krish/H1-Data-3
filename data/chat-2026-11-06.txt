@@ -1,4 +1,3 @@
-Story 357
 Oru chinna new york la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Health 358 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Reading 359 - Think and Grow Rich! 📚
@@ -1998,3 +1997,4 @@ Motivation 444
 Paravalla! Rest edu - Thirumba try pannu!
 Q 445 - Un life la Courage eppadi irukku?
 Q 446 - Ne Coding la eppadi improve panna mudiyum?
+Q 447 - Un life la Teacher eppadi irukku?
