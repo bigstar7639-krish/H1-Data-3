@@ -1650,3 +1650,4 @@ Emotion Q 71 - happy?
 Aira: Super! Happy ah irukka! 😊
 Thirukkural 72 - Anbu - Ellam Tharum! - Thirukkural
 Movie 73 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
+Movie 75 - Jailer - Rajini - Mass! 🎬
