@@ -244,3 +244,6 @@ A: Orange
 Auto Quiz - Culture 🧠
 Q: Who in this list is one of the co-founders of Valve?
 A: Gabe Newell
+Auto Quiz - Festival 🧠
+Q: Which state of the United States is the smallest?
+A: Rhode Island 
