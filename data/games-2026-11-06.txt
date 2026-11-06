@@ -29,3 +29,4 @@ Game 2 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Game 26 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
 Game 44 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
 Game 50 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil! 🎮
+Game 56 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
