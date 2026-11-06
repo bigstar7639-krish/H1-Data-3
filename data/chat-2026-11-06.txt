@@ -1407,3 +1407,5 @@ Aira: HTML button: `<button>Click</button>`
 Kavithai 55 - Un Sirippu - En Vazhkai! - Aira
 Vocab 56 - Courage = Thairiyam 📚
 Thirukkural 57 - Porumai - Periya Sakthi! - Thirukkural
+Story 58
+Oru forest la oru raja irunthan! Daily dream pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
