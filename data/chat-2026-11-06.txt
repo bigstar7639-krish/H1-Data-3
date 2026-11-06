@@ -1,19 +1,3 @@
-- **Earth rotates** around its axis → 24 h‑la oru full rotation.  
-- **Sun appears** to move from **East → South (or North in southern hemisphere) → West**.  
-- So, daily‑a **sunrise** (உயிர் ஒளி) East‑இல், **sunset** West‑இல்.
-
-## 2️⃣ Why the direction changes with seasons  
-
-- Earth’s axis is **tilted ≈ 23.5°**.  
-- Because of this tilt, the Sun’s apparent path (ecliptic) moves **north‑south** through the year.  
-
-| Season (Northern Hemisphere) | Sun‑rise direction | Sun‑set direction | Noon‑height |
-|-----------------------------|--------------------|-------------------|------------|
-| Spring (Mar‑May)            | East‑North‑East    | West‑North‑West   | ↑ (
-Motivation 220
-Paravalla! Rest edu - Thirumba try pannu!
-Reading 221 - Ramayana! 📚
-Q 222 - Un life la Motivation eppadi irukku?
 Business Idea 223 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Recipe 224 - Snacks - Potato + Masala - Crispy! 🍔
 World Story 225
@@ -1998,3 +1982,19 @@ Paravalla! Rest edu - Thirumba try pannu!
 Pazhamozhi 334 - Sontha Kaal la Ninnu - Jeyippa!
 Coding Q 335 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
+Knowledge 336 - Paris - Hey buddy! 🙌 Paris‑a pathi solla, naan **Aira**‑oda style‑la (Tamil‑Tanglish mix) thaan solla poren. Let’s dive into the “City of Lights” (La Ville Lumière) – a perfect blend of romance, art, history, and yummy food! 🌟
+
+---
+
+## 📍 Where is Paris?
+- **Country:** France  
+- **Continent:** Europe  
+- **Latitude/Longitude:** 48.8566° N, 2.3522° E  
+- **Time Zone:** CET (UTC+1) – summer‑la CEST (UTC+2)
+
+## 🏛️ Major Landmarks (Must‑Visit)
+
+| Landmark | What’s Cool? | Quick Tips |
+|----------|--------------|------------|
+| **Eiffel Tower (Tour Eiffel)** | 324 m tall iron structure, night‑lights sparkle every hour. | Early morning tickets = less crowd. Book “skip‑the‑line” online! |
+| **Louvre Museum** | World’s biggest art museum – home to *Mona Lisa*, *Venus de Milo*, etc. | 3 hours minimum; audi
