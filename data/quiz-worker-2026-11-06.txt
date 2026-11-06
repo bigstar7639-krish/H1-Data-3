@@ -166,3 +166,6 @@ A: Polio
 Auto Quiz - Movie 🧠
 Q: What did the first vending machines in the early 1880&#039;s dispense?
 A: Post cards
+Auto Quiz - Temple 🧠
+Q: Which one of these is not an official development name for a Ubuntu release?
+A: Mystic Mansion
