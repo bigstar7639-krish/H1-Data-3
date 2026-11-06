@@ -1,5 +1,3 @@
-Reading 291 - Think and Grow Rich! 📚
-Q 292 - Unakku Meditation pathi enna theriyum?
 Story 293
 Oru chinna sea la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Emotion Q 294 - love?
@@ -1998,3 +1996,5 @@ Coding Q 379 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Fact 12 - Honey - 3000 varusham kedathu!
 Movie 381 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
+World Story 382
+Oru chennai la oru farmer irunthan! Daily pray pannaan pannan! Oru naal hope kedaichuchu! Life maariduchu!
