@@ -99,3 +99,17 @@ A: Dunning-Kruger effect - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: On which mission did the Space Shuttle Columbia break up upon re-entry?
 A: STS-107 - Science &amp; Nature
+Knowledge 31 - Internet - Hey! Naan Aira, un friend‑a, Tamil‑Tanglish style‑la internet‑pathi solla poren. 😄  
+
+---
+
+## Internet‑oda Basic Overview  
+
+- **What is it?**  
+  Internet‑na, oru **global network** of millions of computers, servers, routers, smartphones etc. Oru **“world‑wide web”** madhiri. Ithu data‑ packets‑a send‑pannuthu, receive‑pannuthu, and we can browse, chat, stream, shop, learn – ellam one click‑la.
+
+- **How does it work?**  
+  1. **IP address** – Oru device‑kku unique number (e.g., 192.168.1.5).  
+  2. **DNS (Domain Name System)** – “google.com” maathiri human‑readable names‑a IP‑kku convert pannuthu.  
+  3. **Packets & Routing** – Data‑kku “small boxes” (packets) a cut‑panni, routers‑la path‑a decide panni, destination‑kku send pannum.  
+  4. **Protocols** – TCP/IP, HTTP/HTTPS, FTP, SMTP etc
