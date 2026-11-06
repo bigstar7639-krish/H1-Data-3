@@ -235,3 +235,6 @@ A: George R. R. Martin
 Auto Quiz - Football 🧠
 Q: How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?
 A: 5
+Auto Quiz - Science 🧠
+Q: What year did Australia become a federation?
+A: 1901
