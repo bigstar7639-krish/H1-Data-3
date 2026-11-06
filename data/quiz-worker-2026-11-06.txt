@@ -157,3 +157,6 @@ A: Bull
 Auto Quiz - Space 🧠
 Q: In &quot;Little Women&quot;, which of the March sisters married Laurie?
 A: Amy
+Auto Quiz - Story 🧠
+Q: Which of these is NOT a Disney cartoon character?
+A: Daffy Duck
