@@ -250,3 +250,6 @@ A: Rhode Island
 Auto Quiz - Marriage 🧠
 Q: Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?
 A: Johnny Depp
+Auto Quiz - Family 🧠
+Q: The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?
+A: Fairies
