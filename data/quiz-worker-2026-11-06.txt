@@ -19,3 +19,6 @@ A: 10
 Auto Quiz - Nature 🧠
 Q: How many federal states does Germany have?
 A: 16
+Auto Quiz - Cat 🧠
+Q: What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?
+A: Swiss Air
