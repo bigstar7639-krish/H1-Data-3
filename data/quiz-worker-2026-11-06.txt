@@ -343,3 +343,6 @@ A: Bread
 Auto Quiz - Philosophy 🧠
 Q: Where did the Great Storm of 1987 make landfall at, first?
 A: Cornwall
+Auto Quiz - Economics 🧠
+Q: In the alternate timeline in Mortal Kombat, which character was the one to slaughter the Shirai Ryu clan?
+A: Quan Chi
