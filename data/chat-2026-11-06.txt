@@ -1207,3 +1207,4 @@ Oru chinna village la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aa
 Talk 492 - Bible pathi pesalama? Sollu! 💬
 Talk 493 - Newton pathi pesalama? Sollu! 💬
 Talk 494 - God pathi pesalama? Sollu! 💬
+Quote 495 - Daily try pannu - Jeyichiduva! - Aira
