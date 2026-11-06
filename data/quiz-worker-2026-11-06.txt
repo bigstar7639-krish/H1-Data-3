@@ -175,3 +175,6 @@ A: Michelangelo
 Auto Quiz - River 🧠
 Q: In what year was the game &quot;FTL: Faster Than Light&quot; released?
 A: 2012
+Auto Quiz - Sky 🧠
+Q: Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
+A: Cheetah
