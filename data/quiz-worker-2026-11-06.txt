@@ -304,3 +304,6 @@ A: Solid Snake
 Auto Quiz - City 🧠
 Q: In Mulan (1998), who is the leader of the Huns?
 A: Shan Yu
+Auto Quiz - Chennai 🧠
+Q: What year did the Boxing Day earthquake &amp; tsunami occur in the Indian Ocean?
+A: 2004
