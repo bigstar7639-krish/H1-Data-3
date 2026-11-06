@@ -1,6 +1,3 @@
-A: Shepard - Entertainment: Video Games
-Knowledge Quiz 🧠
-Q: Who was the guitarist in the band &quot;The Doors&quot;?
 A: Robby Krieger - Entertainment: Music
 Knowledge Quiz 🧠
 Q: How many studio albums have the duo Daft Punk released?
@@ -1998,3 +1995,6 @@ Knowledge 466 - Money - Hey buddy! 😄  **Money**‑ஐப் பற்றி�
 Knowledge Quiz 🧠
 Q: The killer in the 1981 film &#039;My Bloody Valentine&#039; wears what sort of outfit?
 A: Mining gear - Entertainment: Film
+Knowledge Quiz 🧠
+Q: Which actress&#039;s real name was Frances Ethel Gumm?
+A: Judy Garland - Celebrities
