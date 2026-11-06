@@ -292,3 +292,6 @@ A: Aragon
 Auto Quiz - Destiny 🧠
 Q: In Shakespeare&#039;s play Julius Caesar, Caesar&#039;s last words were...
 A: Et tu, Brute? 
+Auto Quiz - Karma 🧠
+Q: Which of the following Grand Slam tennis tournaments occurs LAST?
+A: US Open
