@@ -205,3 +205,6 @@ A: London
 Auto Quiz - Business 🧠
 Q: Which of the following is not the name of a &quot;Bond Girl&quot;? 
 A: Vanessa Kensington
+Auto Quiz - Money 🧠
+Q: Before &quot;Jurassic Park III&quot; was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?
+A: Baryonyx
