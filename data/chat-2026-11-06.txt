@@ -1550,3 +1550,18 @@ Vocab 12 - Peace = Amaithi 📚
 Movie 13 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Vocab 14 - Friend = Nanban 📚
 Health 15 - Health Tip: Daily 8 glass water kudinga! 💧 💪
+Knowledge 16 - Black Hole - **Hey buddy! 🌌 Let’s talk about Black Holes – or as we say in Tamil‑Tanglish, “Black Hole-களைப் பற்றி சுருக்கமாக சொல்றேன்”.**  
+
+---
+
+## 1. Black Hole‑என்ன?  
+- **Definition:** Space‑ல ஒரு region, அங்கு gravity super‑strong ஆகி, even light‑யும் escape ஆக முடியாது.  
+- **அதிகம்:** “event horizon” எனப்படும் boundary‑க்கு அப்புறம், எதுவும் (light, matter, info) பின் திரும்ப வர மாட்டாது.
+
+## 2. எப்படி உருவாகும்?  
+1. **Massive Star’s Death**  
+   - ஒரு star (≈8‑30 times the Sun’s mass) nuclear fuel‑களை எரிச்சு, core‑இல் iron‑ஆகி, pressure‑கள் stop ஆகும்.  
+   - Core collapse → supernova explosion, அப்புறம் **core** ultra‑dense neutron star அல்லது **black hole** ஆகி விடும்.  
+
+2. **Direct Collapse**  
+   - Early universe‑ல், very massive gas clouds (≈10⁵‑10⁶ solar masses) directly collapse செய்
