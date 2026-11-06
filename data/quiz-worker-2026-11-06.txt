@@ -73,3 +73,6 @@ A: Three
 Auto Quiz - Nature 🧠
 Q: In &quot;Jurassic World&quot;, what is the name of the dinosaur that is a genetic hybrid?
 A: Indominus Rex
+Auto Quiz - Tamil 🧠
+Q: Which element has the chemical symbol &#039;Fe&#039;?
+A: Iron
