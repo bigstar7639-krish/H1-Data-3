@@ -328,3 +328,6 @@ A: Feliformia
 Auto Quiz - New York 🧠
 Q: Gouda cheese is from which European country?
 A: The Netherlands
+Auto Quiz - Egypt 🧠
+Q: What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?
+A: Hemocyanin
