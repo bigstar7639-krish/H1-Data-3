@@ -248,3 +248,6 @@ Mahabharata (மஹாபாரதம்) is **one of the two great Indian epics
 Knowledge Quiz 🧠
 Q: In the Lord of the Rings, who is the father of the dwarf Gimli?
 A: Gloin - Entertainment: Books
+Knowledge Quiz 🧠
+Q: In a normal distribution, 95% of the data lies within how many standard deviations of the mean?
+A: 2 - Science: Mathematics
