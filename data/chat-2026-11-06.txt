@@ -836,3 +836,4 @@ Fact 15 - Octopus ku 3 heart!
 Pazhamozhi 320 - Porumai - Perumai Tharum!
 Game 321 - Coin Toss - Ne Toss nu Sollu! 🎮
 Talk 322 - Climate pathi pesalama? Sollu! 💬
+Vocab 323 - Courage = Thairiyam 📚
