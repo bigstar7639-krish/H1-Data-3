@@ -1179,3 +1179,4 @@ Emotion Q 478 - sad?
 Aira: Paravalla! Aira irukka - Pesu! ❤️
 Smart Q 479 - Computer la eppadi jeyikkarathu?
 Talk 480 - Movie pathi pesalama? Sollu! 💬
+Movie 481 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
