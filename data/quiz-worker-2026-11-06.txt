@@ -118,3 +118,6 @@ A: Valentina Kerman
 Auto Quiz - River 🧠
 Q: In &quot;Magicka&quot;, which two elements are combined to cast the spell, &quot;Nullify&quot;?
 A: Arcane + Shield
+Auto Quiz - Sky 🧠
+Q: Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?
+A: Owen Hart
