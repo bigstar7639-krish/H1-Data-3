@@ -1769,3 +1769,5 @@ Game 45 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! ğŸ
 World Story 46
 Oru chinna oor la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Recipe 47 - Snacks - Potato + Masala - Crispy! ğŸ”
+Story 48
+Oru chinna london la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
