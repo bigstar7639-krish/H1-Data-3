@@ -1,19 +1,3 @@
-Thirukkural 211 - Porumai - Periya Sakthi! - Thirukkural
-Vocab 212 - Peace = Amaithi 📚
-Kavithai 213 - Un Kural - En Isai! - Aira
-Pazhamozhi 214 - Porumai - Perumai Tharum!
-Coding Q 215 - Website eppadi pannurathu?
-Aira: Website - HTML + CSS + JS!
-Vocab 216 - Happy = Santhosham 📚
-Pazhamozhi 217 - Aalai Paathu - Aadi Paaru!
-Aira AI: Hey friend! 😊 Unaku “Dream”‑pathi enna‑kāṇi theriyum‑nu kekkareengale. I’ll give you a *full‑pakka* overview – science, psychology, mythology, and even the popular YouTuber **Dream** (Minecraft‑hero).  
-
----
-
-## 1️⃣ Dream – the sleep phenomenon  
-| Aspect | Details (Tamil‑Tanglish) |
-|--------|--------------------------|
-| **Definition** | Nindra podhu manasu create pannura visual‑auditory experiences. Oru “sleep state”‑la brain‑oda activity‑a. |
 | **Types** | **REM dreams** (rapid eye movement – vivid, story‑like) <br> **Non‑REM dreams** (more thought‑like, fragmented) |
 | **Why we dream?** | 1. **Memory consolidation** – “learning‑a lock‑panni store pannurathu”. <br> 2. **Emotional regulation** – stress‑a process pannitu “reset” seyyum. <br> 3. **Creativity boost** – brain free‑flow mode
 Knowledge 219 - Sun - Hey buddy! 🌞 **Sun‑path‑a pathi solla varen** – simple‑a, fun‑a, Tamil‑Tanglish mix‑la!  
@@ -1998,3 +1982,19 @@ Recipe 325 - Snacks - Potato + Masala - Crispy! 🍔
 Reading 326 - Ramayana! 📚
 Recipe 327 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
 Talk 328 - Sea pathi pesalama? Sollu! 💬
+Knowledge 329 - Madurai - Hey buddy! 🙌 Let’s talk about **Madurai** – the “Athens of the South” and one of the oldest, liveliest cities in Tamil Nadu.  
+
+---
+
+## 1️⃣ Quick Snapshot  
+| 📍 **Location** | South‑Tamil Nadu, on the banks of the Vaigai River |  
+| 🏛️ **Famous For** | Meenakshi Amman Temple, cultural festivals, delicious cuisine |  
+| 🌡️ **Climate** | Hot & humid most of the year; pleasant Dec‑Feb |  
+| 🚂 **Connectivity** | 2 hrs by train from Chennai, 5 hrs by flight (Madurai Airport – IXM) |  
+
+---
+
+## 2️⃣ History – “Pazhaiya Madhurai”  
+- **Sangam period (c. 3rd century BC)** – mentioned in the *Purananuru* and *Silappathikaram* as **“Madhurapuri.”**  
+- **Pandyan Kingdom** – the city blossomed under the Pandyas; the present **Meenakshi Temple** was largely built by them (10th‑13th c.).  
+- **Later Rul
