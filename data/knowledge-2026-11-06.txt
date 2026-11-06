@@ -779,3 +779,19 @@ A: Time And Relative Dimensions In Space - Entertainment: Television
 Knowledge Quiz 🧠
 Q: What team did England beat in the semi-final stage to win in the 1966 World Cup final?
 A: Portugal - Sports
+Knowledge 440 - Internet - **Internet**‑ஐ பற்றி சொல்லப் போகிறேன், “Tanglish” style‑ல்! 😎
+
+---
+
+### 1️⃣ Internet என்ன?
+Internet = **World Wide Web (WWW)**-ன் பெரிய “network” ஆகும்.  
+- 1,000+ கோடி (billion) devices (phone, laptop, fridge, car)‑கள் ஒன்றோடொன்று **connected** ஆக இருக்குது.  
+- Data packets (சின்ன‑சின்ன தகவல் துண்டுகள்) internet backbone‑இல் (undersea cables, satellite, fiber optics) பறந்து, destination‑க்கு வந்துபோகுது.
+
+### 2️⃣ History in short
+- **1960s**: ARPANET (US defence) → “first packet‑switching network”.  
+- **1980s**: TCP/IP protocol (1970‑களில் Vint Cerf, Bob Kahn) became standard → “Internet” term officially used.  
+- **1990**: Tim Berners‑Lee created **World Wide Web** (HTML, HTTP).  
+- **1995‑2000s**: Commercial ISPs, browsers (Netscape, IE) → “Internet boom”.  
+
+### 3️⃣ How it works (sim
