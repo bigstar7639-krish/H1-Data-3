@@ -1272,3 +1272,19 @@ A: Subject Object Verb - General Knowledge
 Knowledge Quiz 🧠
 Q: What is the name of the company in Lethal Company?
 A: The Company - General Knowledge
+Knowledge 18 - Maths - Hey buddy! 🙌 Maths‑a pathi solren – *oru magic world* la math eppadi ellam irukku nu namma kaṇakkuḍa!  
+
+---
+
+### 1️⃣ What is Maths?  
+Maths (மாத்தெமாடிக்ஸ்) is **the language of patterns**.  Numbers, shapes, changes, and relationships—ellām intha language‑la describe pannuvom.  It’s not just “1 + 1 = 2”, aḍa *thinking tool* for solving real‑life puzzles and for building technology.
+
+---
+
+### 2️⃣ Main Branches (சிறு‑சிறு categories)
+
+| Branch | What it deals with | Everyday example |
+|--------|-------------------|------------------|
+| **Arithmetic** (அரித்மெடிக்) | Basic operations – addition, subtraction, multiplication, division | Shopping bill, cooking recipes |
+| **Algebra** (அல்ஜெப்ரா) | Variables & equations (x, y) – solving unknowns | Mobile data plan cost calculation |
+| **Geometry
