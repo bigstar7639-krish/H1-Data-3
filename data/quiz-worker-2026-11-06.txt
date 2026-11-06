@@ -103,3 +103,6 @@ A: Anatolia
 Auto Quiz - Music 🧠
 Q: Which of these songs by Skrillex features Fatman Scoop as a side artist?
 A: Recess
+Auto Quiz - Movie 🧠
+Q: Which of the following nations was NOT a belligerent in World War I?
+A: Denmark
