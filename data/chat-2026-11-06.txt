@@ -304,3 +304,4 @@ Vocab 88 - Friend = Nanban 📚
 Q 89 - Unakku Friendship pathi enna theriyum?
 Vocab 90 - Friend = Nanban 📚
 Smart Q 91 - Law la eppadi jeyikkarathu?
+Quote 92 - Daily try pannu - Jeyichiduva! - Aira
