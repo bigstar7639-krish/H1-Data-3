@@ -8,3 +8,4 @@ Game 162 - Coin Toss - Ne Toss nu Sollu! 🎮
 Game 230 - Dice - Ne Dice nu Sollu! 🎮
 Game 237 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Game 249 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
+Game 263 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
