@@ -1888,3 +1888,6 @@ A: 1 4 6 4 1 - Science: Mathematics
 Knowledge Quiz 🧠
 Q: Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?
 A: Chile - Politics
+Knowledge Quiz 🧠
+Q: Which Doom Patrol member was a later addition, first appearing in 1989?
+A: Crazy Jane - Entertainment: Comics
