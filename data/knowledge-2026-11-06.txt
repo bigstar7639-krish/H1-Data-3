@@ -1,6 +1,3 @@
-A: Robby Krieger - Entertainment: Music
-Knowledge Quiz 🧠
-Q: How many studio albums have the duo Daft Punk released?
 A: 4 - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?
@@ -1998,3 +1995,6 @@ A: Mining gear - Entertainment: Film
 Knowledge Quiz 🧠
 Q: Which actress&#039;s real name was Frances Ethel Gumm?
 A: Judy Garland - Celebrities
+Knowledge Quiz 🧠
+Q: In Les Mis&eacute;rables, who is Prison Code 24601?
+A: Jean Valjean - Entertainment: Musicals &amp; Theatres
