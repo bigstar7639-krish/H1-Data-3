@@ -51,3 +51,4 @@ Game 284 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
 Game 307 - Coin Toss - Ne Toss nu Sollu! 🎮
 Game 321 - Dice - Ne Dice nu Sollu! 🎮
 Game 346 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
+Game 350 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
