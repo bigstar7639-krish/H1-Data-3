@@ -770,3 +770,6 @@ A: Blondie - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Which Greek god was the god of the Sun?
 A: Helios - History
+Knowledge Quiz 🧠
+Q: Which company is the one responsible for creating the strategy videogame Stellaris?
+A: Paradox Development Studio - Entertainment: Video Games
