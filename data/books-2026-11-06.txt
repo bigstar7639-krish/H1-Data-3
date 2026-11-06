@@ -61,3 +61,4 @@ hin - in.gov.bih.gazette.2015-10-01.1110 - Bihar Gazette, 2015-10-01, Extra Ordi
 tel - in.gazette.andhra_extraordinary.2026-09-29.760 - Andhra Pradesh Extraordinary Gazette, 2026-09-29, Extraordinary, Part II, Number 760
 kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazette, 2022-03-14, Extra Ordinary, Part III
 kan - in.gazette.karnataka_eo.2020-08-06.174 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
+kan - in.gazette.karnataka_eo.2020-06-24.UDD05MLR2018 - Karnataka ExtraOrdinary Gazette, 2020-06-24, Extra Ordinary, Part III
