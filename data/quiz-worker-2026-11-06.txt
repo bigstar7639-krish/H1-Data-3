@@ -172,3 +172,6 @@ A: Mystic Mansion
 Auto Quiz - Sea 🧠
 Q: Townsend Coleman provided the voice for which turtle in the original 1987 series of &quot;Teenage Mutant Ninja Turtles&quot;?
 A: Michelangelo
+Auto Quiz - River 🧠
+Q: In what year was the game &quot;FTL: Faster Than Light&quot; released?
+A: 2012
