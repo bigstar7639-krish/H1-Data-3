@@ -1521,3 +1521,6 @@ Knowledge 44 - Brain - Hey buddy! 🧠 **Brain** pathi solrathu enna na, idhu na
 Knowledge Quiz 🧠
 Q: Eritrea, which became the 182nd member of the UN in 1993, is in the continent of?
 A: Africa - Geography
+Knowledge Quiz 🧠
+Q: Unix Time is defined as the number of seconds that have elapsed since when?
+A: Midnight, January 1, 1970 - Science: Computers
