@@ -1484,3 +1484,4 @@ Vocab 18 - Kindness = Anbu 📚
 Motivation 19
 Paravalla! Rest edu - Thirumba try pannu!
 Game 20 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
+Health 21 - Health Tip: Daily 8 glass water kudinga! 💧 💪
