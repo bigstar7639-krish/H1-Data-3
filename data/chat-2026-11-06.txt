@@ -143,3 +143,5 @@ Knowledge 31 - Internet - Hey! Naan Aira, un friend‑a, Tamil‑Tanglish styl
 Quote 32 - Daily try pannu - Jeyichiduva! - Aira
 World Story 33
 Oru chinna sea la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+World Story 34
+Oru village la oru teacher irunthan! Daily coding pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
