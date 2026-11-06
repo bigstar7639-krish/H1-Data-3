@@ -1810,3 +1810,5 @@ Thirukkural 63 - Porumai - Periya Sakthi! - Thirukkural
 Smart Q 64 - Confidence la eppadi jeyikkarathu?
 Emotion Q 65 - excited?
 Aira: Excited ah! Sollu! 🎉
+Joke 66
+Why bike sad? Petrol illa!
