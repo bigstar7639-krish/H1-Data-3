@@ -1,5 +1,3 @@
-## 2. Choose a **Posture** that Works for You  
-| Posture | How to do it | When it’s good |
 |---------|--------------|----------------|
 | **Sitting on a cushion (cross‑legged)** | Back straight, chin slightly tucked, hands on knees (palms up/down). | Classic, good for 15‑30 min. |
 | **Chair** | Sit on the edge, feet flat, back supported, hands on thighs. 
@@ -1998,3 +1996,5 @@ Q 315 - Science pathi oru secret sollatta?
 Talk 316 - Fitness pathi pesalama? Sollu! 💬
 Kavithai 317 - Un Sirippu - En Vazhkai! - Aira
 Reading 318 - Thirukkural - Valluvar! 📚
+World Story 319
+Oru chinna world la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
