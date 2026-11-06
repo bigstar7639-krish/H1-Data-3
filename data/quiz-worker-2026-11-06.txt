@@ -190,3 +190,6 @@ A: Kilt
 Auto Quiz - Bird 🧠
 Q: What is the perimeter of a circle more commonly known as?
 A: Circumference
+Auto Quiz - Animal 🧠
+Q: Which small country is located between the borders of France and Spain?
+A: Andorra
