@@ -85,3 +85,6 @@ A: A
 Auto Quiz - Cat 🧠
 Q: What are the Three Virtues of Bionicle?
 A: Unity, Duty, Destiny
+Auto Quiz - Dog 🧠
+Q: What is the longest river in Europe?
+A: Volga
