@@ -100,3 +100,6 @@ A: F&ouml;nster
 Auto Quiz - Health 🧠
 Q: The land mass of modern day Turkey is called what?
 A: Anatolia
+Auto Quiz - Music 🧠
+Q: Which of these songs by Skrillex features Fatman Scoop as a side artist?
+A: Recess
