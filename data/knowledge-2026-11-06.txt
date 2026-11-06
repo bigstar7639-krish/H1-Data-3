@@ -251,3 +251,6 @@ A: Gloin - Entertainment: Books
 Knowledge Quiz 🧠
 Q: In a normal distribution, 95% of the data lies within how many standard deviations of the mean?
 A: 2 - Science: Mathematics
+Knowledge Quiz 🧠
+Q: Which group performs the song &quot;Crash into Me&quot;?
+A: Dave Matthews Band - Entertainment: Music
