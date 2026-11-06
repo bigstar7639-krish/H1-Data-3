@@ -18,3 +18,19 @@ A: Samus Aran - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: In aeronautics, flaps and slats are used to control what on an aircraft?
 A: Lift - Science &amp; Nature
+Knowledge 7 - Physics - Hey buddy! Physics-ஐ பற்றி கொஞ்சம் சொல்லலாமா? 😊  
+
+**Physics** என்பது *nature*‑ன் அடிப்படை விதிகளை (laws) படிக்கிற science. இது “matter”, “energy”, “space”, “time” எல்லாவற்றையும் புரிந்துகொள்ள உதவுகிறது. சில முக்கிய பாகங்களைக் கொஞ்சம் breakdown பண்ணி பார்ப்போம்:
+
+---
+
+### 1️⃣ Classical Mechanics (பழைய இயற்பியல்)
+- **Newton’s Laws** –  
+  1️⃣ *Inertia* (இயல்பாக ஓய்வு/நிலையாக இருக்கும் tendency).  
+  2️⃣ *F = ma* – Force = mass × acceleration.  
+  3️⃣ Action‑reaction = “ஒவ்வொரு action-க்கும் equal & opposite reaction”.
+- **Kinematics** – position, velocity, acceleration‑ஐ graphs‑ல் plot பண்ணி motion-ஐ describe பண்ணுவோம்.  
+- **Energy** – Kinetic (½mv²) + Potential (mgh) = **Conservation of Energy**.
+
+### 2️⃣ Electromagnetism (மின்காந்தம்)
+- **Maxwell’s Equations** – electricity, magnetism இர
