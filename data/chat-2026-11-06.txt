@@ -1,4 +1,3 @@
-Game 321 - Coin Toss - Ne Toss nu Sollu! 🎮
 Talk 322 - Climate pathi pesalama? Sollu! 💬
 Vocab 323 - Courage = Thairiyam 📚
 Talk 324 - India pathi pesalama? Sollu! 💬
@@ -1998,3 +1997,4 @@ Reading 403 - Atomic Habits! 📚
 Smart Q 404 - YouTube la eppadi jeyikkarathu?
 Coding Q 405 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Thirukkural 406 - Anbu - Ellam Tharum! - Thirukkural
