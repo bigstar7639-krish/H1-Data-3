@@ -265,3 +265,6 @@ A: Medic
 Auto Quiz - Success 🧠
 Q: Which song is not by TheFatRat?
 A: Ascent
+Auto Quiz - Motivation 🧠
+Q: The 2010 song &quot;Eenie Meenie&quot; was a collaboration between which two popular artists?
+A: Sean Kingston &amp; Justin Bieber
