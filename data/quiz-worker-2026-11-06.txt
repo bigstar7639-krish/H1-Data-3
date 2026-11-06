@@ -280,3 +280,6 @@ A: Mike
 Auto Quiz - Wisdom 🧠
 Q: In computing, how many bits are in a nibble?
 A: 4
+Auto Quiz - Power 🧠
+Q: In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?
+A: Delirium
