@@ -1767,3 +1767,6 @@ A: Boeing 747-8 - Vehicles
 Knowledge Quiz 🧠
 Q: In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?
 A: 90 - Science: Mathematics
+Knowledge Quiz 🧠
+Q: Who wrote the Sinead O`Connor hit &#039;Nothing Compares 2 U&#039;?
+A: Prince - Entertainment: Music
