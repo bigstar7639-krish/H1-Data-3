@@ -535,3 +535,5 @@ Aira AI: Hey buddy! 😄
 | **Portability** | “Write once, run everywhere” – just like a **முட்டை** (egg) that works in any kitchen. | The JVM (Java Virtual Machine) abstracts the OS, so the same `.class` files run on Windows, Linux, macOS, Android, etc. |
 | **Ecosystem** | A massive **மெட்ட்ரோ** (metro) of libraries, frameworks, and tools: Spring, Hibernate, Maven, Gradle, Android SDK… | Whateve
 Reading 187 - Think and Grow Rich! 📚
+Emotion Q 188 - fear?
+Aira: Bayam - Normal! Ne jeyichiduva! 💪
