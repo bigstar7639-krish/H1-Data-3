@@ -1608,3 +1608,5 @@ Oru village la oru singer irunthan! Daily travel pannan pannan! Oru naal magic k
 Talk 37 - Excited pathi pesalama? Sollu! 💬
 Knowledge 38 - Brain - AI - Data paathu - Pattern!
 Fact 1 - Honey - 3000 varusham kedathu!
+Coding Q 40 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
