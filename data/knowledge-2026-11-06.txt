@@ -1224,3 +1224,6 @@ A: Nose - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: How many voice channels does the Nintendo Entertainment System support natively?
 A: 5 - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What was the name of the first Bulgarian personal computer?
+A: IMKO-1 - Science: Computers
