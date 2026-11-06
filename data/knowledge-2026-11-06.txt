@@ -1,6 +1,3 @@
-A: 4 - Entertainment: Music
-Knowledge Quiz 🧠
-Q: Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?
 A: Zambia &amp; Zimbabwe - Geography
 Knowledge Quiz 🧠
 Q: What country hosted the 2014 Winter Olympics?
@@ -1998,3 +1995,6 @@ A: Judy Garland - Celebrities
 Knowledge Quiz 🧠
 Q: In Les Mis&eacute;rables, who is Prison Code 24601?
 A: Jean Valjean - Entertainment: Musicals &amp; Theatres
+Knowledge Quiz 🧠
+Q: What is the real name of Canadian electronic music producer deadmau5?
+A: Joel Zimmerman - Entertainment: Music
