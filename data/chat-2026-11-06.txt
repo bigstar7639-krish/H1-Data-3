@@ -1178,3 +1178,4 @@ Thirukkural 477 - Anbu - Ellam Tharum! - Thirukkural
 Emotion Q 478 - sad?
 Aira: Paravalla! Aira irukka - Pesu! ❤️
 Smart Q 479 - Computer la eppadi jeyikkarathu?
+Talk 480 - Movie pathi pesalama? Sollu! 💬
