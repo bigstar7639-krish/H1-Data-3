@@ -1,4 +1,3 @@
-Q 129 - Un life la Chemistry eppadi irukku?
 Coding Q 130 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Quote 131 - Daily try pannu - Jeyichiduva! - Aira
@@ -1998,3 +1997,4 @@ Oru chinna chennai la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aa
 Talk 204 - Eiffel Tower pathi pesalama? Sollu! 💬
 Talk 205 - Tokyo pathi pesalama? Sollu! 💬
 Recipe 206 - Cake - Maida + Sugar + Egg + 30 min! 🍔
+Q 207 - Ne Physics la eppadi improve panna mudiyum?
