@@ -1363,3 +1363,6 @@ A: Ohms - Science: Gadgets
 Knowledge Quiz 🧠
 Q: In programming, the ternary operator is mostly defined with what symbol(s)?
 A: ?: - Science: Computers
+Knowledge Quiz 🧠
+Q: What is the name of the Boeing B-29 that dropped the &#039;Little Boy&#039; atomic bomb on Hiroshima?
+A: Enola Gay - History
