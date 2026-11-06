@@ -1,6 +1,3 @@
-| **Food** | பல்வேறு fruit, veg, grain உங்களுக்கு nutrition give செய்கிறது | 🍎 Apple tree, 🌾 Wheat |
-| **Medicine** | Many herbs have healing properties | 🌿 Tulsi, 🌱 Aloe vera |
-| **Habitat** | Animals‑க்கு shelter, food source | 🐦 Bird‑nesting trees |
 | **Climate control** | Carbon capture, soil protection | 🌲 Forests |
 
 ---
@@ -1998,3 +1995,6 @@ A: Elbow - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: In baseball, how many fouls are an out?
 A: 0 - Sports
+Knowledge Quiz 🧠
+Q: In Psychology, which need appears highest in the &quot;Maslow&#039;s hierarchy of needs&quot; pyramid?
+A: Esteem - Science &amp; Nature
