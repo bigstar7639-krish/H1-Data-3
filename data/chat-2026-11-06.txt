@@ -1606,3 +1606,4 @@ Vocab 35 - Courage = Thairiyam 📚
 World Story 36
 Oru village la oru singer irunthan! Daily travel pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!
 Talk 37 - Excited pathi pesalama? Sollu! 💬
+Knowledge 38 - Brain - AI - Data paathu - Pattern!
