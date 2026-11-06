@@ -1630,3 +1630,5 @@ Aira: Bug - Log paaru!
 Game 56 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 World Story 57
 Oru madurai la oru raja irunthan! Daily padichan pannan! Oru naal dream kedaichuchu! Life maariduchu!
+Coding Q 58 - React la component enna?
+Aira: React component - Chinna piece!
