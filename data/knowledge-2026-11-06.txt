@@ -1,6 +1,3 @@
-## 2️⃣ பணிப் பயணம் – Career Highlights  
-
-| Year | Position / Achievement | Key Points |
 |------|------------------------|------------|
 | **1969** | DRDO‑இல் **Defence R
 Knowledge Quiz 🧠
@@ -1998,3 +1995,6 @@ A: Anglesey - Geography
 Knowledge Quiz 🧠
 Q: What was the name of the first permanent English settlement in America?
 A: Jamestown - History
+Knowledge Quiz 🧠
+Q: What language does Node.js use?
+A: JavaScript - Science: Computers
