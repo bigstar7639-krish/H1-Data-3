@@ -1,6 +1,3 @@
-Q: On what date did the original &quot;Fruits Basket&quot; anime air in Japan?
-A: July 5th, 2001 - Entertainment: Japanese Anime &amp; Manga
-Knowledge Quiz 🧠
 Q: Where does &quot;Gasolina&quot; rapper Daddy Yankee originate from?
 A: Puerto Rico - Entertainment: Music
 Knowledge Quiz 🧠
@@ -1998,3 +1995,6 @@ A: Rito - Entertainment: Japanese Anime &amp; Manga
 Knowledge Quiz 🧠
 Q: What video game company developed the 2004 racing game &quot;Burnout 3: Takedown&quot;?
 A: Criterion Games - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: CMOS is tech used for constructing integrated circuits. What does CMOS stand for?
+A: Complementary metal&ndash;oxide&ndash;semiconductor - Science: Computers
