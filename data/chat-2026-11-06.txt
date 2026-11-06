@@ -1,4 +1,3 @@
-
 > “அறிந்தவன் வானில் பயணம் செய்யும்,  
 >  அறிவின் ஒளி அவன் வழி காட்டும்.”  
 
@@ -1998,3 +1997,4 @@ World Story 359
 Oru madurai la oru teacher irunthan! Daily pray pannaan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
 Talk 360 - Money pathi pesalama? Sollu! 💬
 Reading 361 - Bharathiyar Kavithaigal! 📚
+Movie 362 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
