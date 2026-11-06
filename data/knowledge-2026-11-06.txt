@@ -1720,3 +1720,6 @@ A: Shout - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?
 A: Hunter S. Thompson - Entertainment: Books
+Knowledge Quiz 🧠
+Q: What company developed the vocaloid Hatsune Miku?
+A: Crypton Future Media - General Knowledge
