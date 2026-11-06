@@ -1,4 +1,3 @@
-**Kuppi** (excitedly): “Hey Anbu! நீயா இங்கு என்ன செய்ய வந்தா?”  
 **Anbu** (smiling): “நான் என் மக்களை (my herd) guide பண்ணப் போகிறேன், but there’s a problem. The river that gives us water has become **blocked** by a big rock.”
 
 All the animals gat
@@ -1998,3 +1997,4 @@ Pazhamozhi 138 - Sontha Kaal la Ninnu - Jeyippa!
 Reading 139 - Python Crash Course! 📚
 Emotion Q 140 - happy?
 Aira: Super! Happy ah irukka! 😊
+Talk 141 - Angry pathi pesalama? Sollu! 💬
