@@ -1527,3 +1527,6 @@ A: Midnight, January 1, 1970 - Science: Computers
 Knowledge Quiz 🧠
 Q: Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?
 A: &quot;A rainy Lithuanian / Is dancing as an Indian&quot; - Entertainment: Music
+Knowledge Quiz 🧠
+Q: What is not a default game mode in Counter-Strike (2000)?
+A: Arms Race - Entertainment: Video Games
