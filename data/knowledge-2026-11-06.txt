@@ -1,6 +1,3 @@
-Q: Laserjet and inkjet printers are both examples of what type of printer?
-A: Non-impact printer - Science: Computers
-Knowledge Quiz 🧠
 Q: By how many minutes are you late to work in &quot;Half-Life&quot;?
 A: 30 - Entertainment: Video Games
 Knowledge Quiz 🧠
@@ -1998,3 +1995,6 @@ A: JavaScript - Science: Computers
 Knowledge Quiz 🧠
 Q: Which of these is not a world in the anime &quot;Buddyfight&quot;?
 A: Ancient Dragon World - Entertainment: Japanese Anime &amp; Manga
+Knowledge Quiz 🧠
+Q: What is the capital of Ecuador?
+A: Quito - Geography
