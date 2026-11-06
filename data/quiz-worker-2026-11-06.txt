@@ -94,3 +94,6 @@ A: Swiss Air
 Auto Quiz - Cricket 🧠
 Q: What is the atomic number of Uranium 
 A: 92
+Auto Quiz - Space 🧠
+Q: What is the Swedish word for &quot;window&quot;?
+A: F&ouml;nster
