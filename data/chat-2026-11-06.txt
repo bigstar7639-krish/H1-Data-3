@@ -780,3 +780,5 @@ Knowledge 285 - Movie - Hey buddy! 🎬
 | **Late 1800s** | First moving‑image experiments – Eadweard Muybridge, Lumière brothers (1895) | *Workers Leaving the Lumière Fa
 Coding Q 286 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+World Story 287
+Oru chinna village la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
