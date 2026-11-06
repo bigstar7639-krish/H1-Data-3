@@ -1708,3 +1708,6 @@ A: Norway - Geography
 Knowledge Quiz 🧠
 Q: The medial meniscus forms which part of what joint in the human body?
 A: Knee - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: Who is the original author of the realtime physics engine called PhysX?
+A: NovodeX - Science: Computers
