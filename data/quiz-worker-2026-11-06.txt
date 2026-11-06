@@ -238,3 +238,6 @@ A: 5
 Auto Quiz - Science 🧠
 Q: What year did Australia become a federation?
 A: 1901
+Auto Quiz - History 🧠
+Q: What color is the iconic arcade character Q*Bert?
+A: Orange
