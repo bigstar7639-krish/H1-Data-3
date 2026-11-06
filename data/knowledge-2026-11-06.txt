@@ -1764,3 +1764,6 @@ A: Pie - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Which of the following passenger jets is the longest?
 A: Boeing 747-8 - Vehicles
+Knowledge Quiz 🧠
+Q: In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?
+A: 90 - Science: Mathematics
