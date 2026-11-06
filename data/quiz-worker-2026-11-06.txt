@@ -295,3 +295,6 @@ A: Et tu, Brute?
 Auto Quiz - Karma 🧠
 Q: Which of the following Grand Slam tennis tournaments occurs LAST?
 A: US Open
+Auto Quiz - Rain 🧠
+Q: What does CPU stand for?
+A: Central Processing Unit
