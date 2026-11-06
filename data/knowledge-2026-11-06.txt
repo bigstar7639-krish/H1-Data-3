@@ -1,6 +1,3 @@
-A: Mexico - Sports
-Knowledge Quiz 🧠
-Q: Which of these automotive brands originated in Sweden?
 A: Volvo - Vehicles
 Knowledge Quiz 🧠
 Q: Toussaint Louverture led a successful slave revolt in which country?
@@ -1998,3 +1995,6 @@ A: Jonathan Demme - Entertainment: Film
 Knowledge Quiz 🧠
 Q: Which UK country features a dragon on their flag?
 A: Wales - Geography
+Knowledge Quiz 🧠
+Q: In &quot;Love Live: School Idol Project&quot; what pseudonym does Kotori Minami use in her job as a maid?
+A: Minalinsky - Entertainment: Japanese Anime &amp; Manga
