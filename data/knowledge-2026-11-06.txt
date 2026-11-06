@@ -977,3 +977,4 @@ A: Breakout/Arkanoid - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What is the atomic number of Uranium 
 A: 92 - Science &amp; Nature
+Knowledge 39 - Python - Python loop: `for i in range(5): print(i)`
