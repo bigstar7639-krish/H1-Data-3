@@ -1,6 +1,3 @@
-Q: Which country does the power metal band &quot;Sabaton&quot; originate from?
-A: Sweden - Entertainment: Music
-Knowledge Quiz 🧠
 Q: Which WWII tank ace is credited with having destroyed the most tanks?
 A: Kurt Knispel - History
 Knowledge Quiz 🧠
@@ -1998,3 +1995,6 @@ A: Skyfall - Entertainment: Film
 Knowledge Quiz 🧠
 Q: At what temperature does water boil?
 A: 212&deg;F - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: What is isobutylphenylpropanoic acid more commonly known as?
+A: Ibuprofen - Science &amp; Nature
