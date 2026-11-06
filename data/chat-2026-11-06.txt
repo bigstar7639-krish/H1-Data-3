@@ -745,3 +745,4 @@ Kavithai 269 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Recipe 270 - Snacks - Potato + Masala - Crispy! 🍔
 Fact 14 - Honey - 3000 varusham kedathu!
 Business Idea 272 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Vocab 273 - Peace = Amaithi 📚
