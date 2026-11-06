@@ -184,3 +184,6 @@ A: Magritte
 Auto Quiz - Moon 🧠
 Q: Which of these operators from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; has the ability to damage reinforced walls?
 A: Jordan &quot;Thermite&quot; Trace
+Auto Quiz - Sun 🧠
+Q: Which item of clothing is usually worn by a Scotsman at a wedding?
+A: Kilt
