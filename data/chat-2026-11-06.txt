@@ -1,4 +1,3 @@
-Coding Q 146 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Thirukkural 147 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Fact 4 - Octopus ku 3 heart!
@@ -1998,3 +1997,4 @@ Movie 228 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Movie 229 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Smart Q 230 - Yoga la eppadi jeyikkarathu?
 Health 231 - Health Tip: Daily 30 min walk ponga! 🚶 💪
+Q 232 - Internet pathi oru story kekkura?
