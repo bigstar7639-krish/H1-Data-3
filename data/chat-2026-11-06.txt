@@ -984,3 +984,5 @@ Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Kavithai 395 - Un Kural - En Isai! - Aira
 Pazhamozhi 396 - Porumai - Perumai Tharum!
 Reading 397 - Atomic Habits! 📚
+Joke 398
+Teacher: Yen late? Student: School Ahead board! 😂
