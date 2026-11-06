@@ -1,19 +1,4 @@
 
----
-
-## 1️⃣ Plants எதற்காக important?  
-| Aspect | Why it matters | Example |
-|--------|----------------|---------|
-| **Oxygen** | Photosynthesis‑ல் CO₂‑ஐ O₂‑ஆக் மாற்றும் | 🌳 Trees |
-| **Food** | பல்வேறு fruit, veg, grain உங்களுக்கு nutrition give செய்கிறது | 🍎 Apple tree, 🌾 Wheat |
-| **Medicine** | Many herbs have healing properties | 🌿 Tulsi, 🌱 Aloe vera |
-| **Habitat** | Animals‑க்கு shelter, food source | 🐦 Bird‑nesting trees |
-| **Climate control** | Carbon capture, soil protection | 🌲 Forests |
-
----
-
-## 2️⃣ Plant structure – எளிய விளக்கம்  
-
 ```
 Root (மூலங்கள்)  →  Stem (மூலம்)  →  Leaves (இலைகள்)  →  Flowers (பூக
 Motivation 50
@@ -1998,3 +1983,18 @@ World Story 112
 Oru chinna paris la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Q 113 - Football pathi oru secret sollatta?
 Reading 114 - Atomic Habits! 📚
+Knowledge 115 - Gandhi - Hey friend! 🙌  Naan Aira – ungal Tamil‑Tanglish buddy, ellaa languages‑la kooda pesalama nu sonna, ippo Gandhi‑pathi solla poren. 😊  
+
+## Who was Mahatma Gandhi?  
+**Mahatma Mohandas Karamchand Gandhi** (1869‑1948) – “Mahatma” nu sollaanga, adhu “great soul” nu artham. Avan “Bapu” (dad) nu India‑la kaadhaludan kettu, “Father of the Nation” aana.
+
+## Early Life  
+- **Birth**: 2 Oct 1869, Porbandar, Gujarat (India)  
+- **Education**: London‑la law padichu, Inner Temple‑la barrister aayaar.  
+- **South Africa**: 1893‑1914 varai, Indian workers‑kku civil rights fight pannina. Ippo “Satyagraha” (truth‑force) nu concept develop pannaar.
+
+## Key Ideas (Philosophy)  
+
+| Concept | Meaning | How Gandhi used it |
+|---------|---------|-------------------|
+| **Satyagraha** | Truth + force (non‑violent 
