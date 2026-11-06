@@ -1632,3 +1632,5 @@ World Story 57
 Oru madurai la oru raja irunthan! Daily padichan pannan! Oru naal dream kedaichuchu! Life maariduchu!
 Coding Q 58 - React la component enna?
 Aira: React component - Chinna piece!
+World Story 59
+Oru chinna city la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
