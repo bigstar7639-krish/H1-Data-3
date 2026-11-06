@@ -1,18 +1,3 @@
-
----
-
-## 1️⃣ What is Mahabharata?  
-Mahabharata (மஹாபாரதம்) is **one of the two great Indian epics** (the other is Ramayana). It’s **around 100,000 shlokas** (≈ 1.8 M words) – literally **“the longest poem in the world.”** It was composed by **Vyasa (வியாசர்)** around 400 BCE‑200 CE, and it’s not just a story – it’s a **philosophical guide, a history, a drama, a dharma‑shastra, and a spiritual handbook** all rolled into one.
-
----
-
-## 2️⃣ Main Plot – “Kuru‑vaadu”  
-
-| Part | What Happens | Key Characters |
-|------|--------------|----------------|
-| **Kuru dynasty’s origin** | King **Shantanu** falls in love with **Ganga** (who later gives birth to **Bhishma**). Later he marries *
-Knowledge Quiz 🧠
-Q: In the Lord of the Rings, who is the father of the dwarf Gimli?
 A: Gloin - Entertainment: Books
 Knowledge Quiz 🧠
 Q: In a normal distribution, 95% of the data lies within how many standard deviations of the mean?
@@ -1998,3 +1983,18 @@ A: Purple - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What country did Shirley Bassey originate from?
 A: Wales - Entertainment: Music
+Knowledge 496 - Ponniyin Selvan - Hey friend! நிச்சயமாக "Ponniyin Selvan" பற்றி பேசலாமா? 🌟  
+
+**Ponniyin Selvan** (பொன்னியின் செல்வன்) என்பது கல்கி ராஜா எழுதிய ஒரு மாபெரும் வரலாற்று நாவல். இது 1950‑களில் *கலந்தமிழ்* பத்திரிகையில் 60‑க்கும் மேற்பட்ட serial installments‑ஆக வெளியிட்டது, பின்னர் 5 volumes‑ஆக (மொத்தம் ~2 மில்லியன் சொற்கள்) அச்சிடப்பட்டது.
+
+---
+
+## 📚 முக்கிய விவரங்கள்
+
+| விபரம் | விளக்கம் |
+|--------|----------|
+| **எழுத்தாளர்** | கல்கி ராஜா (R. K. Narayan) – தமிழ் இலக்கியத்தின் “கலா‑அதிபர்”. |
+| **வெளியீடு** | 1954‑1955 (serial), 1955‑1956 (book) |
+| **வகை** | வரலாற்று-கற்பனை, அரசியல், காதல், சாகசம் |
+| **சூழல்** | 10‑ஆம் நூற்றாண்டு (Chola imperial era), **Rajendra I** (Rajaraja I‑ன் மகன்) இன் ராஜ்யப் படை மற்றும் அரசியல் சதிகள். |
+| **மொத்த தொகுதி** | 5 books – *Pudhaiyal*, *Ulagam*, *Kundalakesi*, *Vijayalaksh
