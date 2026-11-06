@@ -1357,3 +1357,4 @@ Health 17 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Game 18 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Talk 19 - Tamil Culture pathi pesalama? Sollu! 💬
 Quote 20 - Daily try pannu - Jeyichiduva! - Aira
+Reading 21 - Python Crash Course! 📚
