@@ -145,3 +145,6 @@ A: 1991
 Auto Quiz - Nature 🧠
 Q: When did the last episode of &quot;Futurama&quot; air before returning in 2023?
 A: September 4, 2013
+Auto Quiz - Cat 🧠
+Q: How many zeros are there in a googol?
+A: 100
