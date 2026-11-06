@@ -1101,3 +1101,5 @@ Vocab 435 - Courage = Thairiyam 📚
 Emotion Q 436 - angry?
 Aira: Kovam ah? Deep breath edu! 😤
 Game 437 - Dice - Ne Dice nu Sollu! 🎮
+Joke 438
+Why bike sad? Petrol illa!
