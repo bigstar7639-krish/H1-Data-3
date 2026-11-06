@@ -220,3 +220,6 @@ A: Quantum Link
 Auto Quiz - Sleep 🧠
 Q: What was the code name given to Sonic the Hedgehog 4 during its development?
 A: Project Needlemouse
+Auto Quiz - Beauty 🧠
+Q: What is the largest lake in the African continent?
+A: Lake Victoria
