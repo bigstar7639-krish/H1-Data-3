@@ -1354,3 +1354,4 @@ Talk 14 - Faith pathi pesalama? Sollu! 💬
 Quote 15 - Daily try pannu - Jeyichiduva! - Aira
 Q 16 - Unakku Robot pathi enna theriyum?
 Health 17 - Health Tip: Daily 8 glass water kudinga! 💧 💪
+Game 18 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
