@@ -1018,3 +1018,6 @@ Knowledge 59 - Animals - Hey buddy! 🐾 **Animals pathi** konjam “tanglish”
 Knowledge Quiz 🧠
 Q: In &quot;Starbound&quot;, according to the asset files, the description of the &quot;Erchius Ghost&quot; is the same as which other assets?
 A: Spookit - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which of these songs by Skrillex features Fatman Scoop as a side artist?
+A: Recess - Entertainment: Music
