@@ -877,3 +877,4 @@ Paravalla! Rest edu - Thirumba try pannu!
 Kavithai 345 - Un Sirippu - En Vazhkai! - Aira
 Movie 346 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
 Movie 347 - Jailer - Rajini - Mass! 🎬
+Talk 348 - Quran pathi pesalama? Sollu! 💬
