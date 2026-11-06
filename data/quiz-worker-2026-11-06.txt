@@ -187,3 +187,6 @@ A: Jordan &quot;Thermite&quot; Trace
 Auto Quiz - Sun 🧠
 Q: Which item of clothing is usually worn by a Scotsman at a wedding?
 A: Kilt
+Auto Quiz - Bird 🧠
+Q: What is the perimeter of a circle more commonly known as?
+A: Circumference
