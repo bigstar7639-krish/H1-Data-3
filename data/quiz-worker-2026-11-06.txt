@@ -46,3 +46,6 @@ A: IKEA
 Auto Quiz - Mountain 🧠
 Q: What programming language was GitHub written in?
 A: Ruby
+Auto Quiz - River 🧠
+Q: What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?
+A: Gopher
