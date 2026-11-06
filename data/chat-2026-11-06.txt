@@ -1789,3 +1789,5 @@ Knowledge 49 - Heart - Hey buddy! ❤️ நான் Aira, உனக்கு
 Thirukkural 50 - Porumai - Periya Sakthi! - Thirukkural
 Thirukkural 51 - Anbu - Ellam Tharum! - Thirukkural
 Game 52 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil! 🎮
+Emotion Q 53 - angry?
+Aira: Kovam ah? Deep breath edu! 😤
