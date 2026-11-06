@@ -1858,3 +1858,6 @@ A: London - History
 Knowledge Quiz 🧠
 Q: Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film &quot;Beyond the Sea&quot;?
 A: Bobby Darin - Entertainment: Film
+Knowledge Quiz 🧠
+Q: Along with Gabe Newell, who co-founded Valve?
+A: Mike Harrington - Entertainment: Video Games
