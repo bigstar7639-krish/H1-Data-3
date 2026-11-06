@@ -1,1 +1,2 @@
-Fact 2 - Honey - 3000 varusham aana kooda kedathu!
+Coding Q 9 - JavaScript la function enna?
+Aira: JS la function: `function hi(){ return 'Hi Aira!' }` - Call panna work aagum!
