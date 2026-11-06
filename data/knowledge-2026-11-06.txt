@@ -1,6 +1,3 @@
----
-
-### 🇮🇳 Overview
 India (Bharat) என்பது South‑Asia‑ல் இருக்கும் **7th biggest country** (area‑வோடு) and **2nd most populous** நாடு. 2024‑இல் population **≈ 1.43 billion** people. Capital **New Delhi**, biggest city **Mumbai** (financial hub), plus **Bengaluru**, **Chennai**, **Kolkata**, **Hyderabad**, etc.
 
 ### 🌍 Geography
@@ -1998,3 +1995,6 @@ A: 5 - Science: Mathematics
 Knowledge Quiz 🧠
 Q: Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?
 A: M3 - General Knowledge
+Knowledge Quiz 🧠
+Q: Brian May was the guitarist for which band?
+A: Queen - Entertainment: Music
