@@ -34,3 +34,6 @@ A: Tandoori
 Auto Quiz - Story 🧠
 Q: Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;
 A: Steve Buscemi
+Auto Quiz - Music 🧠
+Q: Who is the youngest person to receive a Nobel Prize?
+A: Malala Yousafzai
