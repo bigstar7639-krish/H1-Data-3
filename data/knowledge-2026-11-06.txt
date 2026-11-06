@@ -1,6 +1,3 @@
-Q: What animal is pictured on the logo of the automobile manufacturer Porsche?
-A: Horse - Vehicles
-Knowledge Quiz 🧠
 Q: Colchester Overpass, otherwise known as &quot;Bunny Man Bridge&quot;, is located where?
 A: Fairfax County, Virginia - Geography
 Knowledge 127 - Mumbai - AI - Data paathu - Pattern!
@@ -1998,3 +1995,6 @@ A: Entra&ntilde;as - Entertainment: Music
 Knowledge Quiz 🧠
 Q: In &quot;Star Trek Nemesis&quot;, why was Praetor Shinzon created?
 A: To replace Picard as a Romulan Agent - Entertainment: Film
+Knowledge Quiz 🧠
+Q: In &quot;Toriko&quot;, which of the following foods is knowingly compatible with Toriko?
+A: Poison Potato - Entertainment: Japanese Anime &amp; Manga
