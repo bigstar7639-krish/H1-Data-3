@@ -852,3 +852,6 @@ A: Previously independent automobile manufacturers - Vehicles
 Knowledge Quiz 🧠
 Q: The heavy metal band Black Sabbath hail from which English city?
 A: Birmingham - Entertainment: Music
+Knowledge Quiz 🧠
+Q: In Minecraft, what update did foods like steak become stackable?
+A: Beta 1.8 - Entertainment: Video Games
