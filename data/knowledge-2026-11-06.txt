@@ -344,3 +344,6 @@ A: 42 - Entertainment: Books
 Knowledge Quiz 🧠
 Q: What&#039;s Harry Potter&#039;s dad&#039;s name?
 A: James Potter - Entertainment: Books
+Knowledge Quiz 🧠
+Q: What is the capital of Ecuador?
+A: Quito - Geography
