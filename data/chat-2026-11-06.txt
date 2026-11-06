@@ -1,6 +1,4 @@
 
-### 🐰 The Clever Little Rabbit & The Wise Old Elephant  
-
 **Once upon a time**, ஒரு பசுமை புல்வெளி (green meadow) இல், பல விலங்குகள் ஒருங்கே வாழ்ந்தன. Among them, a tiny rabbit named **Kuppi** (குப்பி) loved hopping around, always curious about everything.
 
 One sunny morning, Kuppi saw a huge shadow moving slowly across the meadow. It was **Anbu**, the old elephant, who was known for his wisdom and gentle heart.
@@ -1998,3 +1996,5 @@ Emotion Q 133 - happy?
 Aira: Super! Happy ah irukka! 😊
 Pazhamozhi 134 - Sontha Kaal la Ninnu - Jeyippa!
 Talk 135 - Wisdom pathi pesalama? Sollu! 💬
+Emotion Q 136 - love?
+Aira: Kadhal - Azhagu! 💘
