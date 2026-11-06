@@ -1015,3 +1015,6 @@ Knowledge 59 - Animals - Hey buddy! 🐾 **Animals pathi** konjam “tanglish”
 | Birds | **பறவைகள்** (Paṟavaikaḷ) | Parrot, Eagle, Penguin | Most can **fly**, but penguins and ostriches are flightless. |
 | Reptiles | **புழுவிலா உயிரிகள்** (Puḻu vila uyirikaḷ) | Snake, Crocodile, Turtle | They are **cold‑blooded** – body temp depends on the environment. |
 | Amphibians | **இருமை உயிரிகள்** (Iruma uyirikaḷ) | Frog, Salamander | Live both in wate
+Knowledge Quiz 🧠
+Q: In &quot;Starbound&quot;, according to the asset files, the description of the &quot;Erchius Ghost&quot; is the same as which other assets?
+A: Spookit - Entertainment: Video Games
