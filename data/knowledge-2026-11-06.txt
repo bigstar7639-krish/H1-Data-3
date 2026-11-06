@@ -1,6 +1,3 @@
-A: Drug Overdose - Celebrities
-Knowledge Quiz 🧠
-Q: In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?
 A: By clearing every 7th episode - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: How many voice channels does the Super Nintendo Entertainment System support?
@@ -1998,3 +1995,6 @@ A: Michael Collins - General Knowledge
 Knowledge Quiz 🧠
 Q: What major event caused the events of Half-Life 1?
 A: The Resonance Cascade  - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?
+A: Casey Mongillo - Entertainment: Japanese Anime &amp; Manga
