@@ -211,3 +211,6 @@ A: Baryonyx
 Auto Quiz - Yoga 🧠
 Q: In what year was the video game company Electronic Arts founded?
 A: 1982
+Auto Quiz - Meditation 🧠
+Q: What is the name of Joel&#039;s daughter in the game, &quot;The Last of Us&quot;? 
+A: Sarah
