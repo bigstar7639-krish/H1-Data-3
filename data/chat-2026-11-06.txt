@@ -1475,3 +1475,5 @@ Game 11 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
 Reading 12 - Think and Grow Rich! 📚
 Motivation 13
 Paravalla! Rest edu - Thirumba try pannu!
+Coding Q 14 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
