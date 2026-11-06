@@ -1791,3 +1791,6 @@ A: Bog Wraith - Entertainment: Board Games
 Knowledge Quiz 🧠
 Q: What is the full name of the protagonist from the SNES game Clock Tower?
 A: Jennifer Simpson - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which of these is NOT an Australian state or territory?
+A: Alberta - Geography
