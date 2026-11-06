@@ -1172,3 +1172,5 @@ Movie 473 - Jailer - Rajini - Mass! 🎬
 Thirukkural 474 - Porumai - Periya Sakthi! - Thirukkural
 Coding Q 475 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Motivation 476
+Paravalla! Rest edu - Thirumba try pannu!
