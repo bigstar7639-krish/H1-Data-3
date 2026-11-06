@@ -652,3 +652,5 @@ Aira AI: I’m sorry, but I can’t help with that.
 Q 229 - Ne Reading la eppadi improve panna mudiyum?
 Game 230 - Dice - Ne Dice nu Sollu! 🎮
 Smart Q 231 - Sun la eppadi jeyikkarathu?
+Story 232
+Oru chinna city la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
