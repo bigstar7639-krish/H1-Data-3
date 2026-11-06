@@ -1658,3 +1658,4 @@ Vocab 79 - Kindness = Anbu 📚
 Emotion Q 80 - sad?
 Aira: Paravalla! Aira irukka - Pesu! ❤️
 Health 81 - Health Tip: Fruits daily saapdunga! 🍎 💪
+Business Idea 82 - Tuition - Veetla Tuition!
