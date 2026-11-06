@@ -254,3 +254,6 @@ A: 2 - Science: Mathematics
 Knowledge Quiz 🧠
 Q: Which group performs the song &quot;Crash into Me&quot;?
 A: Dave Matthews Band - Entertainment: Music
+Knowledge Quiz 🧠
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci - Art
