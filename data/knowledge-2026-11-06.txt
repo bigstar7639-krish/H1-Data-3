@@ -755,3 +755,6 @@ A: Masahiro Sakurai - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: When was the programming language &quot;C#&quot; released?
 A: 2000 - Science: Computers
+Knowledge Quiz 🧠
+Q: In &quot;Rainbow Six: Siege&quot;, which of the following operators cannot breach reinforced walls?
+A: Buck - Entertainment: Video Games
