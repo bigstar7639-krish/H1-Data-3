@@ -253,3 +253,6 @@ A: Johnny Depp
 Auto Quiz - Family 🧠
 Q: The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?
 A: Fairies
+Auto Quiz - Friendship 🧠
+Q: Who is the developer of the game &quot;Rocket League&quot;?
+A: Psyonix
