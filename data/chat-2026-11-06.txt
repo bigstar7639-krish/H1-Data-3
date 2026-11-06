@@ -670,3 +670,5 @@ So, the “secret” i
 Game 237 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Recipe 238 - Snacks - Potato + Masala - Crispy! 🍔
 Business Idea 239 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
+Coding Q 240 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
