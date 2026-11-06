@@ -181,3 +181,6 @@ A: Cheetah
 Auto Quiz - Star 🧠
 Q: Which artist painted &ldquo;The Treachery of Images,&rdquo; a painting of a pipe with the description &quot;this is not a pipe&quot;?
 A: Magritte
+Auto Quiz - Moon 🧠
+Q: Which of these operators from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; has the ability to damage reinforced walls?
+A: Jordan &quot;Thermite&quot; Trace
