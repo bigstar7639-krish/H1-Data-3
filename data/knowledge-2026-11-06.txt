@@ -920,3 +920,6 @@ A: Danny Elfman - Entertainment: Television
 Knowledge Quiz 🧠
 Q: In Monster Hunter Generations, which of the following monsters are a part of the &quot;Fated Four&quot;?
 A: Astalos - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What was the first game ever released that ran on the Source engine?
+A: Counter-Strike: Source - Entertainment: Video Games
