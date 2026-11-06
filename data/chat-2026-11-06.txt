@@ -1,5 +1,3 @@
-Motivation 245
-Paravalla! Rest edu - Thirumba try pannu!
 Fact 12 - Honey - 3000 varusham kedathu!
 Coding Q 247 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
@@ -1997,3 +1995,6 @@ Ravi’s first *resume* was just a scribble:
 |---|---|
 | **Name** | Ravi Kumar |
 | **Skills** | C, Python, “Pizza‑making” (lol) |
+
+Motivation 345
+Paravalla! Rest edu - Thirumba try pannu!
