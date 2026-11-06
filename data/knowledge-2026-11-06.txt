@@ -1846,3 +1846,6 @@ A: 1,000,000 - Science: Mathematics
 Knowledge Quiz 🧠
 Q: What vulnerability ranked #1 on the OWASP Top 10 in 2013?
 A: Injection  - Science: Computers
+Knowledge Quiz 🧠
+Q: How old is the universe?
+A: 13.8 Billion Years - Science &amp; Nature
