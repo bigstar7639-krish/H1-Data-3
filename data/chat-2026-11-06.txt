@@ -1,6 +1,4 @@
 
----
-
 ### 1️⃣ Philosophy என்றால் என்ன?  
 Philosophy = **Love of wisdom** (சாகசம்).  
 - **Metaphysics** – “என்னது உண்மையில் இருக்கிறது?” (Reality, existence)  
@@ -1998,3 +1996,5 @@ Health 235 - Health Tip: Fruits daily saapdunga! 🍎 💪
 Pazhamozhi 236 - Sontha Kaal la Ninnu - Jeyippa!
 Smart Q 237 - London la eppadi jeyikkarathu?
 Q 238 - Instagram pathi oru secret sollatta?
+Coding Q 239 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
