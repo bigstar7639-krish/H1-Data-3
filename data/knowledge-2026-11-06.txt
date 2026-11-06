@@ -1,6 +1,3 @@
-  Internet‑na, oru **global network** of millions of computers, servers, routers, smartphones etc. Oru **“world‑wide web”** madhiri. Ithu data‑ packets‑a send‑pannuthu, receive‑pannuthu, and we can browse, chat, stream, shop, learn – ellam one click‑la.
-
-- **How does it work?**  
   1. **IP address** – Oru device‑kku unique number (e.g., 192.168.1.5).  
   2. **DNS (Domain Name System)** – “google.com” maathiri human‑readable names‑a IP‑kku convert pannuthu.  
   3. **Packets & Routing** – Data‑kku “small boxes” (packets) a cut‑panni, routers‑la path‑a decide panni, destination‑kku send pannum.  
@@ -1998,3 +1995,6 @@ Knowledge 395 - World History - Hey buddy! 😊
 Knowledge Quiz 🧠
 Q: Max Schreck, a famous German silent film actor, plays a famous monster in which 1922 film?
 A: Nosferatu - Entertainment: Film
+Knowledge Quiz 🧠
+Q: In the &quot;Call Of Duty: Zombies&quot; map &quot;Moon&quot;, there is a secondary called the QED. What does QED stand for?
+A: Quantum Entanglement Device - Entertainment: Video Games
