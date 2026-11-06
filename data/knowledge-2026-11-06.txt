@@ -1,22 +1,3 @@
-Knowledge 7 - Physics - Hey buddy! Physics-ஐ பற்றி கொஞ்சம் சொல்லலாமா? 😊  
-
-**Physics** என்பது *nature*‑ன் அடிப்படை விதிகளை (laws) படிக்கிற science. இது “matter”, “energy”, “space”, “time” எல்லாவற்றையும் புரிந்துகொள்ள உதவுகிறது. சில முக்கிய பாகங்களைக் கொஞ்சம் breakdown பண்ணி பார்ப்போம்:
-
----
-
-### 1️⃣ Classical Mechanics (பழைய இயற்பியல்)
-- **Newton’s Laws** –  
-  1️⃣ *Inertia* (இயல்பாக ஓய்வு/நிலையாக இருக்கும் tendency).  
-  2️⃣ *F = ma* – Force = mass × acceleration.  
-  3️⃣ Action‑reaction = “ஒவ்வொரு action-க்கும் equal & opposite reaction”.
-- **Kinematics** – position, velocity, acceleration‑ஐ graphs‑ல் plot பண்ணி motion-ஐ describe பண்ணுவோம்.  
-- **Energy** – Kinetic (½mv²) + Potential (mgh) = **Conservation of Energy**.
-
-### 2️⃣ Electromagnetism (மின்காந்தம்)
-- **Maxwell’s Equations** – electricity, magnetism இர
-Knowledge Quiz 🧠
-Q: In &quot;The Binding of Isaac&quot;, which item instantly kills Mom and Mom&#039;s Heart?
-A: The Bible - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What was the original name of New York City?
 A: New Amsterdam - History
@@ -1998,3 +1979,22 @@ A: Raise Hell - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Under what pseudonym did Stephen King publish five novels between 1977 and 1984?
 A: Richard Bachman - Entertainment: Books
+Knowledge 363 - Success - **Success-ஐப் பற்றி சில simple pointers – Tamil‑Tanglish mix‑இல்!**  
+
+---
+
+### 1️⃣ Goal-களை தெளிவாக set பண்ணு  
+- **SMART** approach: Specific, Measurable, Achievable, Relevant, Time‑bound.  
+- “நான் 6 மாதங்களில் என் blog traffic‑ஐ 2 × ஆக increase செய்யப் போகிறேன்” மாதிரி concrete goal set பண்ணு.
+
+### 2️⃣ Consistency > Intensity  
+- ஒவ்வொரு நாள் 30‑60 நிமிடங்கள் focus‑ஆக work பண்ணு.  
+- Small daily wins, later big results‑களாக convert ஆகும்.
+
+### 3️⃣ Learn‑and‑Apply Loop  
+- **Read**: books, articles, podcasts – “Atomic Habits”, “Deep Work”, Tamil‑English podcasts.  
+- **Practice**: கற்றதை உடனே apply பண்ணு. Mistakes-ல இருந்து learn பண்ணு, repeat.
+
+### 4️⃣ Network & Mentor  
+- Same field‑ல இருக்கும் folks-ஐ connect பண்ணு – LinkedIn, local meet‑ups, online forums.  
+- Mentor‑க்கு ask questi
