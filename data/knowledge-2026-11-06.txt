@@ -1,6 +1,3 @@
-Q: By how many minutes are you late to work in &quot;Half-Life&quot;?
-A: 30 - Entertainment: Video Games
-Knowledge Quiz 🧠
 Q: Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?
 A: Empire State Building, United States - General Knowledge
 Knowledge Quiz 🧠
@@ -1998,3 +1995,6 @@ A: Ancient Dragon World - Entertainment: Japanese Anime &amp; Manga
 Knowledge Quiz 🧠
 Q: What is the capital of Ecuador?
 A: Quito - Geography
+Knowledge Quiz 🧠
+Q: What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?
+A: Entra&ntilde;as - Entertainment: Music
