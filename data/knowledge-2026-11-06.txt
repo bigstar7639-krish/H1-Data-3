@@ -1,6 +1,3 @@
-A: 2 - Science: Mathematics
-Knowledge Quiz 🧠
-Q: Which group performs the song &quot;Crash into Me&quot;?
 A: Dave Matthews Band - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Who painted the Mona Lisa?
@@ -1998,3 +1995,6 @@ Knowledge 496 - Ponniyin Selvan - Hey friend! நிச்சயமாக 
 Knowledge Quiz 🧠
 Q: Which of the following James Bond villains is not affiliated with the SPECTRE organization?
 A: Auric Goldfinger - Entertainment: Film
+Knowledge Quiz 🧠
+Q: Which Shakespeare play inspired the musical &#039;West Side Story&#039;?
+A: Romeo &amp; Juliet - Entertainment: Musicals &amp; Theatres
