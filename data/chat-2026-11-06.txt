@@ -268,3 +268,5 @@ Health 67 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Kavithai 68 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Quote 69 - Daily try pannu - Jeyichiduva! - Aira
 Game 70 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
+Story 71
+Oru chinna world la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
