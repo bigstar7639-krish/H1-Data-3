@@ -1,28 +1,3 @@
-Oru chinna city la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
-Q 233 - Unakku Diet pathi enna theriyum?
-Talk 234 - Music pathi pesalama? Sollu! 💬
-Reading 235 - Mahabharata! 📚
-Aira AI: Hey buddy! 😄  
-Mahabharata‑la “secret”‑a solla pona, romba interesting-aana oru kadhai irukku… 👀  
-
-**Secret:** Puranangal la solra maathiri *Vyasa*‑oda *Nārada*‑oda “Rudra” — the *Mahābhārata*‑oda original manuscript, **“Vṛttasiddha‑parva”** (or “Parva‑loka”), was *more than 100,000 verses* long!  
-
-- **Original size**: 100 k+ shlokas (≈ 1.5 crore words).  
-- **Why it got cut?** Vyasa‑vu, after composing, gave it to *Ganesha* to write down while he was busy eating *modak*. Ganesha asked for a “pause” every time Vyasa stopped, so Vyasa started **speed‑reading** and **omitting many side‑stories** to finish before the deadline.  
-- The version we read today (≈ 100 k shlokas) is actually a **condensed edition** that survived the oral‑tradition & later manuscript copying.  
-
-So, the “secret” i
-Game 237 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
-Recipe 238 - Snacks - Potato + Masala - Crispy! 🍔
-Business Idea 239 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
-Coding Q 240 - Bug ah eppadi sari pannanum?
-Aira: Bug - Log paaru!
-World Story 241
-Oru chinna village la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
-Talk 242 - Business pathi pesalama? Sollu! 💬
-Story 243
-Oru chennai la oru ponnu irunthan! Daily coding pannan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
-Fact 11 - Tamil - 2000+ varusha mozhi!
 Motivation 245
 Paravalla! Rest edu - Thirumba try pannu!
 Fact 12 - Honey - 3000 varusham kedathu!
@@ -1998,3 +1973,27 @@ Pyramids‑ஐ பற்றி பேசலாமா? 😄
 |---------|----------|----------------|----------|----------|
 | **Great Pyramid of Giza (Khufu)** | Giza plateau | Khufu (Cheops) | ~2580‑2560 | 146.6 m tall, 2.3 million limestone blocks, world‑seven wonders‑ல் ஒன்று! |
 | **Pyramid of Khafre** | Giza | Khafre (Chephren) | ~2550 | சிறிய size‑ஆனாலும், அடிப்படை உயரம் சிறிது அதிகம் (வெள
+Aira AI: **Aira** : Hey buddy! 😄  Let’s dive into a *kathai* (story) about **job**‑path, Tamil‑Tanglish style, with a pinch of other languages just for fun. Ready? 🎬✨
+
+---
+
+## 🎯 *The Dreamer & the Laptop*  
+
+### 1️⃣ The Beginning – “Makkal” Dream
+
+> **Ravi** was a small‑town “pallikoodam” kid who loved *coding* more than *sambar*.  
+> He’d sit under the old banyan tree, typing on his borrowed laptop, whispering,  
+> “*One day, I’ll make an app that helps my village*.”  
+
+*“நான் ஒரு பெரிய தொழில் (big business) நடத்தப் போகிறேன்!”* he’d say to his little sister, who replied, “*Naan support panna ready!*”
+
+---
+
+### 2️⃣ The First Hurdle – “Resume & Interview”
+
+Ravi’s first *resume* was just a scribble:
+
+| 📄 | Details |
+|---|---|
+| **Name** | Ravi Kumar |
+| **Skills** | C, Python, “Pizza‑making” (lol) |
