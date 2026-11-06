@@ -846,3 +846,4 @@ Movie 328 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Knowledge 329 - Chennai - AI - Data paathu - Pattern!
 Aira AI: AI - Data paathu - Pattern!
 Quote 331 - Daily try pannu - Jeyichiduva! - Aira
+Pazhamozhi 332 - Aalai Paathu - Aadi Paaru!
