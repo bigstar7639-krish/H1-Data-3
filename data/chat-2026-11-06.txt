@@ -1505,3 +1505,21 @@ Knowledge 5 - World History - Hey friend! 🌏 **World History**-ஐ “Tang
 | **Egypt** (Nile) | Old, Middle, New Kingdom | 3100‑30 BC | Pyramids, hieroglyphs, pharaohs |
 | **Indus Valley** (Harappa‑Mohenjo‑Daro) | 3300‑1300 BC | Grid‑city planning, baked‑brick houses |
 | **China
+Knowledge 6 - Physics - Hey buddy! Physics‑ஐ பற்றி பேசலாமா? 🌟  
+
+**Physics** = *Nature‑இன் laws‑ஐ decode செய்யும்* science.  
+It’s the ultimate “how‑does‑everything‑work” book, and we can split it into a few big chapters:
+
+---
+
+### 1️⃣ Classical Mechanics (நியம இயற்பியல்)
+- **Newton’s laws**:  
+  1. Inertia – “ஒரு body அதன் state‑இல் (rest or straight line) stay போகும் unless a force acts”.  
+  2. F = ma – Force = mass × acceleration.  
+  3. Action‑reaction – “Every action has an equal and opposite reaction”.  
+- Applications: cars, rockets, sports (ball trajectory), planetary orbits.
+
+### 2️⃣ Thermodynamics (வெப்பவியல்ி)
+- **First law**: Energy cannot be created or destroyed – ΔU = Q – W.  
+- **Second law**: Entropy always increases in an isolated system (heat flows from hot → cold).  
+- Everyday examples: ice m
