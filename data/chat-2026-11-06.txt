@@ -1997,3 +1997,4 @@ Story 40
 Oru chinna new york la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Coding Q 41 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Health 42 - Health Tip: 7 mani neram thoongunga! 😴 💪
