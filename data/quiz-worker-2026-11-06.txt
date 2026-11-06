@@ -301,3 +301,6 @@ A: Central Processing Unit
 Auto Quiz - Village 🧠
 Q: Which of these characters was almost added into Super Smash Bros. Melee, but not included as the game was too far in development?
 A: Solid Snake
+Auto Quiz - City 🧠
+Q: In Mulan (1998), who is the leader of the Huns?
+A: Shan Yu
