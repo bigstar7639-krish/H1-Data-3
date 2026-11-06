@@ -134,3 +134,22 @@ A: Komodo dragon - Animals
 Knowledge Quiz 🧠
 Q: What does RAID stand for?
 A: Redundant Array of Independent Disks - Science: Computers
+Knowledge 49 - Plants - Hey friend! 🌿 Let’s chat about **plants** – the amazing green buddies that make our world lively. I’ll keep it in **Tamil‑Tanglish**, so it feels homely yet informative.  
+
+---
+
+## 1️⃣ Plants எதற்காக important?  
+| Aspect | Why it matters | Example |
+|--------|----------------|---------|
+| **Oxygen** | Photosynthesis‑ல் CO₂‑ஐ O₂‑ஆக் மாற்றும் | 🌳 Trees |
+| **Food** | பல்வேறு fruit, veg, grain உங்களுக்கு nutrition give செய்கிறது | 🍎 Apple tree, 🌾 Wheat |
+| **Medicine** | Many herbs have healing properties | 🌿 Tulsi, 🌱 Aloe vera |
+| **Habitat** | Animals‑க்கு shelter, food source | 🐦 Bird‑nesting trees |
+| **Climate control** | Carbon capture, soil protection | 🌲 Forests |
+
+---
+
+## 2️⃣ Plant structure – எளிய விளக்கம்  
+
+```
+Root (மூலங்கள்)  →  Stem (மூலம்)  →  Leaves (இலைகள்)  →  Flowers (பூக
