@@ -802,3 +802,4 @@ Vocab 298 - Happy = Santhosham 📚
 Game 299 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil! 🎮
 Thirukkural 300 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Health 301 - Health Tip: Daily 30 min walk ponga! 🚶 💪
+Reading 302 - Think and Grow Rich! 📚
