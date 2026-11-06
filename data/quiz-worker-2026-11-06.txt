@@ -319,3 +319,6 @@ A: Mustache Girl
 Auto Quiz - London 🧠
 Q: In the Super Smash Bros. series, which game first featured Luigi as a playable character?
 A: Super Smash Bros.
+Auto Quiz - Paris 🧠
+Q: Which school in Surrey, England did Steve Backshall attend?
+A: Collingwood College
