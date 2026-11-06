@@ -439,3 +439,4 @@ Neenga eppadi success pathi think panreenga? Any goal or dream you’re chasing?
 Vocab 145 - Peace = Amaithi 📚
 Coding Q 146 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Thirukkural 147 - Kattrathu - Kai Mann Alavu! - Thirukkural
