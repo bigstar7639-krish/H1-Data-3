@@ -981,3 +981,6 @@ Knowledge 39 - Python - Python loop: `for i in range(5): print(i)`
 Knowledge Quiz 🧠
 Q: Who painted the Mona Lisa?
 A: Leonardo da Vinci  - Art
+Knowledge Quiz 🧠
+Q: In 2014, this new top 100 rapper who featured in &quot;Computers&quot; and &quot;Body Dance&quot; was arrested in a NYPD sting for murder.
+A: Bobby Shmurda - Celebrities
