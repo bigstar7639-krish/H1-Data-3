@@ -1372,3 +1372,4 @@ Coding Q 28 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Vocab 29 - Peace = Amaithi 📚
 Pazhamozhi 30 - Porumai - Perumai Tharum!
+Quote 31 - Daily try pannu - Jeyichiduva! - Aira
