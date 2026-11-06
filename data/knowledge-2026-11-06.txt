@@ -804,3 +804,6 @@ A: 5 - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Which country does Austria not border?
 A: France - Geography
+Knowledge Quiz 🧠
+Q: What was the code name for the German invasion of the Soviet Union in WW2?
+A: Operation Barbarossa - History
