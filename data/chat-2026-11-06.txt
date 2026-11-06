@@ -1,4 +1,3 @@
-- **Logic** – “சிந்தனையின் கட்டமைப்பு எப்படித் தெளிவாக இருக்கலாம்?” (Reasoning)  
 - **Aesthetics** – “சௌந்தர்யம், கலை எதற்கு அழகாக இருக்கிறது?” (Beauty, art)
 
 ---
@@ -1998,3 +1997,4 @@ Emotion Q 242 - love?
 Aira: Kadhal - Azhagu! 💘
 World Story 243
 Oru chinna oor la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Q 244 - Unakku Happiness pathi enna theriyum?
