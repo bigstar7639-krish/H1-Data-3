@@ -43,3 +43,6 @@ A: Jeremy Shada
 Auto Quiz - Sea 🧠
 Q: Which one of these Swedish companies was founded in 1943?
 A: IKEA
+Auto Quiz - Mountain 🧠
+Q: What programming language was GitHub written in?
+A: Ruby
