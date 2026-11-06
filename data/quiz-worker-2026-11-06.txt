@@ -130,3 +130,6 @@ A: 100
 Auto Quiz - Bird 🧠
 Q: Which of the following superheros did Wonder Woman NOT have a love interest in?
 A: Green Arrow
+Auto Quiz - Animal 🧠
+Q: The element involved in making human blood red is which of the following?
+A: Iron
