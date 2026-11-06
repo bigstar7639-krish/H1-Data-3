@@ -142,3 +142,6 @@ A: Unggoy
 Auto Quiz - God 🧠
 Q: In what year was the original Sonic the Hedgehog game released?
 A: 1991
+Auto Quiz - Nature 🧠
+Q: When did the last episode of &quot;Futurama&quot; air before returning in 2023?
+A: September 4, 2013
