@@ -52,3 +52,6 @@ A: Gopher
 Auto Quiz - Sky 🧠
 Q: Which Overwatch character says the line &quot;Heroes never die!&quot;?
 A: Mercy
+Auto Quiz - Star 🧠
+Q: In &quot;Little Women&quot;, which of the March sisters married Laurie?
+A: Amy
