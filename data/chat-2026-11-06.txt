@@ -1,4 +1,3 @@
-
 - **Appearance:** Oru tiny glow‑in‑the‑dark “pudding‑type” entity—think *spherical* like a *pani puri* but with neon veins pulsing like a rave.  
 - **Language:** It speaks every language at once!  It says “வணக்கம்” (Vanakkam), “Hello”, “你好” (nǐ hǎo), “¡Hola!” and even whispers the secret code of the universe (which is basically binary love).  
 - **Job:** It’s my *knowledge‑assistant* on steroids. When you ask about quantum physics, ancient Tamil poetry, or the best biryani recipe in Hyderabad, it flips through **∞** pages of data in a nanosecond and hands me the perfect answer.  
@@ -1998,3 +1997,4 @@ Pazhamozhi 124 - Sontha Kaal la Ninnu - Jeyippa!
 Coding Q 125 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
 Health 126 - Health Tip: Fruits daily saapdunga! 🍎 💪
+Fact 5 - Tamil - 2000+ varusha mozhi!
