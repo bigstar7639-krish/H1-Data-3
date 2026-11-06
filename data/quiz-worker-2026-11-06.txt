@@ -232,3 +232,6 @@ A: St. Louis, MO
 Auto Quiz - Sport 🧠
 Q: Who is the author of the &quot;A Song of Ice and Fire&quot; book series, starting with &quot;A Game of Thrones&quot;?
 A: George R. R. Martin
+Auto Quiz - Football 🧠
+Q: How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?
+A: 5
