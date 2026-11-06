@@ -145,3 +145,5 @@ World Story 33
 Oru chinna sea la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 World Story 34
 Oru village la oru teacher irunthan! Daily coding pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
+Coding Q 35 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
