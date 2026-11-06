@@ -1417,3 +1417,6 @@ A: 4 - Entertainment: Music
 Knowledge Quiz 🧠
 Q: With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?
 A: Jordan - Sports
+Knowledge Quiz 🧠
+Q: How many colors are there in a rainbow?
+A: 7 - General Knowledge
