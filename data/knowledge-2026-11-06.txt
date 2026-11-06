@@ -1770,3 +1770,6 @@ A: 90 - Science: Mathematics
 Knowledge Quiz 🧠
 Q: Who wrote the Sinead O`Connor hit &#039;Nothing Compares 2 U&#039;?
 A: Prince - Entertainment: Music
+Knowledge Quiz 🧠
+Q: In the Nintendo Game Splatoon 2, what is Marina&#039;s screen name?
+A: DJ_Hyperfresh - Entertainment: Video Games
