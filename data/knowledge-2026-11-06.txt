@@ -1849,3 +1849,6 @@ A: Injection  - Science: Computers
 Knowledge Quiz 🧠
 Q: How old is the universe?
 A: 13.8 Billion Years - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: How was Socrates executed?
+A: Poison - History
