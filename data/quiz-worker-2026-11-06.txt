@@ -241,3 +241,6 @@ A: 1901
 Auto Quiz - History 🧠
 Q: What color is the iconic arcade character Q*Bert?
 A: Orange
+Auto Quiz - Culture 🧠
+Q: Who in this list is one of the co-founders of Valve?
+A: Gabe Newell
