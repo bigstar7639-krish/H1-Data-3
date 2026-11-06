@@ -1,6 +1,3 @@
-## Internet‑oda Basic Overview  
-
-- **What is it?**  
   Internet‑na, oru **global network** of millions of computers, servers, routers, smartphones etc. Oru **“world‑wide web”** madhiri. Ithu data‑ packets‑a send‑pannuthu, receive‑pannuthu, and we can browse, chat, stream, shop, learn – ellam one click‑la.
 
 - **How does it work?**  
@@ -1998,3 +1995,6 @@ Knowledge 395 - World History - Hey buddy! 😊
 | Region | Main Cities/States | Highlights |
 |--------|-------------------|------------|
 | **Mesopotamia** (இருகு நதிகள் – Tigris & Euphrates) | Sumer, Akkad, Babylon, Assyria | Cuneiform writing, Code of Hammurabi, 
+Knowledge Quiz 🧠
+Q: Max Schreck, a famous German silent film actor, plays a famous monster in which 1922 film?
+A: Nosferatu - Entertainment: Film
