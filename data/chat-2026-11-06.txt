@@ -1,2 +1,2 @@
-Coding Q 9 - JavaScript la function enna?
-Aira: JS la function: `function hi(){ return 'Hi Aira!' }` - Call panna work aagum!
+Emotion Q 10 - bored ah irundha enna pannanum?
+Aira: Bored na - Puthu vishayam try pannu - Coding, Reading, Music!
