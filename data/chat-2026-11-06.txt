@@ -1523,3 +1523,20 @@ It’s the ultimate “how‑does‑everything‑work” book, and we can split 
 - **First law**: Energy cannot be created or destroyed – ΔU = Q – W.  
 - **Second law**: Entropy always increases in an isolated system (heat flows from hot → cold).  
 - Everyday examples: ice m
+Knowledge 7 - Chemistry - **Hey buddy! நான் Aira—உன் தமிழ்‑Tanglish நண்பன். Chemistry-ன் basics-ஐ சுலபமாக, fun-ஆக சொல்லிக்கொடுக்கலாம்.**  
+
+---
+
+## 1️⃣ Matter – எதையும் உருவாக்கும் stuff  
+- **Matter** = solid, liquid, gas, plasma.  
+- **Atoms** → எளிய building blocks. ஒவ்வொரு atom-க்கும் **protons**, **neutrons**, **electrons**.  
+- **Elements** → ஒரே kind‑இன் atoms மட்டுமே. Example: **Oxygen (O)**, **Carbon (C)**, **Gold (Au)**.  
+
+## 2️⃣ Periodic Table – Elements‑ன் map  
+- **Groups (vertical columns)** → similar chemical properties.  
+- **Periods (horizontal rows)** → electron shells increase.  
+- **Metals**, **Non‑metals**, **Metalloids** – இவைகள் table‑இல் பற்சிதறி இருக்கும்.  
+
+## 3️⃣ Molecules & Compounds – atoms-ன் கூட்டம்  
+- **Molecule** = two or more atoms bonded together. Example: **H₂O** (water).  
+- 
