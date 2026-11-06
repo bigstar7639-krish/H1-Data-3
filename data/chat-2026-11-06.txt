@@ -1204,3 +1204,4 @@ Coding Q 490 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 World Story 491
 Oru chinna village la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Talk 492 - Bible pathi pesalama? Sollu! 💬
