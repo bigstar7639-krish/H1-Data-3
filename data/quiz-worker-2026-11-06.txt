@@ -229,3 +229,6 @@ A: Super Smash Bros. Crusade
 Auto Quiz - Game 🧠
 Q: Which of these cities does NOT have a United States Minting location?
 A: St. Louis, MO
+Auto Quiz - Sport 🧠
+Q: Who is the author of the &quot;A Song of Ice and Fire&quot; book series, starting with &quot;A Game of Thrones&quot;?
+A: George R. R. Martin
