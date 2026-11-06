@@ -1,6 +1,3 @@
-- Area: **≈ 3.287 million km²** (including islands).  
-- Borders: Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar + Indian Ocean (Bay of Bengal, Arabian Sea) and **Andaman‑Nicobar** & **Lakshadweep** islands.  
-- Major rivers: **Ganga**, **Yamuna**, **Brahmaputra**, **Godavari**, **Krishna**, **Kaveri**.  
 - Himalayas (north) → Thar Desert (west) → Western & Eastern Ghats (south).
 
 ### 🗣️ Languages & Culture
@@ -1998,3 +1995,6 @@ A: Queen - Entertainment: Music
 Knowledge Quiz 🧠
 Q: What is the hottest planet in the solar system
 A: Venus - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: Which of the following characters is NOT playable in &quot;Resident Evil 6&quot;?
+A: Jill Valentine - Entertainment: Video Games
