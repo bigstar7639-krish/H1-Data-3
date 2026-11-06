@@ -163,3 +163,6 @@ A: Daffy Duck
 Auto Quiz - Health 🧠
 Q: What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? 
 A: Polio
+Auto Quiz - Movie 🧠
+Q: What did the first vending machines in the early 1880&#039;s dispense?
+A: Post cards
