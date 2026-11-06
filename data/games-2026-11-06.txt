@@ -54,3 +54,4 @@ Game 346 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Game 350 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
 Game 434 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
 Game 443 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil! 🎮
+Game 520 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
