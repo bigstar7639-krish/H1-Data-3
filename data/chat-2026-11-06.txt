@@ -1652,3 +1652,4 @@ Thirukkural 72 - Anbu - Ellam Tharum! - Thirukkural
 Movie 73 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
 Movie 75 - Jailer - Rajini - Mass! 🎬
 Smart Q 76 - Java la eppadi jeyikkarathu?
+Quote 77 - Daily try pannu - Jeyichiduva! - Aira
