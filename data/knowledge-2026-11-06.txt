@@ -276,3 +276,6 @@ Knowledge 114 - APJ Abdul Kalam - Hey buddy! நான் Aira, உன் த�
 Knowledge Quiz 🧠
 Q: Laserjet and inkjet printers are both examples of what type of printer?
 A: Non-impact printer - Science: Computers
+Knowledge Quiz 🧠
+Q: By how many minutes are you late to work in &quot;Half-Life&quot;?
+A: 30 - Entertainment: Video Games
