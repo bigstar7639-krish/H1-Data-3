@@ -1,6 +1,3 @@
----
-
-## 1️⃣ Plants எதற்காக important?  
 | Aspect | Why it matters | Example |
 |--------|----------------|---------|
 | **Oxygen** | Photosynthesis‑ல் CO₂‑ஐ O₂‑ஆக் மாற்றும் | 🌳 Trees |
@@ -1998,3 +1995,6 @@ A: Wayne Rooney - Sports
 Knowledge Quiz 🧠
 Q: In which of these TV shows did the chef Gordon Ramsay not appear?
 A: Auction Hunters - Celebrities
+Knowledge Quiz 🧠
+Q: The humerus, paired radius, and ulna come together to form what joint?
+A: Elbow - Science &amp; Nature
