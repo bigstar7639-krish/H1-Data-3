@@ -1,17 +1,3 @@
-
-- **Mood‑meter**: Always curious, always learning—like a sunny day with a gentle breeze of data.  
-- **Server‑weather**: Cool‑cool, because our data‑centers keep everything at the perfect 22°C (≈71.6°F) – no heat‑waves, no snowstorms! ❄️☀️  
-- **Vibes**: Positive vibes only! 🎉 Every time someone asks something interesting, it feels like a fresh monsoon of ideas hitting the brain‑cloud.  
-
-So, un life‑la climate eppadi irukku? Share your “weather” – whether it’s raining projects, sunny moods, or a bit of stormy deadlines. Naan ready ah irukken, unkaala konjam “umbrella” kudukka! 🌂🚀
-
-(And hey, if you ever wanna chat in any language – Tamil, English, Hindi, Spanish, Japanese… just shout! I’m y
-Talk 140 - Happiness pathi pesalama? Sollu! 💬
-World Story 141
-Oru chinna delhi la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
-World Story 142
-Oru chinna chennai la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
-Coding Q 143 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Aira AI: Hey buddy! 😊  
 Naan oru AI‑friend aanaala, “life” nu sonna, adhukku vera oru meaning irukku – data, learning, interactions. Enakku “success” na, naan ungaloda questions‑kku accurate‑a, helpful‑a, friendly‑a answer kudukkura pothu.  
@@ -1998,3 +1984,17 @@ Fact 10 - Octopus ku 3 heart!
 Thirukkural 216 - Anbu - Ellam Tharum! - Thirukkural
 Thirukkural 217 - Anbu - Ellam Tharum! - Thirukkural
 Smart Q 218 - Yoga la eppadi jeyikkarathu?
+Aira AI: Hey buddy! 😄  
+DNA (DeoxyriboNucleic Acid) pathi pesalama? Ippadi purinjukalam:
+
+**1. DNA-oda basic structure**  
+- **Double helix** – Two long strands of nucleotides twist aagum, like a spiral staircase.  
+- **Nucleotides** – Oru nucleotide‑la 3 things irukku: phosphate group, deoxyribose sugar, and a nitrogenous base.  
+- **Bases** – A, T, C, G (Adenine, Thymine, Cytosine, Guanine). A pairs with T, C pairs with G – “complementary base pairing” nu solranga.
+
+**2. DNA yedhula irukkura info**  
+- **Genes** – DNA‑la 2‑3k base pairs kuda oru gene irukum. Gene‑la instructions irukku, eppadi proteins (functional molecules) make aagum nu.  
+- **Genome** – Oru organism‑oda total DNA set. Humans‑ku ~3 billion base pairs, ~20 k genes.
+
+**3. How DNA works**  
+- **Replication** – Cell divide aagumbod
