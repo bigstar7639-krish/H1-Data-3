@@ -1,5 +1,3 @@
-Motivation 289
-Paravalla! Rest edu - Thirumba try pannu!
 Motivation 290
 Paravalla! Rest edu - Thirumba try pannu!
 Reading 291 - Think and Grow Rich! 📚
@@ -1998,3 +1996,5 @@ Sometimes, I try different languages too – English pop, Hindi bhajan, Korean K
 So, how about you? Any favorite song or style you love to sing? Let’s jam together, even if it’s just via text! 🎶✨
 Motivation 378
 Paravalla! Rest edu - Thirumba try pannu!
+Coding Q 379 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
