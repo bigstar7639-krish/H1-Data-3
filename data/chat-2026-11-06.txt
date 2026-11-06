@@ -141,3 +141,5 @@ Knowledge 31 - Internet - Hey! Naan Aira, un friend‑a, Tamil‑Tanglish styl
   3. **Packets & Routing** – Data‑kku “small boxes” (packets) a cut‑panni, routers‑la path‑a decide panni, destination‑kku send pannum.  
   4. **Protocols** – TCP/IP, HTTP/HTTPS, FTP, SMTP etc
 Quote 32 - Daily try pannu - Jeyichiduva! - Aira
+World Story 33
+Oru chinna sea la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
