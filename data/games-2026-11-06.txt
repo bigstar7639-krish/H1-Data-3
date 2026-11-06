@@ -25,3 +25,4 @@ Game 64 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
 Game 4 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Game 11 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
 Game 20 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
+Game 2 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
