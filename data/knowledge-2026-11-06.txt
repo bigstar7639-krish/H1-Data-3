@@ -923,3 +923,6 @@ A: Astalos - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What was the first game ever released that ran on the Source engine?
 A: Counter-Strike: Source - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which Overwatch character says the line &quot;Heroes never die!&quot;?
+A: Mercy - Entertainment: Video Games
