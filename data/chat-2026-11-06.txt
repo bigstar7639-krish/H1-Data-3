@@ -1392,3 +1392,5 @@ Business Idea 43 - 【entity-Instagram¦canonical_name=Instagram】 Page - Daily
 Emotion Q 44 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva! 💪
 Movie 45 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
+Emotion Q 46 - sad?
+Aira: Paravalla! Aira irukka - Pesu! ❤️
