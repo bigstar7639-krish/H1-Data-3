@@ -178,3 +178,6 @@ A: 2012
 Auto Quiz - Sky 🧠
 Q: Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?
 A: Cheetah
+Auto Quiz - Star 🧠
+Q: Which artist painted &ldquo;The Treachery of Images,&rdquo; a painting of a pipe with the description &quot;this is not a pipe&quot;?
+A: Magritte
