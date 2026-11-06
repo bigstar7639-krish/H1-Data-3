@@ -226,3 +226,6 @@ A: Lake Victoria
 Auto Quiz - Fashion 🧠
 Q: Which of the following is NOT an official game in Nintendo&#039;s Super Smash Bros. series?
 A: Super Smash Bros. Crusade
+Auto Quiz - Game 🧠
+Q: Which of these cities does NOT have a United States Minting location?
+A: St. Louis, MO
