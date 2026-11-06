@@ -1206,3 +1206,6 @@ A: NovodeX - Science: Computers
 Knowledge Quiz 🧠
 Q: In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?
 A: Green Flu - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which one of the following musical instruments is NOT a part of the Woodwind section?
+A: Trumpet - Entertainment: Music
