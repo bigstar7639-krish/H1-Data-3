@@ -282,3 +282,6 @@ A: 30 - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?
 A: Empire State Building, United States - General Knowledge
+Knowledge Quiz 🧠
+Q: What animal is pictured on the logo of the automobile manufacturer Porsche?
+A: Horse - Vehicles
