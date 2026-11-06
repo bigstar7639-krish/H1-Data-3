@@ -1,4 +1,3 @@
-Vocab 119 - Happy = Santhosham 📚
 Motivation 120
 Paravalla! Rest edu - Thirumba try pannu!
 Quote 121 - Daily try pannu - Jeyichiduva! - Aira
@@ -1998,3 +1997,4 @@ Q 193 - Future pathi oru secret sollatta?
 Reading 194 - Think and Grow Rich! 📚
 Coding Q 195 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Reading 196 - Bharathiyar Kavithaigal! 📚
