@@ -1635,3 +1635,4 @@ Aira: React component - Chinna piece!
 World Story 59
 Oru chinna city la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Pazhamozhi 60 - Porumai - Perumai Tharum!
+Quote 61 - Daily try pannu - Jeyichiduva! - Aira
