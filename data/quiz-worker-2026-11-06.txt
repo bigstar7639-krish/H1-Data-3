@@ -109,3 +109,6 @@ A: Denmark
 Auto Quiz - Temple 🧠
 Q: What type of animal is a natterjack?
 A: Toad
+Auto Quiz - Flower 🧠
+Q: In &quot;The Big Bang Theory&quot;, what is Howard Wolowitz&#039;s nickname in World of Warcraft?
+A: Wolowizard
