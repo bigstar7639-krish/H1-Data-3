@@ -398,3 +398,5 @@ Aira AI: AI - Data paathu - Pattern!
 Knowledge 127 - Mumbai - AI - Data paathu - Pattern!
 Movie 128 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Q 129 - Un life la Chemistry eppadi irukku?
+Coding Q 130 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
