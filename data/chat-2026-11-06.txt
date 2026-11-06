@@ -1,4 +1,3 @@
-Motivation 290
 Paravalla! Rest edu - Thirumba try pannu!
 Reading 291 - Think and Grow Rich! 📚
 Q 292 - Unakku Meditation pathi enna theriyum?
@@ -1998,3 +1997,4 @@ Motivation 378
 Paravalla! Rest edu - Thirumba try pannu!
 Coding Q 379 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Fact 12 - Honey - 3000 varusham kedathu!
