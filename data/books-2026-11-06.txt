@@ -40,3 +40,4 @@ mar - comunalism-ransubhe_202606 - जमातवाद : समज गैर�
 mar - in.gazette.maharashtra.2020-03-12.Ordinary_CENTRAL-SECTION_Part-two-suppliment- - Maharashtra Gazette, 2020-03-12, Ordinary, Part two (suppliment)
 kor - chosun-ilbo-1927.03.29m - 朝鮮日報 1927.03.29m
 kor - chosun-ilbo-1923.09.22e - 朝鮮日報 1923.09.22e
+chi - xinminbao-nanjing-1934.06.15 - 新民報 (南京) 1934.06.15
