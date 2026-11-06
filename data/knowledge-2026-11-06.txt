@@ -950,3 +950,6 @@ A: Gladiator - Entertainment: Film
 Knowledge Quiz 🧠
 Q: What is the Capital of the United States?
 A: Washington, D.C. - Geography
+Knowledge Quiz 🧠
+Q: Who played the Waitress in the Spam sketch of &quot;Monty Python&#039;s Flying Circus&quot;?
+A: Terry Jones - Entertainment: Television
