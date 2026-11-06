@@ -660,3 +660,6 @@ A: Pyrenees - Geography
 Knowledge Quiz 🧠
 Q: Who painted the painting &quot;Nighthawks&quot;?
 A: Edward Hopper - Art
+Knowledge Quiz 🧠
+Q: At what temperature does water boil?
+A: 212&deg;F - Science &amp; Nature
