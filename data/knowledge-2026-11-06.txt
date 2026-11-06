@@ -397,3 +397,6 @@ A: V = I*R - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: What is the name of Broadway&#039;s first &quot;long-run&quot; musical?
 A: The Elves - Entertainment: Musicals &amp; Theatres
+Knowledge Quiz 🧠
+Q: What are the first 6 digits of the number &quot;Pi&quot;?
+A: 3.14159 - Science: Mathematics
