@@ -752,3 +752,6 @@ A: Crab - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Who is the creator of the Super Smash Bros. Series?
 A: Masahiro Sakurai - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: When was the programming language &quot;C#&quot; released?
+A: 2000 - Science: Computers
