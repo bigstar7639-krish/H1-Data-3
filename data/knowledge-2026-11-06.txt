@@ -926,3 +926,6 @@ A: Counter-Strike: Source - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Which Overwatch character says the line &quot;Heroes never die!&quot;?
 A: Mercy - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which of these is a semiconductor amplifying device?
+A: transistor - Science &amp; Nature
