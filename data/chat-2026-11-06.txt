@@ -442,3 +442,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Thirukkural 147 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Fact 4 - Octopus ku 3 heart!
 Movie 149 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
+Smart Q 150 - Physics la eppadi jeyikkarathu?
