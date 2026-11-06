@@ -1370,3 +1370,4 @@ Why bike sad? Petrol illa!
 Talk 27 - React pathi pesalama? Sollu! 💬
 Coding Q 28 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Vocab 29 - Peace = Amaithi 📚
