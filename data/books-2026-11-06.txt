@@ -37,3 +37,4 @@ kan - in.gazette.karnataka_eo.2020-11-07.DPAR73GAM20194 - Karnataka ExtraOrdinar
 kan - in.gazette.karnataka_d.2022-01-29.3607 - Karnataka Daily Gazette, 2022-01-29, Daily
 kan - in.gazette.karnataka_eo.2020-08-06.102 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
 mar - comunalism-ransubhe_202606 - जमातवाद : समज गैरसमज
+mar - in.gazette.maharashtra.2020-03-12.Ordinary_CENTRAL-SECTION_Part-two-suppliment- - Maharashtra Gazette, 2020-03-12, Ordinary, Part two (suppliment)
