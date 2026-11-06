@@ -1613,3 +1613,6 @@ A: Daniel Johns - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Which of these artists did NOT feature in the fitfh studio album &quot;Humanz&quot; by British virtual band Gorillaz?
 A: Snoop Dogg - Entertainment: Music
+Knowledge Quiz 🧠
+Q: Who assassinated President James A. Garfield?
+A: Charles Guiteau - History
