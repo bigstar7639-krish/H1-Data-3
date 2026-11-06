@@ -872,3 +872,5 @@ Movie 340 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Vocab 341 - Kindness = Anbu 📚
 Reading 342 - 【entity-Harry Potter¦canonical_name=Harry Potter】! 📚
 Recipe 343 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
+Motivation 344
+Paravalla! Rest edu - Thirumba try pannu!
