@@ -305,3 +305,5 @@ Q 89 - Unakku Friendship pathi enna theriyum?
 Vocab 90 - Friend = Nanban 📚
 Smart Q 91 - Law la eppadi jeyikkarathu?
 Quote 92 - Daily try pannu - Jeyichiduva! - Aira
+Joke 93
+Why bike sad? Petrol illa!
