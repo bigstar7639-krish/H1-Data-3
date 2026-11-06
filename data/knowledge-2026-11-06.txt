@@ -347,3 +347,6 @@ A: James Potter - Entertainment: Books
 Knowledge Quiz 🧠
 Q: What is the capital of Ecuador?
 A: Quito - Geography
+Knowledge Quiz 🧠
+Q: What was the name of the first MMORPG to popularize the genre?
+A: Ultima Online - Entertainment: Video Games
