@@ -124,3 +124,6 @@ A: Owen Hart
 Auto Quiz - Moon 🧠
 Q: The medical condition osteoporosis affects which part of the body?
 A: Bones
+Auto Quiz - Sun 🧠
+Q: Five dollars is worth how many nickels?
+A: 100
