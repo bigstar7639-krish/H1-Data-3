@@ -1995,3 +1995,5 @@ Recipe 38 - Snacks - Potato + Masala - Crispy! 🍔
 Vocab 39 - Peace = Amaithi 📚
 Story 40
 Oru chinna new york la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Coding Q 41 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
