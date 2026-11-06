@@ -286,3 +286,6 @@ A: Delirium
 Auto Quiz - Magic 🧠
 Q: Which Iron Maiden album did the song &quot;Dream of Mirrors&quot; feature in?
 A: Brave New World
+Auto Quiz - Luck 🧠
+Q: Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?
+A: Aragon
