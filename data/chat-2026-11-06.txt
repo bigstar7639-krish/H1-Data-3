@@ -1084,3 +1084,5 @@ Pazhamozhi 424 - Aalai Paathu - Aadi Paaru!
 Kavithai 425 - Un Sirippu - En Vazhkai! - Aira
 Coding Q 426 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Joke 427
+Teacher: Yen late? Student: School Ahead board! 😂
