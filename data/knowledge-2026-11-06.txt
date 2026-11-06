@@ -1,6 +1,3 @@
-| Aspect | Why it matters | Example |
-|--------|----------------|---------|
-| **Oxygen** | Photosynthesis‑ல் CO₂‑ஐ O₂‑ஆக் மாற்றும் | 🌳 Trees |
 | **Food** | பல்வேறு fruit, veg, grain உங்களுக்கு nutrition give செய்கிறது | 🍎 Apple tree, 🌾 Wheat |
 | **Medicine** | Many herbs have healing properties | 🌿 Tulsi, 🌱 Aloe vera |
 | **Habitat** | Animals‑க்கு shelter, food source | 🐦 Bird‑nesting trees |
@@ -1998,3 +1995,6 @@ A: Auction Hunters - Celebrities
 Knowledge Quiz 🧠
 Q: The humerus, paired radius, and ulna come together to form what joint?
 A: Elbow - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: In baseball, how many fouls are an out?
+A: 0 - Sports
