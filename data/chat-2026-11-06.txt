@@ -1382,3 +1382,4 @@ World Story 35
 Oru chinna delhi la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Recipe 36 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
 Movie 37 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
+Kavithai 38 - Un Kural - En Isai! - Aira
