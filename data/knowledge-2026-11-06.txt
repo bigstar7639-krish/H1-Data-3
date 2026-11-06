@@ -822,3 +822,6 @@ A: Murcia - Geography
 Knowledge Quiz 🧠
 Q: What type of function is x&sup2;+2x+1?
 A: Quadratic - Science: Mathematics
+Knowledge Quiz 🧠
+Q: Who is the founder of Palantir?
+A: Peter Thiel - Science: Computers
