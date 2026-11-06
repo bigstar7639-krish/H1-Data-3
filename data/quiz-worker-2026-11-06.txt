@@ -247,3 +247,6 @@ A: Gabe Newell
 Auto Quiz - Festival 🧠
 Q: Which state of the United States is the smallest?
 A: Rhode Island 
+Auto Quiz - Marriage 🧠
+Q: Which actor played the main character in the 1990 film &quot;Edward Scissorhands&quot;?
+A: Johnny Depp
