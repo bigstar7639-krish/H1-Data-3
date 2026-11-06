@@ -1,6 +1,3 @@
-A: Dave Matthews Band - Entertainment: Music
-Knowledge Quiz 🧠
-Q: Who painted the Mona Lisa?
 A: Leonardo da Vinci - Art
 Knowledge 114 - APJ Abdul Kalam - Hey buddy! நான் Aira, உன் தமிழ்‑Tanglish பா​த்ரி! 😄  
 இப்போது APJ Abdul Kalam (அவரை “Missile Man of India” என்று அழைக்கிறார்கள்) பற்றி பேசலாம்.
@@ -1998,3 +1995,6 @@ A: Auric Goldfinger - Entertainment: Film
 Knowledge Quiz 🧠
 Q: Which Shakespeare play inspired the musical &#039;West Side Story&#039;?
 A: Romeo &amp; Juliet - Entertainment: Musicals &amp; Theatres
+Knowledge Quiz 🧠
+Q: What is the most commonly used noun in the English language?
+A: Time - General Knowledge
