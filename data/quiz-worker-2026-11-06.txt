@@ -49,3 +49,6 @@ A: Ruby
 Auto Quiz - River 🧠
 Q: What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?
 A: Gopher
+Auto Quiz - Sky 🧠
+Q: Which Overwatch character says the line &quot;Heroes never die!&quot;?
+A: Mercy
