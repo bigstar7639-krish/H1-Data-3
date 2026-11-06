@@ -674,3 +674,4 @@ Coding Q 240 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 World Story 241
 Oru chinna village la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Talk 242 - Business pathi pesalama? Sollu! 💬
