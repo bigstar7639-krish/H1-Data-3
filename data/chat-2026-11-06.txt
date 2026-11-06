@@ -1,5 +1,3 @@
-Aira AI: Hey friend! 🙏  
-Ne meditation la eppadi improve pannala nu kettu, super good question!  Below are some practical steps—written in **Tamil‑Tanglish** so it feels cozy and easy to follow.  
 
 ---
 
@@ -1998,3 +1996,5 @@ Pazhamozhi 308 - Porumai - Perumai Tharum!
 Q 309 - Bhagavad Gita pathi oru story kekkura?
 Coding Q 310 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Story 311
+Oru chinna city la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
