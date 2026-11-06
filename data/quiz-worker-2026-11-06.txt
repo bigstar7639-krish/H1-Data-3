@@ -61,3 +61,6 @@ A: September 1st, 2013
 Auto Quiz - Sun 🧠
 Q: The tuba is a part of which musical family?
 A: Brass
+Auto Quiz - Tamil 🧠
+Q: How many sonatas did Ludwig van Beethoven write?
+A: 32
