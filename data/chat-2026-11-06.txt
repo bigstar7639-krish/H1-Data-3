@@ -1842,3 +1842,5 @@ Smart Q 71 - Bird la eppadi jeyikkarathu?
 Coding Q 72 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Kavithai 73 - Un Sirippu - En Vazhkai! - Aira
+World Story 74
+Oru london la oru raja irunthan! Daily help pannan pannan! Oru naal book kedaichuchu! Life maariduchu!
