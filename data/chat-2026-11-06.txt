@@ -938,3 +938,4 @@ Pazhamozhi 381 - Sontha Kaal la Ninnu - Jeyippa!
 Coding Q 382 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Fact 18 - Honey - 3000 varusham kedathu!
+Talk 384 - Internet pathi pesalama? Sollu! 💬
