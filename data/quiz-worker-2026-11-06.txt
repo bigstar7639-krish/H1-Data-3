@@ -70,3 +70,6 @@ A: Earth
 Auto Quiz - God 🧠
 Q: What is the highest number of Michelin stars a restaurant can receive?
 A: Three
+Auto Quiz - Nature 🧠
+Q: In &quot;Jurassic World&quot;, what is the name of the dinosaur that is a genetic hybrid?
+A: Indominus Rex
