@@ -819,3 +819,6 @@ A: Puerto Rico - Entertainment: Music
 Knowledge Quiz 🧠
 Q: The following Spanish provinces are located in the northern area of Spain except:
 A: Murcia - Geography
+Knowledge Quiz 🧠
+Q: What type of function is x&sup2;+2x+1?
+A: Quadratic - Science: Mathematics
