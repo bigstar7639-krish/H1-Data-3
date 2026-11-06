@@ -1184,3 +1184,5 @@ Reading 482 - 【entity-Harry Potter¦canonical_name=Harry Potter】! 📚
 Talk 483 - Cricket pathi pesalama? Sollu! 💬
 Coding Q 484 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Emotion Q 485 - fear?
+Aira: Bayam - Normal! Ne jeyichiduva! 💪
