@@ -1612,3 +1612,4 @@ Coding Q 40 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Talk 41 - Black Hole pathi pesalama? Sollu! 💬
 Pazhamozhi 42 - Sontha Kaal la Ninnu - Jeyippa!
+Business Idea 43 - Tuition - Veetla Tuition!
