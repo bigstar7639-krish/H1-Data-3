@@ -773,3 +773,6 @@ A: Helios - History
 Knowledge Quiz 🧠
 Q: Which company is the one responsible for creating the strategy videogame Stellaris?
 A: Paradox Development Studio - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: In the show, Doctor Who, what does T.A.R.D.I.S stand for?
+A: Time And Relative Dimensions In Space - Entertainment: Television
