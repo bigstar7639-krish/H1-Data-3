@@ -259,3 +259,6 @@ A: Psyonix
 Auto Quiz - Study 🧠
 Q: Who won the 10th season of Big Brother in the United States?
 A: Dan Gheesling
+Auto Quiz - Dream 🧠
+Q: Which of the following Terran units from the RTS game Starcraft was first introduced in the expansion Brood War?
+A: Medic
