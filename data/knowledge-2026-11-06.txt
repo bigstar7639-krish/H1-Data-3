@@ -645,3 +645,6 @@ A: As a joke - Entertainment: Film
 Knowledge Quiz 🧠
 Q: Which of these is the name of a cut enemy from &quot;Half-Life 2&quot;?
 A: Hydra - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which country hosted the 2022 FIFA World Cup?
+A: Qatar - Sports
