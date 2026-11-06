@@ -1750,3 +1750,4 @@ World Story 31
 Oru chennai la oru singer irunthan! Daily travel pannan pannan! Oru naal love kedaichuchu! Life maariduchu!
 Movie 32 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Kavithai 33 - Un Kural - En Isai! - Aira
+Reading 34 - Python Crash Course! 📚
