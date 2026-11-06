@@ -1,5 +1,3 @@
-Motivation 28
-Paravalla! Rest edu - Thirumba try pannu!
 Pazhamozhi 29 - Sontha Kaal la Ninnu - Jeyippa!
 Vocab 30 - Dream = Kanavu 📚
 Knowledge 31 - Internet - Hey! Naan Aira, un friend‑a, Tamil‑Tanglish style‑la internet‑pathi solla poren. 😄  
@@ -1998,3 +1996,5 @@ Oru chinna sea la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana 
 World Story 88
 Oru chinna mountain la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Kavithai 89 - Un Sirippu - En Vazhkai! - Aira
+Coding Q 90 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
