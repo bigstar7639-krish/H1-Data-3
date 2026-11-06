@@ -1221,3 +1221,6 @@ A: Pistons - Vehicles
 Knowledge Quiz 🧠
 Q: Rhinoplasty is a surgical procedure on what part of the human body?
 A: Nose - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: How many voice channels does the Nintendo Entertainment System support natively?
+A: 5 - Entertainment: Video Games
