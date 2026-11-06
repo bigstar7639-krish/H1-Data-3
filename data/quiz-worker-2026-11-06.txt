@@ -193,3 +193,6 @@ A: Circumference
 Auto Quiz - Animal 🧠
 Q: Which small country is located between the borders of France and Spain?
 A: Andorra
+Auto Quiz - Baby 🧠
+Q: The map featured in Arma 3 named &quot;Altis&quot; is based off of what Greek island?
+A: Lemnos
