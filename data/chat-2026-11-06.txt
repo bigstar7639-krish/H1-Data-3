@@ -928,3 +928,4 @@ Quote 373 - Daily try pannu - Jeyichiduva! - Aira
 Recipe 374 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
 Smart Q 375 - Prayer la eppadi jeyikkarathu?
 Movie 376 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
+Movie 377 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
