@@ -542,3 +542,6 @@ Knowledge 285 - Movie - Hey buddy! 🎬
 Knowledge Quiz 🧠
 Q: Which country drives on the left side of the road?
 A: Japan - General Knowledge
+Knowledge Quiz 🧠
+Q: What do the video games No Man&rsquo;s Sky and Mighty No. 9 have in common?
+A: Both were announced in 2013. - Entertainment: Video Games
