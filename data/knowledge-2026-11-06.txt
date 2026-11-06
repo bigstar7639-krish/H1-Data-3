@@ -1524,3 +1524,6 @@ A: Africa - Geography
 Knowledge Quiz 🧠
 Q: Unix Time is defined as the number of seconds that have elapsed since when?
 A: Midnight, January 1, 1970 - Science: Computers
+Knowledge Quiz 🧠
+Q: Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?
+A: &quot;A rainy Lithuanian / Is dancing as an Indian&quot; - Entertainment: Music
