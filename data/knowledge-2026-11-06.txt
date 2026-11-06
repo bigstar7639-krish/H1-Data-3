@@ -1776,3 +1776,6 @@ A: DJ_Hyperfresh - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Who created the indie adventure game &quot;Night in the Woods&quot;?
 A: Alec Holowka - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What are the base station trackers used for the HTC Vive called?
+A: Lighthouse - Science: Gadgets
