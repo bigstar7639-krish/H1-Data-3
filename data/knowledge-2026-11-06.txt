@@ -391,3 +391,6 @@ A: November 4, 1952 - History
 Knowledge Quiz 🧠
 Q: Where is the Gluteus Maximus muscle located?
 A: Butt - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: What is the mathematical formula of Ohm&#039;s law?
+A: V = I*R - Science &amp; Nature
