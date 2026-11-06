@@ -125,3 +125,6 @@ A: 8 - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Integration is the reverse of what mathematical operation?
 A: Derivation - Science: Mathematics
+Knowledge Quiz 🧠
+Q: What is the name of the playable character in the 2018 video game Deltarune: Chapter 1?
+A: Kris - Entertainment: Video Games
