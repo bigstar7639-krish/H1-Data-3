@@ -1422,3 +1422,5 @@ Knowledge 59 - Animals - Hey buddy! 🐾 **Animals pathi** konjam “tanglish”
 | Birds | **பறவைகள்** (Paṟavaikaḷ) | Parrot, Eagle, Penguin | Most can **fly**, but penguins and ostriches are flightless. |
 | Reptiles | **புழுவிலா உயிரிகள்** (Puḻu vila uyirikaḷ) | Snake, Crocodile, Turtle | They are **cold‑blooded** – body temp depends on the environment. |
 | Amphibians | **இருமை உயிரிகள்** (Iruma uyirikaḷ) | Frog, Salamander | Live both in wate
+Coding Q 60 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
