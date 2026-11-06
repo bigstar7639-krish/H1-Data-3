@@ -223,3 +223,4 @@ Power - effectofthyroidp0000pent - the effect of thyroid power on the lethal dos
 Magic - behindmagiccurta0000nati - Behind the Magic Curtain; Eight Folk Scenes Originally Presented By the Junior Players of the Neighborhood Playhouse
 Magic - hidingmagicstory0000rayr - Hiding Magic: A Story of the Hidden Clans
 Luck - gov.uscourts.nysd.485982 - Luck v. Ward
+Luck - goodlucktroycoll00wend_0 - Good luck, Troy!
