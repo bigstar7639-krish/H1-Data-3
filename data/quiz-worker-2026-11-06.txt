@@ -121,3 +121,6 @@ A: Arcane + Shield
 Auto Quiz - Sky 🧠
 Q: Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?
 A: Owen Hart
+Auto Quiz - Moon 🧠
+Q: The medical condition osteoporosis affects which part of the body?
+A: Bones
