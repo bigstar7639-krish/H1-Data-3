@@ -1590,3 +1590,4 @@ Coding Q 25 - React la component enna?
 Aira: React component - Chinna piece!
 Game 26 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
 Reading 27 - 【entity-Harry Potter¦canonical_name=Harry Potter】! 📚
+Quote 28 - Daily try pannu - Jeyichiduva! - Aira
