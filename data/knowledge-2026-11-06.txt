@@ -1,6 +1,3 @@
-A: Kris - Entertainment: Video Games
-Knowledge Quiz 🧠
-Q: Which of these species is not extinct?
 A: Komodo dragon - Animals
 Knowledge Quiz 🧠
 Q: What does RAID stand for?
@@ -1998,3 +1995,6 @@ A: 187 - Entertainment: Board Games
 Knowledge Quiz 🧠
 Q: Blinky, Pinky, Inky and Clyde are characters from which classic video game?
 A: Pac-Man - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What alcoholic drink is mainly made from juniper berries?
+A: Gin - General Knowledge
