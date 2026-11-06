@@ -743,3 +743,6 @@ A: Clutch - General Knowledge
 Knowledge Quiz 🧠
 Q: What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?
 A: Wilson - Entertainment: Film
+Knowledge Quiz 🧠
+Q: How many controllers could a Nintendo GameCube have plugged in at one time?
+A: 4 - Entertainment: Video Games
