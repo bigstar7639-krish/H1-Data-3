@@ -1367,3 +1367,4 @@ Aira: App - Idea - Design - Code!
 Pazhamozhi 25 - Sontha Kaal la Ninnu - Jeyippa!
 Joke 26
 Why bike sad? Petrol illa!
+Talk 27 - React pathi pesalama? Sollu! 💬
