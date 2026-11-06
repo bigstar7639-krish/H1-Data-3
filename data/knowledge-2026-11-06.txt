@@ -692,3 +692,6 @@ A: Flowey - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Where are the Nazca Lines located?
 A: Peru - Geography
+Knowledge Quiz 🧠
+Q: In Magic: The Gathering, what card&#039;s flavor text is &quot;Catch!&quot;?
+A: Lava Axe - Entertainment: Board Games
