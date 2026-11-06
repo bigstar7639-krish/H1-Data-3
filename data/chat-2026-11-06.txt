@@ -1,5 +1,3 @@
-- **Family:** தீவுகளில் ஒரு சாதாரண மீனவர் குடும்பம். அப்பா *Jainulabdeen* (மீன் வியாபாரம்) & அம்மா *Ashiamma* (பள்ளி ஆசிரியர்).  
-- **Education:** Rameswaram‑இல் ப்ரைமரி, then *St. Joseph’s College* (Trichinopoly)‑இல் physics‑ஐப் படித்து, 1954‑‑ல் *Madras Institute of Technology*‑ல் aerospace engineering‑க்கு சேர்ந்து 1955‑ல் graduate ஆனார்.
 
 ## 2️⃣ பணிப் பயணம் – Career Highlights  
 
@@ -1998,3 +1996,5 @@ Game 181 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
 Emotion Q 182 - bored?
 Aira: Bored ah? Joke sollattuma? 😂
 Thirukkural 183 - Porumai - Periya Sakthi! - Thirukkural
+World Story 184
+Oru chinna madurai la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
