@@ -974,3 +974,6 @@ A: Africa - Geography
 Knowledge Quiz 🧠
 Q: The first game in the Touhou Project, &quot;Highly Responsive to Prayers&quot;, is part of which genre?
 A: Breakout/Arkanoid - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What is the atomic number of Uranium 
+A: 92 - Science &amp; Nature
