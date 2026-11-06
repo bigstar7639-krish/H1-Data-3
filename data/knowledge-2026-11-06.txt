@@ -1200,3 +1200,6 @@ A: Hammer throw - Sports
 Knowledge Quiz 🧠
 Q: The Battle of the Somme in World War I took place in which country?
 A: France - History
+Knowledge Quiz 🧠
+Q: Who is the original author of the realtime physics engine called PhysX?
+A: NovodeX - Science: Computers
