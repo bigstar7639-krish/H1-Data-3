@@ -1,6 +1,3 @@
-|------|------------------------|------------|
-| **1969** | DRDO‑இல் **Defence R
-Knowledge Quiz 🧠
 Q: Laserjet and inkjet printers are both examples of what type of printer?
 A: Non-impact printer - Science: Computers
 Knowledge Quiz 🧠
@@ -1998,3 +1995,6 @@ A: Jamestown - History
 Knowledge Quiz 🧠
 Q: What language does Node.js use?
 A: JavaScript - Science: Computers
+Knowledge Quiz 🧠
+Q: Which of these is not a world in the anime &quot;Buddyfight&quot;?
+A: Ancient Dragon World - Entertainment: Japanese Anime &amp; Manga
