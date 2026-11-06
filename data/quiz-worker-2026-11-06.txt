@@ -64,3 +64,6 @@ A: Brass
 Auto Quiz - Tamil 🧠
 Q: How many sonatas did Ludwig van Beethoven write?
 A: 32
+Auto Quiz - Love 🧠
+Q: What planet is not named after a Greek or Roman god?
+A: Earth
