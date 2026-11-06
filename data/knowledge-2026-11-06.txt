@@ -1,6 +1,3 @@
-
-## 2️⃣ Plant structure – எளிய விளக்கம்  
-
 ```
 Root (மூலங்கள்)  →  Stem (மூலம்)  →  Leaves (இலைகள்)  →  Flowers (பூக
 Knowledge Quiz 🧠
@@ -1998,3 +1995,6 @@ A: Esteem - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: What is the name of the virus that infected New York in Tom Clancy&#039;s The Division?
 A: Dollar Flu - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which James Bond film had the theme song written and performed by English singer-songwriter Adele?
+A: Skyfall - Entertainment: Film
