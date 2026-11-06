@@ -424,3 +424,6 @@ A: Gus Grissom - History
 Knowledge Quiz 🧠
 Q: What is the name of the city that The Flintstones is based in?
 A: Bedrock - Entertainment: Cartoon &amp; Animations
+Knowledge Quiz 🧠
+Q: How fast is USB 3.1 Gen 2 theoretically?
+A: 10 Gb/s - Science: Computers
