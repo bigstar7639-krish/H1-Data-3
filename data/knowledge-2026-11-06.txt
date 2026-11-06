@@ -1,7 +1,4 @@
 Knowledge Quiz 🧠
-Q: Which country gifted the Statue of Liberty to the United States of America?
-A: France - History
-Knowledge Quiz 🧠
 Q: Which of these bands was a featuring artist in Compton rapper Kendrick Lamar&#039;s 2017 album, &quot;DAMN.&quot;?
 A: U2 - Entertainment: Music
 Knowledge Quiz 🧠
@@ -1998,3 +1995,6 @@ A: Poison Potato - Entertainment: Japanese Anime &amp; Manga
 Knowledge Quiz 🧠
 Q: What was the wifi password given to Stephen Strange in Doctor Strange?
 A: Shambala - Entertainment: Film
+Knowledge Quiz 🧠
+Q: When was the Declaration of Independence approved by the Second Continental Congress?
+A: July 4, 1776 - General Knowledge
