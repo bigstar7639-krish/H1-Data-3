@@ -25,3 +25,6 @@ A: Swiss Air
 Auto Quiz - Dog 🧠
 Q: Which of these is NOT an Australian state or territory?
 A: Alberta
+Auto Quiz - Food 🧠
+Q: Guyana is in which continent?
+A: South America
