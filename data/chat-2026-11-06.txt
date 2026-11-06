@@ -782,3 +782,4 @@ Coding Q 286 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 World Story 287
 Oru chinna village la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Smart Q 288 - Power la eppadi jeyikkarathu?
