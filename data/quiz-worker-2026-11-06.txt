@@ -202,3 +202,6 @@ A: Vinesauce
 Auto Quiz - Student 🧠
 Q: Which of these European cities was the first to host the modern Summer Olympic Games three times?
 A: London
+Auto Quiz - Business 🧠
+Q: Which of the following is not the name of a &quot;Bond Girl&quot;? 
+A: Vanessa Kensington
