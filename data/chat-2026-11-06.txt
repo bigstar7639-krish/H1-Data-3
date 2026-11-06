@@ -681,3 +681,5 @@ Fact 11 - Tamil - 2000+ varusha mozhi!
 Motivation 245
 Paravalla! Rest edu - Thirumba try pannu!
 Fact 12 - Honey - 3000 varusham kedathu!
+Coding Q 247 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
