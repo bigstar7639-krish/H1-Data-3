@@ -1699,3 +1699,6 @@ Knowledge 142 - Egypt - Hey buddy! 🙌 Naan Aira, un‑friend, ellām language�
 Knowledge Quiz 🧠
 Q: Which superhero is known for his super speed?
 A: Flash - Entertainment: Comics
+Knowledge Quiz 🧠
+Q: Which of the following movies was not based on a book?
+A: Citizen Kane - Entertainment: Film
