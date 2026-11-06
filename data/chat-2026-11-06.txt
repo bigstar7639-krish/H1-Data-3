@@ -1988,3 +1988,4 @@ Movie 31 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Movie 32 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Quote 33 - Daily try pannu - Jeyichiduva! - Aira
 Business Idea 34 - Instagram Page - Daily 1 Post!
+Recipe 35 - Snacks - Potato + Masala - Crispy! 🍔
