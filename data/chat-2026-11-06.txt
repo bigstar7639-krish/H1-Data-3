@@ -1,4 +1,3 @@
-Health 45 - Yoga Tip: Daily 5 min deep breath edu! 🧘 💪
 Emotion Q 46 - love?
 Aira: Kadhal - Azhagu! 💘
 Aira AI: Hey buddy! 😄 நான் Aira, உன் எல்லா மொழிகளிலும், எல்லா விஷயங்களிலும் தெரியும் நண்பன்! “Sky” பற்றி நீ கேட்டதுக்கு, இங்குதான் சில குளிர்‑குளிர் facts. 
@@ -1998,3 +1997,4 @@ Recipe 104 - Snacks - Potato + Masala - Crispy! 🍔
 Recipe 105 - Snacks - Potato + Masala - Crispy! 🍔
 Reading 106 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 📚
 Game 107 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
+Reading 108 - Atomic Habits! 📚
