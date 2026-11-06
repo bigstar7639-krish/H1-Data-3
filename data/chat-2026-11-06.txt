@@ -1,5 +1,3 @@
-Talk 192 - London pathi pesalama? Sollu! 💬
-Health 193 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Story 194
 Oru chinna sea la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Smart Q 195 - Chemistry la eppadi jeyikkarathu?
@@ -1998,3 +1996,5 @@ Motivation 288
 Paravalla! Rest edu - Thirumba try pannu!
 Movie 289 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Smart Q 290 - APJ Abdul Kalam la eppadi jeyikkarathu?
+Emotion Q 291 - love?
+Aira: Kadhal - Azhagu! 💘
