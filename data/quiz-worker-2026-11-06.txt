@@ -37,3 +37,6 @@ A: Steve Buscemi
 Auto Quiz - Music 🧠
 Q: Who is the youngest person to receive a Nobel Prize?
 A: Malala Yousafzai
+Auto Quiz - Movie 🧠
+Q: Who voiced Finn in Adventure Time?
+A: Jeremy Shada
