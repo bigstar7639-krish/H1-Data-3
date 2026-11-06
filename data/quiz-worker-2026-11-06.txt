@@ -67,3 +67,6 @@ A: 32
 Auto Quiz - Love 🧠
 Q: What planet is not named after a Greek or Roman god?
 A: Earth
+Auto Quiz - God 🧠
+Q: What is the highest number of Michelin stars a restaurant can receive?
+A: Three
