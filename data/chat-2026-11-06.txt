@@ -1313,3 +1313,4 @@ World Story 544
 Oru paris la oru doctor irunthan! Daily padichan pannan! Oru naal friend kedaichuchu! Life maariduchu!
 Story 545
 Oru delhi la oru doctor irunthan! Daily pray pannaan pannan! Oru naal book kedaichuchu! Life maariduchu!
+Talk 1 - Cricket pathi pesalama? Sollu! 💬
