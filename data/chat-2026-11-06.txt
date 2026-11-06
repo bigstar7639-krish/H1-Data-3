@@ -1,4 +1,3 @@
-Story 419
 Oru chinna sea la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Thirukkural 420 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Quote 421 - Daily try pannu - Jeyichiduva! - Aira
@@ -1998,3 +1997,4 @@ Vocab 531 - Kindness = Anbu 📚
 Movie 532 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 World Story 533
 Oru village la oru raja irunthan! Daily try pannan pannan! Oru naal book kedaichuchu! Life maariduchu!
+Game 534 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
