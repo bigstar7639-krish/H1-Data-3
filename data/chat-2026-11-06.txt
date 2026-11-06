@@ -1,4 +1,3 @@
-
 **Confidence build panna simple steps:**  
 
 1. **Small wins collect pannunga**  
@@ -1998,3 +1997,4 @@ Movie 255 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Kavithai 256 - Un Sirippu - En Vazhkai! - Aira
 Movie 257 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Thirukkural 258 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Thirukkural 259 - Kattrathu - Kai Mann Alavu! - Thirukkural
