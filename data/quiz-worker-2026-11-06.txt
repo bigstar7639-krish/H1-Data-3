@@ -136,3 +136,6 @@ A: Iron
 Auto Quiz - Tamil 🧠
 Q: What album did Bon Iver release in 2016?
 A: 22, A Million
+Auto Quiz - Love 🧠
+Q: In the &quot;Halo&quot; series, what is the name of the race of aliens humans refer to as &quot;Grunts&quot;?
+A: Unggoy
