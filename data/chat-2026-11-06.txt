@@ -1395,3 +1395,4 @@ Movie 45 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Emotion Q 46 - sad?
 Aira: Paravalla! Aira irukka - Pesu! ❤️
 Kavithai 47 - Un Sirippu - En Vazhkai! - Aira
+Smart Q 48 - Business la eppadi jeyikkarathu?
