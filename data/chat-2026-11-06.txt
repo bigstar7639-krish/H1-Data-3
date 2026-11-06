@@ -1628,3 +1628,5 @@ Vocab 54 - Friend = Nanban 📚
 Coding Q 55 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Game 56 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
+World Story 57
+Oru madurai la oru raja irunthan! Daily padichan pannan! Oru naal dream kedaichuchu! Life maariduchu!
