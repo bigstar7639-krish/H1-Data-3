@@ -959,3 +959,6 @@ A: Quebec City - Sports
 Knowledge Quiz 🧠
 Q: What is the only Millennium Prize Problem that has been solved so far?
 A: Poincar&eacute; conjecture - Science: Mathematics
+Knowledge Quiz 🧠
+Q: In &quot;Star Trek&quot;, what sauce is commonly used by Klingons on bregit lung?
+A: Grapok sauce - Entertainment: Television
