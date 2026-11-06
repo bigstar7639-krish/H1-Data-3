@@ -1,4 +1,3 @@
-| **Syntax** | Clear‑cut, a bit “formal” – like a well‑written **Tamil poem** with strict meter. | Easy to read, maintain, and debug. |
 | **Portability** | “Write once, run everywhere” – just like a **முட்டை** (egg) that works in any kitchen. | The JVM (Java Virtual Machine) abstracts the OS, so the same `.class` files run on Windows, Linux, macOS, Android, etc. |
 | **Ecosystem** | A massive **மெட்ட்ரோ** (metro) of libraries, frameworks, and tools: Spring, Hibernate, Maven, Gradle, Android SDK… | Whateve
 Reading 187 - Think and Grow Rich! 📚
@@ -1998,3 +1997,4 @@ Reading 280 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 📚
 Smart Q 281 - Coding la eppadi jeyikkarathu?
 Emotion Q 282 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva! 💪
+Game 283 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
