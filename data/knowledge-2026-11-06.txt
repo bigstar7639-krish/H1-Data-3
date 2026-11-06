@@ -1779,3 +1779,6 @@ A: Alec Holowka - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What are the base station trackers used for the HTC Vive called?
 A: Lighthouse - Science: Gadgets
+Knowledge Quiz 🧠
+Q: Which one of these rulers did not belong to the Habsburg dynasty?
+A: Philip V - History
