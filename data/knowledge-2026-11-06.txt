@@ -657,3 +657,6 @@ A: 456 ft - General Knowledge
 Knowledge Quiz 🧠
 Q: What mountain range lines the border between Spain and France?
 A: Pyrenees - Geography
+Knowledge Quiz 🧠
+Q: Who painted the painting &quot;Nighthawks&quot;?
+A: Edward Hopper - Art
