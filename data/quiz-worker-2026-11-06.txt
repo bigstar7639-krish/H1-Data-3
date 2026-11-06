@@ -160,3 +160,6 @@ A: Amy
 Auto Quiz - Story 🧠
 Q: Which of these is NOT a Disney cartoon character?
 A: Daffy Duck
+Auto Quiz - Health 🧠
+Q: What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? 
+A: Polio
