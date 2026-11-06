@@ -52,3 +52,4 @@ Game 307 - Coin Toss - Ne Toss nu Sollu! 🎮
 Game 321 - Dice - Ne Dice nu Sollu! 🎮
 Game 346 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Game 350 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
+Game 434 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮
