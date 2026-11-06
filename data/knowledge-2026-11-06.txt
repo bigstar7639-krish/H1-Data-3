@@ -1,6 +1,3 @@
-- Himalayas (north) → Thar Desert (west) → Western & Eastern Ghats (south).
-
-### 🗣️ Languages & Culture
 Knowledge Quiz 🧠
 Q: Who was the first female protagonist in a video game?
 A: Samus Aran - Entertainment: Video Games
@@ -1998,3 +1995,6 @@ A: Venus - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: Which of the following characters is NOT playable in &quot;Resident Evil 6&quot;?
 A: Jill Valentine - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: How many players are there in an association football/soccer team?
+A: 11 - Sports
