@@ -1,6 +1,4 @@
 
-## Internet‑oda Basic Overview  
-
 - **What is it?**  
   Internet‑na, oru **global network** of millions of computers, servers, routers, smartphones etc. Oru **“world‑wide web”** madhiri. Ithu data‑ packets‑a send‑pannuthu, receive‑pannuthu, and we can browse, chat, stream, shop, learn – ellam one click‑la.
 
@@ -1998,3 +1996,5 @@ Recipe 92 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
 Reading 93 - Ramayana! 📚
 Business Idea 94 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
 Talk 95 - Prayer pathi pesalama? Sollu! 💬
+Motivation 96
+Paravalla! Rest edu - Thirumba try pannu!
