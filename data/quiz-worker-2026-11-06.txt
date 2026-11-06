@@ -28,3 +28,6 @@ A: Alberta
 Auto Quiz - Food 🧠
 Q: Guyana is in which continent?
 A: South America
+Auto Quiz - Space 🧠
+Q: What is the name given to Indian food cooked over charcoal in a clay oven?
+A: Tandoori
