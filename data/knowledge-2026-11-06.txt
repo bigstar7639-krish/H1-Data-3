@@ -1360,3 +1360,6 @@ A: 1986 - Sports
 Knowledge Quiz 🧠
 Q: What is the SI unit for resistance?
 A: Ohms - Science: Gadgets
+Knowledge Quiz 🧠
+Q: In programming, the ternary operator is mostly defined with what symbol(s)?
+A: ?: - Science: Computers
