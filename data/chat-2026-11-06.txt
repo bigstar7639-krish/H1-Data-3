@@ -1581,3 +1581,4 @@ Mullai swayed gently, releasing a sweet fragrance that wrapped around Arun like 
 Vocab 18 - Kindness = Anbu 📚
 Coding Q 19 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Talk 20 - Dog pathi pesalama? Sollu! 💬
