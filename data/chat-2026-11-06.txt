@@ -1170,3 +1170,5 @@ Teacher: Yen late? Student: School Ahead board! 😂
 Kavithai 472 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Movie 473 - Jailer - Rajini - Mass! 🎬
 Thirukkural 474 - Porumai - Periya Sakthi! - Thirukkural
+Coding Q 475 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
