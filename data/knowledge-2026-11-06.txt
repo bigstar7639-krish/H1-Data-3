@@ -1711,3 +1711,6 @@ A: Knee - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: Who is the original author of the realtime physics engine called PhysX?
 A: NovodeX - Science: Computers
+Knowledge Quiz 🧠
+Q: Which of the following is not in the Indo-European language family?
+A: Finnish - History
