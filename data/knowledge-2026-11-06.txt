@@ -825,3 +825,6 @@ A: Quadratic - Science: Mathematics
 Knowledge Quiz 🧠
 Q: Who is the founder of Palantir?
 A: Peter Thiel - Science: Computers
+Knowledge Quiz 🧠
+Q: What&#039;s the famous line Vaas says in &quot;Far Cry 3&quot;?
+A: Did I ever tell you the definition of Insanity? - Entertainment: Video Games
