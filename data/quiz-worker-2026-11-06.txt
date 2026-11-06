@@ -1,3 +1,6 @@
 Auto Quiz - Tamil 🧠
 Q: Which Batman sidekick is the son of Talia al Ghul?
 A: Damian Wayne
+Auto Quiz - Love 🧠
+Q: What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?
+A: Dunning-Kruger effect
