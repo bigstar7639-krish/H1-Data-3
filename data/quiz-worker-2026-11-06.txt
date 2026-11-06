@@ -199,3 +199,6 @@ A: Lemnos
 Auto Quiz - Teacher 🧠
 Q: Which Twitch streamer is the vocalist for Red Vox?
 A: Vinesauce
+Auto Quiz - Student 🧠
+Q: Which of these European cities was the first to host the modern Summer Olympic Games three times?
+A: London
