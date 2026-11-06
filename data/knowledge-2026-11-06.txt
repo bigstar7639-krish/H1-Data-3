@@ -1294,3 +1294,6 @@ A: Red Lobster - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Who created &quot;RWBY&quot;?
 A: Monty Oum - Entertainment: Cartoon &amp; Animations
+Knowledge Quiz 🧠
+Q: Automobiles produced by Tesla Motors operate on which form of energy?
+A: Electricity - Vehicles
