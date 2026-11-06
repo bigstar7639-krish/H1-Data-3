@@ -1810,3 +1810,6 @@ Knowledge 226 - AI - AI - Data paathu - Pattern!
 Knowledge Quiz 🧠
 Q: The main protagonist of the fifth part of JoJo&#039;s Bizarre Adventure is which of the following?
 A: Giorno Giovanna - Entertainment: Japanese Anime &amp; Manga
+Knowledge Quiz 🧠
+Q: Which of the following names is the &quot;Mega Man&quot; Franchise known as in Japan?
+A: Rockman - Entertainment: Video Games
