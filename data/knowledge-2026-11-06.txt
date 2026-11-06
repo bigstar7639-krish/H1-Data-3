@@ -1351,3 +1351,6 @@ A: Overlay at least 2 Monsters of the Same Level - Entertainment: Board Games
 Knowledge Quiz 🧠
 Q: Who was the original author of Frankenstein?
 A: Mary Shelley - Entertainment: Books
+Knowledge Quiz 🧠
+Q: What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;
+A: Falcon - Entertainment: Books
