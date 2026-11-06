@@ -262,3 +262,6 @@ A: Dan Gheesling
 Auto Quiz - Dream 🧠
 Q: Which of the following Terran units from the RTS game Starcraft was first introduced in the expansion Brood War?
 A: Medic
+Auto Quiz - Success 🧠
+Q: Which song is not by TheFatRat?
+A: Ascent
