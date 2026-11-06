@@ -322,3 +322,6 @@ A: Super Smash Bros.
 Auto Quiz - Paris 🧠
 Q: Which school in Surrey, England did Steve Backshall attend?
 A: Collingwood College
+Auto Quiz - Tokyo 🧠
+Q: What scientific suborder does the family Hyaenidae belong to?
+A: Feliformia
