@@ -1409,3 +1409,16 @@ Vocab 56 - Courage = Thairiyam 📚
 Thirukkural 57 - Porumai - Periya Sakthi! - Thirukkural
 Story 58
 Oru forest la oru raja irunthan! Daily dream pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
+Knowledge 59 - Animals - Hey buddy! 🐾 **Animals pathi** konjam “tanglish” style‑la pesalaam, so that it feels fun and friendly. 🙌
+
+---
+
+## 1. Animals eppadi categorize panraanga?  
+**Classification** – 6 main groups:
+
+| Group | Tamil name | Example (English) | Fun fact |
+|-------|------------|-------------------|----------|
+| Mammals | **உயிர் பாலூட்டிகள்** (Uyir pālūṭṭikaḷ) | Elephant, Tiger, Human | All mammals have **hair** and **milk** for babies. |
+| Birds | **பறவைகள்** (Paṟavaikaḷ) | Parrot, Eagle, Penguin | Most can **fly**, but penguins and ostriches are flightless. |
+| Reptiles | **புழுவிலா உயிரிகள்** (Puḻu vila uyirikaḷ) | Snake, Crocodile, Turtle | They are **cold‑blooded** – body temp depends on the environment. |
+| Amphibians | **இருமை உயிரிகள்** (Iruma uyirikaḷ) | Frog, Salamander | Live both in wate
