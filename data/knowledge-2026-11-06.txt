@@ -1,6 +1,3 @@
-A: Derivation - Science: Mathematics
-Knowledge Quiz 🧠
-Q: What is the name of the playable character in the 2018 video game Deltarune: Chapter 1?
 A: Kris - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Which of these species is not extinct?
@@ -1998,3 +1995,6 @@ A: Crescent Rose - Entertainment: Cartoon &amp; Animations
 Knowledge Quiz 🧠
 Q: What is the sum of all the tiles in a standard box of Scrabble?
 A: 187 - Entertainment: Board Games
+Knowledge Quiz 🧠
+Q: Blinky, Pinky, Inky and Clyde are characters from which classic video game?
+A: Pac-Man - Entertainment: Video Games
