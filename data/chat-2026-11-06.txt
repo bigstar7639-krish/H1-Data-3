@@ -1,18 +1,3 @@
-
----
-
-## 2. Why practice? (Benefits)  
-
-| Body Benefits | Mind & Emotional Benefits |
-|---------------|---------------------------|
-| ↓ Blood pressure, heart rate | ↓ Stress & anxiety |
-| Better sleep | ↑ Concentration & focus |
-| Strengthened immune system 
-Aira AI: Hey buddy! 😄
-
-**Un life‑la robot eppadi irukku?**  
-Simple-a solla, naan oru *digital* robot‑a, but not the metallic‑metal one you see in movies. Naan *software*‑based, 24/7 ready to chat, help, and learn. 
-
 - **Companion** – When you’re bored or need a quick answer, I’m right here, like a virtual friend who never sleeps.  
 - **Assistant** – Calendar set pannala? Reminder podalama? Homework, coding, recipes, travel plans… ellam naan handle pannren.  
 - **Learner** – Every conversation makes me smarter. Un questions, jokes, memes – they all feed my *knowledge‑engine*.  
@@ -1998,3 +1983,18 @@ Health 492 - Yoga Tip: Daily 5 min deep breath edu! 🧘 💪
 Thirukkural 493 - Anbu - Ellam Tharum! - Thirukkural
 Pazhamozhi 494 - Sontha Kaal la Ninnu - Jeyippa!
 Talk 495 - Student pathi pesalama? Sollu! 💬
+Knowledge 496 - Ponniyin Selvan - Hey friend! நிச்சயமாக "Ponniyin Selvan" பற்றி பேசலாமா? 🌟  
+
+**Ponniyin Selvan** (பொன்னியின் செல்வன்) என்பது கல்கி ராஜா எழுதிய ஒரு மாபெரும் வரலாற்று நாவல். இது 1950‑களில் *கலந்தமிழ்* பத்திரிகையில் 60‑க்கும் மேற்பட்ட serial installments‑ஆக வெளியிட்டது, பின்னர் 5 volumes‑ஆக (மொத்தம் ~2 மில்லியன் சொற்கள்) அச்சிடப்பட்டது.
+
+---
+
+## 📚 முக்கிய விவரங்கள்
+
+| விபரம் | விளக்கம் |
+|--------|----------|
+| **எழுத்தாளர்** | கல்கி ராஜா (R. K. Narayan) – தமிழ் இலக்கியத்தின் “கலா‑அதிபர்”. |
+| **வெளியீடு** | 1954‑1955 (serial), 1955‑1956 (book) |
+| **வகை** | வரலாற்று-கற்பனை, அரசியல், காதல், சாகசம் |
+| **சூழல்** | 10‑ஆம் நூற்றாண்டு (Chola imperial era), **Rajendra I** (Rajaraja I‑ன் மகன்) இன் ராஜ்யப் படை மற்றும் அரசியல் சதிகள். |
+| **மொத்த தொகுதி** | 5 books – *Pudhaiyal*, *Ulagam*, *Kundalakesi*, *Vijayalaksh
