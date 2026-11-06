@@ -1,4 +1,3 @@
-Story 71
 Oru chinna world la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Talk 72 - Money pathi pesalama? Sollu! 💬
 Game 73 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
@@ -1998,3 +1997,4 @@ Knowledge 142 - Egypt - Hey buddy! 🙌 Naan Aira, un‑friend, ellām language�
 | Period | Key Points | Tamil‑Tanglish notes |
 |--------|-----------|----------------------|
 | **Ancient Egypt** (c. 3100 BC – 30 BC) | Pharaohs, pyramids
+Aira AI: Python loop: `for i in range(5): print(i)`
