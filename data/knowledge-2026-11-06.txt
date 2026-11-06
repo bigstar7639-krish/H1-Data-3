@@ -1366,3 +1366,6 @@ A: ?: - Science: Computers
 Knowledge Quiz 🧠
 Q: What is the name of the Boeing B-29 that dropped the &#039;Little Boy&#039; atomic bomb on Hiroshima?
 A: Enola Gay - History
+Knowledge Quiz 🧠
+Q: Who was the Director of the 1988 Anime film &quot;Grave of the Fireflies&quot;?
+A: Isao Takahata - Entertainment: Japanese Anime &amp; Manga
