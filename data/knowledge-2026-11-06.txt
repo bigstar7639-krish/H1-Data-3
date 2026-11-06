@@ -1746,3 +1746,6 @@ A: For Blood And Empire - Entertainment: Music
 Knowledge Quiz 🧠
 Q: The board game Monopoly takes its street names from which real American city?
 A: Atlantic City, New Jersey - Entertainment: Board Games
+Knowledge Quiz 🧠
+Q: What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?
+A: Cherry - Vehicles
