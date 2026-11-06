@@ -463,3 +463,6 @@ A: 12 - Entertainment: Television
 Knowledge Quiz 🧠
 Q: America Online (AOL) started out as which of these online service providers?
 A: Quantum Link - Science: Computers
+Knowledge Quiz 🧠
+Q: In &quot;Overwatch&quot;, how much health does Roadhog&#039;s &quot;Take a Breather&quot; ability recover?
+A: 300 - Entertainment: Video Games
