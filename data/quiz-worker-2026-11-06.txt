@@ -4,3 +4,6 @@ A: Damian Wayne
 Auto Quiz - Love 🧠
 Q: What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?
 A: Dunning-Kruger effect
+Auto Quiz - God 🧠
+Q: What year was O.J. Simpson aquitted of his murder charges?
+A: 1995
