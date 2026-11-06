@@ -1215,3 +1215,6 @@ A: 13 - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What is the German word for &quot;spoon&quot;?
 A: L&ouml;ffel - General Knowledge
+Knowledge Quiz 🧠
+Q: What are the cylinder-like parts that pump up and down within the engine?
+A: Pistons - Vehicles
