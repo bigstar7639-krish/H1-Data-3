@@ -106,3 +106,6 @@ A: Recess
 Auto Quiz - Movie 🧠
 Q: Which of the following nations was NOT a belligerent in World War I?
 A: Denmark
+Auto Quiz - Temple 🧠
+Q: What type of animal is a natterjack?
+A: Toad
