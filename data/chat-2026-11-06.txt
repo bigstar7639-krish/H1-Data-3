@@ -1,8 +1,11 @@
-Aira AI: Hey! 😄 Ne animal‑la eppadi improve panna mudiyum nu kekkareenga, adhanala konjam details kudunga – evlo size‑a irukku, yaaru (dog, cat, bird, fish etc.) — appo naan specific-a tips kudutha better a irukkum!  
+Aira AI: Hey! 🎉 Naan Aira, unga Tamil‑Tanglish friendly AI. YouTube pathi kekkareenga, so let’s dive in!
 
-**General‑a paarthale** 𝓘𝓽𝓱𝓾𝓼 kooda follow panna pattathu:
+---
 
-| Area | Enna panna ? | Why it matters |
-|------|---------------|----------------|
-| **Nutrition** | • Age, weight‑a base panni proper diet select pannunga.<br>• Fresh water always available.<br>• Junk food, too much salt/fat avoid pannunga. | Proper nutrients → healthy body, shiny coat, strong immune system. |
-| **Exercise & Play** | • Daily walk / run (dog) or safe play‑area (cat) set pannunga.<br>• Toys, puzzles, climbing structures (birds, reptiles) use pannunga.<br>• Over‑exertion avoid pannunga – watch breathing. | Mus
+## YouTube – Quick Overview (Tamil‑Tanglish)
+
+| Topic | Details |
+|-------|---------|
+| **Founded** | 2005‑la *Chad Hurley*, *Steve Chen*, *Jawed Karim* start pannaar. 2006‑la Google acquire pannitu. |
+| **What it does** | Users can **upload**, **watch**, **like**, **comment**, **share** videos. 2‑billion+ monthly active users! |
+| **Key Features** | <ul><li>**Channels** – Oru creator oda personal space.</li><li>**Subscriptions** – Namma favorite creators follow pannalam.</li><li>**Recommendations** – AI based “Up Next” suggestions.</li><li>**YouTube Shorts** – 60 sec short videos (like Reels/TikTok).</li><li>**Live Streaming** – Real‑time broadcast.</li><li>**Community Tab** – Posts, poll
