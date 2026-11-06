@@ -122,3 +122,6 @@ A: By clearing every 7th episode - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: How many voice channels does the Super Nintendo Entertainment System support?
 A: 8 - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Integration is the reverse of what mathematical operation?
+A: Derivation - Science: Mathematics
