@@ -1266,3 +1266,6 @@ A: Atlanta - Entertainment: Music
 Knowledge Quiz 🧠
 Q: The Khajiit are a race of cat-like creatures from which epic series of role-playing games, set across the land of Tamriel?
 A: The Elder Scrolls - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which of the following correctly describes Japanese word order?
+A: Subject Object Verb - General Knowledge
