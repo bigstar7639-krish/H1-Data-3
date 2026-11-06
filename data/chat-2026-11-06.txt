@@ -979,3 +979,5 @@ Knowledge 392 - Hope - **Hope** – or *நம்பிக்கை* – is that
 | **Future‑orientation** | Shifts focus from *present pain* to *future possibilities*. | “இப்போது துன்பம், ஆனா நாளை சந்தோஷம்” |
 | **Health boost** | Linked to better immunity, lower anxiety, longer life. | “ந
 Health 393 - Yoga Tip: Daily 5 min deep breath edu! 🧘 💪
+Coding Q 394 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
