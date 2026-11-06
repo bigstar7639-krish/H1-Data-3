@@ -1385,3 +1385,4 @@ Movie 37 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Kavithai 38 - Un Kural - En Isai! - Aira
 Knowledge 39 - Python - Python loop: `for i in range(5): print(i)`
 Talk 40 - Animal pathi pesalama? Sollu! 💬
+Reading 41 - Bharathiyar Kavithaigal! 📚
