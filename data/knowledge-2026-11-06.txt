@@ -1248,3 +1248,6 @@ A: 10 - Entertainment: Japanese Anime &amp; Manga
 Knowledge Quiz 🧠
 Q: One of the deadliest pandemics, the &quot;Spanish Flu&quot;, killed off what percentage of the human world population at the time?
 A: 3 to 6 percent - History
+Knowledge Quiz 🧠
+Q: What is the capital city of Bermuda?
+A: Hamilton - Geography
