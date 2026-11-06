@@ -337,3 +337,6 @@ A: Photojournalist
 Auto Quiz - Eiffel Tower 🧠
 Q: In the &quot;Halo&quot; franchise, in what country is New Mombasa?
 A: Kenya
+Auto Quiz - Psychology 🧠
+Q: What ingredient is NOT used to craft a cake in Minecraft?
+A: Bread
