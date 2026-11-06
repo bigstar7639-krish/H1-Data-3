@@ -1,4 +1,3 @@
-### 1️⃣ Philosophy என்றால் என்ன?  
 Philosophy = **Love of wisdom** (சாகசம்).  
 - **Metaphysics** – “என்னது உண்மையில் இருக்கிறது?” (Reality, existence)  
 - **Epistemology** – “நாம் எப்படி அறிவைப் பெறுகிறோம்?” (Knowledge, belief)  
@@ -1998,3 +1997,4 @@ Q 238 - Instagram pathi oru secret sollatta?
 Coding Q 239 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Recipe 240 - Cake - Maida + Sugar + Egg + 30 min! 🍔
+Talk 241 - Animals pathi pesalama? Sollu! 💬
