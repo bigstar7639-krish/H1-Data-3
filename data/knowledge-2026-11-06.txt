@@ -1882,3 +1882,6 @@ A: South Korea - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Who is the main character of the game series &quot;Ace Attorney&quot; ?
 A: Phoenix Wright - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What numbers are in the 5th row of Pascal&#039;s Triangle?
+A: 1 4 6 4 1 - Science: Mathematics
