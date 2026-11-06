@@ -1,4 +1,3 @@
-Coding Q 247 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Smart Q 248 - Game la eppadi jeyikkarathu?
 Game 249 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
@@ -1998,3 +1997,4 @@ Ravi’s first *resume* was just a scribble:
 Motivation 345
 Paravalla! Rest edu - Thirumba try pannu!
 Game 346 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
+Talk 347 - Family pathi pesalama? Sollu! 💬
