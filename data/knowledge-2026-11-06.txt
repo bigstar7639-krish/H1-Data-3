@@ -1411,3 +1411,6 @@ A: 1,000,000 XP - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Who was the Prime Minister of Japan when Japan declared war on the US?
 A: Hideki Tojo - History
+Knowledge Quiz 🧠
+Q: How many studio albums have the duo Daft Punk released?
+A: 4 - Entertainment: Music
