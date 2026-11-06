@@ -1,5 +1,3 @@
-Thirukkural 103 - Kattrathu - Kai Mann Alavu! - Thirukkural
-Thirukkural 104 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Talk 105 - India pathi pesalama? Sollu! 💬
 Knowledge 106 - Mahabharata - **Hey friend! 😊**  
 Mahabharata‑oda **pattukara story‑a** Tamil‑Tanglish‑la “sollikalam” – **full‑on epic** a!  
@@ -1998,3 +1996,5 @@ Paravalla! Rest edu - Thirumba try pannu!
 Fact 6 - Tamil - 2000+ varusha mozhi!
 Business Idea 159 - Instagram Page - Daily 1 Post!
 Smart Q 160 - Moon la eppadi jeyikkarathu?
+Coding Q 161 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
