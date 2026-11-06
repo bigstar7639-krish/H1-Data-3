@@ -139,3 +139,6 @@ A: 22, A Million
 Auto Quiz - Love 🧠
 Q: In the &quot;Halo&quot; series, what is the name of the race of aliens humans refer to as &quot;Grunts&quot;?
 A: Unggoy
+Auto Quiz - God 🧠
+Q: In what year was the original Sonic the Hedgehog game released?
+A: 1991
