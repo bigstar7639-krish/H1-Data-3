@@ -1,2 +1,2 @@
-Coding Q 24 - Website eppadi pannurathu?
-Aira: Website panna - HTML + CSS + JS - 3 um pothum - Aira website madhiri!
+Coding Q 25 - React la component enna?
+Aira: React la component - Chinna chinna piece - Serndha - Periya app aayidum!
