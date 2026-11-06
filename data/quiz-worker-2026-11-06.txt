@@ -256,3 +256,6 @@ A: Fairies
 Auto Quiz - Friendship 🧠
 Q: Who is the developer of the game &quot;Rocket League&quot;?
 A: Psyonix
+Auto Quiz - Study 🧠
+Q: Who won the 10th season of Big Brother in the United States?
+A: Dan Gheesling
