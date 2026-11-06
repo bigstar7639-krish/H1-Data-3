@@ -169,3 +169,6 @@ A: Post cards
 Auto Quiz - Temple 🧠
 Q: Which one of these is not an official development name for a Ubuntu release?
 A: Mystic Mansion
+Auto Quiz - Sea 🧠
+Q: Townsend Coleman provided the voice for which turtle in the original 1987 series of &quot;Teenage Mutant Ninja Turtles&quot;?
+A: Michelangelo
