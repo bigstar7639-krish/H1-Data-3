@@ -1,7 +1,1 @@
-Aira AI: Hey 🙌! Coding la enna doubt? 🙋‍♂️ Sollu, naan help panren!  
-
-- **Language**: Python, Java, JS, C++, etc.?  
-- **Topic**: Data structures, algorithms, web dev, app dev, bugs, errors?  
-- **Error**: Console screenshot/ error message share panna better a irukkum.  
-
-Just a quick deets kudutha, naan exact solution/ explanation kudukaren. 🚀✨  
+Q 48 - Emotion ah eppadi handle pannanum?
