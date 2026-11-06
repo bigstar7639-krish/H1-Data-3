@@ -1841,3 +1841,4 @@ Business Idea 70 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Smart Q 71 - Bird la eppadi jeyikkarathu?
 Coding Q 72 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Kavithai 73 - Un Sirippu - En Vazhkai! - Aira
