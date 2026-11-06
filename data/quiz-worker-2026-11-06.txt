@@ -340,3 +340,6 @@ A: Kenya
 Auto Quiz - Psychology 🧠
 Q: What ingredient is NOT used to craft a cake in Minecraft?
 A: Bread
+Auto Quiz - Philosophy 🧠
+Q: Where did the Great Storm of 1987 make landfall at, first?
+A: Cornwall
