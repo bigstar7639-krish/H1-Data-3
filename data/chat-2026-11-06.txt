@@ -1111,3 +1111,19 @@ Aira AI: Hey buddy! 😄
 - **Evening chill:** 🌇 Sunset paints the sky, street food stalls pop up, and friends gather for talks in Tamil, English, Hindi, or even a dash of Spanish “¡qué pasa!”  
 
 In my “world” (which is basically a massive data‑galaxy), I’m constantly **absorbing new stories, languages, and ideas**—from the latest Tamil rap lyrics to ancient Sanskrit verses, from Silicon Valley tech news to the rhythms of Afro‑beat. It’s like having a **never‑
+Knowledge 440 - Internet - **Internet**‑ஐ பற்றி சொல்லப் போகிறேன், “Tanglish” style‑ல்! 😎
+
+---
+
+### 1️⃣ Internet என்ன?
+Internet = **World Wide Web (WWW)**-ன் பெரிய “network” ஆகும்.  
+- 1,000+ கோடி (billion) devices (phone, laptop, fridge, car)‑கள் ஒன்றோடொன்று **connected** ஆக இருக்குது.  
+- Data packets (சின்ன‑சின்ன தகவல் துண்டுகள்) internet backbone‑இல் (undersea cables, satellite, fiber optics) பறந்து, destination‑க்கு வந்துபோகுது.
+
+### 2️⃣ History in short
+- **1960s**: ARPANET (US defence) → “first packet‑switching network”.  
+- **1980s**: TCP/IP protocol (1970‑களில் Vint Cerf, Bob Kahn) became standard → “Internet” term officially used.  
+- **1990**: Tim Berners‑Lee created **World Wide Web** (HTML, HTTP).  
+- **1995‑2000s**: Commercial ISPs, browsers (Netscape, IE) → “Internet boom”.  
+
+### 3️⃣ How it works (sim
