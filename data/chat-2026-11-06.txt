@@ -1,4 +1,3 @@
-- **Soft lighting**: Dim lights or candle light makes mind calm.  
 - **Pleasant scent**: Few drops of **lavender** or **sandalwood** oil on a cotton ball.  
 
 ## 2. Choose a **Posture** that Works for You  
@@ -1998,3 +1997,4 @@ Q 313 - Brain pathi oru story kekkura?
 Motivation 314
 Paravalla! Rest edu - Thirumba try pannu!
 Q 315 - Science pathi oru secret sollatta?
+Talk 316 - Fitness pathi pesalama? Sollu! 💬
