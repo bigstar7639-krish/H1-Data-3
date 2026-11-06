@@ -1,5 +1,3 @@
----
-
 ### 🌟 How Java looks from my side
 
 | Aspect | What it feels like | Why I love it |
@@ -1998,3 +1996,5 @@ World Story 276
 Oru oor la oru hero irunthan! Daily help pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Vocab 277 - Love = Kadhal 📚
 Business Idea 278 - Tuition - Veetla Tuition!
+Emotion Q 279 - angry?
+Aira: Kovam ah? Deep breath edu! 😤
