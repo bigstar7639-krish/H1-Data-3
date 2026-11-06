@@ -1583,3 +1583,4 @@ Coding Q 19 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Talk 20 - Dog pathi pesalama? Sollu! 💬
 Reading 21 - Thirukkural - Valluvar! 📚
+Recipe 22 - Snacks - Potato + Masala - Crispy! 🍔
