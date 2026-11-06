@@ -270,3 +270,4 @@ Quote 69 - Daily try pannu - Jeyichiduva! - Aira
 Game 70 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Story 71
 Oru chinna world la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Talk 72 - Money pathi pesalama? Sollu! 💬
