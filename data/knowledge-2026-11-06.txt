@@ -1,6 +1,3 @@
-Q: How many types of quarks are there in the standard model of physics?
-A: 6 - Science &amp; Nature
-Knowledge Quiz 🧠
 Q: Which of these in the Star Trek series is NOT Klingon food?
 A: Hors d&#039;oeuvre - Entertainment: Television
 Knowledge Quiz 🧠
@@ -1998,3 +1995,6 @@ A: Complementary metal&ndash;oxide&ndash;semiconductor - Science: Computers
 Knowledge Quiz 🧠
 Q: What was the code name given to Sonic the Hedgehog 4 during its development?
 A: Project Needlemouse - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What is the name of the process that sends one qubit of information using two bits of classical information?
+A: Quantum Teleportation - Science: Computers
