@@ -1487,3 +1487,5 @@ Game 20 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! �
 Health 21 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Quote 1 - Daily try pannu - Jeyichiduva! - Aira
 Game 2 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
+World Story 3
+Oru chinna delhi la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
