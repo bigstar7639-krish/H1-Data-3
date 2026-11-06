@@ -1174,3 +1174,4 @@ Coding Q 475 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Motivation 476
 Paravalla! Rest edu - Thirumba try pannu!
+Thirukkural 477 - Anbu - Ellam Tharum! - Thirukkural
