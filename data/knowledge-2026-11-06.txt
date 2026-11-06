@@ -807,3 +807,6 @@ A: France - Geography
 Knowledge Quiz 🧠
 Q: What was the code name for the German invasion of the Soviet Union in WW2?
 A: Operation Barbarossa - History
+Knowledge Quiz 🧠
+Q: Who was the King of Gods in Ancient Greek mythology?
+A: Zeus - Mythology
