@@ -1,4 +1,3 @@
-| **Health boost** | Linked to better immunity, lower anxiety, longer life. | “ந
 Health 393 - Yoga Tip: Daily 5 min deep breath edu! 🧘 💪
 Coding Q 394 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
@@ -1998,3 +1997,4 @@ Oru chinna delhi la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aa
 Coding Q 476 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Business Idea 477 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Kavithai 478 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
