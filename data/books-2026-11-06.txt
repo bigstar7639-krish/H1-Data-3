@@ -101,3 +101,4 @@ hin - in.gov.bih.gazette.2016-02-01.86 - Bihar Gazette, 2016-02-01, Extra Ordina
 kan - in.gazette.karnataka_d.2021-01-29.ELNGPCR0000012021 - Karnataka Daily Gazette, 2021-01-29, Daily, Part III
 kan - in.gazette.karnataka_d.2022-03-22.DPAR90SDE2021 - Karnataka Daily Gazette, 2022-03-22, Daily, Part I
 jpn - ipod-touch-4-8-gb-finger-tips - Ipod Touch 4 8 GB Finger Tips
+kor - 6454589-184-yuseongyeob-2018-gughoeyiweon-jeonbug-jeongeubsigocanggun - 184 유성엽 2018 국회의원 전북 정읍시고창군
