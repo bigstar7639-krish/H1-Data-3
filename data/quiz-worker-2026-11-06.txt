@@ -277,3 +277,6 @@ A: Post cards
 Auto Quiz - Truth 🧠
 Q: What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?
 A: Mike
+Auto Quiz - Wisdom 🧠
+Q: In computing, how many bits are in a nibble?
+A: 4
