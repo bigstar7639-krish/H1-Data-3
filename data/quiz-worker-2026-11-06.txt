@@ -91,3 +91,6 @@ A: Volga
 Auto Quiz - Food 🧠
 Q: What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?
 A: Swiss Air
+Auto Quiz - Cricket 🧠
+Q: What is the atomic number of Uranium 
+A: 92
