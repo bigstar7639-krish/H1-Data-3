@@ -1,4 +1,3 @@
-- FIFA (Fédération Internationale de Football Association) was founded in **1904** in Paris; today it’s the global governing body.
 
 ### 2️⃣ Basic Rules (Quick Crash Course)  
 | Element | What it means | Tamil explanation |
@@ -1998,3 +1997,4 @@ Oru madurai la oru coder irunthan! Daily coding pannan pannan! Oru naal friend k
 Fact 3 - Octopus ku 3 heart!
 Motivation 56
 Paravalla! Rest edu - Thirumba try pannu!
+Vocab 57 - Courage = Thairiyam 📚
