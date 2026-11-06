@@ -97,3 +97,6 @@ A: 92
 Auto Quiz - Space 🧠
 Q: What is the Swedish word for &quot;window&quot;?
 A: F&ouml;nster
+Auto Quiz - Health 🧠
+Q: The land mass of modern day Turkey is called what?
+A: Anatolia
