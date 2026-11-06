@@ -1373,3 +1373,5 @@ Aira: Python loop: `for i in range(5): print(i)`
 Vocab 29 - Peace = Amaithi 📚
 Pazhamozhi 30 - Porumai - Perumai Tharum!
 Quote 31 - Daily try pannu - Jeyichiduva! - Aira
+Joke 32
+Why bike sad? Petrol illa!
