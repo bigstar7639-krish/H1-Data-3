@@ -1951,3 +1951,22 @@ Reading 23 - Thirukkural - Valluvar! 📚
 Story 24
 Oru sea la oru singer irunthan! Daily padichan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Game 26 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
+Knowledge 27 - Moon - Hey friend! 🌙 **Moon** பற்றி கொஞ்சம் Tanglish-ல் சொல்றேன்.
+
+---
+
+### 1. Moon எப்படித் தோன்றியது?
+- **The Giant Impact Theory** படி, 4.5 பில்லியன் வருடங்களுக்கு முன், Earth-ன் ஒரு பெரிய பாறை (Theia) உடன் மோதியதால்தான் Moon உருவானது.  
+- அந்த மோதலின் debris (மீதி) ஒன்று கூடி, धीरे‑धीरे **accretion** மூலம் Moon ஆகி விட்டது.
+
+### 2. Moon-ன் முக்கியமான phases (மாதவிலக்குகள்)
+| Phase | Tamil Name | Approx. Days |
+|-------|------------|--------------|
+| New Moon | **புதிய நிலா** | 0 |
+| Waxing Crescent | **மெல்லிய பாகம்** | 1‑7 |
+| First Quarter | **முதல் காலாண்டு** | 7‑8 |
+| Waxing Gibbous | **அரைக்குரல்** | 9‑14 |
+| Full Moon | **முழுநிலா** | 14‑15 |
+| Waning Gibbous | **இழையும் அரைக்குரல்** | 16‑21 |
+| Last Quarter | **இறுதி காலாண்டு** | 22‑23 |
+| Waning Crescent | **இழையும் சிறு பகுதி** | 24‑
