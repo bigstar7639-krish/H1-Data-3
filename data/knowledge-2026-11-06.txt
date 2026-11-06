@@ -427,3 +427,21 @@ A: Bedrock - Entertainment: Cartoon &amp; Animations
 Knowledge Quiz 🧠
 Q: How fast is USB 3.1 Gen 2 theoretically?
 A: 10 Gb/s - Science: Computers
+Knowledge 219 - Sun - Hey buddy! 🌞 **Sun‑path‑a pathi solla varen** – simple‑a, fun‑a, Tamil‑Tanglish mix‑la!  
+
+---
+
+## 1️⃣ Sun‑path‑oda basic idea  
+
+- **Earth rotates** around its axis → 24 h‑la oru full rotation.  
+- **Sun appears** to move from **East → South (or North in southern hemisphere) → West**.  
+- So, daily‑a **sunrise** (உயிர் ஒளி) East‑இல், **sunset** West‑இல்.
+
+## 2️⃣ Why the direction changes with seasons  
+
+- Earth’s axis is **tilted ≈ 23.5°**.  
+- Because of this tilt, the Sun’s apparent path (ecliptic) moves **north‑south** through the year.  
+
+| Season (Northern Hemisphere) | Sun‑rise direction | Sun‑set direction | Noon‑height |
+|-----------------------------|--------------------|-------------------|------------|
+| Spring (Mar‑May)            | East‑North‑East    | West‑North‑West   | ↑ (
