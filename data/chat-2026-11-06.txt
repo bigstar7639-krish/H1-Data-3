@@ -217,3 +217,5 @@ Reading 53 - Thirukkural - Valluvar! 📚
 Thirukkural 54 - Anbu - Ellam Tharum! - Thirukkural
 Business Idea 55 - 【entity-Instagram¦canonical_name=Instagram】 Page - Daily 1 Post!
 Movie 56 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
+Joke 57
+Teacher: Yen late? Student: School Ahead board! 😂
