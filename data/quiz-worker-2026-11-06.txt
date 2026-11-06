@@ -112,3 +112,6 @@ A: Toad
 Auto Quiz - Flower 🧠
 Q: In &quot;The Big Bang Theory&quot;, what is Howard Wolowitz&#039;s nickname in World of Warcraft?
 A: Wolowizard
+Auto Quiz - Sea 🧠
+Q: What is the name of the only female &quot;Original Four&quot; Kerbal in Kerbal Space Program?
+A: Valentina Kerman
