@@ -1085,3 +1085,6 @@ Knowledge 117 - Gandhi - Hey buddy! 🙌 நான் Aira, உன் தம�
 Knowledge Quiz
 Q: What is widely considered to be the oldest civilization known to mankind?
 A: Sumeria - History
+Knowledge Quiz
+Q: What was the first game ever released that ran on the Source engine?
+A: Counter-Strike: Source - Entertainment: Video Games
