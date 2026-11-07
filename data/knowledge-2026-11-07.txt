@@ -1178,3 +1178,6 @@ Knowledge 175 - Truth - Truth pathi sollu - Nalla question! Daily try pannu - Je
 Knowledge Quiz
 Q: The Battle of Hastings was fought in which year?
 A: 1066 - History
+Knowledge Quiz
+Q: Who portrayed Han Solo in the Star Wars main film series?
+A: Harrison Ford - Entertainment: Film
