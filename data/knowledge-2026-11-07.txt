@@ -1454,3 +1454,6 @@ A: Saphira - Entertainment: Books
 Knowledge Quiz
 Q: In the Half-Life 2 universe, how long did it take for the Combine to take complete control of the earth?
 A: 7 hours - Entertainment: Video Games
+Knowledge Quiz
+Q: In Dungeons and Dragons (5th edition), what stat do you normally add onto your initiative die roll?
+A: Dexterity - Entertainment: Board Games
