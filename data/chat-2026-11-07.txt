@@ -1510,3 +1510,4 @@ Recipe 236 - Snacks - Potato + Masala - Crispy!
 Smart Q 237 - Politics la eppadi jeyikkarathu?
 Kavithai 238 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Talk 239 - Wisdom pathi pesalama? Sollu!
+Recipe 240 - Cake - Maida + Sugar + Egg + 30 min!
