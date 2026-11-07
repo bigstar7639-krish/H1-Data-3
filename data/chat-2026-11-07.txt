@@ -1727,3 +1727,5 @@ Movie 346 - Ponniyin Selvan - Kalki!
 Coding Q 347 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
 Smart Q 348 - Maths la eppadi jeyikkarathu?
+Story 349
+Oru sea la oru student irunthan! Daily coding pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
