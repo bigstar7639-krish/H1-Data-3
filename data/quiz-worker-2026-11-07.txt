@@ -370,3 +370,6 @@ A: Crab - Entertainment: Music
 Auto Quiz - Food 🧠
 Q: Which of the following tabletop games is the oldest?
 A: Go - Entertainment: Board Games
+Auto Quiz - Cricket 🧠
+Q: Which of these is the name of a cut enemy from "Half-Life 2"?
+A: Hydra - Entertainment: Video Games
