@@ -182,3 +182,4 @@ Student - modernforeignlan0000unse - Modern foreign languages and the academical
 Business - bwb_S0-APP-007 - CORPORATIONS AND OTHER BUSINESS ASSOCIATIONS
 Business - bwb_S0-BGP-824 - Introduction to Business
 Money - Living_A_Life_Of_Luxury_On_Borrowed_Money_ - Living_A_Life_Of_Luxury_On_Borrowed_Money_
+Money - no64pricelistofu00bmax - No. 64 Price List of United States and Foreign Coins and Paper Money
