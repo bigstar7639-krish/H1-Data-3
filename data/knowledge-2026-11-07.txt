@@ -1305,3 +1305,6 @@ A: Harlem Renaissance - History
 Knowledge Quiz
 Q: In which year was League of Legends released?
 A: 2009 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these video game series have NOT had a promotional item appear in Team Fortress 2?
+A: Half-Life - Entertainment: Video Games
