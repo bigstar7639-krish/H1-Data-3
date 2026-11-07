@@ -775,3 +775,6 @@ Knowledge 49 - Brain - Hey buddy! 🧠 **Brain**‑‑‑ **மூளை** �
 | **Brainstem** | **மூளைத் தண்டு** | Breathing, heart‑rate, blood pressure, sleep‑wake cycle. Includes midbrain, pons, medulla. |
 | **Limbic System** | **உளவியல் மண்டலம்** | Emotions, motivation, long‑term memory (hippocampus, amygdala). |
 | 
+Knowledge Quiz
+Q: What genre of EDM is the Dutch DJ, musician, and remixer Armin van Buuren most well-known for?
+A: Trance - Entertainment: Music
