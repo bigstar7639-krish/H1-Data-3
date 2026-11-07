@@ -271,3 +271,6 @@ A: Duck - Sports
 Auto Quiz - Story 🧠
 Q: Approximately what percentage of Earth's atmosphere is Oxygen?
 A: 21% - Science & Nature
+Auto Quiz - Health 🧠
+Q: What is the fifth largest country by area?
+A: Brazil - Geography
