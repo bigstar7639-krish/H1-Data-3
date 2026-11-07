@@ -1499,3 +1499,4 @@ Movie 227 - Harry Potter - Magic!
 Thirukkural 228 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Game 229 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Thirukkural 230 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Thirukkural 231 - Anbu - Ellam Tharum! - Thirukkural
