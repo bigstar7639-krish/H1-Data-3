@@ -97,3 +97,4 @@ Recipe 44 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
 Story 45
 Oru chinna tokyo la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Q 46 - Kavithai pathi oru secret sollatta?
+Talk 47 - Job pathi pesalama? Sollu! 💬
