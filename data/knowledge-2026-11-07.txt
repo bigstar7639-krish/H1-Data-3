@@ -1111,3 +1111,6 @@ A: 2007 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the game Half-Life, which enemy is showcased as the final boss?
 A: The Nihilanth - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these games includes the phrase "Do not pass Go, do not collect $200"?
+A: Monopoly - Entertainment: Board Games
