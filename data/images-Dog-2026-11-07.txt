@@ -41,3 +41,4 @@ Dog - Unsplash - https://source.unsplash.com/800x600/?dog%20with%20ball
 Dog - Wikimedia - https://commons.wikimedia.org/wiki/File:The_black-eyed_puppy_(IA_blackeyedpuppy00pyle).pdf
 Dog - Wikimedia - https://commons.wikimedia.org/wiki/File:Golden_Retriever_Puppy_2012_03.jpg
 Dog - Wikimedia - https://commons.wikimedia.org/wiki/File:Smiling_Dog_Face.jpg
+Dog - Wikimedia - https://commons.wikimedia.org/wiki/File:A_Benard_puppy_in_Indianapolis.jpg
