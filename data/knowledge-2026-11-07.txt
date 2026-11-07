@@ -625,3 +625,6 @@ A: CDC - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these songs by artist Eminem contain the lyric "Nice to meet you. Hi, my name is... I forgot my name!"?
 A: Rain Man - Entertainment: Music
+Knowledge Quiz
+Q: In "Overwatch", what is the name of the company that made D.Va's mech?
+A: MEKA - Entertainment: Video Games
