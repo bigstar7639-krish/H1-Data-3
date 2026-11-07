@@ -1618,3 +1618,6 @@ A: Clu - Entertainment: Film
 Knowledge Quiz
 Q: 71% of the Earth's surface is made up of
 A: Water - Science & Nature
+Knowledge Quiz
+Q: In the Pixar film, "Toy Story" what was the name of the child who owned the toys?
+A: Andy - Entertainment: Cartoon & Animations
