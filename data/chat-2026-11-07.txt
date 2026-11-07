@@ -1011,3 +1011,24 @@ World Story 67
 Oru tokyo la oru singer irunthan! Daily travel pannan pannan! Oru naal love kedaichuchu! Life maariduchu!
 Joke 68
 Why bike sad? Petrol illa!
+Knowledge 69 - Money - **Money பற்றி சொல்லணும்?** 😎
+
+---
+
+### 1️⃣ Money என்ன?  
+Money = **மதிப்புள்ள ஒரு பரிமாற்ற கருவி**.  
+- **Exchange medium** – வாங்க‑விற்க நம்மை எளிதாக இணைக்குது.  
+- **Store of value** – காலத்துக்கு பின் கூட மதிப்பு வைத்திருக்க வேண்டும் (அதிக inflation இல்லாமா).  
+- **Unit of account** – விலைகள், கணக்குகள் எல்லாம் ஒரே அளவில் (₹, $, €, etc.) காட்டும்.
+
+---
+
+### 2️⃣ Money-ன் வகைகள்  
+
+| வகை | எடுத்துக்காட்டு | எங்க பார்த்துக்கொண்டு? |
+|------|----------------|---------------------|
+| **Cash** | நாணயங்கள், நோட்டுகள் | கையிலே, பாக்கெட்டில் |
+| **Bank Money** | Savings/Current account balance | Bank app, passbook |
+| **Digital/ Electronic Money** | UPI, PayTM, Google Pay, crypto (Bitcoin) | Mobile, internet |
+| **Commodity Money** | பொன், வெள்ளி, எரிவாயு | மார்க்கெட், bullion shops |
+| **Fiat M
