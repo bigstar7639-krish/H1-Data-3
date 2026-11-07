@@ -1141,3 +1141,6 @@ A: Brothers & cousins - Entertainment: Music
 Knowledge Quiz
 Q: Which city is the American singer "Pitbull" from?
 A: Miami - Entertainment: Music
+Knowledge Quiz
+Q: Who plays Alice in the Resident Evil movies?
+A: Milla Jovovich - Entertainment: Film
