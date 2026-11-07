@@ -713,3 +713,5 @@ Q 14 - Unakku Excited pathi enna theriyum?
 Recipe 15 - Cake - Maida + Sugar + Egg + 30 min!
 Emotion Q 16 - love?
 Aira: Kadhal - Azhagu!
+Joke 17
+Why bike sad? Petrol illa!
