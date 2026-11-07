@@ -669,3 +669,4 @@ Coding Q 122 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Emotion Q 123 - love?
 Aira: Kadhal - Azhagu!
+Quote 124 - Daily try pannu - Jeyichiduva! - Aira
