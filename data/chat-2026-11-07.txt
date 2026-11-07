@@ -867,3 +867,18 @@ Smart Q 2 - Eiffel Tower la eppadi jeyikkarathu?
 World Story 3
 Oru chinna delhi la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Health 4 - Health Tip: Daily 8 glass water kudinga!
+Knowledge 5 - World History - Hey friend! 🌏 **World History**-ஐ பற்றி கொஞ்சம் “Tanglish” style-ல் சொல்லலாம்.
+
+---
+
+### 1️⃣ Pre‑history & Early Civilizations  
+- **Stone Age** – 2.5 million years ago, humans started using stone tools.  
+- **Agricultural Revolution** (≈10,000 BC) – crops, livestock, villages.  
+- **River‑valley Civilizations**:  
+  * **Mesopotamia** (Tigris‑Euphrates) – first writing (cuneiform), law codes (Code of Hammurabi).  
+  * **Ancient Egypt** – pyramids, pharaohs, hieroglyphs.  
+  * **Indus Valley** (Harappa‑Mohenjo‑Daro) – grid‑city planning, trade with Mesopotamia.  
+  * **Ancient China** – Yellow River civilization, Shang & Zhou dynasties, early bronze work.
+
+### 2️⃣ Classical Antiquity (≈800 BC – 500 AD)  
+- **Greek City‑states** – democracy in Athens, philosophy (Socrates, Plato, Aristotle),
