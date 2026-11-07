@@ -391,3 +391,6 @@ A: Victory - Mythology
 Knowledge Quiz
 Q: Of which 90s boy band was Justin Timberlake a member?
 A: *NSYNC - Entertainment: Music
+Knowledge Quiz
+Q: What company developed the Xbox line of video game consoles?
+A: Microsoft - Entertainment: Video Games
