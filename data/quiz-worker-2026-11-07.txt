@@ -412,3 +412,6 @@ A: Objective-C - Science: Computers
 Auto Quiz - Animal 🧠
 Q: How many objects are equivalent to one mole?
 A: 6.022 x 10^23 - Science & Nature
+Auto Quiz - Baby 🧠
+Q: How many partners can you obtain in Paper Mario: The Thousand-Year Door?
+A: 7 - Entertainment: Video Games
