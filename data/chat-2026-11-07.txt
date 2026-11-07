@@ -400,3 +400,5 @@ Oru chinna sea la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aan
 Coding Q 4 - React la component enna?
 Aira: React component - Chinna piece!
 Smart Q 5 - Teacher la eppadi jeyikkarathu?
+Coding Q 6 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
