@@ -367,3 +367,6 @@ A: Mycroft Holmes - Entertainment: Books
 Knowledge Quiz
 Q: What was the first successful and commercially viable photographic technique?
 A: The Daguerreotype - Art
+Knowledge Quiz
+Q: Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?
+A: David Gilmour - Entertainment: Music
