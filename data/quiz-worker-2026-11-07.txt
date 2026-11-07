@@ -250,3 +250,6 @@ A: Mario Super Sluggers - Entertainment: Video Games
 Auto Quiz - Nature 🧠
 Q: What is the name of Sid's dog in "Toy Story"?
 A: Scud - Entertainment: Cartoon & Animations
+Auto Quiz - Cat 🧠
+Q: What is the capital of Spain?
+A: Madrid - Geography
