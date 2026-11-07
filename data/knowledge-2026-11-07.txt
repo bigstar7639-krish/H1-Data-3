@@ -1055,3 +1055,6 @@ A: Galaxian - Entertainment: Video Games
 Knowledge Quiz
 Q: What year was Queen Elizabeth II born?
 A: 1926 - General Knowledge
+Knowledge Quiz
+Q: What is the currency of Poland?
+A: Złoty - General Knowledge
