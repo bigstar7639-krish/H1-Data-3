@@ -721,3 +721,6 @@ A: The Artful Dodger - Entertainment: Books
 Knowledge Quiz
 Q: After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?
 A: St. Helena - History
+Knowledge Quiz
+Q: In the 1979 British film "Quadrophenia" what is the name of the seaside city the mods are visiting?
+A: Brighton - Entertainment: Film
