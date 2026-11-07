@@ -1546,3 +1546,6 @@ A: Chinese Taipei - Politics
 Knowledge Quiz
 Q: Who is the main villain in Bendy and the ink machine?
 A: Bendy - Entertainment: Video Games
+Knowledge Quiz
+Q: In the "Pikmin" series, what is the only pikmin type to possess visible ears?
+A: Yellow - Entertainment: Video Games
