@@ -1684,3 +1684,6 @@ A: Three - General Knowledge
 Knowledge Quiz
 Q: In the National Pokedex what number is Porygon-Z?
 A: 474 - Entertainment: Video Games
+Knowledge Quiz
+Q: When was the Garfield comic first published?
+A: 1978 - Entertainment: Comics
