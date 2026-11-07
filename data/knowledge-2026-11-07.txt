@@ -739,3 +739,6 @@ A: Utah, Colorado, Arizona, New Mexico - Geography
 Knowledge Quiz
 Q: The song "Twin Size Mattress" was written by which band?
 A: The Front Bottoms - Entertainment: Music
+Knowledge Quiz
+Q: What level do you have to be to get a service medal on CS:GO?
+A: 40 - Entertainment: Video Games
