@@ -61,3 +61,4 @@ Coding Q 30 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Joke 31
 Teacher: Yen late? Student: School Ahead board! 😂
+Q 32 - Ne London la eppadi improve panna mudiyum?
