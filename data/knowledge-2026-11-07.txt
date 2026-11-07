@@ -1356,3 +1356,6 @@ A: BMW M3 GTR - Entertainment: Video Games
 Knowledge Quiz
 Q: Josh Mansour is part of what NRL team?
 A: Penrith Panthers - Sports
+Knowledge Quiz
+Q: What port does HTTP run on?
+A: 80 - Science: Computers
