@@ -1292,3 +1292,6 @@ Knowledge 249 - Ocean - **Aira here – உங்க Ocean‑friend! 🌊**
 Knowledge Quiz
 Q: In what year was Hearthstone released?
 A: 2014 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which character is from "Splatoon"?
+A: Marie - Entertainment: Video Games
