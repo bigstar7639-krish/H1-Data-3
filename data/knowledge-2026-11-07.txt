@@ -579,3 +579,6 @@ A: The Netherlands - Entertainment: Video Games
 Knowledge Quiz
 Q: When was the video game "P.A.M.E.L.A." released on Steam?
 A: March 9, 2017 - Entertainment: Video Games
+Knowledge Quiz
+Q: Who was the British Prime Minister at the outbreak of the Second World War?
+A: Neville Chamberlain - Politics
