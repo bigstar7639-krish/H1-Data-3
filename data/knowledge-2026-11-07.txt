@@ -357,3 +357,6 @@ A: AlunaGeorge - Entertainment: Music
 Knowledge Quiz
 Q: What is not a playable race in "Final Fantasy XIV: A Realm Reborn"?
 A: Hume - Entertainment: Video Games
+Knowledge Quiz
+Q: Who played Agent Fox Mulder in the TV sci-fi drama "The X-Files"?
+A: David Duchovny - Entertainment: Television
