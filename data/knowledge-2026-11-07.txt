@@ -937,3 +937,6 @@ A: Master Yen Sid - Entertainment: Video Games
 Knowledge Quiz
 Q: Paul Gauguin moved to which country in 1895?
 A: Tahiti - Art
+Knowledge Quiz
+Q: What does the term GPU stand for?
+A: Graphics Processing Unit - Science: Computers
