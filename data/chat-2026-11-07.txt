@@ -963,3 +963,5 @@ Health 36 - Health Tip: 7 mani neram thoongunga!
 Q 37 - Un life la Meditation eppadi irukku?
 Reading 38 - Ponniyin Selvan - Kalki!
 Talk 39 - Shakespeare pathi pesalama? Sollu!
+Story 40
+Oru chinna tokyo la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
