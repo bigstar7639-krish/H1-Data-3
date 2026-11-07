@@ -1567,3 +1567,6 @@ A: 2014 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which music artist made the songs "Heart", "It's a Sin", and "West End Girls"?
 A: Pet Shop Boys - Entertainment: Music
+Knowledge Quiz
+Q: In Portal 2, which solar system body did Wheatley end up orbiting?
+A: The moon - Entertainment: Video Games
