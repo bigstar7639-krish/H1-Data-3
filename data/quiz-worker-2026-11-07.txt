@@ -316,3 +316,6 @@ A: By clearing every 7th episode - Entertainment: Video Games
 Auto Quiz - Cat 🧠
 Q: Unix Time is defined as the number of seconds that have elapsed since when?
 A: Midnight, January 1, 1970 - Science: Computers
+Auto Quiz - Dog 🧠
+Q: What caused the titular mascot of Yo-Kai Watch, Jibanyan, to become a yokai?
+A: Being run over by a truck - Entertainment: Japanese Anime & Manga
