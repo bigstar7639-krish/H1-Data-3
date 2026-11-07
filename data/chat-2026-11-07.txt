@@ -1608,3 +1608,5 @@ Vocab 281 - Friend = Nanban
 Thirukkural 282 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Smart Q 283 - Biology la eppadi jeyikkarathu?
 Reading 284 - Python Crash Course!
+World Story 285
+Oru chinna chennai la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
