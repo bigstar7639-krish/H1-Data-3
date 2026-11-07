@@ -184,3 +184,5 @@ Quote 96 - Daily try pannu - Jeyichiduva! - Aira
 Vocab 97 - Happy = Santhosham 📚
 Talk 98 - Business pathi pesalama? Sollu! 💬
 Smart Q 99 - Prayer la eppadi jeyikkarathu?
+Coding Q 100 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
