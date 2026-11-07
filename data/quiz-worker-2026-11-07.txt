@@ -205,3 +205,6 @@ A: Tuba - Entertainment: Music
 Auto Quiz - Mountain 🧠
 Q: Who won the 1989 Drum Corps International championships?
 A: Santa Clara Vanguard - Entertainment: Music
+Auto Quiz - River 🧠
+Q: In what year did Neil Armstrong and Buzz Aldrin land on the moon?
+A: 1969 - History
