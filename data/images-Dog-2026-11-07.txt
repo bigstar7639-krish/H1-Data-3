@@ -38,3 +38,4 @@ Dog - Openverse - https://www.flickr.com/photos/21729155@N00/3180143812
 Dog - Openverse - https://www.flickr.com/photos/71401718@N00/3610076880
 Dog - Openverse - https://www.flickr.com/photos/69573851@N06/15651619402
 Dog - Unsplash - https://source.unsplash.com/800x600/?dog%20with%20ball
+Dog - Wikimedia - https://commons.wikimedia.org/wiki/File:The_black-eyed_puppy_(IA_blackeyedpuppy00pyle).pdf
