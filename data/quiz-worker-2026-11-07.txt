@@ -445,3 +445,6 @@ A: San Fransokyo - Entertainment: Film
 Auto Quiz - Game 🧠
 Q: Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?
 A: Chinese Taipei - Politics
+Auto Quiz - Sport 🧠
+Q: What did Gregory Mendel use to test genetic crossovers?
+A: Peas - Science & Nature
