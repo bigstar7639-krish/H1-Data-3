@@ -338,3 +338,4 @@ Student - isbn_9781426035463 - CompTIA a+ Certification, Exam 220-802, Student M
 Student - modernforeignlan0000unse - Modern foreign languages and the academically talented student
 Business - isbn_0312217625 - Sectoral analysis of trade, investment and business in Vietnam
 Business - Part2OfFormalEnglishForBusinessWriting.part2 - Part 2 Of Formal English For Business Writing.part 2
+Money - Living_A_Life_Of_Luxury_On_Borrowed_Money_ - Living_A_Life_Of_Luxury_On_Borrowed_Money_
