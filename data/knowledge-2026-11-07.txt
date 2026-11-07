@@ -1260,3 +1260,6 @@ A: Harry Potter - Entertainment: Film
 Knowledge Quiz
 Q: In the Portal series, Aperture Science was founded under what name in the early 1940s?
 A: Aperture Fixtures - Entertainment: Video Games
+Knowledge Quiz
+Q: How many books are in Euclid's Elements of Geometry?
+A: 13 - Science: Mathematics
