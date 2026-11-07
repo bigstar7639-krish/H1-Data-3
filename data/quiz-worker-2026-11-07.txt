@@ -328,3 +328,6 @@ A: Empire State Building, United States - General Knowledge
 Auto Quiz - Health 🧠
 Q: What does the term GPU stand for?
 A: Graphics Processing Unit - Science: Computers
+Auto Quiz - Music 🧠
+Q: Which is the hull NO. of the Fletcher class destroyer Fletcher?
+A: DD-445 - History
