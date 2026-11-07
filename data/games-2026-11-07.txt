@@ -4,3 +4,4 @@ Game 65 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! �
 Game 130 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil! 🎮
 Game 152 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Game 162 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
+Game 28 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
