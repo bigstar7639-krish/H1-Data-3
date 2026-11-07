@@ -952,3 +952,6 @@ A: E46 - Vehicles
 Knowledge Quiz
 Q: On the show "Rick and Morty", in episode "Total Rickall", who was a parasite?
 A: Pencilvester - Entertainment: Television
+Knowledge Quiz
+Q: Who won the UEFA Champions League in 2017?
+A: Real Madrid C.F. - Sports
