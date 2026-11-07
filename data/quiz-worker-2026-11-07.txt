@@ -253,3 +253,6 @@ A: Scud - Entertainment: Cartoon & Animations
 Auto Quiz - Cat 🧠
 Q: What is the capital of Spain?
 A: Madrid - Geography
+Auto Quiz - God 🧠
+Q: Which of these paintings did Johannes Vermeer not paint?
+A: Bacchus - Art
