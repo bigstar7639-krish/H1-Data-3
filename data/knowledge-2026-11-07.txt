@@ -1196,3 +1196,6 @@ A: Koenigsegg - Vehicles
 Knowledge Quiz
 Q: Which of these cities does NOT have a United States Minting location?
 A: St. Louis, MO - General Knowledge
+Knowledge Quiz
+Q: Which country was NOT part of the Soviet Union?
+A: Romania - Geography
