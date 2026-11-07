@@ -622,3 +622,6 @@ A: Gordon Shumway - Entertainment: Film
 Knowledge Quiz
 Q: Which of the following is not a faction in Tom Clancy's The Division?
 A: CDC - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these songs by artist Eminem contain the lyric "Nice to meet you. Hi, my name is... I forgot my name!"?
+A: Rain Man - Entertainment: Music
