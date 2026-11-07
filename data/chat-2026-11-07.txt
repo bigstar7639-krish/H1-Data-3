@@ -735,3 +735,5 @@ Teacher: Yen late? Student: School Ahead board!
 World Story 20
 Oru chinna new york la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Reading 21 - Ponniyin Selvan - Kalki!
+Joke 22
+Teacher: Yen late? Student: School Ahead board!
