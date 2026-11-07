@@ -272,3 +272,6 @@ A: Aladdin - Entertainment: Film
 Knowledge Quiz
 Q: Which of the following Mario Kart 8 Deluxe items will NOT make you invincible?
 A: Golden Mushroom - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these songs is not on the "untitled" album by Led Zeppelin?
+A: Celebration Day - Entertainment: Music
