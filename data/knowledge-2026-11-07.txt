@@ -1719,3 +1719,6 @@ A: Microsoft - Science: Gadgets
 Knowledge Quiz
 Q: Who created Agent 47 in the game series "Hitman"?
 A: Dr. Otto Wolfgang Ort-Meyer - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of the planet that the Doctor from television series "Doctor Who" comes from?
+A: Gallifrey - Entertainment: Television
