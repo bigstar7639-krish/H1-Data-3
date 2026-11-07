@@ -742,3 +742,6 @@ A: The Front Bottoms - Entertainment: Music
 Knowledge Quiz
 Q: What level do you have to be to get a service medal on CS:GO?
 A: 40 - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the game "Galaga" was a sequel to?
+A: Galaxian - Entertainment: Video Games
