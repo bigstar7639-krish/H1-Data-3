@@ -385,3 +385,6 @@ A: Stick and Coal - Entertainment: Video Games
 Knowledge Quiz
 Q: What does the letter 'S' stand for in 'NASA'?
 A: Space - Science & Nature
+Knowledge Quiz
+Q: The Nike apparel and footwear brand takes it's name from the Greek goddess of what?
+A: Victory - Mythology
