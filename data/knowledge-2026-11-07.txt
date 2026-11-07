@@ -979,3 +979,6 @@ A: Famous - Entertainment: Music
 Knowledge Quiz
 Q: In the Naruto manga, what is the last name of Tsunade?
 A: Senju - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Ellen McLain, the voice of GLaDOS in the Portal game series, is married to the voice actor for which Team Fortress 2 character?
+A: Sniper - Entertainment: Video Games
