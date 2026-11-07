@@ -1525,3 +1525,6 @@ A: Ewan McGregor - Entertainment: Film
 Knowledge Quiz
 Q: Which studio animated Soul Eater?
 A: Bones - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?
+A: Green - Science: Computers
