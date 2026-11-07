@@ -755,3 +755,6 @@ A: Breakout/Arkanoid - Entertainment: Video Games
 Knowledge Quiz
 Q: The Suez Canal is located in which African country?
 A: Egypt - Geography
+Knowledge Quiz
+Q: How many islands does Kuwait have?
+A: 9 - Geography
