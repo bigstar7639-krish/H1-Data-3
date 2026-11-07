@@ -564,3 +564,6 @@ A: Java Virtual Machine - Science: Computers
 Knowledge Quiz
 Q: Toussaint Louverture led a successful slave revolt in which country?
 A: Haiti - History
+Knowledge Quiz
+Q: How many plays is Shakespeare generally considered to have written?
+A: 37 - Entertainment: Musicals & Theatres
