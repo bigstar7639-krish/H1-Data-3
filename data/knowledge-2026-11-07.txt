@@ -263,3 +263,6 @@ A: 21 - Entertainment: Board Games
 Knowledge Quiz 🧠
 Q: What programming language does the Source Engine use?
 A: C++  - Entertainment: Video Games
+Knowledge Quiz
+Q: Who is the main villain of Kirby's Return to Dreamland?
+A: Magolor - Entertainment: Video Games
