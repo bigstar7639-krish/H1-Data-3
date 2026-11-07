@@ -379,3 +379,6 @@ A: Medellín - General Knowledge
 Auto Quiz - Health 🧠
 Q: How many values can a single byte represent?
 A: 256 - Science: Computers
+Auto Quiz - Music 🧠
+Q: What is the official national language of Pakistan?
+A: Urdu - Geography
