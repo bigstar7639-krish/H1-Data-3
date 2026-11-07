@@ -1245,3 +1245,6 @@ A: Six o'clock - Entertainment: Music
 Knowledge Quiz
 Q: Who was Hannibal?
 A: Carthaginian general - History
+Knowledge Quiz
+Q: What otherworldly land does Thor come from?
+A: Asgard - Entertainment: Comics
