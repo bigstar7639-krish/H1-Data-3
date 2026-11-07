@@ -1302,3 +1302,5 @@ Coding Q 112 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Talk 113 - Poetry pathi pesalama? Sollu!
 Smart Q 114 - Football la eppadi jeyikkarathu?
+Coding Q 115 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
