@@ -1695,3 +1695,5 @@ Why bike sad? Petrol illa!
 Vocab 336 - Dream = Kanavu
 Coding Q 337 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Coding Q 338 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
