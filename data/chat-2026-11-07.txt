@@ -1451,3 +1451,4 @@ Business Idea 199 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
 Coding Q 200 - React la component enna?
 Aira: React component - Chinna piece!
 Game 201 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Talk 202 - Faith pathi pesalama? Sollu!
