@@ -877,3 +877,6 @@ A: 1905 - History
 Knowledge Quiz
 Q: What year was Apple Inc. founded?
 A: 1976 - General Knowledge
+Knowledge Quiz
+Q: In WarioWare: Smooth Moves, which one of these is NOT a Form?
+A: The Hotshot - Entertainment: Video Games
