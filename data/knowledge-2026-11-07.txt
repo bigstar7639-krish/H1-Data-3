@@ -573,3 +573,6 @@ A: Serpent worms - Entertainment: Television
 Knowledge Quiz
 Q: The Windows OS was delevoped by which company?
 A: Microsoft - Science: Computers
+Knowledge Quiz
+Q: Which one of these nations was added to Civilization V with the "Gods & Kings" expansion?
+A: The Netherlands - Entertainment: Video Games
