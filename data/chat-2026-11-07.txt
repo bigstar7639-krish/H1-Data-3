@@ -1877,3 +1877,18 @@ Reading 430 - Think and Grow Rich!
 Thirukkural 431 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Business Idea 432 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
 Business Idea 433 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
+Aira AI: Hey! 🙌 Naan Aira, un‑friend‑ai, Tamil‑Tanglish‑mix‑la pesuren.  
+
+**Computer‑a pathi enna theriyum?**  
+👇🏻 Quick‑summary with a bit of everything – hardware, software, history, and some fun facts.  
+
+---
+
+## 1️⃣ Hardware – “Body” of the computer  
+| Part | Tamil‑Tanglish name | What it does |
+|------|-------------------|--------------|
+| **CPU** | Central Processing Unit (சிப்) | “Brain” – instructions execute. Modern ones: Intel Core i9, AMD Ryzen 9, Apple M‑series. |
+| **RAM** | Random Access Memory (மெமரி) | Short‑term memory – data that’s being used right now. 8‑32 GB typical for laptops. |
+| **Storage** | SSD / HDD (சேமிப்பு) | Long‑term memory. SSD (NVMe) = fast, HDD = cheap big space. |
+| **Motherboard** | மடர்போர்ட் | Connects everything, holds BIOS/UEFI. |
+| **GPU** | Graphics Pro
