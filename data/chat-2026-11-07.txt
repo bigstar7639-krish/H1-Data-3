@@ -1784,3 +1784,5 @@ Quote 379 - Daily try pannu - Jeyichiduva! - Aira
 Movie 380 - Harry Potter - Magic!
 Movie 381 - Jailer - Rajini - Mass!
 Talk 382 - React pathi pesalama? Sollu!
+Joke 383
+Why bike sad? Petrol illa!
