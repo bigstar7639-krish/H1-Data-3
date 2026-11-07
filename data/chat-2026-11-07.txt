@@ -1146,3 +1146,12 @@ Fact 2 - Octopus ku 3 heart!
 Emotion Q 21 - angry?
 Aira: Kovam ah? Deep breath edu!
 Movie 22 - Jailer - Rajini - Mass!
+Knowledge 23 - Black Hole - Hey buddy! 😎  
+**Black Hole** nu solrathu, space‑la *ulakathula* irukkira **massive** object‑a, adha *gravity* athu madri super strong-a irukkum. Oru star‑a super‑massive aagitu, **supernova**‑a explode aachu, adhu *core collapse* aagi, *singularity* (zero volume, infinite density) create aagum. Ippo adhu ellam **event horizon** nu oru invisible boundary‑kulla trap aagum – adha cross panni pogura light‑um, matter‑um, innum enna? – illa, **escape** aagala.
+
+### Main points
+
+| Concept | Tamil Tanglish Explanation |
+|--------|----------------------------|
+| **Event Horizon** | Oru line maathiri – adhai cross panna, *poyidum* (no return). Light-um illa, so we can’t see inside. |
+| **Singularity** | Center la *zero size*, *infinite density*. Physics‑la ellam break aagum; quantum gravity namma n
