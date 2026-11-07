@@ -665,3 +665,5 @@ Teacher: Yen late? Student: School Ahead board!
 Vocab 120 - Peace = Amaithi
 Coding Q 121 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
+Coding Q 122 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
