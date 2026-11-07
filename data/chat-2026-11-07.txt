@@ -1189,3 +1189,4 @@ Q 43 - Unakku Trust pathi enna theriyum?
 Movie 44 - Ponniyin Selvan - Kalki!
 Vocab 45 - Peace = Amaithi
 Movie 46 - Leo - Vijay - Action!
+Pazhamozhi 47 - Aalai Paathu - Aadi Paaru!
