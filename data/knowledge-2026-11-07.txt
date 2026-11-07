@@ -1492,3 +1492,6 @@ A: Erangel - Entertainment: Video Games
 Knowledge Quiz
 Q: Which country drives on the left side of the road?
 A: Japan - General Knowledge
+Knowledge Quiz
+Q: What was the original release date of Grand Theft Auto V?
+A: September 17, 2013 - Entertainment: Video Games
