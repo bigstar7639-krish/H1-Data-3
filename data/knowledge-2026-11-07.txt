@@ -1251,3 +1251,6 @@ A: Asgard - Entertainment: Comics
 Knowledge Quiz
 Q: Which of the following is not a work authored by Fyodor Dostoevsky?
 A: Anna Karenina - Entertainment: Books
+Knowledge Quiz
+Q: Where does the book "The Silence of the Lambs" get its title from?
+A: The main character's trauma in childhood - Entertainment: Books
