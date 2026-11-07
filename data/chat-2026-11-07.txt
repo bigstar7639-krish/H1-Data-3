@@ -98,3 +98,4 @@ Story 45
 Oru chinna tokyo la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Q 46 - Kavithai pathi oru secret sollatta?
 Talk 47 - Job pathi pesalama? Sollu! 💬
+Recipe 48 - Snacks - Potato + Masala - Crispy! 🍔
