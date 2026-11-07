@@ -616,3 +616,6 @@ A: $180 - Entertainment: Board Games
 Knowledge Quiz
 Q: What is the official language in Barcelona beside Spanish?
 A: Catalan - General Knowledge
+Knowledge Quiz
+Q: In "ALF", what was ALF's real name?
+A: Gordon Shumway - Entertainment: Film
