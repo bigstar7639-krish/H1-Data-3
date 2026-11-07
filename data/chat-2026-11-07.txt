@@ -822,3 +822,5 @@ Thirukkural 44 - Anbu - Ellam Tharum! - Thirukkural
 Game 45 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Kavithai 46 - Un Kural - En Isai! - Aira
 Kavithai 47 - Un Sirippu - En Vazhkai! - Aira
+Motivation 48
+Paravalla! Rest edu - Thirumba try pannu!
