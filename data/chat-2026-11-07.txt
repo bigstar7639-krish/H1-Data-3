@@ -1158,3 +1158,5 @@ Knowledge 23 - Black Hole - Hey buddy! 😎
 Business Idea 24 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Thirukkural 25 - Anbu - Ellam Tharum! - Thirukkural
 Talk 26 - Thirukkural pathi pesalama? Sollu!
+Story 27
+Oru chinna city la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
