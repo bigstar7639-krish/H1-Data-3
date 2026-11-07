@@ -585,3 +585,6 @@ A: Neville Chamberlain - Politics
 Knowledge Quiz
 Q: Who was the first president of the United States?
 A: George Washington - History
+Knowledge Quiz
+Q: Which of these teams isn't a member of the NHL's "Original Six" era?
+A: Philadelphia Flyers - Sports
