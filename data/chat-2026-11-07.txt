@@ -656,3 +656,5 @@ Q 113 - Un life la Baby eppadi irukku?
 Coding Q 114 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Fact 6 - Octopus ku 3 heart!
+Joke 116
+Teacher: Yen late? Student: School Ahead board!
