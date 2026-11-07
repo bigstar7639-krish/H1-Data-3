@@ -31,3 +31,4 @@ Game 316 - Coin Toss - Ne Toss nu Sollu!
 Game 324 - Dice - Ne Dice nu Sollu!
 Game 344 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 384 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Game 398 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
