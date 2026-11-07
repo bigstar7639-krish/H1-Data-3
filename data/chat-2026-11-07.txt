@@ -433,3 +433,5 @@ Coding Q 18 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Thirukkural 19 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Health 1 - Health Tip: Daily 8 glass water kudinga!
+Emotion Q 2 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
