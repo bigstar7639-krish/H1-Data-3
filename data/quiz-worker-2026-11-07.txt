@@ -376,3 +376,6 @@ A: Hydra - Entertainment: Video Games
 Auto Quiz - Story 🧠
 Q: The drug cartel run by Pablo Escobar originated in which South American city?
 A: Medellín - General Knowledge
+Auto Quiz - Health 🧠
+Q: How many values can a single byte represent?
+A: 256 - Science: Computers
