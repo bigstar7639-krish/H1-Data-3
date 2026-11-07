@@ -599,3 +599,4 @@ World Story 87
 Oru chinna village la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Aira AI: Unakku Heart pathi enna theriyum? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Reading 89 - Python Crash Course!
+Recipe 90 - Snacks - Potato + Masala - Crispy!
