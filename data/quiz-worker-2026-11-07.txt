@@ -409,3 +409,6 @@ A: Subscriber - General Knowledge
 Auto Quiz - Sun 🧠
 Q: The programming language 'Swift' was created to replace what other programming language?
 A: Objective-C - Science: Computers
+Auto Quiz - Animal 🧠
+Q: How many objects are equivalent to one mole?
+A: 6.022 x 10^23 - Science & Nature
