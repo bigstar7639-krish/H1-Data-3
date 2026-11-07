@@ -162,3 +162,6 @@ A: print(&quot;Hello World&quot;) - Science: Computers
 Knowledge Quiz 🧠
 Q: Who was the mascot of SEGA before &quot;Sonic the Hedgehog&quot;?
 A: Alex Kidd - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Which of the four empires in  Eve Online was the first to achieve faster than light travel?
+A: Amarr Empire - Entertainment: Video Games
