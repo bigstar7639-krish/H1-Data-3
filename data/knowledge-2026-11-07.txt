@@ -1516,3 +1516,6 @@ A: "You done?" - Entertainment: Video Games
 Knowledge Quiz
 Q: In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?
 A: Jackie Earle Haley - Entertainment: Film
+Knowledge Quiz
+Q: What is Lilo's last name from Lilo and Stitch?
+A: Pelekai - Entertainment: Film
