@@ -1166,3 +1166,4 @@ Motivation 30
 Paravalla! Rest edu - Thirumba try pannu!
 Coding Q 31 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Pazhamozhi 32 - Aalai Paathu - Aadi Paaru!
