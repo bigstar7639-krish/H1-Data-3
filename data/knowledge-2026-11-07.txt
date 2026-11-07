@@ -521,3 +521,6 @@ A: 4 - Entertainment: Music
 Knowledge Quiz
 Q: Which of the following spacecraft never touched the moon?
 A: Mariner 4 - Science & Nature
+Knowledge Quiz
+Q: What is the derivative of sin(x)
+A: cos(x) - Science: Mathematics
