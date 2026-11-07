@@ -190,3 +190,6 @@ A: Senet - Entertainment: Board Games
 Knowledge Quiz 🧠
 Q: In Minecraft, how many items can a single piece of coal smelt when used in a furnace?
 A: 8 - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: Who is the author of the &quot;A Song of Ice and Fire&quot; book series, starting with &quot;A Game of Thrones&quot;?
+A: George R. R. Martin - Entertainment: Books
