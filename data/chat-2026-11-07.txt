@@ -382,3 +382,5 @@ Pazhamozhi 13 - Porumai - Perumai Tharum!
 Emotion Q 14 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
 Thirukkural 15 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Coding Q 16 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
