@@ -1,4 +1,3 @@
-Q 32 - Ne London la eppadi improve panna mudiyum?
 Knowledge 33 - Earth - **Earth‑a Pathi Solla!** 🌍  
 
 **Basic facts (English‑Tamil mix)**  
@@ -1998,3 +1997,4 @@ Talk 520 - Computer pathi pesalama? Sollu!
 Game 521 - Coin Toss - Ne Toss nu Sollu!
 Reading 522 - Mahabharata!
 Talk 523 - Motivation pathi pesalama? Sollu!
+Recipe 524 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
