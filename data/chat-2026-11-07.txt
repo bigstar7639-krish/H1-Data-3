@@ -1301,3 +1301,4 @@ Business Idea 111 - Tuition - Veetla Tuition!
 Coding Q 112 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Talk 113 - Poetry pathi pesalama? Sollu!
+Smart Q 114 - Football la eppadi jeyikkarathu?
