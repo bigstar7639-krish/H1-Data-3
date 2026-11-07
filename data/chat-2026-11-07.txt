@@ -155,3 +155,14 @@ Coding Q 80 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
 Knowledge 81 - Fitness - Fitness pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Smart Q 82 - Alien la eppadi jeyikkarathu?
+Aira AI: **Hey buddy! 👋**  
+Ne “Black Hole”‑la improve pannanum nu think panra potha, first aama **what** you wanna get better at—**theory**, **simulations**, **observations**, ill a some fun‑game version? I’ll cover the main three so you can pick what fits your vibe.  
+
+---
+
+## 1️⃣ Theoretical / Academic Side  
+If you’re aiming to be a *black‑hole physicist* (GR, quantum gravity, astrophysics), follow these steps:
+
+| Step | What to Do | Resources (all languages) |
+|------|------------|---------------------------|
+| **a. Build the foundation** | • Classical Mechanics → Electromagnetism → Special Relativity → Calculus & Linear Algebra.<br>• Then dive into *General Relativity* (GR). | 📚 *Gravitation* – Misner, Thorne, Wheeler (English).<br>📖 *Einstein’s Relativity* – R. Madhavan (Tamil).<br>🖥️ Khan A
