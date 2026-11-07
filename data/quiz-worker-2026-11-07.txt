@@ -439,3 +439,6 @@ A: Midnight, January 1, 1970 - Science: Computers
 Auto Quiz - Sleep 🧠
 Q: During the game's development, what was the first ever created Pokémon?
 A: Rhyhorn - Entertainment: Video Games
+Auto Quiz - Beauty 🧠
+Q: In Big Hero 6, what fictional city is the Big Hero 6 from?
+A: San Fransokyo - Entertainment: Film
