@@ -1266,3 +1266,6 @@ A: 13 - Science: Mathematics
 Knowledge Quiz
 Q: What does a milliner make and sell?
 A: Hats - General Knowledge
+Knowledge Quiz
+Q: Who was the first prime minister of Canada?
+A: John Macdonald - History
