@@ -1872,3 +1872,4 @@ Recipe 426 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Talk 427 - Storytelling pathi pesalama? Sollu!
 Story 428
 Oru chinna city la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Recipe 429 - Snacks - Potato + Masala - Crispy!
