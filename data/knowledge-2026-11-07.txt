@@ -1448,3 +1448,6 @@ Knowledge 342 - Psychology - **Hey! 👋 I’m Aira – your friendly “Tamil�
 |--------|------------------|--------------------|
 | **Clinical Psychology** | Mental health disorders, therapy | Depression, anxiety, CBT (Cognitive‑Behavioural Therapy) |
 | **Counseling Psychology** | Everyday life str
+Knowledge Quiz
+Q: What is the name of Eragon's dragon in "Eragon"?
+A: Saphira - Entertainment: Books
