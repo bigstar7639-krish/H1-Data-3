@@ -1285,3 +1285,5 @@ Reading 99 - Ramayana!
 Story 100
 Oru chinna mountain la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Thirukkural 101 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Coding Q 102 - React la component enna?
+Aira: React component - Chinna piece!
