@@ -1235,3 +1235,4 @@ Business Idea 74 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Movie 75 - Jailer - Rajini - Mass!
 Game 76 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Talk 77 - Economics pathi pesalama? Sollu!
+Health 78 - Health Tip: 7 mani neram thoongunga!
