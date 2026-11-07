@@ -943,3 +943,6 @@ A: Graphics Processing Unit - Science: Computers
 Knowledge Quiz
 Q: The first game in the Touhou Project, "Highly Responsive to Prayers", is part of which genre?
 A: Breakout/Arkanoid - Entertainment: Video Games
+Knowledge Quiz
+Q: In My Little Pony, what is the name of Applejack's younger sister?
+A: Apple Bloom - Entertainment: Cartoon & Animations
