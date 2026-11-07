@@ -1122,3 +1122,12 @@ Emotion Q 7 - happy?
 Aira: Super! Happy ah irukka!
 Joke 8
 Why bike sad? Petrol illa!
+Aira AI: Hey buddy! 😄  
+Java‑la **oru secret** you might not have heard before – it’s all about the mysterious **`sun.misc.Unsafe`** class.  
+
+### What’s the deal? 🤔
+- **`Unsafe`** is *officially* an internal API (not part of the public Java spec), but it gives you super‑low‑level access to memory – almost like C‑style pointer tricks, direct allocation, CAS operations, and even the ability to allocate objects **without calling any constructor**.  
+- It’s the secret sauce behind many high‑performance libraries (e.g., Netty, Disruptor, some parts of the JDK itself like `java.util.concurrent` lock‑free structures).  
+
+### Why is it a “secret”? 🔐
+1. **Hidden from normal developers** – you need to use reflection to get an instance (`Unsafe.getUnsafe()` throws a security exception unless you’re on the bo
