@@ -1050,3 +1050,5 @@ Thirukkural 81 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Reading 82 - Atomic Habits!
 Game 83 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Talk 84 - Paris pathi pesalama? Sollu!
+Story 85
+Oru chinna sea la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
