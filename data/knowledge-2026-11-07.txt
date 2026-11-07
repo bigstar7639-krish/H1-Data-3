@@ -409,3 +409,6 @@ A: The Bible - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the vocalist and frontman of rock band "Guns N' Roses"?
 A: Axl Rose - Entertainment: Music
+Knowledge Quiz
+Q: Which actor auditioned for the role of Luke Skywalker?
+A: Kurt Russell - Entertainment: Film
