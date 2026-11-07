@@ -601,3 +601,6 @@ A: Elton John - Entertainment: Music
 Knowledge Quiz
 Q: Who was the first footballer to score 200 goals in the English Premier League?
 A: Alan Shearer - Sports
+Knowledge Quiz
+Q: Which one of these characters was first introduced in Sonic Boom: Rise of Lyric?
+A: Sticks the Badger - Entertainment: Video Games
