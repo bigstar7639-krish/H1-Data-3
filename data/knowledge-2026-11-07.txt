@@ -1537,3 +1537,6 @@ A: Scott - Entertainment: Video Games
 Knowledge Quiz
 Q: In "Call Of Duty: Zombies", which map features the "Fly Trap" easter egg?
 A: Der Riese - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the alter-ego of the DC comics character "Superman"?
+A: Clark Kent - Entertainment: Comics
