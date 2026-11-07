@@ -987,3 +987,5 @@ Knowledge 49 - Brain - Hey buddy! 🧠 **Brain**‑‑‑ **மூளை** �
 | **Brainstem** | **மூளைத் தண்டு** | Breathing, heart‑rate, blood pressure, sleep‑wake cycle. Includes midbrain, pons, medulla. |
 | **Limbic System** | **உளவியல் மண்டலம்** | Emotions, motivation, long‑term memory (hippocampus, amygdala). |
 | 
+Story 50
+Oru chinna madurai la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
