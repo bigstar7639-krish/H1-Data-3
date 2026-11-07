@@ -661,3 +661,6 @@ A: Donkey Kong - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the armored titan in "Attack On Titan"?
 A: Reiner Braun - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: In the Super Mario Bros. Series, what is Yoshi's scientific name?
+A: T. Yoshisaur Munchakoopas - Entertainment: Video Games
