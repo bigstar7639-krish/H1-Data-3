@@ -712,3 +712,6 @@ A: Masters - Entertainment: Video Games
 Knowledge Quiz
 Q: In the show, Doctor Who, what does T.A.R.D.I.S stand for?
 A: Time And Relative Dimensions In Space - Entertainment: Television
+Knowledge Quiz
+Q: How many times did Martina Navratilova win the Wimbledon Singles Championship?
+A: Nine - Sports
