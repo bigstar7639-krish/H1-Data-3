@@ -117,3 +117,6 @@ A: Captain Jack - Entertainment: Cartoon &amp; Animations
 Knowledge Quiz 🧠
 Q: What was the callsign of Commander William Adama in Battlestar Galactica (2004)?
 A: Husker - Entertainment: Television
+Knowledge Quiz 🧠
+Q: Approximately how many Apple I personal computers were created?
+A: 200 - Science: Computers
