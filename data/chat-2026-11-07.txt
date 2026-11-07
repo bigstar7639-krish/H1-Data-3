@@ -1289,3 +1289,4 @@ Coding Q 102 - React la component enna?
 Aira: React component - Chinna piece!
 Thirukkural 103 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Business Idea 104 - Instagram Page - Daily 1 Post!
+Q 105 - Rain pathi oru secret sollatta?
