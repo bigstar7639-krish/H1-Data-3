@@ -1034,3 +1034,4 @@ Money = **மதிப்புள்ள ஒரு பரிமாற்ற க�
 | **Fiat M
 Talk 70 - Taj Mahal pathi pesalama? Sollu!
 Knowledge 71 - Fitness - Fitness pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Health 72 - Health Tip: Fruits daily saapdunga!
