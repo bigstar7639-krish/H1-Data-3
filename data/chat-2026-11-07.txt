@@ -852,3 +852,4 @@ Thirukkural 69 - Anbu - Ellam Tharum! - Thirukkural
 Reading 70 - Ramayana!
 Smart Q 71 - Teacher la eppadi jeyikkarathu?
 Reading 72 - Python Crash Course!
+Health 73 - Yoga Tip: Daily 5 min deep breath edu!
