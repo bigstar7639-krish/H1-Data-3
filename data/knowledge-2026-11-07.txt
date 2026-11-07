@@ -376,3 +376,6 @@ A: Sburb - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: In the game "Sonic the Hedgehog (1991)" how many chaos emeralds could you collect?
 A: 6 - Entertainment: Video Games
+Knowledge Quiz
+Q: Who plays protagonist Ethan Hunt in the "Mission: Impossible" film-series?
+A: Tom Cruise - Entertainment: Film
