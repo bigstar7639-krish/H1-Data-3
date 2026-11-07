@@ -36,3 +36,4 @@ Game 406 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 411 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 420 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 444 - Coin Toss - Ne Toss nu Sollu!
+Game 457 - Dice - Ne Dice nu Sollu!
