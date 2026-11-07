@@ -33,3 +33,4 @@ Thirukkural 9 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Coding Q 10 - React la component enna?
 Aira: React component - Chinna piece!
 Recipe 11 - Cake - Maida + Sugar + Egg + 30 min! 🍔
+Quote 12 - Daily try pannu - Jeyichiduva! - Aira
