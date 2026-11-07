@@ -1870,3 +1870,5 @@ Oru new york la oru hero irunthan! Daily coding pannan pannan! Oru naal success 
 Fact 20 - Honey - 3000 varusham kedathu!
 Recipe 426 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Talk 427 - Storytelling pathi pesalama? Sollu!
+Story 428
+Oru chinna city la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
