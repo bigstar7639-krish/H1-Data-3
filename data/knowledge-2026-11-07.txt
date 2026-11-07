@@ -1612,3 +1612,6 @@ A: Bob Dylan - Entertainment: Music
 Knowledge Quiz
 Q: What is the world's most expensive spice by weight?
 A: Saffron - General Knowledge
+Knowledge Quiz
+Q: In Tron: Legacy, Kevin Flynn wrote a program to create the perfect system. What was the program's name?
+A: Clu - Entertainment: Film
