@@ -1126,3 +1126,6 @@ A: Guatemala - Geography
 Knowledge Quiz
 Q: Which country has the international vehicle registration letter 'A'?
 A: Austria - Vehicles
+Knowledge Quiz
+Q: What is the name of the "tool" used to hit the white ball in snooker or billiards?
+A: Cue - Sports
