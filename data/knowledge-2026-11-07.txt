@@ -518,3 +518,6 @@ Knowledge 99 - God - God pathi sollu - Nalla question! Daily try pannu - Jeyichi
 Knowledge Quiz
 Q: How many members are in the Japanese rock band SCANDAL?
 A: 4 - Entertainment: Music
+Knowledge Quiz
+Q: Which of the following spacecraft never touched the moon?
+A: Mariner 4 - Science & Nature
