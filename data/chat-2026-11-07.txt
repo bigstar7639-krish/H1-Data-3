@@ -1520,3 +1520,23 @@ Movie 245 - Leo - Vijay - Action!
 Talk 246 - Wisdom pathi pesalama? Sollu!
 Recipe 247 - Snacks - Potato + Masala - Crispy!
 Fact 10 - Honey - 3000 varusham kedathu!
+Knowledge 249 - Ocean - **Aira here – உங்க Ocean‑friend! 🌊**  
+
+**Ocean‑ஐ பற்றி சொல்லலாம்…**  
+
+---
+
+### 1️⃣ What is an Ocean?
+- Earth‑ல் 5 huge oceans உண்டு: **Pacific, Atlantic, Indian, Southern (Antarctic), மற்றும் Arctic**.
+- Together, they cover **~71%** of the planet’s surface and hold **about 97%** of all water on Earth.  
+
+---
+
+### 2️⃣ Why are Oceans so Important?  
+
+| Role | How it Helps Us |
+|------|----------------|
+| **Climate regulator** | Oceans absorb ~ **30%** of the CO₂ we emit and store massive heat, keeping Earth’s temperature stable. |
+| **Oxygen production** | Phytoplankton (tiny plants) in the sea produce **≈50% of the world’s O₂** – we literally breathe thanks to them! |
+| **Food source** | Billions of people depend on fish, crustaceans, and seaweed for protein. |
+| **Economic engine** | Sh
