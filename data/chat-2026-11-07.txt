@@ -1558,3 +1558,4 @@ Game 254 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Knowledge 255 - Business - Business pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Coding Q 256 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Q 257 - Angry pathi oru story kekkura?
