@@ -1132,3 +1132,6 @@ A: Cue - Sports
 Knowledge Quiz
 Q: What do you study if you are studying entomology?
 A: Insects - Science & Nature
+Knowledge Quiz
+Q: Which of these is NOT an island that is part of the Philippines?
+A: Java - Geography
