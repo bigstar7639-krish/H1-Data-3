@@ -818,3 +818,6 @@ Money = **மதிப்புள்ள ஒரு பரிமாற்ற க�
 | **Digital/ Electronic Money** | UPI, PayTM, Google Pay, crypto (Bitcoin) | Mobile, internet |
 | **Commodity Money** | பொன், வெள்ளி, எரிவாயு | மார்க்கெட், bullion shops |
 | **Fiat M
+Knowledge Quiz
+Q: Which musical group won the Brit Awards in 1985, with George Michael as a member?
+A: Wham! - Entertainment: Music
