@@ -727,3 +727,6 @@ A: Brighton - Entertainment: Film
 Knowledge Quiz
 Q: What is the name of the island introduced in the ARMA III: APEX expansion pack?
 A: Tanoa - Entertainment: Video Games
+Knowledge Quiz
+Q: The Panama Canal was officially opened by which US president?
+A: Woodrow Wilson - General Knowledge
