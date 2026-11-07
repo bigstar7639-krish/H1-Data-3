@@ -1377,3 +1377,6 @@ A: Andariel - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following created and directed the Katamari Damacy series?
 A: Keita Takahashi - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following is NOT a class in Dungeons and Dragons 5e?
+A: Engineer  - Entertainment: Board Games
