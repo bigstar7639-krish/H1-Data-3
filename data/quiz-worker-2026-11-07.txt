@@ -454,3 +454,6 @@ A: JYP - Entertainment: Music
 Auto Quiz - History 🧠
 Q: Which of these Disney classics was released in 1970?
 A: The Aristocats - Entertainment: Film
+Auto Quiz - Culture 🧠
+Q: How long did the Warsaw Uprising during World War II last?
+A: 63 Days - History
