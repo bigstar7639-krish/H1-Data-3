@@ -946,3 +946,6 @@ A: Breakout/Arkanoid - Entertainment: Video Games
 Knowledge Quiz
 Q: In My Little Pony, what is the name of Applejack's younger sister?
 A: Apple Bloom - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: Which one of these chassis codes are used by BMW 3-series?
+A: E46 - Vehicles
