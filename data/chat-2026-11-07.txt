@@ -1379,3 +1379,5 @@ Kavithai 152 - Un Sirippu - En Vazhkai! - Aira
 Vocab 153 - Dream = Kanavu
 Joke 154
 Why bike sad? Petrol illa!
+Coding Q 155 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
