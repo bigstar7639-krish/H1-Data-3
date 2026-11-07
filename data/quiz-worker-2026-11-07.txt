@@ -388,3 +388,6 @@ A: Warm Painting - Entertainment: Video Games
 Auto Quiz - Temple 🧠
 Q: On which Beatles album would you find the song 'Eleanor Rigby'?
 A: Revolver - Entertainment: Music
+Auto Quiz - Sea 🧠
+Q: What is a polygon with eight sides called?
+A: Octagon - Science: Mathematics
