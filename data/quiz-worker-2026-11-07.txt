@@ -121,3 +121,6 @@ A: Celebration Day - Entertainment: Music
 Auto Quiz - Cat 🧠
 Q: What was the original name of  "Minecraft"?
 A: Cave Game - Entertainment: Video Games
+Auto Quiz - Dog 🧠
+Q: What are the names of the Ice Climbers in the video game Ice Climber?
+A: Popo and Nana - Entertainment: Video Games
