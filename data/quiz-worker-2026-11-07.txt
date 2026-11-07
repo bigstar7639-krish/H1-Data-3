@@ -112,3 +112,6 @@ A: Carl Jung - Science & Nature
 Auto Quiz - Love 🧠
 Q: Which of these is not a key value of Agile software development?
 A: Comprehensive documentation - Science: Computers
+Auto Quiz - God 🧠
+Q: In "Overwatch", what is the name of Mercy's "ultimate ability"?
+A: Valkyrie - Entertainment: Video Games
