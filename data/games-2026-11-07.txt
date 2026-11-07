@@ -25,3 +25,4 @@ Game 197 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 201 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Game 229 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Game 254 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
+Game 300 - Quiz: Python eppo uruvaachu? Answer: 1991!
