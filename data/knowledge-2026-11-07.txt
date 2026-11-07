@@ -1129,3 +1129,6 @@ A: Austria - Vehicles
 Knowledge Quiz
 Q: What is the name of the "tool" used to hit the white ball in snooker or billiards?
 A: Cue - Sports
+Knowledge Quiz
+Q: What do you study if you are studying entomology?
+A: Insects - Science & Nature
