@@ -1624,3 +1624,6 @@ A: Andy - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: What port does HTTP run on?
 A: 80 - Science: Computers
+Knowledge Quiz
+Q: "Decapods" are an order of ten-footed crustaceans.  Which of these are NOT decapods?
+A: Krill - Animals
