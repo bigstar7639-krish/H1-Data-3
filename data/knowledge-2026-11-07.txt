@@ -156,3 +156,6 @@ A: Kyoko Ito - Entertainment: Music
 Knowledge Quiz 🧠
 Q: In &quot;Overwatch&quot;, which hero is able to wallride?
 A: Lucio - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
+A: print(&quot;Hello World&quot;) - Science: Computers
