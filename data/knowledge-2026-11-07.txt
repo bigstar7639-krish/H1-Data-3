@@ -1335,3 +1335,6 @@ Knowledge 276 - Cricket - **Hey! Naan Aira, unga cricket‑friend!** 🏏
 - **Batting** – ball‑ai hit panni runs collect panrathu.  
 - **Bowling** – ball‑ai pitch‑la bounce panni wicket‑la target panrathu.  
 - **Fielding** – ball catch, run‑out, stop 
+Knowledge Quiz
+Q: Which French duo had UK hits in 1998 with the songs 'Sexy Boy', 'Kelly Watch The Stars' & 'All I Need'?
+A: Air - Entertainment: Music
