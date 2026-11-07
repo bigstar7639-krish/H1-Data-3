@@ -19,3 +19,4 @@ Game 76 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Game 94 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 151 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 178 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Game 183 - Coin Toss - Ne Toss nu Sollu!
