@@ -1299,3 +1299,6 @@ Knowledge 255 - Business - Business pathi sollu - Nalla question! Daily try pann
 Knowledge Quiz
 Q: Which nation hosted the FIFA World Cup in 2006?
 A: Germany - Sports
+Knowledge Quiz
+Q: What was the name of the African-American cultural explosion centered in upper Manhattan during the 1920s and 1930s?
+A: Harlem Renaissance - History
