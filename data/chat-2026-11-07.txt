@@ -1430,3 +1430,4 @@ Kavithai 180 - Un Sirippu - En Vazhkai! - Aira
 Q 181 - Un life la Future Tech eppadi irukku?
 Quote 182 - Daily try pannu - Jeyichiduva! - Aira
 Game 183 - Coin Toss - Ne Toss nu Sollu!
+Thirukkural 184 - Porumai - Periya Sakthi! - Thirukkural
