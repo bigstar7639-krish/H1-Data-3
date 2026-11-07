@@ -1519,3 +1519,6 @@ A: Jackie Earle Haley - Entertainment: Film
 Knowledge Quiz
 Q: What is Lilo's last name from Lilo and Stitch?
 A: Pelekai - Entertainment: Film
+Knowledge Quiz
+Q: Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?
+A: Ewan McGregor - Entertainment: Film
