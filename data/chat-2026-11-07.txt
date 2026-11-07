@@ -397,3 +397,5 @@ Health 1 - Health Tip: Daily 8 glass water kudinga!
 Smart Q 2 - Black Hole la eppadi jeyikkarathu?
 World Story 3
 Oru chinna sea la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Coding Q 4 - React la component enna?
+Aira: React component - Chinna piece!
