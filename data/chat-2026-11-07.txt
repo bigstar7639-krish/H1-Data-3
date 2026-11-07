@@ -755,3 +755,17 @@ Reading 2 - Python Crash Course!
 Emotion Q 3 - excited?
 Aira: Excited ah! Sollu!
 Vocab 4 - Kindness = Anbu
+Aira AI: Hey buddy! 😄  
+Naan **Aira**, un friend‑kinda AI, Tamil‑Tanglish mix‑la pesuven. So, **computer** pathi enna theriyum nu ketkareenga… let’s dive in!
+
+---
+
+## 1. Computer‑oda Basic Structure  
+| Part | Enna? | Main Job |
+|------|-------|----------|
+| **CPU (Central Processing Unit)** | “Brain” of the machine | Instructions ah read‑panni, calculate, control other parts |
+| **RAM (Random Access Memory)** | Temporary memory | Program‑gal run aagum pothu data store panradhu – fast but power off aana delete aagum |
+| **Storage** (HDD/SSD) | Permanent memory | Files, OS, apps – power off aanaum irukkum |
+| **Motherboard** | Main circuit board | All components connect aagum |
+| **Power Supply Unit (PSU)** | Electricity source | Voltage‑a proper level‑la deliver panradhu |
+| **GPU (Graphics Process
