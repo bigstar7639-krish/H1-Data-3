@@ -697,3 +697,6 @@ A: Mary Shelley - Entertainment: Books
 Knowledge Quiz
 Q: The voice actor for which Portal 2 character was not a TV or film actor prior to the game?
 A: GLaDOS - Entertainment: Video Games
+Knowledge Quiz
+Q: What tiny principality lies between Spain and France?
+A: Andorra - Geography
