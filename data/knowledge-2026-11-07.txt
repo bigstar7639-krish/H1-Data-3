@@ -1528,3 +1528,6 @@ A: Bones - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?
 A: Green - Science: Computers
+Knowledge Quiz
+Q: When was the United States National Security Agency established?
+A: November 4, 1952 - History
