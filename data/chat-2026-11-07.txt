@@ -1517,3 +1517,4 @@ Aira: Lonely ah? Aira irukka la!
 Q 243 - Unakku Courage pathi enna theriyum?
 Reading 244 - Alchemist!
 Movie 245 - Leo - Vijay - Action!
+Talk 246 - Wisdom pathi pesalama? Sollu!
