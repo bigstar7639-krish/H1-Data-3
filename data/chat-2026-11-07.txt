@@ -774,3 +774,5 @@ Knowledge 7 - Science - Science pathi sollu - Nalla question! Daily try pannu - 
 Q 8 - Ne Tech la eppadi improve panna mudiyum?
 Talk 9 - Alien pathi pesalama? Sollu!
 Smart Q 11 - Tech la eppadi jeyikkarathu?
+Story 12
+Oru mountain la oru raja irunthan! Daily coding pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
