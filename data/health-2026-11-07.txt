@@ -11,3 +11,4 @@ Health 10 - Health Tip: Daily 8 glass water kudinga!
 Health 1 - Health Tip: Daily 8 glass water kudinga!
 Health 1 - Health Tip: Daily 8 glass water kudinga!
 Health 20 - Health Tip: 7 mani neram thoongunga!
+Health 42 - Health Tip: Daily 30 min walk ponga!
