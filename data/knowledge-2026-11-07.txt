@@ -403,3 +403,6 @@ A: Bayonetta - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these cartoons had a character named Heinz Doofenshmirtz?
 A: Phineas & Ferb - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: In "The Binding of Isaac", which item instantly kills Mom and Mom's Heart?
+A: The Bible - Entertainment: Video Games
