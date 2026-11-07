@@ -1741,3 +1741,6 @@ A: Aventus Aretino - Entertainment: Video Games
 Knowledge Quiz
 Q: Which famous artist featured on Rowdy Rebel's 2015 song "Computers"?
 A: Bobby Shmurda  - Entertainment: Music
+Knowledge Quiz
+Q: Which art movement was Pablo Picasso known for co-founding?
+A: Cubism - Art
