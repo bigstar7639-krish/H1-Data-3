@@ -1457,3 +1457,6 @@ A: 7 hours - Entertainment: Video Games
 Knowledge Quiz
 Q: In Dungeons and Dragons (5th edition), what stat do you normally add onto your initiative die roll?
 A: Dexterity - Entertainment: Board Games
+Knowledge Quiz
+Q: How many years did the Hundred Years' War last?
+A: 116 - History
