@@ -266,3 +266,6 @@ A: C++  - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the main villain of Kirby's Return to Dreamland?
 A: Magolor - Entertainment: Video Games
+Knowledge Quiz
+Q: Which animated movie was first to feature a celebrity as a voice actor?
+A: Aladdin - Entertainment: Film
