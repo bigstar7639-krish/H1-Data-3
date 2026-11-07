@@ -1498,3 +1498,6 @@ A: September 17, 2013 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the music artists did NOT perform in the Live Aid concert in Wembley Stadium, London in 1985?
 A: The Rolling Stones - Entertainment: Music
+Knowledge Quiz
+Q: On which day did ARPANET suffer a 4 hour long network crash?
+A: October 27, 1980 - History
