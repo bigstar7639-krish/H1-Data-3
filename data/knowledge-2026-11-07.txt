@@ -1233,3 +1233,6 @@ A: 25 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which country was Eliza "Ash" Cohen from "Tom Clancy's Rainbow Six Siege" born in?
 A: Israel - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the nickname of the original model for Half-Life's protagonist Gordon Freeman?
+A: Ivan the Space Biker - Entertainment: Video Games
