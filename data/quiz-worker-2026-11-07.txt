@@ -421,3 +421,6 @@ A: 2.72 - Science: Mathematics
 Auto Quiz - Student 🧠
 Q: When Donkey Kong died in the "Donkey Kong Country" episode "It's a Wonderful Life", who was his guardian angel?
 A: Eddie the Mean Old Yeti - Entertainment: Television
+Auto Quiz - Business 🧠
+Q: What year did the movie "Napoleon Dynamite" come out?
+A: 2004 - Entertainment: Film
