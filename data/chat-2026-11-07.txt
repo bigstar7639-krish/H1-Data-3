@@ -1622,3 +1622,4 @@ Vocab 293 - Friend = Nanban
 Thirukkural 294 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Movie 295 - Jailer - Rajini - Mass!
 Pazhamozhi 296 - Porumai - Perumai Tharum!
+Quote 297 - Daily try pannu - Jeyichiduva! - Aira
