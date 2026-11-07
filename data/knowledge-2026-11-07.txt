@@ -299,3 +299,6 @@ Science = **S**ystematic **C**hannel of **I**nquiry + **E**vidence + **N**ew **C
 | Branch | What it studies | Example |
 |--------|----------------|---------|
 | **Physics** | 
+Knowledge Quiz
+Q: Cashmere is the wool from which kind of animal?
+A: Goat - Animals
