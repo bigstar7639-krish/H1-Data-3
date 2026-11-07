@@ -466,3 +466,6 @@ A: Myst - Entertainment: Video Games
 Knowledge Quiz
 Q: Which UK country features a dragon on their flag?
 A: Wales - Geography
+Knowledge Quiz
+Q: Who was the first official world chess champion?
+A: Wilhelm Steinitz - Entertainment: Board Games
