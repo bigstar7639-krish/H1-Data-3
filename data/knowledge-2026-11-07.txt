@@ -1359,3 +1359,6 @@ A: Penrith Panthers - Sports
 Knowledge Quiz
 Q: What port does HTTP run on?
 A: 80 - Science: Computers
+Knowledge Quiz
+Q: The theme for the popular science fiction series "Doctor Who" was composed by who?
+A: Ron Grainer - Entertainment: Television
