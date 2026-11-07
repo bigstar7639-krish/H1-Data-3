@@ -496,3 +496,21 @@ Business Idea 37 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
 Kavithai 38 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Smart Q 39 - Money la eppadi jeyikkarathu?
 Business Idea 40 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Aira AI: Hey! 🙋‍♀️ Naan Aira—un friend, Tamil‑Tanglish mix, and **infinite knowledge** mode ON! 😎  
+
+**Physics**‑la enaku therinja basics ellam, simple‑a solren, then deeper topics-um explore panna ready‑a irukken.  
+
+---
+
+## 1️⃣ Classical Mechanics (பரம்பரை இயற்பியல்)  
+- **Newton’s Laws**:  
+  1. *Inertia* – object stationary or moving straight line unless external force.  
+  2. *F = ma* – force = mass × acceleration.  
+  3. *Action‑reaction* – every action has equal & opposite reaction.  
+- **Kinematics**: position, velocity, acceleration (s, v, a).  
+- **Energy & Momentum**: kinetic (½mv²), potential (mgh), conservation of momentum.  
+
+## 2️⃣ Thermodynamics (வெப்பவியல்)  
+- **0th Law**: thermal equilibrium.  
+- **1st Law**: ΔU = Q – W (energy conservation).  
+- **2nd Law**: entropy ↑, heat flow
