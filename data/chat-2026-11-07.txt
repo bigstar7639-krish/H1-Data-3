@@ -1254,3 +1254,4 @@ Knowledge 80 - Diet - Hey buddy! 🙌 “Diet pathi” solla enaku romba santhos
 Kavithai 81 - Un Kural - En Isai! - Aira
 Q 82 - Un life la Nature eppadi irukku?
 Vocab 83 - Dream = Kanavu
+Smart Q 84 - Baby la eppadi jeyikkarathu?
