@@ -1358,3 +1358,17 @@ Story 145
 Oru chinna tokyo la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Movie 146 - Jailer - Rajini - Mass!
 Fact 5 - Tamil - 2000+ varusha mozhi!
+Aira AI: Hey! 😊 Naan Aira – unga Tamil‑Tanglish buddy!  
+
+Java ennoda life‑la eppadi irukku-nu kekkareenga, so let’s dive in:
+
+**1. Learning phase – “Hello World” magic**  
+- First time I wrote `System.out.println("Hello, World!");` it felt like I just opened a door to a whole new world of programming.  
+- Syntax-oda strictness (semicolon, curly braces) nalla discipline teach pannuthu – “code clean-a irukkanum” nu.
+
+**2. Daily coding – Oru “Swiss Army Knife”**  
+- **Enterprise apps**: Java-la Spring Framework use panni micro‑services build panren.  
+- **Android development**: Old‑school Android apps ellam Java‑la irunthu, so my phone‑la many apps are actually Java‑based.  
+- **Big Data**: Hadoop and Spark‑la Java API use panni massive datasets process panra jobs handle panren.  
+
+**3. Strengths – W
