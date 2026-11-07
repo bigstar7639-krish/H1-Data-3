@@ -159,3 +159,6 @@ A: Lucio - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?
 A: print(&quot;Hello World&quot;) - Science: Computers
+Knowledge Quiz 🧠
+Q: Who was the mascot of SEGA before &quot;Sonic the Hedgehog&quot;?
+A: Alex Kidd - Entertainment: Video Games
