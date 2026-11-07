@@ -26,3 +26,4 @@ Game 201 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Game 229 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Game 254 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 300 - Quiz: Python eppo uruvaachu? Answer: 1991!
+Game 309 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
