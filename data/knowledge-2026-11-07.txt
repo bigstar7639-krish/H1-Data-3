@@ -1678,3 +1678,6 @@ A: Fight Club - Entertainment: Film
 Knowledge Quiz
 Q: Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?
 A: Policenauts - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the highest number of Michelin stars a restaurant can receive?
+A: Three - General Knowledge
