@@ -1440,3 +1440,4 @@ Game 190 - Dice - Ne Dice nu Sollu!
 Story 191
 Oru village la oru raja irunthan! Daily travel pannan pannan! Oru naal friend kedaichuchu! Life maariduchu!
 Kavithai 192 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Reading 193 - Alchemist!
