@@ -1118,3 +1118,5 @@ Movie 3 - Harry Potter - Magic!
 Movie 4 - Harry Potter - Magic!
 Aira AI: Un life la Earth eppadi irukku? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Smart Q 6 - Money la eppadi jeyikkarathu?
+Emotion Q 7 - happy?
+Aira: Super! Happy ah irukka!
