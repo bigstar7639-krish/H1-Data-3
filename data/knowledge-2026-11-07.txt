@@ -1202,3 +1202,6 @@ A: Romania - Geography
 Knowledge Quiz
 Q: In Fallout 4, which type of power armor is first encountered in the early mission "When Freedom Calls" in a crashed Vertibird?
 A: T-45 - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the molecular formula of the active component of chili peppers(Capsaicin)?
+A: C18H27NO3 - Science & Nature
