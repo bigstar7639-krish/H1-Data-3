@@ -663,3 +663,5 @@ Aira AI: Phone pathi oru story kekkura? - Nalla question! Daily try pannu - Jeyi
 Joke 119
 Teacher: Yen late? Student: School Ahead board!
 Vocab 120 - Peace = Amaithi
+Coding Q 121 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
