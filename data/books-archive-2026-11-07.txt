@@ -250,3 +250,4 @@ Dog - dogitwasthatdied0000unse - the dog it was that died
 Dog - gooddog0000head - Good dog!
 Food - foodtaster0000unse - the food taster
 Food - foodbuying0000unse - Food Buying
+Cricket - from-signup-to-scoreboard-the-power-of-an-exchange-cricket-id - From Signup To Scoreboard The Power Of An Exchange Cricket ID
