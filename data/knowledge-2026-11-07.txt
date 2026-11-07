@@ -986,3 +986,6 @@ Knowledge 71 - Money - Money pathi sollu - Nalla question! Daily try pannu - Jey
 Knowledge Quiz
 Q: In Fallout: New Vegas, upon starting each one of the four campaign DLCs, which one of them does not have a warning screen/recommended level? 
 A: Honest Hearts  - Entertainment: Video Games
+Knowledge Quiz
+Q: In the video game Team Fortress 2, which of these is NOT a primary?
+A: Medigun - Entertainment: Video Games
