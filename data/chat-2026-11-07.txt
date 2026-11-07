@@ -1227,3 +1227,4 @@ Reading 66 - Think and Grow Rich!
 Game 67 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Q 68 - Book pathi oru secret sollatta?
 Movie 69 - Ponniyin Selvan - Kalki!
+Health 70 - Health Tip: Daily 8 glass water kudinga!
