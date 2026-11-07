@@ -1561,3 +1561,4 @@ Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Q 257 - Angry pathi oru story kekkura?
 Motivation 258
 Paravalla! Rest edu - Thirumba try pannu!
+Smart Q 259 - Universe la eppadi jeyikkarathu?
