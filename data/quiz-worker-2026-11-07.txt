@@ -346,3 +346,6 @@ A: Nuuk - Geography
 Auto Quiz - Sky 🧠
 Q: Which historical conflict killed the most people?
 A: World War II - History
+Auto Quiz - Star 🧠
+Q: In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?
+A: 4 - Entertainment: Video Games
