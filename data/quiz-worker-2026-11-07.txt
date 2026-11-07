@@ -64,3 +64,6 @@ A: Compton - Entertainment: Music
 Auto Quiz - Teacher 🧠
 Q: In "Spongebob Squarepants," what is Mr. Krabs' full name?
 A: Eugene H. Krabs - Entertainment: Television
+Auto Quiz - Student 🧠
+Q: Which one of the following is not made by Ford?
+A: Camry - Vehicles
