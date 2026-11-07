@@ -1607,3 +1607,4 @@ Talk 280 - Quran pathi pesalama? Sollu!
 Vocab 281 - Friend = Nanban
 Thirukkural 282 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Smart Q 283 - Biology la eppadi jeyikkarathu?
+Reading 284 - Python Crash Course!
