@@ -351,3 +351,6 @@ A: 8 - Entertainment: Video Games
 Knowledge Quiz
 Q: What colour hair does the main character of the Yu-Gi-Oh! original anime series have?
 A: Red, black and yellow - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Who wrote the song "You Know You Like It"?
+A: AlunaGeorge - Entertainment: Music
