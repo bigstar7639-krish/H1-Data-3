@@ -527,3 +527,6 @@ A: cos(x) - Science: Mathematics
 Knowledge Quiz
 Q: Who played the sun baby in the original run of Teletubbies?
 A: Jessica Smith - Entertainment: Television
+Knowledge Quiz
+Q: Which one of these characters is NOT a playable fighter in Super Smash Bros. Ultimate?
+A: Kumatora - Entertainment: Video Games
