@@ -1531,3 +1531,6 @@ A: Green - Science: Computers
 Knowledge Quiz
 Q: When was the United States National Security Agency established?
 A: November 4, 1952 - History
+Knowledge Quiz
+Q: In "Resident Evil 2", what is Leon Kennedy's middle name?
+A: Scott - Entertainment: Video Games
