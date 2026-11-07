@@ -886,3 +886,6 @@ A: Makoto Furukawa - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Which gaming console is developed by Sony?
 A: PlayStation - Science: Gadgets
+Knowledge Quiz
+Q: According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?
+A: 28% - General Knowledge
