@@ -1302,3 +1302,6 @@ A: Germany - Sports
 Knowledge Quiz
 Q: What was the name of the African-American cultural explosion centered in upper Manhattan during the 1920s and 1930s?
 A: Harlem Renaissance - History
+Knowledge Quiz
+Q: In which year was League of Legends released?
+A: 2009 - Entertainment: Video Games
