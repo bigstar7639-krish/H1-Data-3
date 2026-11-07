@@ -825,3 +825,6 @@ Knowledge 71 - Fitness - Fitness pathi sollu - Nalla question! Daily try pannu -
 Knowledge Quiz
 Q: What was the last colony the UK ceded marking the end of the British Empire?
 A: Hong Kong - History
+Knowledge Quiz
+Q: What is the scientific name of the Common Chimpanzee?
+A: Pan troglodytes - Animals
