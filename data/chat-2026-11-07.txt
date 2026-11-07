@@ -1502,3 +1502,4 @@ Thirukkural 230 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Thirukkural 231 - Anbu - Ellam Tharum! - Thirukkural
 Coding Q 232 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Kavithai 233 - Un Sirippu - En Vazhkai! - Aira
