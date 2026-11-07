@@ -1512,3 +1512,5 @@ Kavithai 238 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Talk 239 - Wisdom pathi pesalama? Sollu!
 Recipe 240 - Cake - Maida + Sugar + Egg + 30 min!
 Movie 241 - Jailer - Rajini - Mass!
+Emotion Q 242 - lonely?
+Aira: Lonely ah? Aira irukka la!
