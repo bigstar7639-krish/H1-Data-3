@@ -406,3 +406,6 @@ A: Brazil - Geography
 Auto Quiz - Moon 🧠
 Q: What does the 'S' stand for in the abbreviation SIM, as in SIM card? 
 A: Subscriber - General Knowledge
+Auto Quiz - Sun 🧠
+Q: The programming language 'Swift' was created to replace what other programming language?
+A: Objective-C - Science: Computers
