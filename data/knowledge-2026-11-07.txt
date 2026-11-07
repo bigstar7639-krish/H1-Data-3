@@ -970,3 +970,6 @@ A: Jon Jafari - Celebrities
 Knowledge Quiz
 Q: Which of these characters is the mascot of the video game company SEGA?
 A: Sonic the Hedgehog - Entertainment: Video Games
+Knowledge Quiz
+Q: Who is the Pink Floyd song "Shine On You Crazy Diamond" written about?
+A: Syd Barrett - Entertainment: Music
