@@ -264,3 +264,4 @@ Oru world la oru artist irunthan! Daily travel pannan pannan! Oru naal wisdom ke
 Health 149 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Recipe 150 - Snacks - Potato + Masala - Crispy! 🍔
 Thirukkural 151 - Porumai - Periya Sakthi! - Thirukkural
+Game 152 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
