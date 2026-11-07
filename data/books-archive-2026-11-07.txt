@@ -172,3 +172,4 @@ Sun - aclmku00000491a2140 - ACL-MKU 00491 A VOLUME OF STORIES DOG ON THE SUN
 Bird - wordsbirdmakeswo0000unse - words bird makes words with dog
 Bird - tianshengwocaiev0000wuyi - Tian sheng wo cai = Every bird has its own sky
 Animal - bppr-3-861 - Animal studies
+Animal - bppr-3-571 - Animal care and stress paradigm
