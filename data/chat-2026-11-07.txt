@@ -256,3 +256,4 @@ Emotion Q 143 - bored?
 Aira: Bored ah? Joke sollattuma? 😂
 Coding Q 144 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Reading 145 - Bharathiyar Kavithaigal! 📚
