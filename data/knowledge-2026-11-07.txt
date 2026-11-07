@@ -1040,3 +1040,6 @@ A: Green - General Knowledge
 Knowledge Quiz
 Q: According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?
 A: 28% - General Knowledge
+Knowledge Quiz
+Q: How many degrees make a full circle?
+A: 360 - Science: Mathematics
