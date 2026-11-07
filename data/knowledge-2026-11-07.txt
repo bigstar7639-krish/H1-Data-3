@@ -1138,3 +1138,6 @@ A: Java - Geography
 Knowledge Quiz
 Q: What is the relationship between the band members of American rock band King of Leon?
 A: Brothers & cousins - Entertainment: Music
+Knowledge Quiz
+Q: Which city is the American singer "Pitbull" from?
+A: Miami - Entertainment: Music
