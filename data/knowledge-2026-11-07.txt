@@ -364,3 +364,6 @@ Knowledge 10 - Physics - Physics pathi sollu - Nalla question! Daily try pannu -
 Knowledge Quiz
 Q: What is the name of Sherlock Holmes's brother?
 A: Mycroft Holmes - Entertainment: Books
+Knowledge Quiz
+Q: What was the first successful and commercially viable photographic technique?
+A: The Daguerreotype - Art
