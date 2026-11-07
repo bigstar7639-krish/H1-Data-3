@@ -602,3 +602,5 @@ Reading 89 - Python Crash Course!
 Recipe 90 - Snacks - Potato + Masala - Crispy!
 Motivation 91
 Paravalla! Rest edu - Thirumba try pannu!
+Coding Q 92 - React la component enna?
+Aira: React component - Chinna piece!
