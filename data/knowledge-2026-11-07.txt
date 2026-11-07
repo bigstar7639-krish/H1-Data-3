@@ -788,3 +788,6 @@ A: Bobby Shmurda  - Entertainment: Music
 Knowledge Quiz
 Q: In "Black Lagoon", what colour is Rock's tie?
 A: Teal - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Which of these is used to show that Earth spins on an axis? 
+A: Foucault Pendulum  - Science & Nature
