@@ -1096,3 +1096,6 @@ Knowledge 124 - Madurai - Madurai pathi sollu - Nalla question! Daily try pannu 
 Knowledge Quiz
 Q: How many partners can you obtain in Paper Mario: The Thousand-Year Door?
 A: 7 - Entertainment: Video Games
+Knowledge Quiz
+Q: In Yu-Gi-Oh, how does a player perform an Xyz Summon?
+A: Overlay at least 2 Monsters of the Same Level - Entertainment: Board Games
