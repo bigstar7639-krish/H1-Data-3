@@ -445,3 +445,5 @@ Q 8 - Un life la Mountain eppadi irukku?
 Vocab 9 - Happy = Santhosham
 Coding Q 11 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Story 12
+Oru london la oru student irunthan! Daily book padichan pannan! Oru naal love kedaichuchu! Life maariduchu!
