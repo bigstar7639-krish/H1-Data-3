@@ -382,3 +382,6 @@ A: Tom Cruise - Entertainment: Film
 Knowledge Quiz
 Q: In Minecraft, which two items must be combined to craft a torch?
 A: Stick and Coal - Entertainment: Video Games
+Knowledge Quiz
+Q: What does the letter 'S' stand for in 'NASA'?
+A: Space - Science & Nature
