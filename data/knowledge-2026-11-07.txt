@@ -524,3 +524,6 @@ A: Mariner 4 - Science & Nature
 Knowledge Quiz
 Q: What is the derivative of sin(x)
 A: cos(x) - Science: Mathematics
+Knowledge Quiz
+Q: Who played the sun baby in the original run of Teletubbies?
+A: Jessica Smith - Entertainment: Television
