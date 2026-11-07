@@ -570,3 +570,6 @@ A: 37 - Entertainment: Musicals & Theatres
 Knowledge Quiz
 Q: In "Star Trek", what is the Klingon delicacy of "gagh" made from?
 A: Serpent worms - Entertainment: Television
+Knowledge Quiz
+Q: The Windows OS was delevoped by which company?
+A: Microsoft - Science: Computers
