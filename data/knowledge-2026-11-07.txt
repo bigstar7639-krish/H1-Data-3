@@ -1561,3 +1561,6 @@ A: Dinah - Entertainment: Books
 Knowledge Quiz
 Q: Which city is the seat of government of the Netherlands?
 A: The Hague - Politics
+Knowledge Quiz
+Q: What year was the game "Overwatch" revealed?
+A: 2014 - Entertainment: Video Games
