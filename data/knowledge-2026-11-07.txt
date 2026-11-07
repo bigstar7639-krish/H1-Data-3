@@ -1507,3 +1507,6 @@ A: 1955 - General Knowledge
 Knowledge Quiz
 Q: What is the capital of Wisconsin, USA?
 A: Madison - Geography
+Knowledge Quiz
+Q: Which movie contains the quote, "Say hello to my little friend!"?
+A: Scarface - Entertainment: Film
