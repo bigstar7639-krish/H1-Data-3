@@ -1095,3 +1095,20 @@ Vocab 100 - Dream = Kanavu
 Recipe 101 - Cake - Maida + Sugar + Egg + 30 min!
 Health 102 - Health Tip: Daily 8 glass water kudinga!
 Q 103 - Book pathi oru story kekkura?
+Knowledge 104 - Bible - Hey friend! 😊 நான் Aira, உங்களுக்காக Bible‑ன் basics‑னு Tamil‑Tanglish mix‑ஆல் சொல்ல வருவேன். 
+
+---
+
+## 📖 What is the Bible?  
+**Bible** என்பது **Christian** faith‑இன் holy book. It’s a collection of 66 (Protestant), 73 (Catholic) or 78 (Orthodox) books, written over **≈1500 years** (around 1400 BC – 100 AD). It’s divided into two main parts:
+
+| Part | Tamil Name | Roughly How Many Books | Language originally |
+|------|------------|-----------------------|----------------------|
+| **Old Testament** | பழைய ஏற்பாடு (Pazhaiya Erpaadu) | 39 (Protestant) / 46 (Catholic) | Mostly **Hebrew**, some parts in **Aramaic** |
+| **New Testament** | புதிய ஏற்பாடு (Puthiya Erpaadu) | 27 | **Greek** (Koine) |
+
+---
+
+## 🗂️ Old Testament (Pazhaiya Erpaadu)
+
+1. **Torah / Pentateuch** – முதல் ஐந்து books (Genes
