@@ -718,3 +718,6 @@ A: Nine - Sports
 Knowledge Quiz
 Q: By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?
 A: The Artful Dodger - Entertainment: Books
+Knowledge Quiz
+Q: After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?
+A: St. Helena - History
