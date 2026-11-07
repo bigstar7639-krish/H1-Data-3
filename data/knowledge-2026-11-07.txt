@@ -634,3 +634,6 @@ A: Sazae-san - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?
 A: Cheetah - Science: Computers
+Knowledge Quiz
+Q: When did the Battle of the Bulge end?
+A: January 25, 1945 - History
