@@ -258,3 +258,4 @@ Coding Q 144 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Reading 145 - Bharathiyar Kavithaigal! 📚
 Reading 146 - Alchemist! 📚
+Pazhamozhi 147 - Porumai - Perumai Tharum!
