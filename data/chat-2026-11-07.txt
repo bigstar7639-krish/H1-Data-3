@@ -1805,3 +1805,4 @@ Oru village la oru raja irunthan! Daily padichan pannan! Oru naal book kedaichuc
 Q 396 - Un life la Fashion eppadi irukku?
 World Story 397
 Oru chinna city la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Game 398 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
