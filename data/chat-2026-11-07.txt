@@ -429,3 +429,5 @@ Vocab 14 - Courage = Thairiyam
 Business Idea 15 - Instagram Page - Daily 1 Post!
 Pazhamozhi 16 - Aalai Paathu - Aadi Paaru!
 Movie 17 - Ponniyin Selvan - Kalki!
+Coding Q 18 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
