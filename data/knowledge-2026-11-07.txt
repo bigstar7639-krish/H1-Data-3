@@ -1427,3 +1427,6 @@ A: Procompsognathus - Entertainment: Books
 Knowledge Quiz
 Q: In the Lord of the Rings, who is the father of the dwarf Gimli?
 A: Gloin - Entertainment: Books
+Knowledge Quiz
+Q: In the video game "Team Fortress 2", which class is able to double jump?
+A: Scout - Entertainment: Video Games
