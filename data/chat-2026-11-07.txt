@@ -1232,3 +1232,4 @@ Knowledge 71 - Money - Money pathi sollu - Nalla question! Daily try pannu - Jey
 Smart Q 72 - Study la eppadi jeyikkarathu?
 Pazhamozhi 73 - Sontha Kaal la Ninnu - Jeyippa!
 Business Idea 74 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Movie 75 - Jailer - Rajini - Mass!
