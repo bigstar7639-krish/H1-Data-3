@@ -1037,3 +1037,6 @@ Knowledge 93 - God - **God பத்தி ஒரு சிறு overview** –
 Knowledge Quiz
 Q: When someone is inexperienced they are said to be what color?
 A: Green - General Knowledge
+Knowledge Quiz
+Q: According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?
+A: 28% - General Knowledge
