@@ -591,3 +591,6 @@ A: Philadelphia Flyers - Sports
 Knowledge Quiz
 Q: Which of these is NOT a car model produced by Malaysian car manufacturer Proton?
 A: Kelisa - Vehicles
+Knowledge Quiz
+Q: What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?
+A: The source code got leaked - Entertainment: Video Games
