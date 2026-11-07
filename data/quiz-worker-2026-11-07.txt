@@ -343,3 +343,6 @@ A: Wars of the Roses - History
 Auto Quiz - Sea 🧠
 Q: What is the capital of Greenland?
 A: Nuuk - Geography
+Auto Quiz - Sky 🧠
+Q: Which historical conflict killed the most people?
+A: World War II - History
