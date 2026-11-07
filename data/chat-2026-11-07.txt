@@ -1372,3 +1372,4 @@ Java ennoda life‑la eppadi irukku-nu kekkareenga, so let’s dive in:
 - **Big Data**: Hadoop and Spark‑la Java API use panni massive datasets process panra jobs handle panren.  
 
 **3. Strengths – W
+Talk 149 - Temple pathi pesalama? Sollu!
