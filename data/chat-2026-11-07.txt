@@ -1605,3 +1605,4 @@ Smart Q 278 - Eiffel Tower la eppadi jeyikkarathu?
 Smart Q 279 - Yoga la eppadi jeyikkarathu?
 Talk 280 - Quran pathi pesalama? Sollu!
 Vocab 281 - Friend = Nanban
+Thirukkural 282 - Kattrathu - Kai Mann Alavu! - Thirukkural
