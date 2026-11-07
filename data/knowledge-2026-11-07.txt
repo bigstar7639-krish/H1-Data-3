@@ -502,3 +502,6 @@ A: Golden  - Entertainment: Video Games
 Knowledge Quiz
 Q: Which dog breed is named after a region in Croatia
 A: Dalmatian - Animals
+Knowledge Quiz
+Q: What was the name of the canceled projected by Blizzard Entertainment that would be later become Overwatch?
+A: Titan - Entertainment: Video Games
