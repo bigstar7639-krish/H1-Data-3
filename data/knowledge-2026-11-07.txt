@@ -224,3 +224,6 @@ A: John Deacon - Entertainment: Music
 Knowledge Quiz 🧠
 Q: What was the first company to use the term &quot;Golden Master&quot;?
 A: Apple - Science: Computers
+Knowledge Quiz 🧠
+Q: In Psychology, which need appears highest in the &quot;Maslow&#039;s hierarchy of needs&quot; pyramid?
+A: Esteem - Science &amp; Nature
