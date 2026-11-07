@@ -889,3 +889,6 @@ A: PlayStation - Science: Gadgets
 Knowledge Quiz
 Q: According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?
 A: 28% - General Knowledge
+Knowledge Quiz
+Q: In Minecraft, which two items must be combined to craft a torch?
+A: Stick and Coal - Entertainment: Video Games
