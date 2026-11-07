@@ -23,3 +23,4 @@ Game 183 - Coin Toss - Ne Toss nu Sollu!
 Game 190 - Dice - Ne Dice nu Sollu!
 Game 197 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 201 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Game 229 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
