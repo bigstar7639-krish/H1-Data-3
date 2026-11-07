@@ -178,3 +178,6 @@ A: 1984 - Entertainment: Books
 Auto Quiz - Nature 🧠
 Q: What is the chemical makeup of water?
 A: H20 - Science & Nature
+Auto Quiz - Food 🧠
+Q: In what year was the game "Eliminator" released?
+A: 1998 - Entertainment: Video Games
