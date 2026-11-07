@@ -1513,3 +1513,6 @@ A: Scarface - Entertainment: Film
 Knowledge Quiz
 Q: In the game "Overwatch," which quote does the hero "McCree" NOT say upon using his flashbang ability?
 A: "You done?" - Entertainment: Video Games
+Knowledge Quiz
+Q: In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?
+A: Jackie Earle Haley - Entertainment: Film
