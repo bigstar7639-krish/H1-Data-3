@@ -965,3 +965,4 @@ Reading 38 - Ponniyin Selvan - Kalki!
 Talk 39 - Shakespeare pathi pesalama? Sollu!
 Story 40
 Oru chinna tokyo la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Talk 41 - Power pathi pesalama? Sollu!
