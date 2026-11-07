@@ -1052,3 +1052,5 @@ Game 83 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Talk 84 - Paris pathi pesalama? Sollu!
 Story 85
 Oru chinna sea la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Joke 86
+Teacher: Yen late? Student: School Ahead board!
