@@ -846,3 +846,4 @@ Fact 4 - Honey - 3000 varusham kedathu!
 Kavithai 64 - Un Sirippu - En Vazhkai! - Aira
 Health 65 - Health Tip: Daily 30 min walk ponga!
 Health 66 - Health Tip: Fruits daily saapdunga!
+Fact 5 - Octopus ku 3 heart!
