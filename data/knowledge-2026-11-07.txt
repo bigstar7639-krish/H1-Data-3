@@ -1383,3 +1383,6 @@ A: Engineer  - Entertainment: Board Games
 Knowledge Quiz
 Q: Which of these actors/actresses is NOT a part of the cast for the 2016 movie "Suicide Squad"?
 A: Scarlett Johansson - Entertainment: Film
+Knowledge Quiz
+Q: What is the perimeter of a circle more commonly known as?
+A: Circumference - General Knowledge
