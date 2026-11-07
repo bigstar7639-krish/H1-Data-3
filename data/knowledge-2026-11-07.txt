@@ -694,3 +694,6 @@ A: 206 - Science & Nature
 Knowledge Quiz
 Q: Who was the original author of Frankenstein?
 A: Mary Shelley - Entertainment: Books
+Knowledge Quiz
+Q: The voice actor for which Portal 2 character was not a TV or film actor prior to the game?
+A: GLaDOS - Entertainment: Video Games
