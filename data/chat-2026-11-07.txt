@@ -1488,3 +1488,4 @@ Emotion Q 219 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
 Quote 220 - Daily try pannu - Jeyichiduva! - Aira
 Quote 221 - Daily try pannu - Jeyichiduva! - Aira
+Recipe 222 - Snacks - Potato + Masala - Crispy!
