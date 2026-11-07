@@ -265,3 +265,4 @@ Health 149 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Recipe 150 - Snacks - Potato + Masala - Crispy! 🍔
 Thirukkural 151 - Porumai - Periya Sakthi! - Thirukkural
 Game 152 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
+Fact 6 - Octopus ku 3 heart!
