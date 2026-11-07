@@ -114,3 +114,4 @@ Aira: Bug - Log paaru!
 Reading 57 - Bharathiyar Kavithaigal! 📚
 Coding Q 58 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Recipe 59 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
