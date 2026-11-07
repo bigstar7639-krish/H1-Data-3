@@ -955,3 +955,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Movie 29 - Ponniyin Selvan - Kalki!
 Recipe 30 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Movie 31 - Leo - Vijay - Action!
+Recipe 32 - Cake - Maida + Sugar + Egg + 30 min!
