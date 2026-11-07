@@ -1380,3 +1380,6 @@ A: Keita Takahashi - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following is NOT a class in Dungeons and Dragons 5e?
 A: Engineer  - Entertainment: Board Games
+Knowledge Quiz
+Q: Which of these actors/actresses is NOT a part of the cast for the 2016 movie "Suicide Squad"?
+A: Scarlett Johansson - Entertainment: Film
