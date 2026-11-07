@@ -172,3 +172,6 @@ Knowledge 108 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - 【enti
 Knowledge Quiz 🧠
 Q: In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?
 A: Tron - Entertainment: Film
+Knowledge Quiz 🧠
+Q: The pantheon in Rome was used to worship what god?
+A: Any god they wanted - History
