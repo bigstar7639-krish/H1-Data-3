@@ -1362,3 +1362,6 @@ A: 80 - Science: Computers
 Knowledge Quiz
 Q: The theme for the popular science fiction series "Doctor Who" was composed by who?
 A: Ron Grainer - Entertainment: Television
+Knowledge Quiz
+Q: Which of these is NOT the name of an album released by American rapper Viper?
+A: The Life of Pablo - Entertainment: Music
