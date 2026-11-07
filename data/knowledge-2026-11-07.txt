@@ -1486,3 +1486,6 @@ A: 4 - Science & Nature
 Knowledge Quiz
 Q: Which country hosted the 2018 FIFA World Cup?
 A: Russia - Sports
+Knowledge Quiz
+Q: What is the name of the main island in PLAYERUNKNOWN'S BATTLEGROUNDS?
+A: Erangel - Entertainment: Video Games
