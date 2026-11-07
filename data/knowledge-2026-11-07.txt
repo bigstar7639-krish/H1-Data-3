@@ -187,3 +187,6 @@ A: 50&#039;s - Entertainment: Music
 Knowledge Quiz 🧠
 Q: What is the world&#039;s oldest board game?
 A: Senet - Entertainment: Board Games
+Knowledge Quiz 🧠
+Q: In Minecraft, how many items can a single piece of coal smelt when used in a furnace?
+A: 8 - Entertainment: Video Games
