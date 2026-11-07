@@ -1651,3 +1651,4 @@ Quote 314 - Daily try pannu - Jeyichiduva! - Aira
 Vocab 315 - Kindness = Anbu
 Game 316 - Coin Toss - Ne Toss nu Sollu!
 Business Idea 317 - Tuition - Veetla Tuition!
+Movie 318 - Leo - Vijay - Action!
