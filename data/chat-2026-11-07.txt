@@ -673,3 +673,4 @@ Quote 124 - Daily try pannu - Jeyichiduva! - Aira
 Kavithai 125 - Un Sirippu - En Vazhkai! - Aira
 Movie 126 - Leo - Vijay - Action!
 Game 127 - Quiz: Python eppo uruvaachu? Answer: 1991!
+Thirukkural 128 - Kattrathu - Kai Mann Alavu! - Thirukkural
