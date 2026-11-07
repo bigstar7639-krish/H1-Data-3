@@ -940,3 +940,6 @@ A: Tahiti - Art
 Knowledge Quiz
 Q: What does the term GPU stand for?
 A: Graphics Processing Unit - Science: Computers
+Knowledge Quiz
+Q: The first game in the Touhou Project, "Highly Responsive to Prayers", is part of which genre?
+A: Breakout/Arkanoid - Entertainment: Video Games
