@@ -386,3 +386,4 @@ Coding Q 16 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Coding Q 17 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Aira AI: HTML button: `<button>Click</button>`
