@@ -1480,3 +1480,6 @@ Knowledge 356 - Motivation - Hey friend! 💪
 Knowledge Quiz
 Q: Which Shakespeare play inspired the musical 'West Side Story'?
 A: Romeo & Juliet - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: The human heart has how many chambers?
+A: 4 - Science & Nature
