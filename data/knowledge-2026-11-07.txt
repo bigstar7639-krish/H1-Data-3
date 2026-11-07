@@ -1716,3 +1716,6 @@ Knowledge 512 - APJ Abdul Kalam - **APJ Abdul Kalam – Oru Siruththana Sirri!
 Knowledge Quiz
 Q: Which company developed the Hololens?
 A: Microsoft - Science: Gadgets
+Knowledge Quiz
+Q: Who created Agent 47 in the game series "Hitman"?
+A: Dr. Otto Wolfgang Ort-Meyer - Entertainment: Video Games
