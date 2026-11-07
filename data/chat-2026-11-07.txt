@@ -524,3 +524,4 @@ Game 47 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Q 48 - Unakku Lonely pathi enna theriyum?
 Health 49 - Health Tip: Fruits daily saapdunga!
 Smart Q 50 - Truth la eppadi jeyikkarathu?
+Business Idea 51 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
