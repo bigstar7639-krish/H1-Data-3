@@ -1504,3 +1504,6 @@ A: October 27, 1980 - History
 Knowledge Quiz
 Q: In what year was McDonald's founded?
 A: 1955 - General Knowledge
+Knowledge Quiz
+Q: What is the capital of Wisconsin, USA?
+A: Madison - Geography
