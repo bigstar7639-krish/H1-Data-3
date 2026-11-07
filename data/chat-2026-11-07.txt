@@ -851,3 +851,4 @@ Recipe 68 - Snacks - Potato + Masala - Crispy!
 Thirukkural 69 - Anbu - Ellam Tharum! - Thirukkural
 Reading 70 - Ramayana!
 Smart Q 71 - Teacher la eppadi jeyikkarathu?
+Reading 72 - Python Crash Course!
