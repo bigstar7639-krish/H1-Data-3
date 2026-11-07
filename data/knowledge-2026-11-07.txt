@@ -1181,3 +1181,6 @@ A: 1066 - History
 Knowledge Quiz
 Q: Who portrayed Han Solo in the Star Wars main film series?
 A: Harrison Ford - Entertainment: Film
+Knowledge Quiz
+Q: Which actors made up the trio in "The Good, the Bad, and the Ugly"? 
+A: Clint Eastwood, Eli Wallach, and Lee Van Cleef - Entertainment: Film
