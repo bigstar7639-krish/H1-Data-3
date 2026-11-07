@@ -545,3 +545,6 @@ A: 4 - Entertainment: Video Games
 Knowledge Quiz
 Q: The pantheon in Rome was used to worship what god?
 A: Any god they wanted - History
+Knowledge Quiz
+Q: Which one of these is scientific term for "Brain Freeze"?
+A: Sphenopalatine Ganglioneuralgia - Science & Nature
