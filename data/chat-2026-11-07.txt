@@ -805,3 +805,4 @@ Kavithai 29 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Vocab 30 - Friend = Nanban
 Fact 1 - Octopus ku 3 heart!
 Movie 32 - Harry Potter - Magic!
+Fact 2 - Tamil - 2000+ varusha mozhi!
