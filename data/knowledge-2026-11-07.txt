@@ -1627,3 +1627,6 @@ A: 80 - Science: Computers
 Knowledge Quiz
 Q: "Decapods" are an order of ten-footed crustaceans.  Which of these are NOT decapods?
 A: Krill - Animals
+Knowledge Quiz
+Q: After England, more Shakespeare plays are set in this present day country than in any other.
+A: Italy - Entertainment: Musicals & Theatres
