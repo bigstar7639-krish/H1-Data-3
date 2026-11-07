@@ -1687,3 +1687,4 @@ Q 329 - Un life la Movie eppadi irukku?
 Fact 18 - Octopus ku 3 heart!
 Coding Q 331 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Knowledge 332 - New York - New York pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
