@@ -59,3 +59,5 @@ World Story 29
 Oru chinna delhi la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Coding Q 30 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Joke 31
+Teacher: Yen late? Student: School Ahead board! 😂
