@@ -931,3 +931,6 @@ A: Izayoi Sakuya - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the smallest country in the world?
 A: Vatican City - Geography
+Knowledge Quiz
+Q: In the Kingdom Hearts series, which is not an optional boss you can fight?
+A: Master Yen Sid - Entertainment: Video Games
