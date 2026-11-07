@@ -1510,3 +1510,6 @@ A: Madison - Geography
 Knowledge Quiz
 Q: Which movie contains the quote, "Say hello to my little friend!"?
 A: Scarface - Entertainment: Film
+Knowledge Quiz
+Q: In the game "Overwatch," which quote does the hero "McCree" NOT say upon using his flashbang ability?
+A: "You done?" - Entertainment: Video Games
