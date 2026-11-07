@@ -325,3 +325,6 @@ A: Germany - Entertainment: Music
 Auto Quiz - Space 🧠
 Q: Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?
 A: Empire State Building, United States - General Knowledge
+Auto Quiz - Health 🧠
+Q: What does the term GPU stand for?
+A: Graphics Processing Unit - Science: Computers
