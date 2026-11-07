@@ -561,3 +561,6 @@ A: Sphygmomanometer - Science: Gadgets
 Knowledge Quiz
 Q: What does the computer software acronym JVM stand for?
 A: Java Virtual Machine - Science: Computers
+Knowledge Quiz
+Q: Toussaint Louverture led a successful slave revolt in which country?
+A: Haiti - History
