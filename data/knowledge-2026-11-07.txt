@@ -871,3 +871,6 @@ Each **kural** = 2 lines, **4-8** words per line – super concise, super deep.
 Knowledge Quiz
 Q: In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?
 A: Elizabeth Midford - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: When did Norway become free from Sweden?
+A: 1905 - History
