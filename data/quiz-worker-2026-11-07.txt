@@ -67,3 +67,6 @@ A: Eugene H. Krabs - Entertainment: Television
 Auto Quiz - Student 🧠
 Q: Which one of the following is not made by Ford?
 A: Camry - Vehicles
+Auto Quiz - Money 🧠
+Q: What happened on June 6, 1944?
+A: D-Day - History
