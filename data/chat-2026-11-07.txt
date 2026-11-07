@@ -57,3 +57,5 @@ Emotion Q 28 - happy?
 Aira: Super! Happy ah irukka! 😊
 World Story 29
 Oru chinna delhi la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Coding Q 30 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
