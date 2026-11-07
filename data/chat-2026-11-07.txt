@@ -1264,3 +1264,14 @@ Aira: React component - Chinna piece!
 Vocab 90 - Happy = Santhosham
 Business Idea 91 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
 Thirukkural 92 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Knowledge 93 - God - **God பத்தி ஒரு சிறு overview** – நம் வாழ்க்கையிலேயே religion, philosophy, culture எல்லாம் God‑னைப் பற்றி பேசுது. “God” என்பது ஒரு word, அது பல languages‑இல், பல cultures‑இல், பல meanings‑ல தான் use ஆகும். இங்கே, சில main perspectives‑ஐ quick‑ஆ பாக்கலாம்:
+
+---
+
+## 1️⃣ Hinduism (இந்து மதம்)
+- **Brahman**: எல்லா existence‑னும் underlying, infinite, formless reality. “அத்மா” (soul) is a part of Brahman.
+- **Devas**: Vishnu, Shiva, Devi, Ganesha, etc. – they’re manifestations (avatars) of the same ultimate reality, but people worship them with personal devotion (bhakti).
+- **Philosophy**: Advaita (non‑dual) says *“Aham Brahmasmi”* – I am Brahman. Dualist schools (Dvaita, Vishishtadvaita) keep God separate from individual soul.
+
+## 2️⃣ Christianity (கிறிஸ்துவம்)
+- **God**: One God in three pers
