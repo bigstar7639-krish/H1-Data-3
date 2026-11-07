@@ -724,3 +724,6 @@ A: St. Helena - History
 Knowledge Quiz
 Q: In the 1979 British film "Quadrophenia" what is the name of the seaside city the mods are visiting?
 A: Brighton - Entertainment: Film
+Knowledge Quiz
+Q: What is the name of the island introduced in the ARMA III: APEX expansion pack?
+A: Tanoa - Entertainment: Video Games
