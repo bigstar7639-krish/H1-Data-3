@@ -1687,3 +1687,6 @@ A: 474 - Entertainment: Video Games
 Knowledge Quiz
 Q: When was the Garfield comic first published?
 A: 1978 - Entertainment: Comics
+Knowledge Quiz
+Q: Which of these songs is NOT included in the Suicide Squad OST?
+A: Skies on Fire - AC/DC - Entertainment: Music
