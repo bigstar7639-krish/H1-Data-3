@@ -1522,3 +1522,6 @@ A: Pelekai - Entertainment: Film
 Knowledge Quiz
 Q: Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?
 A: Ewan McGregor - Entertainment: Film
+Knowledge Quiz
+Q: Which studio animated Soul Eater?
+A: Bones - Entertainment: Japanese Anime & Manga
