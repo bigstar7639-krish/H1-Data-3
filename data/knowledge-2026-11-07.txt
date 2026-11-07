@@ -50,3 +50,6 @@ A: 2001 - General Knowledge
 Knowledge Quiz 🧠
 Q: What is the right way to spell the capital of Hungary?
 A: Budapest - Geography
+Knowledge Quiz 🧠
+Q: What candidate won the 2012 US Presidential Election?
+A: Barack Obama - Politics
