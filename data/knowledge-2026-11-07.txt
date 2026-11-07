@@ -1190,3 +1190,6 @@ A: Visual novel - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: The Western Lowland Gorilla is scientifically know as?
 A: Gorilla Gorilla Gorilla - Science & Nature
+Knowledge Quiz
+Q: Which supercar company is from Sweden?
+A: Koenigsegg - Vehicles
