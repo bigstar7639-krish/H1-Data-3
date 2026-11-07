@@ -700,3 +700,6 @@ A: GLaDOS - Entertainment: Video Games
 Knowledge Quiz
 Q: What tiny principality lies between Spain and France?
 A: Andorra - Geography
+Knowledge Quiz
+Q: Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?
+A: Pope Leo III - History
