@@ -752,3 +752,6 @@ Knowledge 35 - AI - AI - Data paathu - Pattern!
 Knowledge Quiz
 Q: The first game in the Touhou Project, "Highly Responsive to Prayers", is part of which genre?
 A: Breakout/Arkanoid - Entertainment: Video Games
+Knowledge Quiz
+Q: The Suez Canal is located in which African country?
+A: Egypt - Geography
