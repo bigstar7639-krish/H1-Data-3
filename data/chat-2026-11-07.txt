@@ -606,3 +606,4 @@ Coding Q 92 - React la component enna?
 Aira: React component - Chinna piece!
 Movie 93 - Jailer - Rajini - Mass!
 Quote 94 - Daily try pannu - Jeyichiduva! - Aira
+Q 95 - Education pathi oru story kekkura?
