@@ -1046,3 +1046,6 @@ A: 360 - Science: Mathematics
 Knowledge Quiz
 Q: Who is the true moon princess in Sailor Moon?
 A: Sailor Moon - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Given that all party members are maxed, who is the fastest party member in Super Mario RPG: Legend of The Seven Stars?
+A: Geno - Entertainment: Video Games
