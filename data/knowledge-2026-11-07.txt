@@ -499,3 +499,6 @@ Knowledge 82 - Meditation - Meditation pathi sollu - Nalla question! Daily try p
 Knowledge Quiz
 Q: Without enchantments, which pickaxe in minecraft mines blocks the quickest.
 A: Golden  - Entertainment: Video Games
+Knowledge Quiz
+Q: Which dog breed is named after a region in Croatia
+A: Dalmatian - Animals
