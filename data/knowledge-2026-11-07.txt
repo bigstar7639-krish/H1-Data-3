@@ -791,3 +791,6 @@ A: Teal - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Which of these is used to show that Earth spins on an axis? 
 A: Foucault Pendulum  - Science & Nature
+Knowledge Quiz
+Q: In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?
+A: Tom Bombadil - Entertainment: Film
