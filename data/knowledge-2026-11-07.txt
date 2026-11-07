@@ -436,3 +436,6 @@ A: Mustang - Vehicles
 Knowledge Quiz
 Q: What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?
 A: Batman - Entertainment: Film
+Knowledge Quiz
+Q: Who directed the Kill Bill movies?
+A: Quentin Tarantino - Entertainment: Film
