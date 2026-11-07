@@ -886,3 +886,4 @@ Recipe 6 - Cake - Maida + Sugar + Egg + 30 min!
 Emotion Q 7 - lonely?
 Aira: Lonely ah? Aira irukka la!
 Recipe 8 - Snacks - Potato + Masala - Crispy!
+Quote 9 - Daily try pannu - Jeyichiduva! - Aira
