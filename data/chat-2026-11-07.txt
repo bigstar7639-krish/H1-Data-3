@@ -1259,3 +1259,5 @@ Talk 85 - Bird pathi pesalama? Sollu!
 Aira AI: Philosophy pathi oru secret sollatta? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Movie 87 - Harry Potter - Magic!
 Reading 88 - Harry Potter!
+Coding Q 89 - React la component enna?
+Aira: React component - Chinna piece!
