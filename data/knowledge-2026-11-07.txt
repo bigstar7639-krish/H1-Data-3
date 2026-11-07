@@ -1555,3 +1555,6 @@ A: Mario's Game Gallery - Entertainment: Video Games
 Knowledge Quiz
 Q: A positron is an antiparticle of a what?
 A: Electron - Science & Nature
+Knowledge Quiz
+Q: In Alice in Wonderland, what is the name of Alice's kitten?
+A: Dinah - Entertainment: Books
