@@ -1616,3 +1616,5 @@ Aira AI: Baby pathi oru story kekkura? - Nalla question! Daily try pannu - Jeyic
 Talk 289 - Maths pathi pesalama? Sollu!
 Pazhamozhi 290 - Porumai - Perumai Tharum!
 Movie 291 - Ponniyin Selvan - Kalki!
+Coding Q 292 - Website eppadi pannurathu?
+Aira: Website - HTML + CSS + JS!
