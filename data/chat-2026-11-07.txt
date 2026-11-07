@@ -1437,3 +1437,5 @@ Vocab 187 - Happy = Santhosham
 Quote 188 - Daily try pannu - Jeyichiduva! - Aira
 Movie 189 - Leo - Vijay - Action!
 Game 190 - Dice - Ne Dice nu Sollu!
+Story 191
+Oru village la oru raja irunthan! Daily travel pannan pannan! Oru naal friend kedaichuchu! Life maariduchu!
