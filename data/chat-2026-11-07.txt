@@ -399,3 +399,4 @@ World Story 3
 Oru chinna sea la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Coding Q 4 - React la component enna?
 Aira: React component - Chinna piece!
+Smart Q 5 - Teacher la eppadi jeyikkarathu?
