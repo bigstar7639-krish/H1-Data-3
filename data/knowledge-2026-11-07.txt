@@ -539,3 +539,6 @@ A: Boomstick - Entertainment: Film
 Knowledge Quiz
 Q: Which of the following rappers were NOT part of the hip-hop group Odd Future?
 A: Vince Staples - Entertainment: Music
+Knowledge Quiz
+Q: How many controllers could a Nintendo GameCube have plugged in at one time?
+A: 4 - Entertainment: Video Games
