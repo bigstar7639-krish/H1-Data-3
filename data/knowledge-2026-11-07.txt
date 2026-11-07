@@ -640,3 +640,6 @@ A: January 25, 1945 - History
 Knowledge Quiz
 Q: Which is the second largest native language spoken in Spain by numbers of speakers?
 A: Catalan - General Knowledge
+Knowledge Quiz
+Q: In "The Binding of Isaac", what is the name of the final boss that you fight in The Void?
+A: Delirium - Entertainment: Video Games
