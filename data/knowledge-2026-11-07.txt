@@ -1205,3 +1205,6 @@ A: T-45 - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the molecular formula of the active component of chili peppers(Capsaicin)?
 A: C18H27NO3 - Science & Nature
+Knowledge Quiz
+Q: Which of these is the only fighter in the game "Super Smash Bros. Melee" capable of dealing damage with their taunt animation?
+A: Luigi - Entertainment: Video Games
