@@ -38,3 +38,4 @@ Game 420 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 444 - Coin Toss - Ne Toss nu Sollu!
 Game 457 - Dice - Ne Dice nu Sollu!
 Game 464 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 469 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
