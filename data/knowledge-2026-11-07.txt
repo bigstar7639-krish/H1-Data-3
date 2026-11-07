@@ -1193,3 +1193,6 @@ A: Gorilla Gorilla Gorilla - Science & Nature
 Knowledge Quiz
 Q: Which supercar company is from Sweden?
 A: Koenigsegg - Vehicles
+Knowledge Quiz
+Q: Which of these cities does NOT have a United States Minting location?
+A: St. Louis, MO - General Knowledge
