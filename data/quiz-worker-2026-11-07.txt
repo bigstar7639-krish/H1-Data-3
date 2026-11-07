@@ -109,3 +109,6 @@ A: Joe DiMaggio - Celebrities
 Auto Quiz - Tamil 🧠
 Q: Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?
 A: Carl Jung - Science & Nature
+Auto Quiz - Love 🧠
+Q: Which of these is not a key value of Agile software development?
+A: Comprehensive documentation - Science: Computers
