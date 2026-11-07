@@ -1304,3 +1304,4 @@ Talk 113 - Poetry pathi pesalama? Sollu!
 Smart Q 114 - Football la eppadi jeyikkarathu?
 Coding Q 115 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
+Smart Q 116 - Python la eppadi jeyikkarathu?
