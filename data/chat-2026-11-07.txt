@@ -1825,3 +1825,5 @@ Emotion Q 405 - excited?
 Aira: Excited ah! Sollu!
 Game 406 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Movie 407 - Leo - Vijay - Action!
+Coding Q 408 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
