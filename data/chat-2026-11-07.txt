@@ -526,3 +526,4 @@ Health 49 - Health Tip: Fruits daily saapdunga!
 Smart Q 50 - Truth la eppadi jeyikkarathu?
 Business Idea 51 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Game 52 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+Recipe 53 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
