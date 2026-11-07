@@ -1688,3 +1688,4 @@ Fact 18 - Octopus ku 3 heart!
 Coding Q 331 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Knowledge 332 - New York - New York pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Quote 333 - Daily try pannu - Jeyichiduva! - Aira
