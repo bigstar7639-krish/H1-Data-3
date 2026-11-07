@@ -898,3 +898,6 @@ A: 1993 - Entertainment: Music
 Knowledge Quiz
 Q: In the "Star Wars" universe, what species is Grand Admiral Thrawn?
 A: Chiss - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: What is the name of Nissan's most popular electric car?
+A: Leaf - Vehicles
