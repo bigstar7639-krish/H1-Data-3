@@ -1558,3 +1558,6 @@ A: Electron - Science & Nature
 Knowledge Quiz
 Q: In Alice in Wonderland, what is the name of Alice's kitten?
 A: Dinah - Entertainment: Books
+Knowledge Quiz
+Q: Which city is the seat of government of the Netherlands?
+A: The Hague - Politics
