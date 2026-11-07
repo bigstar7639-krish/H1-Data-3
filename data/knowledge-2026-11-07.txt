@@ -123,3 +123,6 @@ A: 200 - Science: Computers
 Knowledge Quiz 🧠
 Q: The assassination of which royal led to the start of World War I?
 A: Archduke Franz Ferdinand - History
+Knowledge Quiz 🧠
+Q: The first game in the Touhou Project, &quot;Highly Responsive to Prayers&quot;, is part of which genre?
+A: Breakout/Arkanoid - Entertainment: Video Games
