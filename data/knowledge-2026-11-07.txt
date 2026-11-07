@@ -1248,3 +1248,6 @@ A: Carthaginian general - History
 Knowledge Quiz
 Q: What otherworldly land does Thor come from?
 A: Asgard - Entertainment: Comics
+Knowledge Quiz
+Q: Which of the following is not a work authored by Fyodor Dostoevsky?
+A: Anna Karenina - Entertainment: Books
