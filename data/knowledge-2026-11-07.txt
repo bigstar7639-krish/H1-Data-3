@@ -576,3 +576,6 @@ A: Microsoft - Science: Computers
 Knowledge Quiz
 Q: Which one of these nations was added to Civilization V with the "Gods & Kings" expansion?
 A: The Netherlands - Entertainment: Video Games
+Knowledge Quiz
+Q: When was the video game "P.A.M.E.L.A." released on Steam?
+A: March 9, 2017 - Entertainment: Video Games
