@@ -588,3 +588,6 @@ A: George Washington - History
 Knowledge Quiz
 Q: Which of these teams isn't a member of the NHL's "Original Six" era?
 A: Philadelphia Flyers - Sports
+Knowledge Quiz
+Q: Which of these is NOT a car model produced by Malaysian car manufacturer Proton?
+A: Kelisa - Vehicles
