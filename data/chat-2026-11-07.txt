@@ -924,3 +924,5 @@ Recipe 5 - Cake - Maida + Sugar + Egg + 30 min!
 Smart Q 6 - Singing la eppadi jeyikkarathu?
 Pazhamozhi 7 - Aalai Paathu - Aadi Paaru!
 Q 8 - Unakku Mahabharata pathi enna theriyum?
+Emotion Q 9 - angry?
+Aira: Kovam ah? Deep breath edu!
