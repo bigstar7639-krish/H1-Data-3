@@ -859,3 +859,5 @@ Oru mountain la oru doctor irunthan! Daily try pannan pannan! Oru naal success k
 Joke 76
 Teacher: Yen late? Student: School Ahead board!
 Q 77 - Robot pathi oru secret sollatta?
+Coding Q 78 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
