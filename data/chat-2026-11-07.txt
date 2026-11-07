@@ -254,3 +254,5 @@ Business Idea 141 - Instagram Page - Daily 1 Post!
 Reading 142 - Mahabharata! 📚
 Emotion Q 143 - bored?
 Aira: Bored ah? Joke sollattuma? 😂
+Coding Q 144 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
