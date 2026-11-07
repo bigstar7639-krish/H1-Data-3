@@ -397,3 +397,6 @@ A: Teal - Entertainment: Japanese Anime & Manga
 Auto Quiz - River 🧠
 Q: What country joined the EU in 2013?
 A: Croatia - History
+Auto Quiz - Sky 🧠
+Q: All of the following are names of the Seven Warring States EXCEPT:
+A: Zhai (翟) - History
