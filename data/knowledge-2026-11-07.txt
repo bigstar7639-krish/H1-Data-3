@@ -1675,3 +1675,6 @@ A: Tarrasque - Entertainment: Board Games
 Knowledge Quiz
 Q: "The first rule is: you don't talk about it" is a reference to which movie?
 A: Fight Club - Entertainment: Film
+Knowledge Quiz
+Q: Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?
+A: Policenauts - Entertainment: Video Games
