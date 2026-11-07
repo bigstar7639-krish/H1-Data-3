@@ -643,3 +643,6 @@ A: Catalan - General Knowledge
 Knowledge Quiz
 Q: In "The Binding of Isaac", what is the name of the final boss that you fight in The Void?
 A: Delirium - Entertainment: Video Games
+Knowledge Quiz
+Q: In "PUBATTLEGROUNDS" which ammo type does the M24 use?
+A: 7.62mm - Entertainment: Video Games
