@@ -958,3 +958,6 @@ A: Real Madrid C.F. - Sports
 Knowledge Quiz
 Q: What does the term GPU stand for?
 A: Graphics Processing Unit - Science: Computers
+Knowledge Quiz
+Q: Who was the first wife of King Henry VIII?
+A: Catherine of Aragon - History
