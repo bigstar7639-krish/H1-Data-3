@@ -274,3 +274,6 @@ A: 21% - Science & Nature
 Auto Quiz - Health 🧠
 Q: What is the fifth largest country by area?
 A: Brazil - Geography
+Auto Quiz - Music 🧠
+Q: By what name is Carlos Estevez better known? 
+A: Charlie Sheen - Celebrities
