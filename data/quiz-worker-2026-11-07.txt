@@ -172,3 +172,6 @@ A: Hamlet - Entertainment: Musicals & Theatres
 Auto Quiz - Love 🧠
 Q: Who is the musical artist who released the hit song, "Love Song," in 2007?
 A: Sara Bareilles - Entertainment: Music
+Auto Quiz - God 🧠
+Q: George Orwell wrote this book, which is often considered a statement on government oversight.
+A: 1984 - Entertainment: Books
