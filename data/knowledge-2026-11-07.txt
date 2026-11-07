@@ -1552,3 +1552,6 @@ A: Yellow - Entertainment: Video Games
 Knowledge Quiz
 Q: Which game was the first time Mario was voiced by Charles Martinet?
 A: Mario's Game Gallery - Entertainment: Video Games
+Knowledge Quiz
+Q: A positron is an antiparticle of a what?
+A: Electron - Science & Nature
