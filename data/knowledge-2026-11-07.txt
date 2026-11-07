@@ -354,3 +354,6 @@ A: Red, black and yellow - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Who wrote the song "You Know You Like It"?
 A: AlunaGeorge - Entertainment: Music
+Knowledge Quiz
+Q: What is not a playable race in "Final Fantasy XIV: A Realm Reborn"?
+A: Hume - Entertainment: Video Games
