@@ -558,3 +558,6 @@ Knowledge 4 - World History - World History pathi sollu - Nalla question! Daily 
 Knowledge Quiz
 Q: Which of the following is used to measure blood pressure?
 A: Sphygmomanometer - Science: Gadgets
+Knowledge Quiz
+Q: What does the computer software acronym JVM stand for?
+A: Java Virtual Machine - Science: Computers
