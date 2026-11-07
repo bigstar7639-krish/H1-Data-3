@@ -637,3 +637,6 @@ A: Cheetah - Science: Computers
 Knowledge Quiz
 Q: When did the Battle of the Bulge end?
 A: January 25, 1945 - History
+Knowledge Quiz
+Q: Which is the second largest native language spoken in Spain by numbers of speakers?
+A: Catalan - General Knowledge
