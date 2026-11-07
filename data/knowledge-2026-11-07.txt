@@ -1606,3 +1606,6 @@ Mountains = **உயரமான நிலம்** (high land) – Earth’s cru
 Knowledge Quiz
 Q: Where does the Mac part of the name Fleetwood Mac come from?
 A: John McVie - Entertainment: Music
+Knowledge Quiz
+Q: "Make You Feel My Love" was originally written and performed by which singer-songwriter?
+A: Bob Dylan - Entertainment: Music
