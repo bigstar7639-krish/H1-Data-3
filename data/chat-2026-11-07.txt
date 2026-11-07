@@ -1287,3 +1287,4 @@ Oru chinna mountain la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala!
 Thirukkural 101 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Coding Q 102 - React la component enna?
 Aira: React component - Chinna piece!
+Thirukkural 103 - Kattrathu - Kai Mann Alavu! - Thirukkural
