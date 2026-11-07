@@ -1335,3 +1335,4 @@ Recipe 126 - Cake - Maida + Sugar + Egg + 30 min!
 Quote 127 - Daily try pannu - Jeyichiduva! - Aira
 Recipe 128 - Snacks - Potato + Masala - Crispy!
 Pazhamozhi 129 - Porumai - Perumai Tharum!
+Vocab 131 - Kindness = Anbu
