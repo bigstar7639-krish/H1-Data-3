@@ -955,3 +955,6 @@ A: Pencilvester - Entertainment: Television
 Knowledge Quiz
 Q: Who won the UEFA Champions League in 2017?
 A: Real Madrid C.F. - Sports
+Knowledge Quiz
+Q: What does the term GPU stand for?
+A: Graphics Processing Unit - Science: Computers
