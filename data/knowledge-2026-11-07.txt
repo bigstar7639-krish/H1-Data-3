@@ -433,3 +433,6 @@ A: Elric - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Which of the following vehicles from Ford is named after a WW2 Fighter Plane?
 A: Mustang - Vehicles
+Knowledge Quiz
+Q: What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?
+A: Batman - Entertainment: Film
