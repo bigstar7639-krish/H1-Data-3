@@ -14,3 +14,4 @@ Game 45 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 11 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 83 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 50 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 67 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
