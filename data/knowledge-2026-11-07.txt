@@ -1123,3 +1123,6 @@ A: Bay - Entertainment: Video Games
 Knowledge Quiz
 Q: The country of Belize borders which country?
 A: Guatemala - Geography
+Knowledge Quiz
+Q: Which country has the international vehicle registration letter 'A'?
+A: Austria - Vehicles
