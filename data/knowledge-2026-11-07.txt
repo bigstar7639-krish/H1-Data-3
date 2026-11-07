@@ -1738,3 +1738,6 @@ A: 7 - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the child performing the Black Sacrament, in The Elder Scrolls V: Skyrim?
 A: Aventus Aretino - Entertainment: Video Games
+Knowledge Quiz
+Q: Which famous artist featured on Rowdy Rebel's 2015 song "Computers"?
+A: Bobby Shmurda  - Entertainment: Music
