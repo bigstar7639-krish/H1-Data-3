@@ -390,3 +390,5 @@ Aira AI: HTML button: `<button>Click</button>`
 World Story 1
 Oru chinna oor la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Thirukkural 2 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Emotion Q 3 - fear?
+Aira: Bayam - Normal! Ne jeyichiduva!
