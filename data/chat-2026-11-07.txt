@@ -109,3 +109,5 @@ Coding Q 53 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Movie 54 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
 Thirukkural 55 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Coding Q 56 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
