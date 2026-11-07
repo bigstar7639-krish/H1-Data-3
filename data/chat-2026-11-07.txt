@@ -1603,3 +1603,4 @@ World Story 277
 Oru madurai la oru hero irunthan! Daily try pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!
 Smart Q 278 - Eiffel Tower la eppadi jeyikkarathu?
 Smart Q 279 - Yoga la eppadi jeyikkarathu?
+Talk 280 - Quran pathi pesalama? Sollu!
