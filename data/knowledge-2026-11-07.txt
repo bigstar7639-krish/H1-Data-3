@@ -1421,3 +1421,6 @@ Knowledge 332 - New York - New York pathi sollu - Nalla question! Daily try pann
 Knowledge Quiz
 Q: Which car manufacturer created the "Aventador"?
 A: Lamborghini - Vehicles
+Knowledge Quiz
+Q: In Michael Crichton's novel "Jurassic Park", John Hammond meets his demise at the claws of which dinosaur?
+A: Procompsognathus - Entertainment: Books
