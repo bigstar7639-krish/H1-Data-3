@@ -746,3 +746,4 @@ Oru world la oru paiyan irunthan! Daily book padichan pannan! Oru naal wisdom ke
 Smart Q 26 - Hope la eppadi jeyikkarathu?
 Story 27
 Oru chinna village la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Talk 28 - Mountain pathi pesalama? Sollu!
