@@ -967,3 +967,6 @@ A: Lúcio Correia Dos Santos - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these people is NOT a part of the Internet comedy group Mega64?
 A: Jon Jafari - Celebrities
+Knowledge Quiz
+Q: Which of these characters is the mascot of the video game company SEGA?
+A: Sonic the Hedgehog - Entertainment: Video Games
