@@ -263,3 +263,4 @@ Music - bwb_S0-EAJ-347 - Music in protestant worship
 Movie - movie_201611 - movie
 Movie - MovieMenu - Movie Menu
 Temple - intellectualheri0000temp - Intellectual Heritage 52 (For Temple University)
+Temple - geologymineralre0000davi_v5e9 - GEOLOGY AND MINERAL RESOURCES OF THE TEMPLE AND FLEETWOOD QUADRANGLES, BERKS COUNTY, PENNSYLVANIA
