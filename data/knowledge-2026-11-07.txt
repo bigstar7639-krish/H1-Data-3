@@ -1690,3 +1690,6 @@ A: 1978 - Entertainment: Comics
 Knowledge Quiz
 Q: Which of these songs is NOT included in the Suicide Squad OST?
 A: Skies on Fire - AC/DC - Entertainment: Music
+Knowledge Quiz
+Q: To which biological phylum do all mammals, birds and reptiles belong?
+A: Chordata - Animals
