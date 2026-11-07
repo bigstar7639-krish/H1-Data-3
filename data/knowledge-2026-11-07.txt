@@ -1663,3 +1663,6 @@ A: 12 - Entertainment: Music
 Knowledge Quiz
 Q: Which European city is known as the "City of Light"?
 A: Paris - Geography
+Knowledge Quiz
+Q: Which studio animated Soul Eater?
+A: Bones - Entertainment: Japanese Anime & Manga
