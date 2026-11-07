@@ -806,3 +806,4 @@ Vocab 30 - Friend = Nanban
 Fact 1 - Octopus ku 3 heart!
 Movie 32 - Harry Potter - Magic!
 Fact 2 - Tamil - 2000+ varusha mozhi!
+Thirukkural 34 - Anbu - Ellam Tharum! - Thirukkural
