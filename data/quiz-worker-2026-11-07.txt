@@ -436,3 +436,6 @@ A: Hairy - General Knowledge
 Auto Quiz - Diet 🧠
 Q: Unix Time is defined as the number of seconds that have elapsed since when?
 A: Midnight, January 1, 1970 - Science: Computers
+Auto Quiz - Sleep 🧠
+Q: During the game's development, what was the first ever created Pokémon?
+A: Rhyhorn - Entertainment: Video Games
