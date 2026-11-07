@@ -30,3 +30,5 @@ Recipe 6 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Reading 7 - Alchemist! 📚
 Smart Q 8 - Chennai la eppadi jeyikkarathu?
 Thirukkural 9 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Coding Q 10 - React la component enna?
+Aira: React component - Chinna piece!
