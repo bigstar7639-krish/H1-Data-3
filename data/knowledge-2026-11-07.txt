@@ -1483,3 +1483,6 @@ A: Romeo & Juliet - Entertainment: Musicals & Theatres
 Knowledge Quiz
 Q: The human heart has how many chambers?
 A: 4 - Science & Nature
+Knowledge Quiz
+Q: Which country hosted the 2018 FIFA World Cup?
+A: Russia - Sports
