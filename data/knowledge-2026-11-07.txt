@@ -269,3 +269,6 @@ A: Magolor - Entertainment: Video Games
 Knowledge Quiz
 Q: Which animated movie was first to feature a celebrity as a voice actor?
 A: Aladdin - Entertainment: Film
+Knowledge Quiz
+Q: Which of the following Mario Kart 8 Deluxe items will NOT make you invincible?
+A: Golden Mushroom - Entertainment: Video Games
