@@ -1,13 +1,3 @@
-Auto Quiz - Dog 🧠
-Q: Where is the fast food chain "Panda Express" headquartered?
-A: Rosemead, California - Geography
-Auto Quiz - Food 🧠
-Q: Which franchise had a special event hosted in the popular MMORPG Final Fantasy XIV: A Realm Reborn?
-A: Yo-kai Watch - Entertainment: Video Games
-Auto Quiz - Tamil 🧠
-Q: In computing, what does LAN stand for?
-A: Local Area Network - Science: Computers
-Auto Quiz - God 🧠
 Q: Which Disney character sings the song "A Dream is a Wish Your Heart Makes"?
 A: Cinderella - Entertainment: Music
 Auto Quiz - Nature 🧠
@@ -1998,3 +1988,13 @@ Q+A Katha - Saree 🧠
 Question: Which movie served as the KTMA pilot episode for the show "Mystery Science Theater 3000"?
 
 Answer: The Green Slime - Entertainment: Television. Itha kelvi Saree pathi - Answer The Green Slime. Oru kaalathula oru oor la Saree nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Saree oda arumaiya purinjikittan, avan Saree pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Saree ah purinjikittanga, antha oor ye Saree nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Saree ah purinjikita life ye azhagahum.
+Q+A Katha - Biryani 🧠
+
+Question: The ancient Roman god of war was commonly known as which of the following?
+
+Answer: Mars - Mythology. Itha kelvi Biryani pathi - Answer Mars. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Biryani pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Biryani la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Biryani oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Diwali 🧠
+
+Question: What is the orange and white bot's name in "Star Wars: The Force Awakens"?
+
+Answer: BB-8 - Entertainment: Film. Itha kelvi Diwali pathi - Answer BB-8. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Diwali pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Diwali la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Diwali oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
