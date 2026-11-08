@@ -954,3 +954,6 @@ A: The Dentist - Entertainment: Video Games
 Knowledge Quiz
 Q: Mary Shelley is the author of what classic horror story?
 A: Frankenstein - Entertainment: Books
+Knowledge Quiz
+Q: After England, more Shakespeare plays are set in this present day country than in any other.
+A: Italy - Entertainment: Musicals & Theatres
