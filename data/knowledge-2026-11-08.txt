@@ -753,3 +753,6 @@ A: Rome, Italy - Geography
 Knowledge Quiz
 Q: What geometric shape is generally used for stop signs?
 A: Octagon - General Knowledge
+Knowledge Quiz
+Q: How many planets are in our Solar System?
+A: Eight - Science & Nature
