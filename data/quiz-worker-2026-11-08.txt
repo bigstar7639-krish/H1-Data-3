@@ -223,3 +223,6 @@ A: Dragon King: The Fighting Game - Entertainment: Video Games
 Auto Quiz - Cat 🧠
 Q: What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?
 A: Atreyu - Entertainment: Film
+Auto Quiz - Dog 🧠
+Q: Which SQL keyword is used to fetch data from a database?
+A: SELECT - Science: Computers
