@@ -869,3 +869,6 @@ A: Ira Levin - Entertainment: Books
 Knowledge Quiz
 Q: How many voice channels does the Super Nintendo Entertainment System support?
 A: 8 - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the perimeter of a circle more commonly known as?
+A: Circumference - General Knowledge
