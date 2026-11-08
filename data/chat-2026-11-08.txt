@@ -400,3 +400,4 @@ Vocab 49 - Courage = Thairiyam
 Coding Q 50 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Aira AI: Aira: Biology pathi oru story kekkura? - Itha paathi naan yosichen! Ithu mukkiyamana vishayam - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
+Movie 52 - Jailer - Rajini - Mass!
