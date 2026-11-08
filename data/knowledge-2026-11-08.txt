@@ -651,3 +651,6 @@ A: 2002 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which card is on the cover of the Beta rulebook of "Magic: The Gathering"?
 A: Bog Wraith - Entertainment: Board Games
+Knowledge Quiz
+Q: Which of these is not an additional variation of the color purple?
+A: Kobicha - Art
