@@ -204,3 +204,6 @@ A: 2004 - General Knowledge
 Knowledge Quiz
 Q: Who is the leader of Team Mystic in Pokémon Go?
 A: Blanche - Entertainment: Video Games
+Knowledge Quiz
+Q: Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?
+A: Wales - Geography
