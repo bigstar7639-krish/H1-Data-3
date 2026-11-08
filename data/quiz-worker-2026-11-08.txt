@@ -1,18 +1,3 @@
-Q: Which nation joined NATO as its 29th member in 2017?
-A: Montenegro - Politics
-Auto Quiz - Nature 🧠
-Q: Which of the following plastic is commonly used for window frames, gutters and drain pipes?
-A: Polyvinylchloride (PVC)  - Science & Nature
-Auto Quiz - Dog 🧠
-Q: The Los Angeles Dodgers were originally from what U.S. city?
-A: Brooklyn - Sports
-Auto Quiz - Food 🧠
-Q: What book series published by Jim Butcher follows a wizard in modern day Chicago?
-A: The Dresden Files - Entertainment: Books
-Auto Quiz - Cricket 🧠
-Q: What does RAID stand for?
-A: Redundant Array of Independent Disks - Science: Computers
-Auto Quiz - Space 🧠
 Q: What song on ScHoolboy Q's album Black Face LP featured Kanye West?
 A: THat Part - Entertainment: Music
 Auto Quiz - Story 🧠
@@ -1998,3 +1983,18 @@ Q+A Katha - Animal 🧠
 Question: In the video game Overwatch, which playable character is infamous for saying "It's high noon."?
 
 Answer: McCree - Entertainment: Video Games. Itha kelvi Animal pathi - Answer McCree. Animal pathi kelvi patta oru ponnu, ava daily Animal pathi yosichittu iruntha, oru naal ava oru puthu book padichu Animal oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Animal ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Animal la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Baby 🧠
+
+Question: Which city is the capital of the United States of America?
+
+Answer: Washington D.C - Geography. Itha kelvi Baby pathi - Answer Washington D.C. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Baby pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Baby la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Baby oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Teacher 🧠
+
+Question: What name is given to all baby marsupials?
+
+Answer: Joey - Science & Nature. Itha kelvi Teacher pathi - Answer Joey. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Teacher pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Teacher la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Teacher oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Student 🧠
+
+Question: Who painted The Starry Night?
+
+Answer: Vincent van Gogh - Art. Itha kelvi Student pathi - Answer Vincent van Gogh. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Student pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Student la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Student oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
