@@ -232,3 +232,6 @@ Knowledge 13 - Chemistry - Hey buddy! Chemistry‑na **matter‑oda magic**�
 - **Health** – disease cure, nutrition.  
 - **Environment** – pollutants analyse pannitu, green chemistry kondu waste‑a reduce pannuvom.  
 - **Industry** – new materials (nanotech, po
+Knowledge Quiz
+Q: Who sang the theme song for the TV show 'Rawhide'?
+A: Frankie Laine - Entertainment: Television
