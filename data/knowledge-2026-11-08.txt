@@ -723,3 +723,6 @@ A:  Tracker - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: In the year 1900, what were the most popular first names given to boy and girl babies born in the United States?
 A: John and Mary - History
+Knowledge Quiz
+Q: What is the oldest US state?
+A: Delaware - History
