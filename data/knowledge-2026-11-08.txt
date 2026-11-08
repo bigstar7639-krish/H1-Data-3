@@ -1375,3 +1375,6 @@ A: Telepathy - Entertainment: Video Games
 Knowledge Quiz
 Q: What mythology did the god "Apollo" come from?
 A: Greek and Roman - Mythology
+Knowledge Quiz
+Q: Which actor has NOT portrayed Billy Flynn in the musical "Chicago"?
+A: Christopher Walken - Entertainment: Musicals & Theatres
