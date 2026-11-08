@@ -1336,3 +1336,6 @@ A: Sydney - Geography
 Knowledge Quiz
 Q: What was the development code name for the "Weatherlight" expansion for "Magic: The Gathering", released in 1997?
 A: Mocha Latte - Entertainment: Board Games
+Knowledge Quiz
+Q: In the book & video game Metro 2033, which Moscow Metro station is the main character Artyom's home station?
+A: VDNKh - Entertainment: Video Games
