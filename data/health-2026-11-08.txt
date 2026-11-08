@@ -9,3 +9,4 @@ Health 119 - Health Tip: Daily 30 min walk ponga!
 Health 127 - Health Tip: Fruits daily saapdunga!
 Health 14 - Health Tip: Daily 8 glass water kudinga!
 Health 10 - Health Tip: Daily 8 glass water kudinga!
+Health 16 - Health Tip: 7 mani neram thoongunga!
