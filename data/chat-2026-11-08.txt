@@ -1198,3 +1198,4 @@ Paravalla! Aira irukka - Pesu! 💜
 sad - Ithu normal thaan da!
 Coding Q 106 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Aira AI: Aira: Unakku New York pathi enna theriyum? - Itha paathi naan yosichen! Kelvi super - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
