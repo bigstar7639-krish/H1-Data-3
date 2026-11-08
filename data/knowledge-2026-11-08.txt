@@ -439,3 +439,6 @@ A: Bubbles - Entertainment: Television
 Knowledge Quiz
 Q: Joseph Smith was the founder of what religion?
 A: Mormonism - History
+Knowledge Quiz
+Q: What is the capital of the American state of Arizona?
+A: Phoenix - Geography
