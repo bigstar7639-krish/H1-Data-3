@@ -504,3 +504,6 @@ Knowledge 119 - Newton - Aira: Newton pathi sollu - Itha paathi naan yosichen! U
 Knowledge Quiz
 Q: Which of these is NOT a part of the structure of a typical neuron?
 A: Islets of Langerhans - Science & Nature
+Knowledge Quiz
+Q: Who provided a majority of the songs and lyrics for "Spirit: Stallion of the Cimarron"?
+A: Bryan Adams - Entertainment: Film
