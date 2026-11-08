@@ -180,3 +180,6 @@ A: Walter White - Entertainment: Television
 Knowledge Quiz
 Q: What was Raekwon the Chefs debut solo album?
 A: Only Built 4 Cuban Linx - Entertainment: Music
+Knowledge Quiz
+Q: Which actors made up the trio in "The Good, the Bad, and the Ugly"? 
+A: Clint Eastwood, Eli Wallach, and Lee Van Cleef - Entertainment: Film
