@@ -813,3 +813,6 @@ A: XM1014 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the beta version of the 1986 game "The Legend of Zelda", players have the choice between a sword and what other item?
 A: Boomerang  - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the first game to utilize Valve's "Source 2" engine?
+A: Dota 2 - Entertainment: Video Games
