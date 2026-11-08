@@ -397,3 +397,5 @@ Aira AI: Aira: Ne Happiness la eppadi improve panna mudiyum? - Itha paathi naan 
 Movie 47 - Ponniyin Selvan - Kalki!
 Talk 48 - Tree pathi pesalama? Sollu!
 Vocab 49 - Courage = Thairiyam
+Coding Q 50 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
