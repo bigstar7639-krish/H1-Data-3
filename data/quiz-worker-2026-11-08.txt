@@ -1,13 +1,3 @@
-Q: On the NBC show Community, whose catch-phrase was "Pop! Pop!"?
-A: Magnitude - Entertainment: Television
-Auto Quiz - Sky 🧠
-Q: What is the full name of the protagonist from the indie adventure game "Night in the Woods"?
-A: Margaret Borowski - Entertainment: Video Games
-Auto Quiz - Star 🧠
-Q: Gwyneth Paltrow has a daughter named...?
-A: Apple - Celebrities
-Auto Quiz - Moon 🧠
-Q: In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?
 A: October 21, 2015 - Entertainment: Film
 Auto Quiz - Bird 🧠
 Q: Which of the following is NOT a Nintendo game console?
@@ -1998,3 +1988,13 @@ Q+A Katha - Chinese Food 🧠
 Question: Which video game company developed the 2019 game Rage 2?
 
 Answer: Avalanche Studios - Entertainment: Video Games. Itha kelvi Chinese Food pathi - Answer Avalanche Studios. Chinese Food pathi kelvi patta oru ponnu, ava daily Chinese Food pathi yosichittu iruntha, oru naal ava oru puthu book padichu Chinese Food oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Chinese Food ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Chinese Food la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Chinese Temple 🧠
+
+Question: Who rode on horseback to warn the Minutemen that the British were coming during the U.S. Revolutionary War?
+
+Answer: Paul Revere - History. Itha kelvi Chinese Temple pathi - Answer Paul Revere. Chinese Temple pathi kelvi patta oru ponnu, ava daily Chinese Temple pathi yosichittu iruntha, oru naal ava oru puthu book padichu Chinese Temple oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Chinese Temple ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Chinese Temple la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Shanghai 🧠
+
+Question: Which of the following awards do Matt Stone and Trey Parker NOT have?
+
+Answer: Oscar - Entertainment: Television. Itha kelvi Shanghai pathi - Answer Oscar. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Shanghai pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Shanghai la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Shanghai oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
