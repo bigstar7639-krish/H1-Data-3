@@ -54,3 +54,6 @@ A: Benjamin Franklin - Science: Gadgets
 Knowledge Quiz
 Q: Who is the founder of Team Fortress 2's fictional company "Mann Co"?
 A: Zepheniah Mann - Entertainment: Video Games
+Knowledge Quiz
+Q: In the 1995 film "Balto", who are Steele's accomplices?
+A: Kaltag, Nikki, and Star - Entertainment: Film
