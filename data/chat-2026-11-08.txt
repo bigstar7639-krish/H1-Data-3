@@ -318,3 +318,4 @@ Business Idea 5 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Coding Q 6 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Talk 7 - Psychology pathi pesalama? Sollu!
+Recipe 8 - Cake - Maida + Sugar + Egg + 30 min!
