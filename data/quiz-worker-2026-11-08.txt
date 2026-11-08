@@ -1,18 +1,3 @@
-Q: What type of animal is a natterjack?
-A: Toad - Animals
-Auto Quiz - Cricket 🧠
-Q: What is the name of the fourth book in Stephen King's The Dark Tower series?
-A: Wizard and Glass - Entertainment: Books
-Auto Quiz - Tamil 🧠
-Q: Which superhero is known for his super speed?
-A: Flash - Entertainment: Comics
-Auto Quiz - God 🧠
-Q: What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?
-A: Groovy. - Entertainment: Film
-Auto Quiz - Nature 🧠
-Q: Which team was the 2015-2016 NBA Champions?
-A: Cleveland Cavaliers - Sports
-Auto Quiz - Cat 🧠
 Q: Which of these characters was considered, but ultimately not included, for Super Smash Bros. Melee?
 A: James Bond - Entertainment: Video Games
 Auto Quiz - Dog 🧠
@@ -1998,3 +1983,18 @@ Q+A Katha - Music 🧠
 Question: What animation studio produced "Gurren Lagann"?
 
 Answer: Gainax - Entertainment: Japanese Anime & Manga. Itha kelvi Music pathi - Answer Gainax. Oru kaalathula oru oor la Music nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Music oda arumaiya purinjikittan, avan Music pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Music ah purinjikittanga, antha oor ye Music nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Music ah purinjikita life ye azhagahum.
+Q+A Katha - Movie 🧠
+
+Question: In a normal distribution, 95% of the data lies within how many standard deviations of the mean?
+
+Answer: 2 - Science: Mathematics. Itha kelvi Movie pathi - Answer 2. Movie pathi kelvi patta oru ponnu, ava daily Movie pathi yosichittu iruntha, oru naal ava oru puthu book padichu Movie oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Movie ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Movie la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Temple 🧠
+
+Question: Who wrote "A Tale of Two Cities"?
+
+Answer: Charles Dickens - Entertainment: Books. Itha kelvi Temple pathi - Answer Charles Dickens. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Temple pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Temple la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Temple oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Flower 🧠
+
+Question: What is the hardest possible difficulty in "Deus Ex: Mankind Divided"?
+
+Answer: I Never Asked For This - Entertainment: Video Games. Itha kelvi Flower pathi - Answer I Never Asked For This. Flower pathi kelvi patta oru ponnu, ava daily Flower pathi yosichittu iruntha, oru naal ava oru puthu book padichu Flower oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Flower ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Flower la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
