@@ -1089,3 +1089,5 @@ Snow - bwb_W9-CRW-103 - On snow and rock
 Snow - twitch-chat-498145510 - Twitch chat logs from Snow_lul
 Fire - bwb_S0-BBA-752 - FIre Ecology of Forests and Woodlands in Utah
 Fire - bwb_S0-EJZ-067 - Fire Regimes And Ecosystem Properties
+Earth - isbn_0833541005 - The Face of the Earth: Rivers and Lakes
+Earth - bwb_S0-DCJ-390 - "New Heavens and A new Earth"
