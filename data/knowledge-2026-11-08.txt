@@ -848,3 +848,6 @@ A: Both were announced in 2013. - Entertainment: Video Games
 Knowledge Quiz
 Q: In Psychology, which need appears highest in the "Maslow's hierarchy of needs" pyramid?
 A: Esteem - Science & Nature
+Knowledge Quiz
+Q: What's the square root of 49?
+A: 7 - Science: Mathematics
