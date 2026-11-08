@@ -1014,3 +1014,5 @@ Bored na - Oru Kathai solluren!
 Ne ippo bored ah feel pannura?
 Talk 62 - Sea pathi pesalama? Sollu!
 Talk 63 - Bored pathi pesalama? Sollu!
+Emotion - Tired 💜
+Rompa tired ah? Water kudi, rest edu!
