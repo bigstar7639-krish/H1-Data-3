@@ -216,3 +216,4 @@ Sun - bwb_S0-EKW-675 - run way to the sun
 Bird - wildbirdneighbor0000alvi_p5k4 - Wild bird neighbors
 Bird - bwb_S0-EKS-952 - The bird biographies of John James Audubon
 Animal - isbn_9781418913939 - Animal Workers
+Animal - bwb_Y0-BWF-827_1 - the illustrated encyclopedia of animal life
