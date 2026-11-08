@@ -905,3 +905,6 @@ A: Jamie Foxx - Entertainment: Music
 Knowledge Quiz
 Q: Which NFL team plays for New England?
 A: Patriots - Sports
+Knowledge Quiz
+Q: What musician made the song "F**kin` Perfect" in 2010?
+A: P!nk - Entertainment: Music
