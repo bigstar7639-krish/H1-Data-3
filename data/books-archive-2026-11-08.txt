@@ -821,3 +821,5 @@ Business - isbn_9780030978555 - Business Research Methods
 Business - phm_test_business_ms4d95ul - PHM Test Business
 Money - moneybankingtoda0000euge_s5v4 - Money and banking today
 Money - Living_A_Life_Of_Luxury_On_Borrowed_Money_ - Living_A_Life_Of_Luxury_On_Borrowed_Money_
+Sleep - zenjimuzzybugmin0000aisl - Zenji and the Muzzy Bug: The Mindful and Magical Sleep Solution
+Sleep - nowilaymedowntos0000ludw_m5x5 - Now I Lay Me Down to Sleep
