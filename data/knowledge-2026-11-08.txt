@@ -711,3 +711,6 @@ A: Packard - Vehicles
 Knowledge Quiz
 Q: Which Teenage Mutant Ninja Turtle traditionally wears an orange bandana?
 A: Michelangelo - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: Which musical instrument is nicknamed 'the clown of the orchestra'?
+A: Bassoon - Entertainment: Music
