@@ -1513,3 +1513,6 @@ A: Dragon Medallion - Entertainment: Video Games
 Knowledge Quiz
 Q: By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?
 A: The Artful Dodger - Entertainment: Books
+Knowledge Quiz
+Q: What did Albert Einstein win the Nobel Prize for in 1921?
+A: Photoelectric Effect - History
