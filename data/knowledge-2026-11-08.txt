@@ -464,3 +464,6 @@ A: John Deacon - Entertainment: Music
 Knowledge Quiz
 Q: What was the Maximum Level in World of Warcraft: Battle for Azeroth?
 A: 120 - Entertainment: Video Games
+Knowledge Quiz
+Q: In Half-Life, what is the name of the alien that attaches to heads?
+A: Headcrab - General Knowledge
