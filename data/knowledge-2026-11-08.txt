@@ -365,3 +365,6 @@ A: Saitama - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What did the abbreviation "RMS" stand for in the RMS Titanic in 1912?
 A: Royal Mail Ship - History
+Knowledge Quiz
+Q: The "Trail of Tears" was a result of which United States President's Indian Removal Policy?
+A: Andrew Jackson - History
