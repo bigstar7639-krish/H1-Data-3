@@ -863,3 +863,6 @@ A: Pachirisu - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these African countries displays a gun on their flag?
 A: Mozambique - Geography
+Knowledge Quiz
+Q: Who wrote the 1967 horror novel "Rosemary's Baby"?
+A: Ira Levin - Entertainment: Books
