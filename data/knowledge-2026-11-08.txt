@@ -1456,3 +1456,6 @@ A: Humanz - Entertainment: Music
 Knowledge Quiz
 Q: Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?
 A: "A rainy Lithuanian / Is dancing as an Indian" - Entertainment: Music
+Knowledge Quiz
+Q: How many scoring zones are there on a conventional dart board?
+A: 82 - Sports
