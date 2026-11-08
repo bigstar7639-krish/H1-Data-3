@@ -51,3 +51,4 @@ Coding Q 29 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Game 30 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Business Idea 31 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Talk 32 - Robot pathi pesalama? Sollu!
