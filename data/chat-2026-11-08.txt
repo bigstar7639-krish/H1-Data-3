@@ -1,8 +1,3 @@
-Coding Q 1 - JavaScript la function enna?
-Aira: JS function: `function hi(){ return 'Hi Aira!' }`
-Pazhamozhi 2 - Aalai Paathu - Aadi Paaru!
-Emotion - Proud 💜
-Wow! Ne jeyichitta! Proud ah irukken!
 Unakku proud pathi oru story venuma?
 Thirukkural 3 - Porumai - Periya Sakthi! - Thirukkural
 Fact 1 - Honey - 3000 varusham kedathu!
@@ -1998,3 +1993,8 @@ Game 62 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Health 63 - Health Tip: Fruits daily saapdunga!
 
  Maths pathi kelvi patta oru ponnu, ava daily Maths pathi yosichittu iruntha, oru naal ava oru puthu book padichu Maths oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Maths ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Maths la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
+Emotion Katha - Angry ❤
+
+Emotion - Angry 💜
+Kovapadatha da, cool aagu!
+angry - Ithu normal thaan da! Oru naal oru chinna oor la oru paiyan irunthan, avan manasula angry pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan angry la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan angry oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
