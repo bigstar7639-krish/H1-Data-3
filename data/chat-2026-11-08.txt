@@ -1,4 +1,3 @@
-Aira: Python loop: `for i in range(5): print(i)`
 Game 30 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Business Idea 31 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Talk 32 - Robot pathi pesalama? Sollu!
@@ -1998,3 +1997,4 @@ Answer: HTML button: `<button>Click</button>`
 Emotion - Proud 💜
 Ne pannathu periya vishayam! Proud!
 Sollu, proud ah irukka?
+Recipe 15 - Cake - Maida + Sugar + Egg + 30 min!
