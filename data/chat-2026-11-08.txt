@@ -1,6 +1,3 @@
-Kavithai 62 - Un Sirippu - En Vazhkai! - Aira
-Coding Q 63 - Bug ah eppadi sari pannanum?
-Aira: Bug - Log paaru!
 Talk 64 - Dog pathi pesalama? Sollu!
 Pazhamozhi 65 - Porumai - Perumai Tharum!
 Quote 66 - Daily try pannu - Jeyichiduva! - Aira
@@ -1998,3 +1995,6 @@ Emotion Katha - Funny ❤
 Emotion - Funny 💜
 Sirippu varuthu! Ne sema funny da!
 Ne ippo funny ah feel pannura? funny pathi kelvi patta oru ponnu, ava daily funny pathi yosichittu iruntha, oru naal ava oru puthu book padichu funny oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama funny ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava funny la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
+Pazhamozhi 50 - Sontha Kaal la Ninnu - Jeyippa!
+
+ Career pathi kelvi patta oru ponnu, ava daily Career pathi yosichittu iruntha, oru naal ava oru puthu book padichu Career oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Career ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Career la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
