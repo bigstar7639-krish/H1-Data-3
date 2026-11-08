@@ -1,8 +1,3 @@
-Q: Which of these is a semiconductor amplifying device?
-A: transistor - Science & Nature
-Auto Quiz - Food 🧠
-Q: Located in Chile, El Teniente is the world's largest underground mine for what metal?
-A: Copper - General Knowledge
 Auto Quiz - Space 🧠
 Q: Death Valley's Badwater Basin is North America's point of lowest elevation at how many feet below sea level?
 A: 282 feet - General Knowledge
@@ -1998,3 +1993,8 @@ Q+A Katha - Samurai 🧠
 Question: What is the Alien Race in the game "Lego Racers 2" known as?
 
 Answer: Ramas - Entertainment: Video Games. Itha kelvi Samurai pathi - Answer Ramas. Samurai pathi kelvi patta oru ponnu, ava daily Samurai pathi yosichittu iruntha, oru naal ava oru puthu book padichu Samurai oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Samurai ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Samurai la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Ninja 🧠
+
+Question: "Rollercoaster Tycoon" was programmed mostly entirely in...
+
+Answer: x86 Assembly - Entertainment: Video Games. Itha kelvi Ninja pathi - Answer x86 Assembly. Ninja pathi kelvi patta oru ponnu, ava daily Ninja pathi yosichittu iruntha, oru naal ava oru puthu book padichu Ninja oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Ninja ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Ninja la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
