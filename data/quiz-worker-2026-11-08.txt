@@ -262,3 +262,6 @@ A: Springfield, Oregon - Entertainment: Cartoon & Animations
 Auto Quiz - River 🧠
 Q: When was Elvis Presley born?
 A: January 8, 1935 - Celebrities
+Auto Quiz - Star 🧠
+Q: The Watergate Scandal occured in what year?
+A: 1972 - Politics
