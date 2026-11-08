@@ -136,3 +136,6 @@ A: Yellow - Geography
 Auto Quiz - Sun 🧠
 Q: Who's the creator of Geometry Dash?
 A: Robert Topala - Entertainment: Video Games
+Auto Quiz - Bird 🧠
+Q: Which variant of the MP5 is depicted in Counter-Strike 1.6?
+A: MP5N - Entertainment: Video Games
