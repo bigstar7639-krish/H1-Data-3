@@ -1,4 +1,3 @@
-Game 30 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Business Idea 31 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Talk 32 - Robot pathi pesalama? Sollu!
 Motivation 33
@@ -1998,3 +1997,4 @@ Emotion - Proud 💜
 Ne pannathu periya vishayam! Proud!
 Sollu, proud ah irukka?
 Recipe 15 - Cake - Maida + Sugar + Egg + 30 min!
+Talk 16 - Power pathi pesalama? Sollu!
