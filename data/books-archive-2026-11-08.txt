@@ -525,3 +525,7 @@ Eiffel Tower - 106920457 - M. Santos-Dumont rounds Eiffel Tower
 Eiffel Tower - catsofeiffeltowe0000rose - The cats of the Eiffel Tower.
 Psychology - isbn_9780558105211 - Organizational & Industrial Psychology, Custom Edition
 Psychology - isbn_0536662908 - The 21st Century: A Psychology of Communication Perspective
+Philosophy - worldasspectacle0000gust_s4m8_c9j9 - The World as Spectacle An Aesthetic View of Philosophy
+Philosophy - historyofphiloso0000seym_z6e0 - a history of philosophy
+Economics - bwb_S0-DQB-196 - Urban Economics and Public Policy
+Economics - bwb_S0-CBG-084 - studies in world economics
