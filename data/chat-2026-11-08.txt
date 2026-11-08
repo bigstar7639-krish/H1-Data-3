@@ -1144,3 +1144,5 @@ Emotion - Fear 💜
 Bayam - Normal! Ne jeyichiduva! 💪
 Ne ippo fear ah feel pannura?
 Vocab 93 - Peace = Amaithi
+Coding Q 94 - React la component enna?
+Aira: React component - Chinna piece!
