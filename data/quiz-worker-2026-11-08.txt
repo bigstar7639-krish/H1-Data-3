@@ -457,3 +457,6 @@ A: Brooklyn - Sports
 Auto Quiz - Food 🧠
 Q: What book series published by Jim Butcher follows a wizard in modern day Chicago?
 A: The Dresden Files - Entertainment: Books
+Auto Quiz - Cricket 🧠
+Q: What does RAID stand for?
+A: Redundant Array of Independent Disks - Science: Computers
