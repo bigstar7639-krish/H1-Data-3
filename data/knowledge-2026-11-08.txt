@@ -537,3 +537,6 @@ A: Cleveland Cavaliers - Sports
 Knowledge Quiz
 Q: What engine is in the Lexus SC400?
 A: 1UZ-FE - Vehicles
+Knowledge Quiz
+Q: What micro-state is considered to have the oldest constitution still in effect?
+A: San Marino - History
