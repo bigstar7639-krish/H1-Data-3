@@ -603,3 +603,6 @@ A: Aneka - Entertainment: Music
 Knowledge Quiz
 Q: In the Super Mario Bros. Movie (2023), who plays Toad?
 A: Keegan-Michael Key - Entertainment: Film
+Knowledge Quiz
+Q: In the Lord of the Rings: The Two Towers, where are the party of orcs taking the hobbits?
+A: Isengard - Entertainment: Film
