@@ -699,3 +699,6 @@ A: Saphira - Entertainment: Books
 Knowledge Quiz
 Q: Which of the following is a personal computer made by the Japanese company Fujitsu?
 A: FM-7 - Science: Computers
+Knowledge Quiz
+Q: What is the French word for "fish"?
+A: poisson - General Knowledge
