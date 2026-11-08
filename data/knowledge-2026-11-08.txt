@@ -1037,3 +1037,6 @@ Knowledge 55 - Mountain - Hey! 🌄
 Knowledge Quiz
 Q: What Latin phrase roughly translates to "seize the day"?
 A: Carpe diem - General Knowledge
+Knowledge Quiz
+Q: What was the name of the first permanent English settlement in America?
+A: Jamestown - History
