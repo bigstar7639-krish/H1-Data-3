@@ -229,3 +229,12 @@ Joke 126
 Teacher: Yen late? Student: School Ahead board!
 Health 127 - Health Tip: Fruits daily saapdunga!
 Recipe 128 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Knowledge 129 - Einstein - Hey! 😊 Einstein-ஐப் பற்றி கொஞ்சம் சொல்லலாமா?  
+
+**Albert Einstein** (1879-1955) ஒரு பிரபலமான physicist. அவர் **relativity theory**-ஐ கண்டுபிடித்தார், அதாவது *Special* மற்றும் *General* relativity. இதன் மூலம் space‑time‑ன் nature-ஐ புரிந்துகொள்ள முடிந்தது, “E=mc²” (energy = mass × speed of light squared) என்ற famous equation-உம் அவனுக்கு தான்.
+
+- **Early life**: ஜெர்மனியில் பிறந்தார், குழந்தை வயதில் math‑ன் calculus‑ஐ தானாகக் கற்றுக்கொண்டார்.  
+- **Big achievements**: 1915‑ல் General Relativity-யை publish செய்தார், 1921‑ல் Nobel Prize in Physics-க்கு award ஆனார் (photoelectric effect-இல் உள்ள contributions-க்கு).  
+- **Personality**: He was very curious, loved playing the violin 🎻, and often said “Imagination is more important than knowledge.”  
+
+அதனால், Einstein-ன் work-கள் modern physics-க்கு அடிப்படை foundation-ஆ இருக்கிறது, மற்றும் பல scientists-க்கு inspiration-ஆ இருக்கு. ஏதாவது specific question இருந்தா, கேளுங்கள்! 🌟
