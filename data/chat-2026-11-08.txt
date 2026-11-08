@@ -1246,3 +1246,5 @@ Emotion - Funny 💜
 Sirippu varuthu! Ne sema funny da!
 Unakku funny pathi oru story venuma?
 Kavithai 9 - Un Sirippu - En Vazhkai! - Aira
+Coding Q 10 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
