@@ -10,3 +10,6 @@ A: 15 - General Knowledge
 Auto Quiz - Cat 🧠
 Q: What is the name of the three headed dog in Harry Potter and the Sorcerer's Stone?
 A: Fluffy - Entertainment: Books
+Auto Quiz - Dog 🧠
+Q: Which of these is a semiconductor amplifying device?
+A: transistor - Science & Nature
