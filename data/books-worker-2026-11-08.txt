@@ -1386,3 +1386,12 @@ Baby - Owl Babies
 Teacher - An Expert Teacher
 Teacher - My Teacher Is an Alien
 Teacher - Lies My Teacher Told Me
+Student - The students' companion
+Student - Summarized and Analyzed
+Student - Fundamentals Of Electricity And Magnetism
+Business - Business adventures
+Business - The Very Busy Spider
+Business - The Phoenix Project
+Money - The art of money getting, or, Golden rules for money getting
+Money - One for the Money
+Money - Making Money
