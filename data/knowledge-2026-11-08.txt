@@ -994,3 +994,6 @@ A: Italy - Entertainment: Musicals & Theatres
 Knowledge Quiz
 Q: Which Twitch streamer is the vocalist for Red Vox?
 A: Vinesauce - Entertainment: Music
+Knowledge Quiz
+Q: Who was the star of the TV series "24"?
+A: Kiefer Sutherland - Entertainment: Television
