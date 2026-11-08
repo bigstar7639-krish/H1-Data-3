@@ -47,3 +47,4 @@ hin - in.gov.bih.gazette.2015-10-01.1110 - Bihar Gazette, 2015-10-01, Extra Ordi
 kan - in.gazette.karnataka_d.2022-04-20.3995 - Karnataka Daily Gazette, 2022-04-20, Daily
 kan - in.gazette.karnataka_d.2022-01-29.3607 - Karnataka Daily Gazette, 2022-01-29, Daily
 kor - chosun-ilbo-1927.03.29m - 朝鮮日報 1927.03.29m
+chi - xinminbao-nanjing-1934.06.15 - 新民報 (南京) 1934.06.15
