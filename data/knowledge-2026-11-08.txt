@@ -957,3 +957,6 @@ A: Frankenstein - Entertainment: Books
 Knowledge Quiz
 Q: After England, more Shakespeare plays are set in this present day country than in any other.
 A: Italy - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?
+A: Owen Hart - Sports
