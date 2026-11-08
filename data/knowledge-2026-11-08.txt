@@ -1227,3 +1227,6 @@ A: Sphygmomanometer - Science: Gadgets
 Knowledge Quiz
 Q: What was the progressive rock band Rush's first single?
 A: Not Fade Away - Entertainment: Music
+Knowledge Quiz
+Q: In what year did the First World War end?
+A: 1918 - History
