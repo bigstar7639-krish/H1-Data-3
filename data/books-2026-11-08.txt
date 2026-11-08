@@ -54,3 +54,4 @@ hin - in.gov.bih.gazette.2013-05-22.395 - Bihar Gazette, 2013-05-22, Extra Ordin
 eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
 eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
 eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
+kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazette, 2022-03-14, Extra Ordinary, Part III
