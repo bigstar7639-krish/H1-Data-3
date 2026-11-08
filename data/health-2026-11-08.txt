@@ -40,3 +40,6 @@ Health 30 - Health Tip: 7 mani neram thoongunga!
 Health 3 - Health Tip: Daily 8 glass water kudinga!
 
  Freedom pathi kelvi patta oru ponnu, ava daily Freedom pathi yosichittu iruntha, oru naal ava oru puthu book padichu Freedom oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Freedom ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Freedom la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
+Health 6 - Health Tip: 7 mani neram thoongunga!
+
+ Oru kaalathula oru oor la APJ Abdul Kalam nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan APJ Abdul Kalam oda arumaiya purinjikittan, avan APJ Abdul Kalam pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam APJ Abdul Kalam ah purinjikittanga, antha oor ye APJ Abdul Kalam nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, APJ Abdul Kalam ah purinjikita life ye azhagahum.
