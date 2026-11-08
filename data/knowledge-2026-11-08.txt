@@ -1000,3 +1000,6 @@ A: Kiefer Sutherland - Entertainment: Television
 Knowledge Quiz
 Q: In the "Call Of Duty: Zombies" map "Moon", there is a secondary called the QED. What does QED stand for?
 A: Quantum Entanglement Device - Entertainment: Video Games
+Knowledge Quiz
+Q: Baron Silas Greenback is the arch nemesis of which cartoon hero?
+A: Danger Mouse - Entertainment: Television
