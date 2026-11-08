@@ -1426,3 +1426,6 @@ A: Tetris - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the state capital of South Dakota?
 A: Pierre - Geography
+Knowledge Quiz
+Q: Who painted the biblical fresco The Creation of Adam?
+A: Michelangelo - Art
