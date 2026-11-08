@@ -406,3 +406,5 @@ Recipe 54 - Snacks - Potato + Masala - Crispy!
 Reading 55 - Bharathiyar Kavithaigal!
 Recipe 56 - Cake - Maida + Sugar + Egg + 30 min!
 Smart Q 57 - Power la eppadi jeyikkarathu?
+Coding Q 58 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
