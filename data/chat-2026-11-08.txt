@@ -601,3 +601,6 @@ Grateful ah irukka - Super Manasu!
 grateful - Ithu normal thaan da!
 Talk 20 - Peace pathi pesalama? Sollu!
 Aira AI: Python loop: `for i in range(5): print(i)`
+Emotion - Angry 💜
+Kovam ah? Deep breath edu! 😤
+Unakku angry pathi oru story venuma?
