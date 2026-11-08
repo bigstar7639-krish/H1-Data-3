@@ -391,3 +391,6 @@ A: Toad - Animals
 Auto Quiz - Cricket 🧠
 Q: What is the name of the fourth book in Stephen King's The Dark Tower series?
 A: Wizard and Glass - Entertainment: Books
+Auto Quiz - Tamil 🧠
+Q: Which superhero is known for his super speed?
+A: Flash - Entertainment: Comics
