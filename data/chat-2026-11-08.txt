@@ -104,3 +104,4 @@ Story 59
 Oru madurai la oru raja irunthan! Daily travel pannan pannan! Oru naal book kedaichuchu! Life maariduchu!
 World Story 60
 Oru delhi la oru doctor irunthan! Daily help pannan pannan! Oru naal dream kedaichuchu! Life maariduchu!
+Talk 61 - Bhagavad Gita pathi pesalama? Sollu!
