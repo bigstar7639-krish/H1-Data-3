@@ -1483,3 +1483,6 @@ A: Caterpie - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Which country did Kabaddi, a contact sport involving tackling, originate from?
 A: India - Sports
+Knowledge Quiz
+Q: Which classic book opens with the line "Call me Ishmael"?
+A: Moby Dick - Entertainment: Books
