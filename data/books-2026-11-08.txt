@@ -22,3 +22,4 @@ kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazet
 kan - in.gazette.karnataka_eo.2020-08-06.174 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
 kan - in.gazette.karnataka_eo.2020-06-24.UDD05MLR2018 - Karnataka ExtraOrdinary Gazette, 2020-06-24, Extra Ordinary, Part III
 spa - comunicado-feb-2020 - Comunicado FEB 2020
+kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
