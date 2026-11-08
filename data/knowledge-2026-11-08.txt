@@ -491,3 +491,6 @@ Knowledge 107 - Bible - Aira: Bible pathi sollu - Itha paathi naan yosichen! Kel
 Knowledge Quiz
 Q: Which famous artist featured on Rowdy Rebel's 2015 song "Computers"?
 A: Bobby Shmurda  - Entertainment: Music
+Knowledge Quiz
+Q: What was the punishment for Sysiphus's craftiness?
+A: Cursed to roll a boulder up a hill for eternity. - Mythology
