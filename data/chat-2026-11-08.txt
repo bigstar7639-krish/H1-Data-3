@@ -1,4 +1,3 @@
-Motivation 33
 Paravalla! Rest edu - Thirumba try pannu!
 Story 34
 Oru paris la oru coder irunthan! Daily coding pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!
@@ -1998,3 +1997,4 @@ Recipe 15 - Cake - Maida + Sugar + Egg + 30 min!
 Talk 16 - Power pathi pesalama? Sollu!
 Emotion - Sad 💜
 Manasu kashtama? Oru story sollattuma?
+Health 17 - Health Tip: Daily 8 glass water kudinga!
