@@ -516,3 +516,6 @@ A: Yana and Bronislava - Entertainment: Video Games
 Knowledge Quiz
 Q: What year did the television company BBC officially launch the channel BBC One?
 A: 1936 - Entertainment: Television
+Knowledge Quiz
+Q: In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?
+A: 4 - Sports
