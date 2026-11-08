@@ -207,3 +207,5 @@ Vocab 108 - Love = Kadhal
 Vocab 109 - Peace = Amaithi
 Vocab 110 - Happy = Santhosham
 Business Idea 111 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Story 112
+Oru paris la oru raja irunthan! Daily book padichan pannan! Oru naal book kedaichuchu! Life maariduchu!
