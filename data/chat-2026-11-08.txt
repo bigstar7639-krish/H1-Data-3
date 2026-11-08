@@ -1711,3 +1711,5 @@ Pazhamozhi 8 - Porumai - Perumai Tharum!
 Emotion - Motivated 💜
 Full Energy! Ippo thaan time!
 Unakku motivated pathi oru story venuma?
+Coding Q 9 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
