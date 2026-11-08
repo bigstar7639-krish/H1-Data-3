@@ -772,3 +772,5 @@ Nervous ah iruntha - En kooda pesu, sari aayidum!
 nervous - Ithu normal thaan da!
 Coding Q 9 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Story 10
+Oru forest la oru singer irunthan! Daily coding pannan pannan! Oru naal friend kedaichuchu! Life maariduchu!
