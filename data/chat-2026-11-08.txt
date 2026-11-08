@@ -1565,3 +1565,4 @@ Movie 59 - Harry Potter - Magic!
 Emotion - Sad 💜
 Sad ah? En kooda pesu, sari aayidum.
 Sollu, sad ah irukka?
+Vocab 60 - Friend = Nanban
