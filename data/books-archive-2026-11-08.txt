@@ -284,3 +284,4 @@ River - gilariverofsouth0000edwi - The Gila, river of the Southwest (A Bison boo
 Sky - bwb_S0-BXG-241 - Eagle in the Sky
 Sky - bwb_S0-BGR-072 - Get Out Of My Sky
 Star - isbn_9781530770762 - Cade (Lone Star Lovers) (Volume 1)
+Star - bwb_S0-CJW-495 - Sunset and Evening Star
