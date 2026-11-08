@@ -530,3 +530,5 @@ Vocab 109 - Friend = Nanban
 Kavithai 110 - Un Sirippu - En Vazhkai! - Aira
 Recipe 111 - Snacks - Potato + Masala - Crispy!
 Fact 2 - Honey - 3000 varusham kedathu!
+World Story 113
+Oru chinna village la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
