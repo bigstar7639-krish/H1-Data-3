@@ -1,6 +1,3 @@
-Emotion - Missing 💜
-Miss pannuriya? Avangala nenaichu oru kavithai sollattuma?
-Ne ippo missing ah feel pannura?
 Movie 95 - Jailer - Rajini - Mass!
 Emotion Q 96 - happy?
 Aira: Super! Happy ah irukka!
@@ -1998,3 +1995,6 @@ Question: HTML la button eppadi?
 Answer: HTML button: `<button>Click</button>`
 
  Education pathi kelvi patta oru ponnu, ava daily Education pathi yosichittu iruntha, oru naal ava oru puthu book padichu Education oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Education ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Education la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
+Knowledge 108 - Mumbai - Mumbai, India‑oda mahanagaramaana, “City of Dreams” nu kettu theriyum, idhu financial capital-um, Bollywood-um, diverse culture-um irukku; yaarum illaama, Marine Drive-oda sunset, Gateway of India, Chhatrapati Shivaji Maharaj Terminus (UNESCO World Heritage) ellam kaana mudiyum, street food lovers-ukku vada pav, pav bhaji, bhel puri ellam super tasty; idhu 2024‑le tech hub aagitu, startup ecosystem strong-a irukku, yaarume thaan panikkanum, traffic crazy aanaal night life-um vibrant-a irukkum, yaarum varumbothu local trains-oda “local” ride experience-um miss aagala, athu “local train” la 5‑minute stop la 300+ passengers, adhanala city-oda heartbeat-a irukku, weather summer-la hot, monsoon-la heavy rain, winter-la pleasant; overall, Mumbai oru energetic, fast-paced, yet heartfelt city, ungalukku oru visit irunthaal, adha miss panra maathiri varum!
+
+ Fashion pathi kelvi patta oru ponnu, ava daily Fashion pathi yosichittu iruntha, oru naal ava oru puthu book padichu Fashion oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Fashion ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Fashion la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
