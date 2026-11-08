@@ -801,3 +801,7 @@ River - bwb_S0-DRA-499 - alexander begg's red river journal other papers relativ
 River - bwb_Y0-AER-901 - Peace River Country
 Sky - bwb_S0-BGR-072 - Get Out Of My Sky
 Sky - SkyCity_201702 - Sky City
+Star - MEGASTARASMAISTOCADASDE2017_201712 - MEGA STAR AS MAIS TOCADAS DE 2017
+Star - DJStarVsDJPhanRemixVol02 - DJ Star Vs DJ Phan Remix Vol 02
+Moon - moononruins0000brad - Moon on the ruins
+Moon - bwb_T4-ALE-840 - Orthodox Korean Literature Series : Park Yang-ho, Jung So-sung and Lee Moon-yeol 48
