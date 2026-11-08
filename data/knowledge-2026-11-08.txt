@@ -454,3 +454,6 @@ A: 20th Century Boy - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Who is the protagonist in Dead Rising (2006)?
 A: Frank West - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?
+A: Antimony - Entertainment: Comics
