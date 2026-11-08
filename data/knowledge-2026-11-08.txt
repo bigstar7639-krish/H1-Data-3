@@ -917,3 +917,6 @@ A: Rahm Kota - Entertainment: Video Games
 Knowledge Quiz
 Q: The character Momonga from the "Overlord" series orders his servants to call him by what name?
 A: Ainz Ooal Gown - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: What is the standard atomic weight of a Plutonium nucleus?
+A: 244 - Science & Nature
