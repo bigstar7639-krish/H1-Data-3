@@ -243,3 +243,6 @@ Knowledge Quiz
 Q: In Geometry Dash, what is level 13?
 A: Electroman Adventures - Entertainment: Video Games
 Knowledge 20 - Black Hole - Aira: Black Hole pathi sollu - Itha paathi naan yosichen! Kelvi super - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
+Knowledge Quiz
+Q: In the movie "Spaceballs", what are the Spaceballs attempting to steal from Planet Druidia?
+A: Air - Entertainment: Film
