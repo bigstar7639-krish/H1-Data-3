@@ -660,3 +660,6 @@ A: Rabbits - Entertainment: Film
 Knowledge Quiz
 Q: Which of the following computer components can be built using only NAND gates?
 A: ALU - Science: Computers
+Knowledge Quiz
+Q: Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?
+A: Yomba Shoshone Tribe - Politics
