@@ -46,3 +46,6 @@ Health 6 - Health Tip: 7 mani neram thoongunga!
 Health 16 - Health Tip: Daily 30 min walk ponga!
 
  India pathi kelvi patta oru ponnu, ava daily India pathi yosichittu iruntha, oru naal ava oru puthu book padichu India oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama India ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava India la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
+Health 63 - Health Tip: Fruits daily saapdunga!
+
+ Maths pathi kelvi patta oru ponnu, ava daily Maths pathi yosichittu iruntha, oru naal ava oru puthu book padichu Maths oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Maths ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Maths la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
