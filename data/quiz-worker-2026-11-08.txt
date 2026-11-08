@@ -1091,3 +1091,18 @@ Q+A Katha - Football 🧠
 Question: What's the name of Batman's parents?
 
 Answer: Thomas & Martha - Entertainment: Comics. Itha kelvi Football pathi - Answer Thomas & Martha. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Football pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Football la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Football oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Science 🧠
+
+Question: What does the acronym CDN stand for in terms of networking?
+
+Answer: Content Delivery Network - Science: Computers. Itha kelvi Science pathi - Answer Content Delivery Network. Oru kaalathula oru oor la Science nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Science oda arumaiya purinjikittan, avan Science pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Science ah purinjikittanga, antha oor ye Science nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Science ah purinjikita life ye azhagahum.
+Q+A Katha - History 🧠
+
+Question: Which of these actors have NOT played Spiderman in the movies?
+
+Answer: Michael Cera - Entertainment: Film. Itha kelvi History pathi - Answer Michael Cera. Oru kaalathula oru oor la History nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan History oda arumaiya purinjikittan, avan History pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam History ah purinjikittanga, antha oor ye History nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, History ah purinjikita life ye azhagahum.
+Q+A Katha - Culture 🧠
+
+Question: Why were only only 300,000 copies of Uniracers were produced?
+
+Answer: DMA Designs was sued by Pixar, preventing more copies from being produced - Entertainment: Video Games. Itha kelvi Culture pathi - Answer DMA Designs was sued by Pixar, preventing more copies from being produced. Culture pathi kelvi patta oru ponnu, ava daily Culture pathi yosichittu iruntha, oru naal ava oru puthu book padichu Culture oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Culture ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Culture la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
