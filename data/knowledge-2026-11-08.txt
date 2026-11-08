@@ -741,3 +741,6 @@ A: Portuguese Man-of-War - Animals
 Knowledge Quiz
 Q: The default playermodel of Garry's Mod is this Half Life 2 character.
 A: Isaac Kleiner - Entertainment: Video Games
+Knowledge Quiz
+Q: In "Call Of Duty: Zombies", completing which map's main easter egg will reward you with the achievement, "Little Lost Girl"?
+A: Origins - Entertainment: Video Games
