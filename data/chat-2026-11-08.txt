@@ -1358,3 +1358,5 @@ Q 6 - Ne Robot la eppadi improve panna mudiyum?
 Game 7 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Emotion - Nervous 💜
 Nervous ah? Normal thaan! 💜
+Story 8
+Oru mountain la oru hero irunthan! Daily coding pannan pannan! Oru naal friend kedaichuchu! Life maariduchu!
