@@ -1264,3 +1264,6 @@ A: Diane - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: After which Danish city is the 72th element on the periodic table named?
 A: Copenhagen - Science & Nature
+Knowledge Quiz
+Q: Hippocampus is the Latin name for which marine creature?
+A: Seahorse - Animals
