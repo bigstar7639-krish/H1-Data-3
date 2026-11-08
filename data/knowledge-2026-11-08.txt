@@ -1160,3 +1160,6 @@ A: 0.1m - Vehicles
 Knowledge Quiz
 Q: What is the common name of the chemical compound "dihydrogen monoxide"?
 A: Water - Science & Nature
+Knowledge Quiz
+Q: What does AD stand for in relation to Windows Operating Systems? 
+A: Active Directory - Science: Computers
