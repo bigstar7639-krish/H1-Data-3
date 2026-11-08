@@ -991,3 +991,6 @@ A: France - History
 Knowledge Quiz
 Q: After England, more Shakespeare plays are set in this present day country than in any other.
 A: Italy - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: Which Twitch streamer is the vocalist for Red Vox?
+A: Vinesauce - Entertainment: Music
