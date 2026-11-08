@@ -1,33 +1,4 @@
-
-a studier of character. It must be an amusing study.”
-
-“Yes; but intricate characters are the _most_ amusing. They have at
-least that advantage.”
-
-“The country,” said Darcy, “can in general supply but few subjects for
-such a study. In a country neighbourhood you move in a very confined and
-unvarying society.”
-
-“But people themselves alter so much, that there is something new to be
-observed in them for ever.”
-
-“Yes, indeed,” cried Mrs. Bennet, offended by his manner of mentioning a
-country neighbourhood. “I assure you there is quite as much of _that_
-going on in the country as in town.”
-
-Everybody was surprised; and Darcy, after looking at her for a moment,
-turned silently away. Mrs. Bennet, who fancied she had gained a complete
-victory over him, continued her triumph,--
-
-“I cannot see that London has any great advantage over the country, for
-my part, except the shops and public places. The country is a vast deal
-p
-
----
-
-leasanter, is not it, Mr. Bingley?”
-
-“When I am in the country,” he replied, “I never wish to leave it; and
+ in the country,” he replied, “I never wish to leave it; and
 when I am in town, it is pretty much the same. They have each their
 advantages, and I can be equally happy in either.”
 
@@ -199,3 +170,23 @@ to determine.”
 
 “It is a rule with me, that a person who can write a long letter with
 eas
+
+---
+
+d carelessness of execution, which, if not estimable, you
+think at least highly interesting. The power of doing anything with
+quickness is always much prized by the possessor, and often without any
+attention to the imperfection of the performance. When you told Mrs.
+Bennet this morning, that if you ever resolved on quitting Netherfield
+you should be gone in five minutes, you meant it to be a sort of
+panegyric, of compliment to yourself; and yet what is there so very
+laudable in a precipitance which must leave very necessary business
+undone, and can be of no real advantage to yourself or anyone else?”
+
+“Nay,” cried Bingley, “this is too much, to remember at night all the
+foolish things that were said in the morning. And yet, upon my honour, I
+believed what I said of myself to be true, and I believe it at this
+moment. At least, therefore, I did not assume the character of needless
+precipitance merely to show off before the ladies.”
+
+“I daresay you believed it; but I am by
