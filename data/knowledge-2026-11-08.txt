@@ -42,3 +42,6 @@ A: Robby Krieger - Entertainment: Music
 Knowledge Quiz
 Q: What is the thin, outermost layer of the Earth?
 A: Crust - Science & Nature
+Knowledge Quiz
+Q: Which car manufacturer won the 2017 24 Hours of Le Mans?
+A: Porsche - Sports
