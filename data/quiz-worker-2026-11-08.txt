@@ -337,3 +337,6 @@ A: 1995 - History
 Auto Quiz - Food 🧠
 Q: In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?
 A: Laura Roslin - Entertainment: Television
+Auto Quiz - Cricket 🧠
+Q: Who founded the Khan Academy?
+A: Sal Khan - General Knowledge
