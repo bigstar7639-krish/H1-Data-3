@@ -902,3 +902,6 @@ A: Donkey Kong (Gameboy) - Entertainment: Video Games
 Knowledge Quiz
 Q: Kanye West's "Gold Digger" featured which Oscar-winning actor?
 A: Jamie Foxx - Entertainment: Music
+Knowledge Quiz
+Q: Which NFL team plays for New England?
+A: Patriots - Sports
