@@ -165,3 +165,4 @@ Game 86 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Thirukkural 87 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Coding Q 88 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Business Idea 89 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
