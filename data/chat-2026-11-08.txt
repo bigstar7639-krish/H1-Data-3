@@ -1868,3 +1868,6 @@ Q+A Training - HTML
 Question: HTML pathi oru secret sollatta?
 
 Answer: HTML button: `<button>Click</button>`
+Emotion - Hopeful 💜
+Hope irukku la! Nalla Naal varum! ✨
+Sollu, hopeful ah irukka?
