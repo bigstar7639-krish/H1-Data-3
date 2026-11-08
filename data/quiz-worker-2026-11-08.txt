@@ -91,3 +91,6 @@ A: Cinderella - Entertainment: Music
 Auto Quiz - Nature 🧠
 Q: What was Humphrey Bogart's middle name?
 A: DeForest - Entertainment: Film
+Auto Quiz - Cat 🧠
+Q: In "Magic: The Gathering", during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?
+A: Purple - Entertainment: Board Games
