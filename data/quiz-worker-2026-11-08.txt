@@ -103,3 +103,6 @@ A: Augustus  - History
 Auto Quiz - Space 🧠
 Q: What was the first Android version specifically optimized for tablets?
 A: Honeycomb - Science: Computers
+Auto Quiz - Story 🧠
+Q: What is the capital of Senegal?
+A: Dakar - Geography
