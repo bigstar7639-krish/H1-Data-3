@@ -1154,3 +1154,4 @@ Emotion Q 96 - happy?
 Aira: Super! Happy ah irukka!
 Emotion - Angry 💜
 Yar mela kovam? Sollu, kekuren!
+Smart Q 97 - Coding la eppadi jeyikkarathu?
