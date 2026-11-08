@@ -385,3 +385,5 @@ Knowledge 36 - Internet - Aira: Internet pathi sollu - Itha paathi naan yosichen
 Vocab 37 - Friend = Nanban
 Vocab 38 - Courage = Thairiyam
 Quote 39 - Daily try pannu - Jeyichiduva! - Aira
+Motivation 40
+Paravalla! Rest edu - Thirumba try pannu!
