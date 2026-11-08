@@ -696,3 +696,6 @@ A: Sunrise - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What is the name of Eragon's dragon in "Eragon"?
 A: Saphira - Entertainment: Books
+Knowledge Quiz
+Q: Which of the following is a personal computer made by the Japanese company Fujitsu?
+A: FM-7 - Science: Computers
