@@ -280,3 +280,6 @@ A: Amazon - Entertainment: Television
 Knowledge Quiz
 Q: Who recorded the 1975 album 'Captain Fantastic and the Brown Dirt Cowboy'?
 A: Elton John - Entertainment: Music
+Knowledge Quiz
+Q: Which of the following actors has only been in a Quentin Tarantino directed film once?
+A: John Travolta - Entertainment: Film
