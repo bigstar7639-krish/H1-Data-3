@@ -1194,3 +1194,6 @@ Knowledge 7 - Maths - Maths-nu sonna, adhu namma daily life-la ellam irukkura ma
 Knowledge Quiz
 Q: In "Toriko", which of the following Heavenly Kings has an enhanced sense of Hearing?
 A: Zebra - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Who was the first American in space?
+A: Alan Shephard - History
