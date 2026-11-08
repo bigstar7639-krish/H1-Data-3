@@ -668,3 +668,5 @@ Aira AI: Aira: Truth pathi oru secret sollatta? - Itha paathi naan yosichen! Kel
 Emotion - Happy 💜
 Happy na - Share pannu da!
 Sollu, happy ah irukka?
+Coding Q 45 - React la component enna?
+Aira: React component - Chinna piece!
