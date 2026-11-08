@@ -1759,3 +1759,4 @@ Q 25 - Un life la Star eppadi irukku?
 Emotion - Sad 💜
 Azhatha da, Naan irukken!
 Sollu, sad ah irukka?
+Health 26 - Health Tip: 7 mani neram thoongunga!
