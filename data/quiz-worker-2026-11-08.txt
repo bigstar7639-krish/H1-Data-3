@@ -1,18 +1,3 @@
-Auto Quiz - Cricket 🧠
-Q: The character Plum from "No Game No Life" is of what race?
-A: Dhampir - Entertainment: Japanese Anime & Manga
-Auto Quiz - Space 🧠
-Q: What is the name of Broadway's first "long-run" musical?
-A: The Elves - Entertainment: Musicals & Theatres
-Auto Quiz - Story 🧠
-Q: Which modern day country is the region that was known as Phrygia in ancient times?
-A: Turkey - History
-Auto Quiz - Health 🧠
-Q: What is the official language in Barcelona beside Spanish?
-A: Catalan - General Knowledge
-Auto Quiz - Music 🧠
-Q: What is the capital of the American state of Arizona?
-A: Phoenix - Geography
 Auto Quiz - Tamil 🧠
 Q: Before getting the shotgun, what did the titular hobo in 'Hobo with a Shotgun' want to purchase?
 A: a lawnmower - Entertainment: Film
@@ -1998,3 +1983,18 @@ Q+A Katha - Burger 🧠
 Question: In the 1995 film "Balto", who are Steele's accomplices?
 
 Answer: Kaltag, Nikki, and Star - Entertainment: Film. Itha kelvi Burger pathi - Answer Kaltag, Nikki, and Star. Burger pathi kelvi patta oru ponnu, ava daily Burger pathi yosichittu iruntha, oru naal ava oru puthu book padichu Burger oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Burger ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Burger la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Chocolate 🧠
+
+Question: Who is one of the co-princes of Andorra?
+
+Answer: The president of France - Politics. Itha kelvi Chocolate pathi - Answer The president of France. Chocolate pathi kelvi patta oru ponnu, ava daily Chocolate pathi yosichittu iruntha, oru naal ava oru puthu book padichu Chocolate oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Chocolate ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Chocolate la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Fruit 🧠
+
+Question: In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?
+
+Answer: The Prince and the Pauper - Entertainment: Books. Itha kelvi Fruit pathi - Answer The Prince and the Pauper. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Fruit pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Fruit la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Fruit oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Vegetable 🧠
+
+Question: What studio animated Ouran High School Host Club?
+
+Answer: Bones - Entertainment: Japanese Anime & Manga. Itha kelvi Vegetable pathi - Answer Bones. Vegetable pathi kelvi patta oru ponnu, ava daily Vegetable pathi yosichittu iruntha, oru naal ava oru puthu book padichu Vegetable oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Vegetable ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Vegetable la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
