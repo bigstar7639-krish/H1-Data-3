@@ -1059,3 +1059,4 @@ Recipe 77 - Cake - Maida + Sugar + Egg + 30 min!
 Emotion - Hopeful 💜
 Hope ah vittudadha! Jeyichiduva!
 hopeful - Ithu normal thaan da!
+Talk 78 - Bhagavad Gita pathi pesalama? Sollu!
