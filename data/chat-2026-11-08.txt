@@ -1863,3 +1863,8 @@ Answer: Aira: Un life la Chennai eppadi irukku? - Itha paathi naan yosichen! Una
 Emotion - Sad 💜
 Sad ah? En kooda pesu, sari aayidum.
 Sollu, sad ah irukka?
+Q+A Training - HTML
+
+Question: HTML pathi oru secret sollatta?
+
+Answer: HTML button: `<button>Click</button>`
