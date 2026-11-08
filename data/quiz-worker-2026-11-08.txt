@@ -379,3 +379,6 @@ A: 15 Degree - Vehicles
 Auto Quiz - Nature 🧠
 Q: Who is the founder of "The Lego Group"?
 A: Ole Kirk Christiansen - General Knowledge
+Auto Quiz - Cat 🧠
+Q: What is the administrative centre and largest settlement on the Norwegian archipelago of Svalbard?
+A: Longyearbyen - Geography
