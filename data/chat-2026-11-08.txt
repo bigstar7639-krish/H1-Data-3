@@ -849,3 +849,5 @@ Pazhamozhi 30 - Aalai Paathu - Aadi Paaru!
 Emotion - Shy 💜
 Shy ah pesura - Azhagu!
 Ne ippo shy ah feel pannura?
+Coding Q 1 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
