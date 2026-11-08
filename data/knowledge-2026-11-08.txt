@@ -1450,3 +1450,6 @@ A: 4 - Entertainment: Video Games
 Knowledge Quiz
 Q: Who was Firestorm's rival during the original run of UK Robot Wars?
 A: Panic Attack - Entertainment: Television
+Knowledge Quiz
+Q: What album did Gorillaz release in 2017?
+A: Humanz - Entertainment: Music
