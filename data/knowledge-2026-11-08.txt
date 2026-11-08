@@ -292,3 +292,6 @@ A: 1606 - Entertainment: Musicals & Theatres
 Knowledge Quiz
 Q: What is Gabe Newell's favorite class in Team Fortress 2?
 A: Spy - Entertainment: Video Games
+Knowledge Quiz
+Q: In Left 4 Dead, what is the character Bill's last name?
+A: Overbeck - Entertainment: Video Games
