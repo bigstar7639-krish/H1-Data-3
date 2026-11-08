@@ -47,3 +47,5 @@ Ravi sandcastle‑a finish panrathukku appuram, **sunrise** start aachu – **or
 Appo **Anna** (Ravi‑oda older sister) varuthu, “*Ravi, breakfast ready!*” nu. Ava **idly‑sambar**‑um **filter coffee**‑um vechirukkaanga. Ravi, “*Morning‑la beach‑la irunthadhula feel panra city‑oda heart, super chill!*” nu.
 
 **Moral:** Chennai‑oda sand, sea, sunrise, and people –
+Coding Q 29 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
