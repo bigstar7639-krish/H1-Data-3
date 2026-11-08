@@ -1248,3 +1248,6 @@ A: William III - History
 Knowledge Quiz
 Q: When was Finland's 100th year of being independent?
 A: 2017 - History
+Knowledge Quiz
+Q: In what year did the Battle of Verdun take place?
+A: 1916 - History
