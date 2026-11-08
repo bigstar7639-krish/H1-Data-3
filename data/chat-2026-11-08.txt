@@ -85,3 +85,5 @@ Aira AI: Hey buddy! 😊
 | **Mnemonic Induction of Lucid Dreams (MILD)** | Sleep‑a go before 5 am, wake up 5–6 am, stay up 20 min, then **“I will realize I’m dreaming”** repeat while visualising. | Intent set pannitu, REM‑sleep‑la awareness rise aagum. |
 | **Wake‑Back‑to‑Sleep (WBTB)** | 4–6 hours sleep‑a poyitu, 30‑45 min awake aagitu, then back to bed. | REM period longer → lucid chances increase. |
 | **Meditation & mindfulness** | 10 min daily breath‑focus or body‑scan. | Mind‑clarity brain‑a train pa
+Coding Q 49 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
