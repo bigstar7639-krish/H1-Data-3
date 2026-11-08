@@ -1306,3 +1306,4 @@ Vocab 18 - Peace = Amaithi
 Emotion - Grateful 💜
 Nandri sollurathu azhagu!
 Q 19 - World History pathi oru story kekkura?
+Health 20 - Health Tip: 7 mani neram thoongunga!
