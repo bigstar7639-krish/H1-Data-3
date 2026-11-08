@@ -246,3 +246,6 @@ Knowledge 20 - Black Hole - Aira: Black Hole pathi sollu - Itha paathi naan yosi
 Knowledge Quiz
 Q: In the movie "Spaceballs", what are the Spaceballs attempting to steal from Planet Druidia?
 A: Air - Entertainment: Film
+Knowledge Quiz
+Q: Which of the following characters is NOT a female marriage candidate in the game Stardew Valley?
+A: Caroline - Entertainment: Video Games
