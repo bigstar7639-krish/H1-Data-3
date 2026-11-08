@@ -1312,3 +1312,6 @@ Knowledge 8 - Chemistry - Hey buddy! Chemistry-nu solra mathiri, athu matter-oda
 Knowledge Quiz
 Q: In the book series "Odd Thomas", Danny Jessup has what genetic disease? 
 A:  Osteogenesis Imperfecta - Entertainment: Books
+Knowledge Quiz
+Q: Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?
+A: Ernest Rutherford - Science & Nature
