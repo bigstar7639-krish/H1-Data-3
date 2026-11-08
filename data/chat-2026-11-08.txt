@@ -1475,3 +1475,5 @@ Temporary memory. Oru program open pannumbodhu data RAM‑la load aagum, so CPU 
 
 **5. Operating System (OS)**  
 OS‑la user interface, file management, hardware drivers, security ellam 
+World Story 35
+Oru city la oru teacher irunthan! Daily travel pannan pannan! Oru naal love kedaichuchu! Life maariduchu!
