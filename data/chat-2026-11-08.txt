@@ -977,3 +977,4 @@ Pazhamozhi 46 - Sontha Kaal la Ninnu - Jeyippa!
 Talk 47 - Climate pathi pesalama? Sollu!
 Emotion - Angry 💜
 Kovam ah? Deep breath edu! 😤
+Talk 48 - Movie pathi pesalama? Sollu!
