@@ -31,3 +31,6 @@ A: Pomodoro - General Knowledge
 Auto Quiz - Movie 🧠
 Q: What is the name of the first level in "Call of Duty: World at War"?
 A: Semper Fi - Entertainment: Video Games
+Auto Quiz - Temple 🧠
+Q: Which of the following games was not a launch title for the Nintendo Gamecube?
+A: Super Mario Sunshine - Entertainment: Video Games
