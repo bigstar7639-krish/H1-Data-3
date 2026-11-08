@@ -681,3 +681,6 @@ A: Gale - Entertainment: Film
 Knowledge Quiz
 Q: After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?
 A: Mamluk - History
+Knowledge Quiz
+Q: In the title of the game "Luigi's Mansion", what is the only letter to not appear with a pair of eyes in it?
+A: s - Entertainment: Video Games
