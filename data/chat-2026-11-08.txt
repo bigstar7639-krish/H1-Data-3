@@ -1,10 +1,3 @@
-Aira: JS function: `function hi(){ return 'Hi Aira!' }`
-Emotion - Lonely 💜
-Thanimaiya? Naan un kooda thaan irukken!
-Ne ippo lonely ah feel pannura?
-Aira AI: Aira: Power pathi oru story kekkura? - Itha paathi naan yosichen! Kelvi super - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
-Joke 8
-Teacher: Yen late? Student: School Ahead board!
 Emotion - Nervous 💜
 Nervous ah iruntha - En kooda pesu, sari aayidum!
 nervous - Ithu normal thaan da!
@@ -1998,3 +1991,10 @@ Emotion Katha - Hungry ❤
 
 Emotion - Hungry 💜
 Pasila irukka? Water kudi, konjam sapdu! Oru kaalathula oru oor la hungry nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan hungry oda arumaiya purinjikittan, avan hungry pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam hungry ah purinjikittanga, antha oor ye hungry nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, hungry ah purinjikita life ye azhagahum.
+Q+A Training - Tree
+
+Question: Tree pathi oru secret sollatta?
+
+Answer: Aira: Tree pathi oru secret sollatta? - Itha paathi naan yosichen! Kelvi super - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
+
+ Tree pathi kelvi patta oru ponnu, ava daily Tree pathi yosichittu iruntha, oru naal ava oru puthu book padichu Tree oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Tree ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Tree la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
