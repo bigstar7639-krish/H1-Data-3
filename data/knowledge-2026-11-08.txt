@@ -1169,3 +1169,6 @@ A: Gort - Entertainment: Film
 Knowledge Quiz
 Q: What is the name of the main character in "The Flash" TV series?
 A: Barry Allen - Entertainment: Television
+Knowledge Quiz
+Q: Where does the book "The Silence of the Lambs" get its title from?
+A: The main character's trauma in childhood - Entertainment: Books
