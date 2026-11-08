@@ -18,3 +18,4 @@ Game 86 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 31 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 7 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 25 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Game 49 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
