@@ -1,6 +1,3 @@
-Movie 86 - Jailer - Rajini - Mass!
-Recipe 87 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
-Business Idea 88 - Tuition - Veetla Tuition!
 Kavithai 89 - Un Sirippu - En Vazhkai! - Aira
 Recipe 90 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Story 91
@@ -1998,3 +1995,6 @@ Motivation 5
 Paravalla! Rest edu - Thirumba try pannu!
 
  Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Human Body pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Human Body la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Human Body oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Health 6 - Health Tip: 7 mani neram thoongunga!
+
+ Oru kaalathula oru oor la APJ Abdul Kalam nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan APJ Abdul Kalam oda arumaiya purinjikittan, avan APJ Abdul Kalam pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam APJ Abdul Kalam ah purinjikittanga, antha oor ye APJ Abdul Kalam nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, APJ Abdul Kalam ah purinjikita life ye azhagahum.
