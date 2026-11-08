@@ -1291,3 +1291,6 @@ A: 14 - Entertainment: Film
 Knowledge Quiz
 Q: This movie contains the quote, "Houston, we have a problem."
 A: Apollo 13 - Entertainment: Film
+Knowledge Quiz
+Q: What is the real name of the "Master Of Magnetism" Magneto?
+A: Max Eisenhardt - Entertainment: Comics
