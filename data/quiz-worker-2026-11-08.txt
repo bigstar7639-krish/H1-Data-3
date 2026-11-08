@@ -286,3 +286,6 @@ A: Champ - Entertainment: Video Games
 Auto Quiz - Love 🧠
 Q: How many semitones are in an octave?
 A: 12 - Entertainment: Music
+Auto Quiz - God 🧠
+Q: Which one of these characters appeared in Marvel vs Capcom: Infinite? 
+A: Firebrand - Entertainment: Video Games
