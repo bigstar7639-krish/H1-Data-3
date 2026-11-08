@@ -106,3 +106,6 @@ A: Honeycomb - Science: Computers
 Auto Quiz - Story 🧠
 Q: What is the capital of Senegal?
 A: Dakar - Geography
+Auto Quiz - Health 🧠
+Q: Which city is the seat of government of the Netherlands?
+A: The Hague - Politics
