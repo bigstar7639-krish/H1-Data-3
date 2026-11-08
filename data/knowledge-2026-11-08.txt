@@ -1197,3 +1197,6 @@ A: Zebra - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Who was the first American in space?
 A: Alan Shephard - History
+Knowledge Quiz
+Q: Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?
+A: Quake Engine - Entertainment: Video Games
