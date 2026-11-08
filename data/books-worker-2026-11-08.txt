@@ -1345,3 +1345,5 @@ Music - Soul Music
 Music - Blood Music
 Music - Night Music
 Movie - Better Than the Movies
+Movie - The wimpy kid movie diary
+Movie - How to Write a Movie in 21 Days
