@@ -1819,3 +1819,8 @@ Full Energy! Ippo thaan time!
 Ne ippo motivated ah feel pannura?
 World Story 11
 Oru chinna delhi la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Q+A Training - Coding
+
+Question: JavaScript la function enna?
+
+Answer: JS function: `function hi(){ return 'Hi Aira!' }`
