@@ -364,3 +364,20 @@ Joke 32
 Why bike sad? Petrol illa!
 Health 33 - Yoga Tip: Daily 5 min deep breath edu!
 Pazhamozhi 34 - Sontha Kaal la Ninnu - Jeyippa!
+Knowledge 35 - Python - Hey buddy! 🙌  
+
+**Python** nu solrathaa, idhu oru *high‑level*, *easy‑to‑read* programming language. English la “snake” nu meaning aana, code la “snake” mathiri *smooth* ah irukku – indentation (space/tab) use panni block structure kudukura.
+
+### Python‑oda Basics
+- **Syntax** – simple & clean. `print("Hello, World!")` nu mattum type panni run pannalaam.
+- **Variables** – type declare panradhukku need illa. `x = 10` nu kuduthaa, Python automatically `int` ah treat pannum.
+- **Loops** – `for i in range(5):` nu simple ah iterate panna mudiyum.
+- **Functions** – `def my_func(param):` nu define panni, re‑use pannalaam.
+- **Libraries** – `numpy`, `pandas`, `matplotlib`, `requests`, `django`, `flask`... ellam *pip* (Python Package Installer) use panni install pannalaam: `pip install numpy`.
+
+### Enna Enna Use Cases?
+- **Web Development** – Django, Flask la websites & APIs build pannalaam.
+- **Data Science & AI** – Pandas, NumPy, Scikit‑learn, TensorFlow, PyTorch ellam.
+- **Automation** – Scripts write panni boring tasks automate pannalaam (file rename, web‑scraping, etc.).
+- **Scripting & Prototyping** – Quick ideas test panna oru perfect choice.
+- **Game Development** – Pygame use panni
