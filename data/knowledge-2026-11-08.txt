@@ -893,3 +893,6 @@ A: 7 - Science: Mathematics
 Knowledge Quiz
 Q: This movie contains the quote, "I feel the need ... the need for speed!"
 A: Top Gun - Entertainment: Film
+Knowledge Quiz
+Q: What is Dipper's real name from "Gravity Falls"?
+A: Mason Pines - Entertainment: Cartoon & Animations
