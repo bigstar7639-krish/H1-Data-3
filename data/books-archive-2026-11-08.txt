@@ -268,3 +268,4 @@ Story - navyhistorystory0000flet_g0k8 - The navy a history the story of a servic
 Health - communitymentalh0000harv - Community mental health and social psychiatry: a reference guide
 Health - collegeuniversit0000nati_q0x2 - College and university facilities guide for health, physical education, recreation, and athletics
 Music - bwb_S0-BQA-647 - A General HIstory of MUsic
+Music - bwb_O6-BII-912 - rusiments of music
