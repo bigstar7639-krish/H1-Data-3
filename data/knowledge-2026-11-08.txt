@@ -1333,3 +1333,6 @@ Knowledge 22 - Earth - Earth-ஐப் பற்றி சொல்லறேன�
 Knowledge Quiz
 Q: Which of the following is NOT a capital city?
 A: Sydney - Geography
+Knowledge Quiz
+Q: What was the development code name for the "Weatherlight" expansion for "Magic: The Gathering", released in 1997?
+A: Mocha Latte - Entertainment: Board Games
