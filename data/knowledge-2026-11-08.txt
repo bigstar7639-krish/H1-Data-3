@@ -1423,3 +1423,6 @@ Knowledge 35 - Climate - Hey friend! Climate na, Earth-oda long‑term weather p
 Knowledge Quiz
 Q: Which puzzle game was designed by a Russian programmer, featuring Russian buildings and music?
 A: Tetris - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the state capital of South Dakota?
+A: Pierre - Geography
