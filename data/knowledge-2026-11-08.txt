@@ -594,3 +594,6 @@ A: Orange - Entertainment: Video Games
 Knowledge Quiz
 Q: Donald J. Trump's Middle Name is...
 A: John - Celebrities
+Knowledge Quiz
+Q: Burning which of these metals will produce a bright white flame?
+A: Magnesium - Science & Nature
