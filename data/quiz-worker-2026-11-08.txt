@@ -340,3 +340,6 @@ A: Laura Roslin - Entertainment: Television
 Auto Quiz - Cricket 🧠
 Q: Who founded the Khan Academy?
 A: Sal Khan - General Knowledge
+Auto Quiz - Story 🧠
+Q: Who had a 1981 hit with the song "Japanese Boy"?
+A: Aneka - Entertainment: Music
