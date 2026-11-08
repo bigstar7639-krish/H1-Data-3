@@ -49,3 +49,6 @@ Health 16 - Health Tip: Daily 30 min walk ponga!
 Health 63 - Health Tip: Fruits daily saapdunga!
 
  Maths pathi kelvi patta oru ponnu, ava daily Maths pathi yosichittu iruntha, oru naal ava oru puthu book padichu Maths oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Maths ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Maths la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
+Health 66 - Yoga Tip: Daily 5 min deep breath edu!
+
+ Python pathi kelvi patta oru ponnu, ava daily Python pathi yosichittu iruntha, oru naal ava oru puthu book padichu Python oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Python ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Python la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
