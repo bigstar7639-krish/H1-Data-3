@@ -1519,3 +1519,4 @@ Story 50
 Oru chinna mountain la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Emotion - Nervous 💜
 Nervous ah iruntha - En kooda pesu, sari aayidum!
+Health 51 - Health Tip: 7 mani neram thoongunga!
