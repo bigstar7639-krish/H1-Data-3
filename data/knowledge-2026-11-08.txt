@@ -1399,3 +1399,6 @@ A: Limit Form - Entertainment: Video Games
 Knowledge Quiz
 Q: The Spitfire L.F. Mk IX had what engine?
 A: Merlin 66 - History
+Knowledge Quiz
+Q: When was the "Siege of Leningrad" lifted during World War II?
+A: January 1944 - History
