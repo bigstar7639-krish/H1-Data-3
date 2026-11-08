@@ -1224,3 +1224,6 @@ A: Diamond/Pearl - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following is used to measure blood pressure?
 A: Sphygmomanometer - Science: Gadgets
+Knowledge Quiz
+Q: What was the progressive rock band Rush's first single?
+A: Not Fade Away - Entertainment: Music
