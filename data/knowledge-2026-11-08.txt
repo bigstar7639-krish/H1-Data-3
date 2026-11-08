@@ -1254,3 +1254,6 @@ A: 1916 - History
 Knowledge Quiz
 Q: Which of these roles in Town of Salem is mafia?
 A: Disguiser - Entertainment: Video Games
+Knowledge Quiz
+Q: In Minecraft, which two items must be combined to craft a torch?
+A: Stick and Coal - Entertainment: Video Games
