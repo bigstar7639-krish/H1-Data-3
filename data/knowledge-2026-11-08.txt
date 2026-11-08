@@ -690,3 +690,6 @@ A: Eastern Police Station - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: In the Half-Life mod "Afraid of Monsters" what was the name of the main protagonist?
 A: David Leatherhoff - Entertainment: Video Games
+Knowledge Quiz
+Q: Which studio made Cowboy Bebop?
+A: Sunrise - Entertainment: Japanese Anime & Manga
