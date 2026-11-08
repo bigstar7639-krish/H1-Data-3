@@ -67,3 +67,4 @@ Q 42 - Climate pathi oru secret sollatta?
 Health 43 - Health Tip: Daily 30 min walk ponga!
 World Story 44
 Oru chinna paris la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Fact 3 - Octopus ku 3 heart!
