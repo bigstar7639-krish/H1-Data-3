@@ -546,3 +546,6 @@ A: Participating in cannibalism. - Mythology
 Knowledge Quiz
 Q: What video game engine does the videogame Quake 2 run in?
 A: iD Tech 2 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which country attacked the USS Liberty on June 8, 1967?
+A: Israel - History
