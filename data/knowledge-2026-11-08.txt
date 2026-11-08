@@ -896,3 +896,6 @@ A: Top Gun - Entertainment: Film
 Knowledge Quiz
 Q: What is Dipper's real name from "Gravity Falls"?
 A: Mason Pines - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: In the Mario series, which game introduced Mario's Backflip ability?
+A: Donkey Kong (Gameboy) - Entertainment: Video Games
