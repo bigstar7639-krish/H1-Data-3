@@ -319,3 +319,6 @@ A: House - Entertainment: Board Games
 Auto Quiz - Tamil 🧠
 Q: Who proved Fermat's Last Theorem?
 A: Andrew Wiles - Science: Mathematics
+Auto Quiz - Love 🧠
+Q: The original mascot of the popular Nintendo game, "Splatoon" was going to be...
+A: Mario - Entertainment: Video Games
