@@ -57,3 +57,7 @@ Student - Wikimedia - https://commons.wikimedia.org/wiki/File:A_text-book_of_phy
 Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Summer_School_Students_Ready_for_Plunge_in_Swimming_Pool_(5021766098).jpg
 Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Reading_Wikipedia_in_the_Classroom_for_Secondary_School_Student_Closing_Session_GSS_Adeta_20.jpg
 Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Maurits_Lalisang_(Larry_Lumelle's_Guitar_Student).jpg
+Student - Unsplash - https://source.unsplash.com/800x600/?student%20graduation
+Student - Openverse - https://www.flickr.com/photos/122321394@N07/14049727962
+Student - Openverse - https://www.flickr.com/photos/56155476@N08/6660067753
+Student - Openverse - https://www.flickr.com/photos/34146973@N04/8161598615
