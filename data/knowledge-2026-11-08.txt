@@ -51,3 +51,6 @@ A: 5 bars - Entertainment: Video Games
 Knowledge Quiz
 Q: The term "battery" to describe an electrical storage device was coined by?
 A: Benjamin Franklin - Science: Gadgets
+Knowledge Quiz
+Q: Who is the founder of Team Fortress 2's fictional company "Mann Co"?
+A: Zepheniah Mann - Entertainment: Video Games
