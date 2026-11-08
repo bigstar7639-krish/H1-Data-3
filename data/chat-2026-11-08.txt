@@ -770,3 +770,5 @@ Teacher: Yen late? Student: School Ahead board!
 Emotion - Nervous 💜
 Nervous ah iruntha - En kooda pesu, sari aayidum!
 nervous - Ithu normal thaan da!
+Coding Q 9 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
