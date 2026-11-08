@@ -137,3 +137,6 @@ A: Zun - Entertainment: Video Games
 Knowledge Quiz
 Q: Which state of the United States is the smallest?
 A: Rhode Island  - Geography
+Knowledge Quiz
+Q: Which country did Kabaddi, a contact sport involving tackling, originate from?
+A: India - Sports
