@@ -210,3 +210,25 @@ A: Wales - Geography
 Knowledge Quiz
 Q: Who is the author of the "A Song of Ice and Fire" book series, starting with "A Game of Thrones"?
 A: George R. R. Martin - Entertainment: Books
+Knowledge 13 - Chemistry - Hey buddy! Chemistry‑na **matter‑oda magic** paaththukku.  
+
+**1️⃣ Chemistry eppo start aayiruchu?**  
+- 1600‑s la alchemy‑la start aachu, aana modern chemistry 18‑th century la Antoine Lavoisier “matter‑oda mass‑um composition‑um” nu prove pannina appo thaan.
+
+**2️⃣ Main branches**  
+- **Organic Chemistry** – carbon‑based molecules (sugar, plastics, medicines).  
+- **Inorganic Chemistry** – metals, salts, minerals.  
+- **Physical Chemistry** – energy, thermodynamics, quantum‑level behavior.  
+- **Analytical Chemistry** – sample‑la enna irukku nu detect/pure‑a measure pannuvom.  
+- **Biochemistry** – life‑la chemical reactions (protein, DNA).  
+
+**3️⃣ Everyday life‑la chemistry**  
+- **Food** – cooking = chemical reactions (Maillard reaction, fermentation).  
+- **Cleaning** – soaps & detergents break down grease by forming micelles.  
+- **Medicine** – drug molecules interact with body proteins.  
+- **Technology** – batteries (redox reactions), smartphones (semiconductors).  
+
+**4️⃣ Why it matters?**  
+- **Health** – disease cure, nutrition.  
+- **Environment** – pollutants analyse pannitu, green chemistry kondu waste‑a reduce pannuvom.  
+- **Industry** – new materials (nanotech, po
