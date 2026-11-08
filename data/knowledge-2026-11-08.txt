@@ -1154,3 +1154,6 @@ A: Gradius - Entertainment: Video Games
 Knowledge Quiz
 Q: Billy Herrington is from which US state?
 A: New York - Celebrities
+Knowledge Quiz
+Q: The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:
+A: 0.1m - Vehicles
