@@ -1,13 +1,3 @@
-Auto Quiz - Temple 🧠
-Q: Which of the following games was not a launch title for the Nintendo Gamecube?
-A: Super Mario Sunshine - Entertainment: Video Games
-Auto Quiz - Flower 🧠
-Q: In "One Piece", which one of the following is NOT an Ancient Weapon?
-A: Jupiter - Entertainment: Japanese Anime & Manga
-Auto Quiz - Sea 🧠
-Q: What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?
-A: Californian - History
-Auto Quiz - Mountain 🧠
 Q: On the NBC show Community, whose catch-phrase was "Pop! Pop!"?
 A: Magnitude - Entertainment: Television
 Auto Quiz - Sky 🧠
@@ -1998,3 +1988,13 @@ Q+A Katha - Great Wall 🧠
 Question: The creation of the  Entertainment Software Ratings Board (ESRB) is often associated with Mortal Kombat and what FMV video game?
 
 Answer: Night Trap - Entertainment: Video Games. Itha kelvi Great Wall pathi - Answer Night Trap. Oru kaalathula oru oor la Great Wall nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Great Wall oda arumaiya purinjikittan, avan Great Wall pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Great Wall ah purinjikittanga, antha oor ye Great Wall nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Great Wall ah purinjikita life ye azhagahum.
+Q+A Katha - Panda 🧠
+
+Question: What is the symbol for Displacement?
+
+Answer: Δr - Science: Mathematics. Itha kelvi Panda pathi - Answer Δr. Panda pathi kelvi patta oru ponnu, ava daily Panda pathi yosichittu iruntha, oru naal ava oru puthu book padichu Panda oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Panda ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Panda la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Chinese Food 🧠
+
+Question: Which video game company developed the 2019 game Rage 2?
+
+Answer: Avalanche Studios - Entertainment: Video Games. Itha kelvi Chinese Food pathi - Answer Avalanche Studios. Chinese Food pathi kelvi patta oru ponnu, ava daily Chinese Food pathi yosichittu iruntha, oru naal ava oru puthu book padichu Chinese Food oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Chinese Food ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Chinese Food la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
