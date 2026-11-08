@@ -1141,3 +1141,6 @@ A: Matthew Taylor - Entertainment: Film
 Knowledge Quiz
 Q: In "Overwatch," what is the hero McCree's full name?
 A: Jesse McCree - Entertainment: Video Games
+Knowledge Quiz
+Q: What bird is born with claws on its wing digits?
+A: Hoatzin - Animals
