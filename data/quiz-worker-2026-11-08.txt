@@ -472,3 +472,6 @@ A: 19 - History
 Auto Quiz - Movie 🧠
 Q: Who was the Confederate general in the American Civil War?
 A: Robert E. Lee - History
+Auto Quiz - Temple 🧠
+Q: The board game Monopoly takes its street names from which real American city?
+A: Atlantic City, New Jersey - Entertainment: Board Games
