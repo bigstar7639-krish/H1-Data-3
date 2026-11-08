@@ -232,3 +232,6 @@ A: Krill - Animals
 Auto Quiz - Cricket 🧠
 Q: Who was the British Prime Minister at the outbreak of the Second World War?
 A: Neville Chamberlain - Politics
+Auto Quiz - Space 🧠
+Q: Who created the Final Fantasy series developed by Square Enix?
+A: Hironobu Sakaguchi - Entertainment: Video Games
