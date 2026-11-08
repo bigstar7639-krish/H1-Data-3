@@ -1016,3 +1016,4 @@ Talk 62 - Sea pathi pesalama? Sollu!
 Talk 63 - Bored pathi pesalama? Sollu!
 Emotion - Tired 💜
 Rompa tired ah? Water kudi, rest edu!
+Aira AI: Aira: Physics pathi oru secret sollatta? - Itha paathi naan yosichen! Ithu mukkiyamana vishayam - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
