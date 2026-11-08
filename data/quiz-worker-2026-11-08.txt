@@ -193,3 +193,6 @@ A: Turkey - History
 Auto Quiz - Health 🧠
 Q: What is the official language in Barcelona beside Spanish?
 A: Catalan - General Knowledge
+Auto Quiz - Music 🧠
+Q: What is the capital of the American state of Arizona?
+A: Phoenix - Geography
