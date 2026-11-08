@@ -22,3 +22,6 @@ Game 49 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Game 76 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 16 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 3 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 5 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+
+ Oru kaalathula oru oor la Shakespeare nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Shakespeare oda arumaiya purinjikittan, avan Shakespeare pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Shakespeare ah purinjikittanga, antha oor ye Shakespeare nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Shakespeare ah purinjikita life ye azhagahum.
