@@ -985,3 +985,6 @@ OS‑la user interface, file management, hardware drivers, security ellam
 Knowledge Quiz
 Q: Who designed the Chupa Chups logo?
 A: Salvador Dali - Art
+Knowledge Quiz
+Q: The Battle of the Somme in World War I took place in which country?
+A: France - History
