@@ -406,3 +406,6 @@ A: James Bond - Entertainment: Video Games
 Auto Quiz - Dog 🧠
 Q: When was Gangnam Style uploaded to YouTube?
 A: 2012 - Entertainment: Music
+Auto Quiz - Food 🧠
+Q: What is the browser game Kantai Collection heavily inspired by?
+A: Second World War - Entertainment: Video Games
