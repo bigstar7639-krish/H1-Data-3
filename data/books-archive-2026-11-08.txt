@@ -895,3 +895,5 @@ Sea - ancientcoinagepa00zogr_0 - Ancient Coinage. Part I: The General Problems O
 Sea - bwb_T5-ARI-200 - We Didnt mean to go to sea
 Mountain - bwb_T4-AKA-876 - Don' Fall Off The Mountain
 Mountain - bwb_KU-405-521 - The New Naturalist MOUNTAIN FLOWERS
+River - unitedstatescoas0000vari_w3g4 - United States Coast Pilot: Atlantic Coast: SEction A St. Croix River to Cape Cod
+River - gilariverofsouth0000edwi - The Gila, river of the Southwest (A Bison book)
