@@ -1411,3 +1411,6 @@ A: Joseph Clarence - Entertainment: Video Games
 Knowledge Quiz
 Q: In what year was the movie "Police Academy" released?
 A: 1984 - Entertainment: Film
+Knowledge Quiz
+Q: What is the name the location-based augmented reality game developed by Niantic before Pokémon GO?
+A: Ingress - Entertainment: Video Games
