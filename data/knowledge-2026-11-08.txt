@@ -461,3 +461,6 @@ Knowledge 93 - Thirukkural - Aira: Thirukkural pathi sollu - Itha paathi naan yo
 Knowledge Quiz
 Q: Who is the bassist of the British rock band Queen?
 A: John Deacon - Entertainment: Music
+Knowledge Quiz
+Q: What was the Maximum Level in World of Warcraft: Battle for Azeroth?
+A: 120 - Entertainment: Video Games
