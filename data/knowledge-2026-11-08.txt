@@ -678,3 +678,6 @@ A: Max Eisenhardt - Entertainment: Comics
 Knowledge Quiz
 Q: What was Dorothy's surname in 'The Wizard Of Oz'?
 A: Gale - Entertainment: Film
+Knowledge Quiz
+Q: After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?
+A: Mamluk - History
