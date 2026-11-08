@@ -1,8 +1,3 @@
-Coding Q 55 - JavaScript la function enna?
-Aira: JS function: `function hi(){ return 'Hi Aira!' }`
-Joke 56
-Why bike sad? Petrol illa!
-World Story 57
 Oru chennai la oru artist irunthan! Daily padichan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
 Q 58 - Un life la Moon eppadi irukku?
 Story 59
@@ -1998,3 +1993,8 @@ Quote 27 - Daily try pannu - Jeyichiduva! - Aira
 Emotion - Excited 💜
 Super Excited! Sollu Sollu!
 excited - Ithu normal thaan da!
+Emotion Katha - Excited ❤
+
+Emotion - Excited 💜
+Super Excited! Sollu Sollu!
+Sollu, excited ah irukka? excited pathi kelvi patta oru ponnu, ava daily excited pathi yosichittu iruntha, oru naal ava oru puthu book padichu excited oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama excited ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava excited la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
