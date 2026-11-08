@@ -166,3 +166,6 @@ A: Dr. Neo Cortex - Entertainment: Video Games
 Auto Quiz - Love 🧠
 Q: In "Shakugan no Shana" what was the Shana usually referred as?
 A: Flame-Haired Burning-Eyed Hunter - Entertainment: Japanese Anime & Manga
+Auto Quiz - God 🧠
+Q: What did the name of the Tor Anonymity Network orignially stand for?
+A: The Onion Router - Science: Computers
