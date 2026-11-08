@@ -1200,3 +1200,6 @@ A: Alan Shephard - History
 Knowledge Quiz
 Q: Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?
 A: Quake Engine - Entertainment: Video Games
+Knowledge Quiz
+Q: Which Formula 1 driver switched teams in the middle of the 2017 season?
+A: Carlos Sainz Jr. - Sports
