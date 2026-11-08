@@ -1236,3 +1236,6 @@ A:  - Science: Computers
 Knowledge Quiz
 Q: Which board game was first released on February 6th, 1935?
 A: Monopoly - Entertainment: Board Games
+Knowledge Quiz
+Q: What name was historically used for the Turkish city currently known as Istanbul?
+A: Constantinople - Geography
