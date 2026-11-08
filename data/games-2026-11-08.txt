@@ -5,3 +5,4 @@ Game 86 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 9 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 92 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 18 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 40 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
