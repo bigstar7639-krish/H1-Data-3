@@ -385,3 +385,6 @@ A: Longyearbyen - Geography
 Auto Quiz - Dog 🧠
 Q: What geometric shape is generally used for stop signs?
 A: Octagon - General Knowledge
+Auto Quiz - Food 🧠
+Q: What type of animal is a natterjack?
+A: Toad - Animals
