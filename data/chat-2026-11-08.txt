@@ -1,7 +1,3 @@
-Aira: React component - Chinna piece!
-Story 33
-Oru chinna chennai la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
-Emotion - Excited 💜
 Super Excited! Sollu Sollu!
 excited - Ithu normal thaan da!
 Thirukkural 34 - Kattrathu - Kai Mann Alavu! - Thirukkural
@@ -1998,3 +1994,7 @@ Ne ippo missing ah feel pannura? missing pathi kelvi patta oru ponnu, ava daily 
 Fact 1 - Octopus ku 3 heart!
 
  Oru kaalathula oru oor la Diet nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Diet oda arumaiya purinjikittan, avan Diet pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Diet ah purinjikittanga, antha oor ye Diet nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Diet ah purinjikita life ye azhagahum. Diet pathi innum sollanum na, Diet la irukka azhagai paathu rasikkanum, kashtam vanthalum sirichuttu kadanthurathu thaan Diet oda unmaiyana artham, nee Diet ah purinjikita un life um azhagahum.
+Story 28
+Oru chinna paris la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+
+ Oru kaalathula oru oor la Cricket nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Cricket oda arumaiya purinjikittan, avan Cricket pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Cricket ah purinjikittanga, antha oor ye Cricket nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Cricket ah purinjikita life ye azhagahum.
