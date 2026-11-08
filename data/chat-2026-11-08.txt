@@ -211,3 +211,4 @@ Story 112
 Oru paris la oru raja irunthan! Daily book padichan pannan! Oru naal book kedaichuchu! Life maariduchu!
 Story 113
 Oru chinna oor la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Smart Q 114 - CSS la eppadi jeyikkarathu?
