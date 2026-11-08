@@ -1151,3 +1151,6 @@ Knowledge 14 - Biology - Biology, அல்லது உயிரியல், �
 Knowledge Quiz
 Q: In which game did the Konami Code make its first appearance?
 A: Gradius - Entertainment: Video Games
+Knowledge Quiz
+Q: Billy Herrington is from which US state?
+A: New York - Celebrities
