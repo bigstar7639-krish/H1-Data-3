@@ -561,3 +561,6 @@ A: Blakey - Entertainment: Television
 Knowledge Quiz
 Q: Folic acid is the synthetic form of which vitamin?
 A: Vitamin B - Science & Nature
+Knowledge Quiz
+Q: In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?
+A: Hell Knight - Entertainment: Video Games
