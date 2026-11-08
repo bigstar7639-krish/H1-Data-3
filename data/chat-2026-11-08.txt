@@ -306,3 +306,5 @@ Movie 35 - Leo - Vijay - Action!
 Story 36
 Oru chinna new york la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Q 37 - Faith pathi oru secret sollatta?
+Story 38
+Oru world la oru farmer irunthan! Daily pray pannaan pannan! Oru naal success kedaichuchu! Life maariduchu!
