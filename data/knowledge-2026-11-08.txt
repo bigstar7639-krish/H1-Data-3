@@ -1132,3 +1132,6 @@ A: Full House - General Knowledge
 Knowledge Quiz
 Q: What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
 A: ADPCM Sampler - Science: Computers
+Knowledge Quiz
+Q: In "Magic: The Gathering", what instant card has the highest converted mana cost?
+A: Blinkmoth Infusion - Entertainment: Board Games
