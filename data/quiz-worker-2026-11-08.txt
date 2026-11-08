@@ -142,3 +142,6 @@ A: MP5N - Entertainment: Video Games
 Auto Quiz - Animal 🧠
 Q: What is not a default game mode in Counter-Strike (2000)?
 A: Arms Race - Entertainment: Video Games
+Auto Quiz - Baby 🧠
+Q: What is the romanized Russian word for "winter"?
+A: Zima - General Knowledge
