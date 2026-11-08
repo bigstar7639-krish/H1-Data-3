@@ -890,3 +890,6 @@ A: Active Directory - Science: Computers
 Knowledge Quiz
 Q: How many sides does a heptagon have?
 A: 7 - Science: Mathematics
+Knowledge Quiz
+Q: This movie contains the quote, "I feel the need ... the need for speed!"
+A: Top Gun - Entertainment: Film
