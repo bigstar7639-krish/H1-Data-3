@@ -1239,3 +1239,6 @@ A: Monopoly - Entertainment: Board Games
 Knowledge Quiz
 Q: What name was historically used for the Turkish city currently known as Istanbul?
 A: Constantinople - Geography
+Knowledge Quiz
+Q: Swedish DJ Tim Bergling, who produced songs such as "Levels" and "Wake Me Up", is better known under what alias?
+A: Avicii - Entertainment: Music
