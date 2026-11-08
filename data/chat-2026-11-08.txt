@@ -1556,3 +1556,4 @@ Knowledge 55 - Mountain - Hey! 🌄
 Emotion - Fear 💜
 Bhayam vantha - Deep breath edu!
 Unakku fear pathi oru story venuma?
+Q 56 - Un life la Python eppadi irukku?
