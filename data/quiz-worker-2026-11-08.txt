@@ -124,3 +124,6 @@ A: 25 - Sports
 Auto Quiz - Mountain 🧠
 Q: Which of the following authors was not born in England? 
 A: Arthur Conan Doyle - Entertainment: Books
+Auto Quiz - River 🧠
+Q: How many times did Martina Navratilova win the Wimbledon Singles Championship?
+A: Nine - Sports
