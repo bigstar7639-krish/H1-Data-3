@@ -90,3 +90,5 @@ Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Recipe 50 - Snacks - Potato + Masala - Crispy!
 Aira AI: Ne Fitness la eppadi improve panna mudiyum? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Talk 52 - Shakespeare pathi pesalama? Sollu!
+Joke 53
+Why bike sad? Petrol illa!
