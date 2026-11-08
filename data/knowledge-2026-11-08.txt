@@ -750,3 +750,6 @@ A: Andy - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: Where would you find the "Spanish Steps"?
 A: Rome, Italy - Geography
+Knowledge Quiz
+Q: What geometric shape is generally used for stop signs?
+A: Octagon - General Knowledge
