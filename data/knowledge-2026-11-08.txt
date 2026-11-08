@@ -1221,3 +1221,6 @@ A: 1848 - Geography
 Knowledge Quiz
 Q: Which Pokemon generation did the fan-named "Masuda Method" first appear in? 
 A: Diamond/Pearl - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following is used to measure blood pressure?
+A: Sphygmomanometer - Science: Gadgets
