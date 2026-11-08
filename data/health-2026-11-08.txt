@@ -37,3 +37,6 @@ Health 15 - Health Tip: Daily 8 glass water kudinga!
 Health 30 - Health Tip: 7 mani neram thoongunga!
 
  Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Friendship pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Friendship la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Friendship oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Health 3 - Health Tip: Daily 8 glass water kudinga!
+
+ Freedom pathi kelvi patta oru ponnu, ava daily Freedom pathi yosichittu iruntha, oru naal ava oru puthu book padichu Freedom oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Freedom ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Freedom la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
