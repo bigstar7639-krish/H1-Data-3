@@ -317,3 +317,4 @@ Reading 4 - Ramayana!
 Business Idea 5 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Coding Q 6 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Talk 7 - Psychology pathi pesalama? Sollu!
