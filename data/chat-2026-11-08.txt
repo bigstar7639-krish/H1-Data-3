@@ -209,3 +209,5 @@ Vocab 110 - Happy = Santhosham
 Business Idea 111 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Story 112
 Oru paris la oru raja irunthan! Daily book padichan pannan! Oru naal book kedaichuchu! Life maariduchu!
+Story 113
+Oru chinna oor la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
