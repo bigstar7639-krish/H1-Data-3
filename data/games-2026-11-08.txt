@@ -17,3 +17,4 @@ Game 81 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 86 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 31 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 7 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 25 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
