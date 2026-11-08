@@ -615,3 +615,6 @@ A: Waves - Entertainment: Music
 Knowledge Quiz
 Q: Which of these covert groups employs Sam Fisher to work as a Splinter Cell?
 A: Third Echelon - Entertainment: Video Games
+Knowledge Quiz
+Q: What's the Team Fortress 2 Scout's city of origin?
+A: Boston - Entertainment: Video Games
