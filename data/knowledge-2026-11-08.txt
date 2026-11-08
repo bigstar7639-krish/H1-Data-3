@@ -1459,3 +1459,6 @@ A: "A rainy Lithuanian / Is dancing as an Indian" - Entertainment: Music
 Knowledge Quiz
 Q: How many scoring zones are there on a conventional dart board?
 A: 82 - Sports
+Knowledge Quiz
+Q: Which of these is NOT considered to be a colour that makes up the rainbow?
+A: Pink - General Knowledge
