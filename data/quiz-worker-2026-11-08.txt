@@ -1,13 +1,3 @@
-A: Gossypiboma - Science & Nature
-Auto Quiz - Temple 🧠
-Q: In the fighting game "Skullgirls," which character utilizes a folding chair called the "Hurting" as a weapon?
-A: Beowulf - Entertainment: Video Games
-Auto Quiz - Flower 🧠
-Q: How many hearts does an octopus have?
-A: Three - Science & Nature
-Auto Quiz - Sea 🧠
-Q: How many points did LeBron James score in his first NBA game?
-A: 25 - Sports
 Auto Quiz - Mountain 🧠
 Q: Which of the following authors was not born in England? 
 A: Arthur Conan Doyle - Entertainment: Books
@@ -1998,3 +1988,13 @@ Q+A Katha - Kolkata 🧠
 Question: What happens when you roll 3 doubles in a row in Monopoly?
 
 Answer: Go to jail - Entertainment: Board Games. Itha kelvi Kolkata pathi - Answer Go to jail. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Kolkata pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Kolkata la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Kolkata oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Bangalore 🧠
+
+Question: What is the most preferred image format used for logos in the Wikimedia database?
+
+Answer: .svg - Science: Computers. Itha kelvi Bangalore pathi - Answer .svg. Oru kaalathula oru oor la Bangalore nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Bangalore oda arumaiya purinjikittan, avan Bangalore pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Bangalore ah purinjikittanga, antha oor ye Bangalore nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Bangalore ah purinjikita life ye azhagahum.
+Q+A Katha - Hyderabad 🧠
+
+Question: What is Solid Snake's real name?
+
+Answer: David - Entertainment: Video Games. Itha kelvi Hyderabad pathi - Answer David. Oru kaalathula oru oor la Hyderabad nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Hyderabad oda arumaiya purinjikittan, avan Hyderabad pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Hyderabad ah purinjikittanga, antha oor ye Hyderabad nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Hyderabad ah purinjikita life ye azhagahum.
