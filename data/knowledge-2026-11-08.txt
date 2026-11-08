@@ -283,3 +283,6 @@ A: Elton John - Entertainment: Music
 Knowledge Quiz
 Q: Which of the following actors has only been in a Quentin Tarantino directed film once?
 A: John Travolta - Entertainment: Film
+Knowledge Quiz
+Q: Who has played the most tournaments in the German national soccer team?
+A: Lothar Matthäus - Sports
