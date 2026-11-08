@@ -1345,3 +1345,6 @@ A: Jool - Entertainment: Video Games
 Knowledge Quiz
 Q: In "Star Trek Nemesis", why was Praetor Shinzon created?
 A: To replace Picard as a Romulan Agent - Entertainment: Film
+Knowledge Quiz
+Q: In the popular MOBA League of Legends, which of the following champions is nicknamed "the Virtuoso"?
+A: Jhin - Entertainment: Video Games
