@@ -1348,3 +1348,6 @@ A: To replace Picard as a Romulan Agent - Entertainment: Film
 Knowledge Quiz
 Q: In the popular MOBA League of Legends, which of the following champions is nicknamed "the Virtuoso"?
 A: Jhin - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these celebrities was not a member of the Jackson 5?
+A: Bo Jackson - Celebrities
