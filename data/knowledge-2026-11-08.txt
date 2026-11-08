@@ -714,3 +714,6 @@ A: Michelangelo - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: Which musical instrument is nicknamed 'the clown of the orchestra'?
 A: Bassoon - Entertainment: Music
+Knowledge Quiz
+Q: Who was featured in the song "Words" by Feint? 
+A: Laura Brehm - Entertainment: Music
