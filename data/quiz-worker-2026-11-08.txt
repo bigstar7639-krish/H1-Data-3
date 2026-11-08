@@ -289,3 +289,6 @@ A: 12 - Entertainment: Music
 Auto Quiz - God 🧠
 Q: Which one of these characters appeared in Marvel vs Capcom: Infinite? 
 A: Firebrand - Entertainment: Video Games
+Auto Quiz - Nature 🧠
+Q: The greek god Poseidon was the god of what?
+A: The Sea - Mythology
