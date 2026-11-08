@@ -1435,3 +1435,6 @@ A: Dragostea Din Tei - Entertainment: Music
 Knowledge Quiz
 Q: The starting pistol of the Terrorist team in a competitive match of Counter Strike: Global Offensive is what?
 A: Glock-18 - Entertainment: Video Games
+Knowledge Quiz
+Q: In the Zombies mode of "Call of Duty: Black Ops", what is the "Pack-A-Punched" version of the "Galil" called?
+A: Lamentation - Entertainment: Video Games
