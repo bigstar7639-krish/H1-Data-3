@@ -670,3 +670,4 @@ Happy na - Share pannu da!
 Sollu, happy ah irukka?
 Coding Q 45 - React la component enna?
 Aira: React component - Chinna piece!
+Q 46 - Ne Mountain la eppadi improve panna mudiyum?
