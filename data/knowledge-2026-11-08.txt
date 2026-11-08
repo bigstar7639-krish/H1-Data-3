@@ -1282,3 +1282,6 @@ A: A crowbar - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the full first name of the babysitter in Calvin and Hobbes?
 A: Rosalyn - Entertainment: Comics
+Knowledge Quiz
+Q: How many letters are there in the English alphabet?
+A: 26 - General Knowledge
