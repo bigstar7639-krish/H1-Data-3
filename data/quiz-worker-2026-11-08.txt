@@ -1,13 +1,3 @@
-A: Suriname - Geography
-Auto Quiz - Nature 🧠
-Q: What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into "Super Smash Bros."?
-A: Dragon King: The Fighting Game - Entertainment: Video Games
-Auto Quiz - Cat 🧠
-Q: What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?
-A: Atreyu - Entertainment: Film
-Auto Quiz - Dog 🧠
-Q: Which SQL keyword is used to fetch data from a database?
-A: SELECT - Science: Computers
 Auto Quiz - Food 🧠
 Q: "Decapods" are an order of ten-footed crustaceans.  Which of these are NOT decapods?
 A: Krill - Animals
@@ -1998,3 +1988,13 @@ Q+A Katha - Home 🧠
 Question: In Two and a Half Men, what is Alan Harper's son's name?
 
 Answer: Jake - Entertainment: Television. Itha kelvi Home pathi - Answer Jake. Oru kaalathula oru oor la Home nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Home oda arumaiya purinjikittan, avan Home pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Home ah purinjikittanga, antha oor ye Home nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Home ah purinjikita life ye azhagahum.
+Q+A Katha - Garden 🧠
+
+Question: Which of the following actors does not play a role in the movie "The Usual Suspects?"
+
+Answer: Steve Buscemi - Entertainment: Film. Itha kelvi Garden pathi - Answer Steve Buscemi. Garden pathi kelvi patta oru ponnu, ava daily Garden pathi yosichittu iruntha, oru naal ava oru puthu book padichu Garden oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Garden ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Garden la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Park 🧠
+
+Question: What is the powerhouse of the cell?
+
+Answer: Mitochondria - Science & Nature. Itha kelvi Park pathi - Answer Mitochondria. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Park pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Park la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Park oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
