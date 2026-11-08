@@ -1,6 +1,3 @@
-
-Cricket ஒரு super popular sport, especially India-யில். 11 players per side, ball மற்றும் bat use பண்ணி, 22 yards (≈20.12m) distance-ல் உள்ள pitch-இல் play பண்ணுகிறார்கள்.
-
 **Basic Rules:**
 1. **Innings** – ஒவ்வொரு team-க்கும் ஒரு அல்லது பல innings இருக்கலாம் (Test = 2, ODI/T20 = 1).  
 2. **Runs** – batter ball-ஐ hit பண்ணி, field‑இல் உள்ள பந்தை சுற்றி back‑to‑crease வரும்போது 1 run. Boundary hit பண்ணினா 4 (ground‑உடன்) or 6 (air‑உடன்).  
@@ -1998,3 +1995,6 @@ Question: Website eppadi pannurathu?
 Answer: Website - HTML + CSS + JS!
 
  Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Plants pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Plants la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Plants oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Vocab 103 - Success = Vetri
+
+ Universe pathi kelvi patta oru ponnu, ava daily Universe pathi yosichittu iruntha, oru naal ava oru puthu book padichu Universe oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Universe ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Universe la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
