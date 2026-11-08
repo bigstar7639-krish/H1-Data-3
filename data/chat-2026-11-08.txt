@@ -865,3 +865,5 @@ Recipe 6 - Cake - Maida + Sugar + Egg + 30 min!
 Emotion - Motivated 💜
 Full Energy! Ippo thaan time!
 Ne ippo motivated ah feel pannura?
+Coding Q 7 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
