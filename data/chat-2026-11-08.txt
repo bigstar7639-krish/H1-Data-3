@@ -587,3 +587,5 @@ confused - Ithu normal thaan da!
 Q 14 - Motivation pathi oru story kekkura?
 Emotion Q 15 - excited?
 Aira: Excited ah! Sollu!
+Emotion - Fear 💜
+Bayam - Normal! Ne jeyichiduva! 💪
