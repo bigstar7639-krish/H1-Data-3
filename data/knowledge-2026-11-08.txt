@@ -295,3 +295,6 @@ A: Spy - Entertainment: Video Games
 Knowledge Quiz
 Q: In Left 4 Dead, what is the character Bill's last name?
 A: Overbeck - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the world's first video game console?
+A: Magnavox Odyssey - Entertainment: Video Games
