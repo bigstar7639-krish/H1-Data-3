@@ -6,3 +6,4 @@ kan - in.gazette.karnataka_d.2022-01-29.3607 - Karnataka Daily Gazette, 2022-01-
 kan - in.gazette.karnataka_eo.2020-08-06.102 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
 chi - xinminbao-nanjing-1934.06.15 - 新民報 (南京) 1934.06.15
 chi - xijing-ribao-1939.07.10 - 西京日報 1939.07.10
+eng - in.goa.egaz.0910-29.SIII - Gazette of Goa, No. 0910-29, SIII
