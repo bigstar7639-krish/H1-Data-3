@@ -25,3 +25,4 @@ Music - bwb_S0-BQA-647 - A General HIstory of MUsic
 Movie - MovieBox_201505 - Movie Box
 Movie - MyMovie_20190227 - My Movie
 Temple - peoplestemplepeo0000phil - People's Temple, People's Tomb
+Temple - papertemple0000dean - Paper Temple
