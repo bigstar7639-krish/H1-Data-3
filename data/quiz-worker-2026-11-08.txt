@@ -1,13 +1,3 @@
-A: Neville Chamberlain - Politics
-Auto Quiz - Space 🧠
-Q: Who created the Final Fantasy series developed by Square Enix?
-A: Hironobu Sakaguchi - Entertainment: Video Games
-Auto Quiz - Story 🧠
-Q: Which Greek god was the god of the Sun?
-A: Helios - History
-Auto Quiz - Health 🧠
-Q: Which artist curated the official soundtrack for "The Hunger Games: Mockingjay - Part 1"?
-A: Lorde - Entertainment: Music
 Auto Quiz - Music 🧠
 Q: In Sid Meier's Civilization V, which World Wonder can only be built in cities on or next to a desert?
 A: Petra - Entertainment: Video Games
@@ -1998,3 +1988,13 @@ Q+A Katha - Elephant 🧠
 Question: In the Half-Life universe, the Black Mesa Research Facility is located in which US state?
 
 Answer: New Mexico - Entertainment: Video Games. Itha kelvi Elephant pathi - Answer New Mexico. Oru kaalathula oru oor la Elephant nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Elephant oda arumaiya purinjikittan, avan Elephant pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Elephant ah purinjikittanga, antha oor ye Elephant nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Elephant ah purinjikita life ye azhagahum.
+Q+A Katha - Tiger 🧠
+
+Question: Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?
+
+Answer: Battle of Adrianople - History. Itha kelvi Tiger pathi - Answer Battle of Adrianople. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Tiger pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Tiger la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Tiger oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Lion 🧠
+
+Question: Which psychological term refers to the stress of holding contrasting beliefs?
+
+Answer: Cognitive Dissonance - Science & Nature. Itha kelvi Lion pathi - Answer Cognitive Dissonance. Oru kaalathula oru oor la Lion nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Lion oda arumaiya purinjikittan, avan Lion pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Lion ah purinjikittanga, antha oor ye Lion nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Lion ah purinjikita life ye azhagahum.
