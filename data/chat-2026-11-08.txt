@@ -283,3 +283,4 @@ Knowledge 18 - Space - Aira: Space pathi sollu - Itha paathi naan yosichen! Ithu
 Smart Q 19 - Time la eppadi jeyikkarathu?
 Knowledge 20 - Black Hole - Aira: Black Hole pathi sollu - Itha paathi naan yosichen! Kelvi super - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
 Kavithai 21 - Un Sirippu - En Vazhkai! - Aira
+Pazhamozhi 22 - Aalai Paathu - Aadi Paaru!
