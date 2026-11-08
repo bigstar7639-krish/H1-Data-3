@@ -654,3 +654,6 @@ A: Bog Wraith - Entertainment: Board Games
 Knowledge Quiz
 Q: Which of these is not an additional variation of the color purple?
 A: Kobicha - Art
+Knowledge Quiz
+Q: What mutated animals act as monsters in the movie 'Night of the Lepus'?
+A: Rabbits - Entertainment: Film
