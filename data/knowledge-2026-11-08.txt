@@ -606,3 +606,6 @@ A: Keegan-Michael Key - Entertainment: Film
 Knowledge Quiz
 Q: In the Lord of the Rings: The Two Towers, where are the party of orcs taking the hobbits?
 A: Isengard - Entertainment: Film
+Knowledge Quiz
+Q: Which of the following landmarks is not located in New York City?
+A: Lincoln Memorial - General Knowledge
