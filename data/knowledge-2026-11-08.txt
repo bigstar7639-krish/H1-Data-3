@@ -262,3 +262,6 @@ A: 38 - Science & Nature
 Knowledge Quiz
 Q: Which game in the "Halo" series has the strongest iteration of the shotgun?
 A: Halo: Combat Evolved - Entertainment: Video Games
+Knowledge Quiz
+Q: Which language is most widely spoken in Switzerland?
+A: German - General Knowledge
