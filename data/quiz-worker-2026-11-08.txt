@@ -1141,3 +1141,18 @@ Q+A Katha - Tamil 🧠
 Question: Which of the following languages is used as a scripting language in the Unity 3D game engine?
 
 Answer: C# - Science: Computers. Itha kelvi Tamil pathi - Answer C#. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Tamil pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Tamil la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Tamil oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - God 🧠
+
+Question: Which person from "JoJo's Bizarre Adventure" does NOT house a reference to a band, artist, or song earlier than 1980?
+
+Answer: Giorno Giovanna - Entertainment: Japanese Anime & Manga. Itha kelvi God pathi - Answer Giorno Giovanna. Oru kaalathula oru oor la God nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan God oda arumaiya purinjikittan, avan God pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam God ah purinjikittanga, antha oor ye God nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, God ah purinjikita life ye azhagahum.
+Q+A Katha - Nature 🧠
+
+Question: Rocket League is a game which features..
+
+Answer: Cars - Entertainment: Video Games. Itha kelvi Nature pathi - Answer Cars. Oru kaalathula oru oor la Nature nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Nature oda arumaiya purinjikittan, avan Nature pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Nature ah purinjikittanga, antha oor ye Nature nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Nature ah purinjikita life ye azhagahum.
+Q+A Katha - Cat 🧠
+
+Question: What national museum will you find in Cooperstown, New York?
+
+Answer: National Baseball Hall of Fame - Geography. Itha kelvi Cat pathi - Answer National Baseball Hall of Fame. Oru kaalathula oru oor la Cat nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Cat oda arumaiya purinjikittan, avan Cat pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Cat ah purinjikittanga, antha oor ye Cat nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Cat ah purinjikita life ye azhagahum.
