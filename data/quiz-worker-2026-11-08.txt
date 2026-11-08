@@ -229,3 +229,6 @@ A: SELECT - Science: Computers
 Auto Quiz - Food 🧠
 Q: "Decapods" are an order of ten-footed crustaceans.  Which of these are NOT decapods?
 A: Krill - Animals
+Auto Quiz - Cricket 🧠
+Q: Who was the British Prime Minister at the outbreak of the Second World War?
+A: Neville Chamberlain - Politics
