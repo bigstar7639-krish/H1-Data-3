@@ -549,3 +549,6 @@ A: iD Tech 2 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which country attacked the USS Liberty on June 8, 1967?
 A: Israel - History
+Knowledge Quiz
+Q: Which sport is NOT traditionally played during the Mongolian Naadam festival?
+A: American Football - Sports
