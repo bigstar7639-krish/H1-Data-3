@@ -1144,3 +1144,6 @@ A: Jesse McCree - Entertainment: Video Games
 Knowledge Quiz
 Q: What bird is born with claws on its wing digits?
 A: Hoatzin - Animals
+Knowledge Quiz
+Q: In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?
+A: Dr. Mario - Entertainment: Video Games
