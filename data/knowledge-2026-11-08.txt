@@ -207,3 +207,6 @@ A: Blanche - Entertainment: Video Games
 Knowledge Quiz
 Q: Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?
 A: Wales - Geography
+Knowledge Quiz
+Q: Who is the author of the "A Song of Ice and Fire" book series, starting with "A Game of Thrones"?
+A: George R. R. Martin - Entertainment: Books
