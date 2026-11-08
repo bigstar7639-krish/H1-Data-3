@@ -1003,3 +1003,6 @@ A: Quantum Entanglement Device - Entertainment: Video Games
 Knowledge Quiz
 Q: Baron Silas Greenback is the arch nemesis of which cartoon hero?
 A: Danger Mouse - Entertainment: Television
+Knowledge Quiz
+Q: Which DC superhero was NOT included in the 2017 movie "Justice League"?
+A: Green Arrow - Entertainment: Film
