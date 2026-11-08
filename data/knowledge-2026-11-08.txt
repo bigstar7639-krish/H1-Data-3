@@ -1468,3 +1468,6 @@ Knowledge 69 - Diet - Hey friend! Ninga diet pathi kelvi kekkareenga, so let’s
 Knowledge Quiz
 Q: What is Ron Weasley's middle name?
 A: Bilius - Entertainment: Books
+Knowledge Quiz
+Q: Where in the human body is the Pineal Gland located?
+A: Brain - Science & Nature
