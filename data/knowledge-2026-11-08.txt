@@ -702,3 +702,6 @@ A: FM-7 - Science: Computers
 Knowledge Quiz
 Q: What is the French word for "fish"?
 A: poisson - General Knowledge
+Knowledge Quiz
+Q: When did Canada leave the confederation to become their own nation?
+A: July 1st, 1867 - History
