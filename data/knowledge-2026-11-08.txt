@@ -1251,3 +1251,6 @@ A: 2017 - History
 Knowledge Quiz
 Q: In what year did the Battle of Verdun take place?
 A: 1916 - History
+Knowledge Quiz
+Q: Which of these roles in Town of Salem is mafia?
+A: Disguiser - Entertainment: Video Games
