@@ -65,3 +65,4 @@ chi - xinminbao-nanjing-1934.06.15 - 新民報 (南京) 1934.06.15
 chi - xijing-ribao-1939.07.10 - 西京日報 1939.07.10
 eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
 eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
+kan - in.gazette.karnataka_eo.2020-11-07.DPAR73GAM20194 - Karnataka ExtraOrdinary Gazette, 2020-11-07, Extra Ordinary, Part IVA
