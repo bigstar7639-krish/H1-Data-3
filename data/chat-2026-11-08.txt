@@ -309,3 +309,4 @@ Q 37 - Faith pathi oru secret sollatta?
 Story 38
 Oru world la oru farmer irunthan! Daily pray pannaan pannan! Oru naal success kedaichuchu! Life maariduchu!
 Business Idea 39 - Tuition - Veetla Tuition!
+Recipe 1 - Cake - Maida + Sugar + Egg + 30 min!
