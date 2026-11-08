@@ -276,3 +276,5 @@ Knowledge 13 - Chemistry - Hey buddy! Chemistry‑na **matter‑oda magic**�
 - **Industry** – new materials (nanotech, po
 Health 14 - Health Tip: Daily 8 glass water kudinga!
 Business Idea 15 - Tuition - Veetla Tuition!
+Coding Q 16 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
