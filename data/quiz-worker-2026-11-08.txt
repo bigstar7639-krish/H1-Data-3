@@ -25,3 +25,6 @@ A: Careless Whisper - Entertainment: Music
 Auto Quiz - Health 🧠
 Q: In "Sonic the Hedgehog" comic, who was the creator of Roboticizer? 
 A: Professor Charles the Hedgehog - Entertainment: Comics
+Auto Quiz - Music 🧠
+Q: What is the Italian word for "tomato"?
+A: Pomodoro - General Knowledge
