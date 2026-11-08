@@ -960,3 +960,25 @@ A: Italy - Entertainment: Musicals & Theatres
 Knowledge Quiz
 Q: Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?
 A: Owen Hart - Sports
+Knowledge 34 - Computer - Hey buddy! 😊  
+Computer-nu solra **machine**-oda basics-a solren.
+
+**1. Computer enna?**  
+Computer‑a oru electronic device‑aa think paniko, data‑a process pannum, store pannum, and display pannum. Intha 3 main parts‑la irukku:
+
+- **Hardware** – physical parts (CPU, RAM, hard disk, monitor, keyboard, mouse, etc.).  
+- **Software** – programs & operating systems (Windows, macOS, Linux, Android…) that tell hardware enna panrathu.  
+- **Data** – info (text, images, videos, music…) that computer handle pannuthu.
+
+**2. CPU (Central Processing Unit)**  
+CPU‑a brain-nu solalaam. Instructions‑a read panni, calculate panni, result‑a output pannum. Speed‑a GHz‑la measure pannuvanga – adhikama irundha computer fast a run aagum.
+
+**3. RAM (Random Access Memory)**  
+Temporary memory. Oru program open pannumbodhu data RAM‑la load aagum, so CPU quick‑a access pannalaam. Power off pannumbodhu RAM‑la irundha data disappear aagum.
+
+**4. Storage**  
+- **HDD** (Hard Disk Drive) – spinning magnetic plates, cheap aana slower.  
+- **SSD** (Solid State Drive) – flash memory, super fast, but a bit dear.
+
+**5. Operating System (OS)**  
+OS‑la user interface, file management, hardware drivers, security ellam 
