@@ -1143,3 +1143,9 @@ Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
 Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
 Book - 1966brandbookofd0000will - The 1966 Brand Book of The Denver Pose of The Westerners Being Volume Twenty-Two
 Book - bwb_S0-ADB-783 - the magic garden of my book house
+Joke - justsayyestolaug0000bhat - Just say "Yes" to laughing your way to fitness with yoga and meditation (and that's no joke)
+Joke - jokeisonyou0000nish - The joke is on you
+Reading - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
+Reading - bwb_Y0-DTB-477 - Junior Great Books A Program of Interpretive Reading and Discussion
+Writing - bwb_S0-CWF-509 - A HISTORY OF HISTORICAL WRITING
+Writing - bwb_S0-BQI-555_1 - A history of historical writing
