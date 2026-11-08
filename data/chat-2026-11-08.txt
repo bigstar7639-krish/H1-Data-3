@@ -1,10 +1,3 @@
-Thirukkural 73 - Kattrathu - Kai Mann Alavu! - Thirukkural
-Recipe 74 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
-Quote 75 - Daily try pannu - Jeyichiduva! - Aira
-Thirukkural 76 - Kattrathu - Kai Mann Alavu! - Thirukkural
-Health 77 - Health Tip: Daily 8 glass water kudinga!
-Vocab 78 - Success = Vetri
-Business Idea 79 - Instagram Page - Daily 1 Post!
 Aira AI: Aira: Ne Happiness la eppadi improve panna mudiyum? - Itha paathi naan yosichen! Ithu mukkiyamana vishayam - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
 Aira AI: Aira: Ne Instagram la eppadi improve panna mudiyum? - Itha paathi naan yosichen! Ithu mukkiyamana vishayam - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
 Movie 82 - Leo - Vijay - Action!
@@ -1998,3 +1991,10 @@ Ne ippo angry ah feel pannura? angry pathi kelvi patta oru ponnu, ava daily angr
 Health 3 - Health Tip: Daily 8 glass water kudinga!
 
  Freedom pathi kelvi patta oru ponnu, ava daily Freedom pathi yosichittu iruntha, oru naal ava oru puthu book padichu Freedom oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Freedom ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Freedom la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
+Q+A Training - Brain
+
+Question: Brain pathi oru story kekkura?
+
+Answer: Aira: Brain pathi oru story kekkura? - Itha paathi naan yosichen! Unakku puriyura maari solluren - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
+
+ Brain pathi kelvi patta oru ponnu, ava daily Brain pathi yosichittu iruntha, oru naal ava oru puthu book padichu Brain oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Brain ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Brain la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
