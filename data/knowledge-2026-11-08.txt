@@ -198,3 +198,6 @@ A: The Shining - Entertainment: Film
 Knowledge Quiz
 Q: The idea of Socialism was articulated and advanced by whom?
 A: Karl Marx - History
+Knowledge Quiz
+Q: What year was the RoboSapien toy robot released?
+A: 2004 - General Knowledge
