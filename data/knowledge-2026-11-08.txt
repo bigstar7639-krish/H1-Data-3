@@ -1230,3 +1230,6 @@ A: Not Fade Away - Entertainment: Music
 Knowledge Quiz
 Q: In what year did the First World War end?
 A: 1918 - History
+Knowledge Quiz
+Q: In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
+A:  - Science: Computers
