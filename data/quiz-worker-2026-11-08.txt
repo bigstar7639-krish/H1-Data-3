@@ -1,13 +1,3 @@
-Q: What was the first Android version specifically optimized for tablets?
-A: Honeycomb - Science: Computers
-Auto Quiz - Story 🧠
-Q: What is the capital of Senegal?
-A: Dakar - Geography
-Auto Quiz - Health 🧠
-Q: Which city is the seat of government of the Netherlands?
-A: The Hague - Politics
-Auto Quiz - Movie 🧠
-Q: Which of the following is the term for "surgical complications resulting from surgical sponges left inside the patient's body?
 A: Gossypiboma - Science & Nature
 Auto Quiz - Temple 🧠
 Q: In the fighting game "Skullgirls," which character utilizes a folding chair called the "Hurting" as a weapon?
@@ -1998,3 +1988,13 @@ Q+A Katha - Indian Food 🧠
 Question: What is the capital of Slovakia?
 
 Answer: Bratislava - Geography. Itha kelvi Indian Food pathi - Answer Bratislava. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Indian Food pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Indian Food la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Indian Food oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Indian Girl 🧠
+
+Question: In vanilla Minecraft, which of the following cannot be made into a block?
+
+Answer: Charcoal - Entertainment: Video Games. Itha kelvi Indian Girl pathi - Answer Charcoal. Oru kaalathula oru oor la Indian Girl nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Indian Girl oda arumaiya purinjikittan, avan Indian Girl pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Indian Girl ah purinjikittanga, antha oor ye Indian Girl nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Indian Girl ah purinjikita life ye azhagahum.
+Q+A Katha - Kolkata 🧠
+
+Question: What happens when you roll 3 doubles in a row in Monopoly?
+
+Answer: Go to jail - Entertainment: Board Games. Itha kelvi Kolkata pathi - Answer Go to jail. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Kolkata pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Kolkata la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Kolkata oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
