@@ -1520,3 +1520,6 @@ Oru chinna mountain la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala!
 Emotion - Nervous 💜
 Nervous ah iruntha - En kooda pesu, sari aayidum!
 Health 51 - Health Tip: 7 mani neram thoongunga!
+Emotion - Excited 💜
+Wow! Excited ah irukka! Enna vishayam?
+Ne ippo excited ah feel pannura?
