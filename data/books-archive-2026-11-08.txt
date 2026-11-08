@@ -577,3 +577,8 @@ Cricket - bwb_KV-028-408 - It Isn't Cricket
 Cricket - eparlib.nic.in.706837 - Promotion of Women s Cricket (10-Aug-2017)
 Space - bwb_C0-BNX-912 - That Manuscript from outer space
 Space - NewSpaceShip1 - New Space Ship 1
+Story - theyallplayedrag0000unse_a9c7 - They all Played Ragtime The True Story Of An American Music
+Story - bwb_S0-EMF-986 - the story of the american indian
+Health - pubmed-PMC3890914 - Prevalence and pattern of psychiatric morbidity and health related quality of life in patients with ischemic heart disease in a tertiary care hospital.
+Health - bwb_KU-083-625 - PUBLICATIONS OF THE WORLD HEALTH ORGANIZATION
+Music - churchmusicinhis0000winf_z3f4 - Church Music in History and Practice
