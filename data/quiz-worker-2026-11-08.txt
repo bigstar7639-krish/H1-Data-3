@@ -1,8 +1,3 @@
-A: October 21, 2015 - Entertainment: Film
-Auto Quiz - Bird 🧠
-Q: Which of the following is NOT a Nintendo game console?
-A: Dreamcast - Entertainment: Video Games
-Auto Quiz - Animal 🧠
 Q: Which Touhou character is a Hell Raven?
 A: Utsuho Reiuji - Entertainment: Video Games
 Auto Quiz - Baby 🧠
@@ -1998,3 +1993,8 @@ Q+A Katha - Shanghai 🧠
 Question: Which of the following awards do Matt Stone and Trey Parker NOT have?
 
 Answer: Oscar - Entertainment: Television. Itha kelvi Shanghai pathi - Answer Oscar. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Shanghai pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Shanghai la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Shanghai oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Chinese Culture 🧠
+
+Question: Botanically speaking, which of these fruits is NOT a berry?
+
+Answer: Strawberry - Science & Nature. Itha kelvi Chinese Culture pathi - Answer Strawberry. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Chinese Culture pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Chinese Culture la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Chinese Culture oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
