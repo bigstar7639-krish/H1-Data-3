@@ -382,3 +382,6 @@ A: Ole Kirk Christiansen - General Knowledge
 Auto Quiz - Cat 🧠
 Q: What is the administrative centre and largest settlement on the Norwegian archipelago of Svalbard?
 A: Longyearbyen - Geography
+Auto Quiz - Dog 🧠
+Q: What geometric shape is generally used for stop signs?
+A: Octagon - General Knowledge
