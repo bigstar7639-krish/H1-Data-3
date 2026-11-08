@@ -24,3 +24,6 @@ A: Anthropomorphic - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: What is the alter-ego of the DC comics character "Superman"?
 A: Clark Kent - Entertainment: Comics
+Knowledge Quiz
+Q: Where was the Sniper character in Team Fortress 2 born?
+A: New Zealand - Entertainment: Video Games
