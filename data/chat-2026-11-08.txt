@@ -1,6 +1,3 @@
-**Python** nu solrathaa, idhu oru *high‑level*, *easy‑to‑read* programming language. English la “snake” nu meaning aana, code la “snake” mathiri *smooth* ah irukku – indentation (space/tab) use panni block structure kudukura.
-
-### Python‑oda Basics
 - **Syntax** – simple & clean. `print("Hello, World!")` nu mattum type panni run pannalaam.
 - **Variables** – type declare panradhukku need illa. `x = 10` nu kuduthaa, Python automatically `int` ah treat pannum.
 - **Loops** – `for i in range(5):` nu simple ah iterate panna mudiyum.
@@ -1998,3 +1995,6 @@ Emotion Katha - Confused ❤
 Emotion - Confused 💜
 Enna confuse? Sollu, solve pannalam!
 Sollu, confused ah irukka? Oru naal oru chinna oor la oru paiyan irunthan, avan manasula confused pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan confused la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan confused oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Knowledge 40 - Heart - Heart‑na namma life‑oda central engine, oru muscular organ, ana adhu oxygen‑rich blood‑ah pump pannitu, oxygen‑less blood‑ah lungs‑kku send panrathu; idhu 4 chambers‑la irukku—right atrium, right ventricle, left atrium, left ventricle—each one specific role, like a well‑coordinated team. Heart beat-aala namma body‑la blood flow maintain aagum, adhanala namma organs ellam proper oxygen and nutrients get panraanga; heart rate normal-a irundha, 60‑100 beats per minute, adhu stress, exercise, emotions ellam influence pannum, so relax-a irunthaal, healthy food, regular exercise, proper sleep, and positive thoughts heart‑a strong-a keep panra secret ingredients. Heart disease‑a avoid panrathukku, cholesterol level, blood pressure, sugar control panni, smoking avoid panni, regular check‑ups important; konjam love, laughter, and gratitude also heart‑a happy-a keep panra natural medicines! So, heart pathi simple-a solradha, adhu namma life‑oda engine, adha love‑um care‑um kuduthu maintain pannenna, namma body full‑a thrive pannum.
+
+ Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Faith pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Faith la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Faith oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
