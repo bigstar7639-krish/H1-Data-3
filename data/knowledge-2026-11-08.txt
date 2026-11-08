@@ -344,3 +344,6 @@ Knowledge 36 - Internet - Aira: Internet pathi sollu - Itha paathi naan yosichen
 Knowledge Quiz
 Q: Which of the following anime of the mecha genre began airing in 1982?
 A: The Super Dimension Fortress Macross - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: What element on the periodic table has 92 electrons?
+A: Uranium - Science & Nature
