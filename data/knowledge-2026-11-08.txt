@@ -30,3 +30,6 @@ A: New Zealand - Entertainment: Video Games
 Knowledge Quiz
 Q: How many legs do butterflies have?
 A: 6 - Animals
+Knowledge Quiz
+Q: Which programming language was developed by Sun Microsystems in 1995?
+A: Java - Science: Computers
