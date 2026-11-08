@@ -97,3 +97,5 @@ Coding Q 55 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Joke 56
 Why bike sad? Petrol illa!
+World Story 57
+Oru chennai la oru artist irunthan! Daily padichan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
