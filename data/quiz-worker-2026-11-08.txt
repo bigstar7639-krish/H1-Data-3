@@ -1736,3 +1736,18 @@ Q+A Katha - Fitness 🧠
 Question: Dutch computer scientist Mark Overmars is known for creating which game development engine?
 
 Answer: Game Maker - Science: Computers. Itha kelvi Fitness pathi - Answer Game Maker. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Fitness pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Fitness la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Fitness oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Diet 🧠
+
+Question: Which of these celebrities was not a member of the Jackson 5?
+
+Answer: Bo Jackson - Celebrities. Itha kelvi Diet pathi - Answer Bo Jackson. Diet pathi kelvi patta oru ponnu, ava daily Diet pathi yosichittu iruntha, oru naal ava oru puthu book padichu Diet oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Diet ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Diet la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Sleep 🧠
+
+Question: Which of these films is NOT set in Los Angeles?
+
+Answer: RoboCop - Entertainment: Film. Itha kelvi Sleep pathi - Answer RoboCop. Sleep pathi kelvi patta oru ponnu, ava daily Sleep pathi yosichittu iruntha, oru naal ava oru puthu book padichu Sleep oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Sleep ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Sleep la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Beauty 🧠
+
+Question: What did the abbreviation "RMS" stand for in the RMS Titanic in 1912?
+
+Answer: Royal Mail Ship - History. Itha kelvi Beauty pathi - Answer Royal Mail Ship. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Beauty pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Beauty la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Beauty oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
