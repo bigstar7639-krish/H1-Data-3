@@ -195,3 +195,6 @@ A: Catalan - General Knowledge
 Knowledge Quiz
 Q: Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?
 A: The Shining - Entertainment: Film
+Knowledge Quiz
+Q: The idea of Socialism was articulated and advanced by whom?
+A: Karl Marx - History
