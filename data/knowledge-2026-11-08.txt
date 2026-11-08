@@ -543,3 +543,6 @@ A: San Marino - History
 Knowledge Quiz
 Q: According to Algonquian folklore, how does one transform into a Wendigo?
 A: Participating in cannibalism. - Mythology
+Knowledge Quiz
+Q: What video game engine does the videogame Quake 2 run in?
+A: iD Tech 2 - Entertainment: Video Games
