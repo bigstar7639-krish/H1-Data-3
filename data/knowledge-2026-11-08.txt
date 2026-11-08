@@ -1267,3 +1267,6 @@ A: Copenhagen - Science & Nature
 Knowledge Quiz
 Q: Hippocampus is the Latin name for which marine creature?
 A: Seahorse - Animals
+Knowledge Quiz
+Q: Which player has scored the most goals in the England Premier League (EPL)?
+A: Alan Shearer - Sports
