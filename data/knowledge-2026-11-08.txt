@@ -1321,3 +1321,6 @@ A: Eleven - Entertainment: Television
 Knowledge Quiz
 Q: What is the name of the 2016 studio album by the French electronic music duo Justice?
 A: Woman - Entertainment: Music
+Knowledge Quiz
+Q: What does the 'S' stand for in the abbreviation SIM, as in SIM card? 
+A: Subscriber - General Knowledge
