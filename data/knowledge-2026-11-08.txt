@@ -675,3 +675,6 @@ A: Captain Jack - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: What is the real name of the "Master Of Magnetism" Magneto?
 A: Max Eisenhardt - Entertainment: Comics
+Knowledge Quiz
+Q: What was Dorothy's surname in 'The Wizard Of Oz'?
+A: Gale - Entertainment: Film
