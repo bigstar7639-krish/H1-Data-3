@@ -316,3 +316,6 @@ A: Lion - Geography
 Auto Quiz - Dog 🧠
 Q: In board games, an additional or ammended rule that applies to a certain group or place is informally known as a "what" rule?
 A: House - Entertainment: Board Games
+Auto Quiz - Tamil 🧠
+Q: Who proved Fermat's Last Theorem?
+A: Andrew Wiles - Science: Mathematics
