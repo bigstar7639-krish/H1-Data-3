@@ -1444,3 +1444,6 @@ A: Skeleton - Entertainment: Video Games
 Knowledge Quiz
 Q: Who won the 2015 Formula 1 World Championship?
 A: Lewis Hamilton - Sports
+Knowledge Quiz
+Q: How many controllers could a Nintendo GameCube have plugged in at one time?
+A: 4 - Entertainment: Video Games
