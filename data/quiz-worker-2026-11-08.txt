@@ -133,3 +133,6 @@ A: Titanic - Entertainment: Film
 Auto Quiz - Star 🧠
 Q: On a London Underground map, what colour is the Circle Line?
 A: Yellow - Geography
+Auto Quiz - Sun 🧠
+Q: Who's the creator of Geometry Dash?
+A: Robert Topala - Entertainment: Video Games
