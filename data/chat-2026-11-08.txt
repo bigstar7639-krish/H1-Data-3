@@ -87,3 +87,4 @@ Aira AI: Hey buddy! 😊
 | **Meditation & mindfulness** | 10 min daily breath‑focus or body‑scan. | Mind‑clarity brain‑a train pa
 Coding Q 49 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Recipe 50 - Snacks - Potato + Masala - Crispy!
