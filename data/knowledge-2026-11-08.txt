@@ -146,3 +146,6 @@ A: 74 - Entertainment: Television
 Knowledge Quiz
 Q: Who made Garry's Mod?
 A: Garry Newman - Entertainment: Video Games
+Knowledge Quiz
+Q: How many manned moon landings have there been?
+A: 6 - History
