@@ -451,3 +451,7 @@ Game - Game17Lite_201707 - Game 17 Lite
 Game - index_20250813 - WAR game download
 Sport - bwb_S0-BXB-671 - Sport Shoes And Playing Surfaces Biomechanical Properties
 Sport - bwb_S0-ACG-545 - sport royal
+Football - FootballMatchesAvailableWithEMU14032018ByKhanSat.com - Football Matches Available With EMU 14 03 2018 By Khan Sat.com
+Football - com.davincistudio.footballfreekick - Football Free Kick
+Science - bwb_Y0-BTC-960 - Famous Men of Science
+Science - balzaclesmedecin0000doct - Balzac Les Medecins , La Medecine et la Science
