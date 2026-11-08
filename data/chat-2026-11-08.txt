@@ -1881,3 +1881,6 @@ Q+A Training - Coding
 Question: HTML la button eppadi?
 
 Answer: HTML button: `<button>Click</button>`
+Emotion - Angry 💜
+Kovam ah? Deep breath edu! 😤
+Sollu, angry ah irukka?
