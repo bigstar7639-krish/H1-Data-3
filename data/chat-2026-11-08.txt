@@ -220,3 +220,4 @@ Health 119 - Health Tip: Daily 30 min walk ponga!
 Story 120
 Oru sea la oru teacher irunthan! Daily try pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
 Business Idea 121 - Tuition - Veetla Tuition!
+Smart Q 122 - Hope la eppadi jeyikkarathu?
