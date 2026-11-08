@@ -313,3 +313,6 @@ A: Pablo - Entertainment: Television
 Auto Quiz - Nature 🧠
 Q: The body of the Egyptian Sphinx was based on which animal?
 A: Lion - Geography
+Auto Quiz - Dog 🧠
+Q: In board games, an additional or ammended rule that applies to a certain group or place is informally known as a "what" rule?
+A: House - Entertainment: Board Games
