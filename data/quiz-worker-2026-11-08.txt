@@ -226,3 +226,6 @@ A: Atreyu - Entertainment: Film
 Auto Quiz - Dog 🧠
 Q: Which SQL keyword is used to fetch data from a database?
 A: SELECT - Science: Computers
+Auto Quiz - Food 🧠
+Q: "Decapods" are an order of ten-footed crustaceans.  Which of these are NOT decapods?
+A: Krill - Animals
