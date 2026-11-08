@@ -259,3 +259,6 @@ A: Moose - Celebrities
 Knowledge Quiz
 Q: What is the atomic number of the element Strontium?
 A: 38 - Science & Nature
+Knowledge Quiz
+Q: Which game in the "Halo" series has the strongest iteration of the shotgun?
+A: Halo: Combat Evolved - Entertainment: Video Games
