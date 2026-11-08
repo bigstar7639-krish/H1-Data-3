@@ -1,18 +1,3 @@
-Auto Quiz - Space 🧠
-Q: Death Valley's Badwater Basin is North America's point of lowest elevation at how many feet below sea level?
-A: 282 feet - General Knowledge
-Auto Quiz - Story 🧠
-Q: 'I'm never gonna dance again, guilty feet have got no rhythm' were lyrics from which Wham! hit single?
-A: Careless Whisper - Entertainment: Music
-Auto Quiz - Health 🧠
-Q: In "Sonic the Hedgehog" comic, who was the creator of Roboticizer? 
-A: Professor Charles the Hedgehog - Entertainment: Comics
-Auto Quiz - Music 🧠
-Q: What is the Italian word for "tomato"?
-A: Pomodoro - General Knowledge
-Auto Quiz - Movie 🧠
-Q: What is the name of the first level in "Call of Duty: World at War"?
-A: Semper Fi - Entertainment: Video Games
 Auto Quiz - Temple 🧠
 Q: Which of the following games was not a launch title for the Nintendo Gamecube?
 A: Super Mario Sunshine - Entertainment: Video Games
@@ -1998,3 +1983,18 @@ Q+A Katha - Ninja 🧠
 Question: "Rollercoaster Tycoon" was programmed mostly entirely in...
 
 Answer: x86 Assembly - Entertainment: Video Games. Itha kelvi Ninja pathi - Answer x86 Assembly. Ninja pathi kelvi patta oru ponnu, ava daily Ninja pathi yosichittu iruntha, oru naal ava oru puthu book padichu Ninja oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Ninja ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Ninja la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - China 🧠
+
+Question: In what part of Wales will you find the village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?
+
+Answer: Anglesey - Geography. Itha kelvi China pathi - Answer Anglesey. Oru kaalathula oru oor la China nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan China oda arumaiya purinjikittan, avan China pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam China ah purinjikittanga, antha oor ye China nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, China ah purinjikita life ye azhagahum.
+Q+A Katha - Beijing 🧠
+
+Question: In Pokémon Chronicles, why was Misty afraid of Gyarados?
+
+Answer: She crawled into it's mouth as a baby. - Entertainment: Japanese Anime & Manga. Itha kelvi Beijing pathi - Answer She crawled into it's mouth as a baby.. Oru kaalathula oru oor la Beijing nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Beijing oda arumaiya purinjikittan, avan Beijing pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Beijing ah purinjikittanga, antha oor ye Beijing nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Beijing ah purinjikita life ye azhagahum.
+Q+A Katha - Great Wall 🧠
+
+Question: The creation of the  Entertainment Software Ratings Board (ESRB) is often associated with Mortal Kombat and what FMV video game?
+
+Answer: Night Trap - Entertainment: Video Games. Itha kelvi Great Wall pathi - Answer Night Trap. Oru kaalathula oru oor la Great Wall nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Great Wall oda arumaiya purinjikittan, avan Great Wall pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Great Wall ah purinjikittanga, antha oor ye Great Wall nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Great Wall ah purinjikita life ye azhagahum.
