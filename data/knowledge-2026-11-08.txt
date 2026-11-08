@@ -997,3 +997,6 @@ A: Vinesauce - Entertainment: Music
 Knowledge Quiz
 Q: Who was the star of the TV series "24"?
 A: Kiefer Sutherland - Entertainment: Television
+Knowledge Quiz
+Q: In the "Call Of Duty: Zombies" map "Moon", there is a secondary called the QED. What does QED stand for?
+A: Quantum Entanglement Device - Entertainment: Video Games
