@@ -887,3 +887,6 @@ A:  December 2nd 1804 - History
 Knowledge Quiz
 Q: What does AD stand for in relation to Windows Operating Systems? 
 A: Active Directory - Science: Computers
+Knowledge Quiz
+Q: How many sides does a heptagon have?
+A: 7 - Science: Mathematics
