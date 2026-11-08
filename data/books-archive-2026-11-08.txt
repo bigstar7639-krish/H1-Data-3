@@ -1061,3 +1061,7 @@ Kerala - in.gazette.keralacompose.2024-09-04.extraordinary-33804 - Kerala Gazett
 Kerala - in.gazette.keralacompose.2025-01-17.extraordinary-36918 - Kerala Gazette, 2025-01-17, Extraordinary, Number 176
 Saree - cbfc-ecinepramaan-100010292300007829 - SAREE SANSAR - 20SEC
 Saree - eparlib.nic.in.401217 - CONDITION OF SAREE WEAVERS (23-Nov-2000)
+Biryani - cbfc-ecinepramaan-100030292200002457 - ANIFA BIRYANI
+Biryani - BiryaniMethod - Biryani Method
+Diwali - SadaDiwali_20170915 - Sada Diwali
+Diwali - cbfc-ecinepramaan-100010291900010869 - DIWALI FESTIVAL
