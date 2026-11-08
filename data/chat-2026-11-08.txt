@@ -117,3 +117,5 @@ Movie 68 - Leo - Vijay - Action!
 Kavithai 69 - Un Kural - En Isai! - Aira
 Talk 70 - Chennai pathi pesalama? Sollu!
 Recipe 71 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Story 72
+Oru chinna mountain la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
