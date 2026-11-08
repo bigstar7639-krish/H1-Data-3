@@ -1,18 +1,3 @@
-Q: In the video game "Postal 2", what is the name of Postal Dude's dog?
-A: Champ - Entertainment: Video Games
-Auto Quiz - Love 🧠
-Q: How many semitones are in an octave?
-A: 12 - Entertainment: Music
-Auto Quiz - God 🧠
-Q: Which one of these characters appeared in Marvel vs Capcom: Infinite? 
-A: Firebrand - Entertainment: Video Games
-Auto Quiz - Nature 🧠
-Q: The greek god Poseidon was the god of what?
-A: The Sea - Mythology
-Auto Quiz - Cat 🧠
-Q: Which episode of the Phantasy Star Online series is exclusive to the Nintendo Gamecube?
-A: Episode III - Entertainment: Video Games
-Auto Quiz - Dog 🧠
 Q: In the anime series "Full Metal Alchemist", what do Alchemists consider the greatest taboo?
 A: Human Transmutation  - Entertainment: Japanese Anime & Manga
 Auto Quiz - Food 🧠
@@ -1998,3 +1983,18 @@ Q+A Katha - Book 🧠
 Question: Who was the Author of the manga Uzumaki?
 
 Answer: Junji Ito - Entertainment: Japanese Anime & Manga. Itha kelvi Book pathi - Answer Junji Ito. Oru kaalathula oru oor la Book nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Book oda arumaiya purinjikittan, avan Book pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Book ah purinjikittanga, antha oor ye Book nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Book ah purinjikita life ye azhagahum.
+Q+A Katha - Kavithai 🧠
+
+Question: What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?
+
+Answer: Ming Tea - Entertainment: Film. Itha kelvi Kavithai pathi - Answer Ming Tea. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Kavithai pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Kavithai la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Kavithai oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Thirukkural 🧠
+
+Question: Which sign of the zodiac comes between Virgo and Scorpio?
+
+Answer: Libra - General Knowledge. Itha kelvi Thirukkural pathi - Answer Libra. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Thirukkural pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Thirukkural la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Thirukkural oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Pazhamozhi 🧠
+
+Question: In the Marvel Universe, the planet of Svartalfheim is home to what race?
+
+Answer: Dark Elves - Entertainment: Comics. Itha kelvi Pazhamozhi pathi - Answer Dark Elves. Oru kaalathula oru oor la Pazhamozhi nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Pazhamozhi oda arumaiya purinjikittan, avan Pazhamozhi pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Pazhamozhi ah purinjikittanga, antha oor ye Pazhamozhi nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Pazhamozhi ah purinjikita life ye azhagahum.
