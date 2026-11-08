@@ -400,3 +400,6 @@ A: Groovy. - Entertainment: Film
 Auto Quiz - Nature 🧠
 Q: Which team was the 2015-2016 NBA Champions?
 A: Cleveland Cavaliers - Sports
+Auto Quiz - Cat 🧠
+Q: Which of these characters was considered, but ultimately not included, for Super Smash Bros. Melee?
+A: James Bond - Entertainment: Video Games
