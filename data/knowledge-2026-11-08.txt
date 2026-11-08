@@ -1438,3 +1438,6 @@ A: Glock-18 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the Zombies mode of "Call of Duty: Black Ops", what is the "Pack-A-Punched" version of the "Galil" called?
 A: Lamentation - Entertainment: Video Games
+Knowledge Quiz
+Q: In the game Nuclear Throne, what character is only usable in a play through with Melting?
+A: Skeleton - Entertainment: Video Games
