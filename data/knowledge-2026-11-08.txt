@@ -860,3 +860,6 @@ A: Nefarian - Entertainment: Video Games
 Knowledge Quiz
 Q: In the 2014 Pokemon VGC Finals, which Pokemon was famous for bringing the winner to victory?
 A: Pachirisu - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these African countries displays a gun on their flag?
+A: Mozambique - Geography
