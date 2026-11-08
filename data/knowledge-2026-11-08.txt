@@ -1166,3 +1166,6 @@ A: Active Directory - Science: Computers
 Knowledge Quiz
 Q: What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?
 A: Gort - Entertainment: Film
+Knowledge Quiz
+Q: What is the name of the main character in "The Flash" TV series?
+A: Barry Allen - Entertainment: Television
