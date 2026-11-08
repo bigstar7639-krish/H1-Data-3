@@ -1824,3 +1824,6 @@ Q+A Training - Coding
 Question: JavaScript la function enna?
 
 Answer: JS function: `function hi(){ return 'Hi Aira!' }`
+Emotion - Hungry 💜
+Hungry ah? Enna sapda pora?
+hungry - Ithu normal thaan da!
