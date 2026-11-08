@@ -1486,3 +1486,6 @@ A: India - Sports
 Knowledge Quiz
 Q: Which classic book opens with the line "Call me Ishmael"?
 A: Moby Dick - Entertainment: Books
+Knowledge Quiz
+Q: What was the name of the first permanent English settlement in America?
+A: Jamestown - History
