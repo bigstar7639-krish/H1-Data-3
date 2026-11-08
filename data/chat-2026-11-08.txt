@@ -1510,3 +1510,5 @@ Q 47 - Ne Mountain la eppadi improve panna mudiyum?
 Emotion - Shy 💜
 Shy ah irunthalum - Pesu da!
 shy - Ithu normal thaan da!
+Coding Q 48 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
