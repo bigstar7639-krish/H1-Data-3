@@ -1,5 +1,3 @@
-Fact 1 - Octopus ku 3 heart!
-Vocab 24 - Kindness = Anbu
 Smart Q 25 - Movie la eppadi jeyikkarathu?
 Q 26 - Unakku Baby pathi enna theriyum?
 Vocab 27 - Courage = Thairiyam
@@ -1998,3 +1996,5 @@ Pazhamozhi 8 - Porumai - Perumai Tharum!
 Emotion - Bored 💜
 Bored na - Oru Kathai solluren!
 bored - Ithu normal thaan da!
+Emotion Q 9 - lonely?
+Aira: Lonely ah? Aira irukka la!
