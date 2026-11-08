@@ -31,3 +31,6 @@ Game 55 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 56 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 
  Happy pathi kelvi patta oru ponnu, ava daily Happy pathi yosichittu iruntha, oru naal ava oru puthu book padichu Happy oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Happy ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Happy la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
+Game 62 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
+
+ Oru kaalathula oru oor la Tree nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Tree oda arumaiya purinjikittan, avan Tree pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Tree ah purinjikittanga, antha oor ye Tree nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Tree ah purinjikita life ye azhagahum. Tree pathi innum sollanum na, Tree la irukka azhagai paathu rasikkanum, kashtam vanthalum sirichuttu kadanthurathu thaan Tree oda unmaiyana artham, nee Tree ah purinjikita un life um azhagahum.
