@@ -280,3 +280,4 @@ Coding Q 16 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Quote 17 - Daily try pannu - Jeyichiduva! - Aira
 Knowledge 18 - Space - Aira: Space pathi sollu - Itha paathi naan yosichen! Ithu mukkiyamana vishayam - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
+Smart Q 19 - Time la eppadi jeyikkarathu?
