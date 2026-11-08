@@ -836,3 +836,6 @@ Knowledge 100 - Ponniyin Selvan - Hey buddy! 😃
 Knowledge Quiz
 Q: Which logical fallacy means to attack the character of your opponent rather than their arguments?
 A: Ad hominem - General Knowledge
+Knowledge Quiz
+Q: What European country is not a part of the EU?
+A: Norway - Geography
