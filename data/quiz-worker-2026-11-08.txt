@@ -100,3 +100,6 @@ A: 2011 - Entertainment: Music
 Auto Quiz - Cricket 🧠
 Q: Who was the first emperor of Rome?
 A: Augustus  - History
+Auto Quiz - Space 🧠
+Q: What was the first Android version specifically optimized for tablets?
+A: Honeycomb - Science: Computers
