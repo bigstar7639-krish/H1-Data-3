@@ -451,3 +451,6 @@ A: 21 - Entertainment: Board Games
 Knowledge Quiz
 Q: In "JoJo's Bizarre Adventure", which of the following Stands does NOT have a time-based ability?
 A: 20th Century Boy - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Who is the protagonist in Dead Rising (2006)?
+A: Frank West - Entertainment: Video Games
