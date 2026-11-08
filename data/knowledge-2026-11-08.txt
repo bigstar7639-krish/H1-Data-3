@@ -540,3 +540,6 @@ A: 1UZ-FE - Vehicles
 Knowledge Quiz
 Q: What micro-state is considered to have the oldest constitution still in effect?
 A: San Marino - History
+Knowledge Quiz
+Q: According to Algonquian folklore, how does one transform into a Wendigo?
+A: Participating in cannibalism. - Mythology
