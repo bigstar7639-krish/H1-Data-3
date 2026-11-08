@@ -192,3 +192,6 @@ A: Drukqs - Entertainment: Music
 Knowledge Quiz
 Q: What is the official language in Barcelona beside Spanish?
 A: Catalan - General Knowledge
+Knowledge Quiz
+Q: Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?
+A: The Shining - Entertainment: Film
