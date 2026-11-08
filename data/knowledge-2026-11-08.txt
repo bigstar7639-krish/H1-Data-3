@@ -1516,3 +1516,6 @@ A: The Artful Dodger - Entertainment: Books
 Knowledge Quiz
 Q: What did Albert Einstein win the Nobel Prize for in 1921?
 A: Photoelectric Effect - History
+Knowledge Quiz
+Q: In Terraria, which of these items is NOT crafted at a Mythril Anvil?
+A: Ankh Charm - Entertainment: Video Games
