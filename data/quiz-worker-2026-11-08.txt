@@ -1,13 +1,3 @@
-Auto Quiz - River 🧠
-Q: In quantum physics, which of these theorised sub-atomic particles has yet to be observed?
-A: Graviton - Science & Nature
-Auto Quiz - Sky 🧠
-Q: Pamina and Papageno are characters in what Mozart opera?
-A: The Magic Flute - Entertainment: Music
-Auto Quiz - Star 🧠
-Q: What English word means to "think deeply"?
-A: Contemplate - General Knowledge
-Auto Quiz - Love 🧠
 Q: Which German sportswear company's logo is the 'Formstripe'?
 A: Puma - Sports
 Auto Quiz - God 🧠
@@ -1998,3 +1988,13 @@ Q+A Katha - Food 🧠
 Question: How much weight did Chris Pratt lose for his role as Star-Lord in "Guardians of the Galaxy"?
 
 Answer: 60 lbs - Celebrities. Itha kelvi Food pathi - Answer 60 lbs. Food pathi kelvi patta oru ponnu, ava daily Food pathi yosichittu iruntha, oru naal ava oru puthu book padichu Food oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Food ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Food la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Cricket 🧠
+
+Question: Which Disney character sings the song "A Dream is a Wish Your Heart Makes"?
+
+Answer: Cinderella - Entertainment: Music. Itha kelvi Cricket pathi - Answer Cinderella. Oru kaalathula oru oor la Cricket nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Cricket oda arumaiya purinjikittan, avan Cricket pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Cricket ah purinjikittanga, antha oor ye Cricket nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Cricket ah purinjikita life ye azhagahum.
+Q+A Katha - Space 🧠
+
+Question: Who is the main character in One Piece?
+
+Answer: Luffy - Entertainment: Japanese Anime & Manga. Itha kelvi Space pathi - Answer Luffy. Oru kaalathula oru oor la Space nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Space oda arumaiya purinjikittan, avan Space pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Space ah purinjikittanga, antha oor ye Space nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Space ah purinjikita life ye azhagahum.
