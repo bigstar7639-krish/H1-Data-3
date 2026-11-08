@@ -810,3 +810,6 @@ A: Blue - Science & Nature
 Knowledge Quiz
 Q: Which of the following weapons in "Counter-Strike: Global Offensive" does not have a right-click function?
 A: XM1014 - Entertainment: Video Games
+Knowledge Quiz
+Q: In the beta version of the 1986 game "The Legend of Zelda", players have the choice between a sword and what other item?
+A: Boomerang  - Entertainment: Video Games
