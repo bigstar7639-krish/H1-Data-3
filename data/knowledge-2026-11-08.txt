@@ -274,3 +274,6 @@ A: Folklore - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the musical director for the award winning musical "Hamilton"?
 A: Alex Lacamoire - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: Which company has exclusive rights to air episodes of the "The Grand Tour"?
+A: Amazon - Entertainment: Television
