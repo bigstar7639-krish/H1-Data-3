@@ -1243,3 +1243,7 @@ Family - bwb_S0-EDZ-888 - RED PLUSH the story of the moorhouse family
 Family - adolescentsiblin0000vari - Adolescent siblings in stepfamilies: family fanctioning and adolescent adjusments
 Friendship - fromfriendshipto0000roya - From friendship to marriage
 Friendship - bwb_C0-BNV-551 - The Friendship Book of Francis Gay 1985
+Study - bppr-3-1129 - Study design
+Study - bwb_T5-AFU-612_s4z4 - Time And Motion Study- And Formulas For Wage Incentives
+Dream - dreamimaginebeyo0000rand - Dream, Imagine, Be You: A Book about Everything That Makes You Awesome
+Dream - joeyanextraordin0000scot - "Joey" -An Extraordinary Life & A Dream Fulfilled
