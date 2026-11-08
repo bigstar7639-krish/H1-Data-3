@@ -621,3 +621,6 @@ A: Boston - Entertainment: Video Games
 Knowledge Quiz
 Q: The Hyundai Motor Company was founded in which country?
 A: South Korea - General Knowledge
+Knowledge Quiz
+Q: Who is attributed credit for recording the epic poem The Odyssey?
+A: Homer - History
