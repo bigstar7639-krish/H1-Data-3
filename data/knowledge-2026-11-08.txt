@@ -982,3 +982,6 @@ Temporary memory. Oru program open pannumbodhu data RAM‑la load aagum, so CPU 
 
 **5. Operating System (OS)**  
 OS‑la user interface, file management, hardware drivers, security ellam 
+Knowledge Quiz
+Q: Who designed the Chupa Chups logo?
+A: Salvador Dali - Art
