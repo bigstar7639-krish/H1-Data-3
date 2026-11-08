@@ -1,8 +1,3 @@
-| **Dream journal** | Sleep‑a‑poyitu, immediate‑ah notebook‑la or phone‑la dream details write pannunga. | Brain‑a patterns notice pannum, memory improve aagum. |
-| **Reality checks** | Day‑la 3–5 times “Is this a dream?”‑nu thumb‑up, nose‑pinch, or look at a clock, look away, look back. | Dream‑la idhu repeat aagum, brain‑la “I’m dreaming” flag set aagum. |
-| **Mnemonic Induction of Lucid Dreams (MILD)** | Sleep‑a go before 5 am, wake up 5–6 am, stay up 20 min, then **“I will realize I’m dreaming”** repeat while visualising. | Intent set pannitu, REM‑sleep‑la awareness rise aagum. |
-| **Wake‑Back‑to‑Sleep (WBTB)** | 4–6 hours sleep‑a poyitu, 30‑45 min awake aagitu, then back to bed. | REM period longer → lucid chances increase. |
-| **Meditation & mindfulness** | 10 min daily breath‑focus or body‑scan. | Mind‑clarity brain‑a train pa
 Coding Q 49 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Recipe 50 - Snacks - Potato + Masala - Crispy!
@@ -1998,3 +1993,8 @@ Answer: JS function: `function hi(){ return 'Hi Aira!' }`
 Emotion - Motivated 💜
 Full Energy! Ippo thaan time!
 Sollu, motivated ah irukka?
+Q+A Training - Excited
+
+Question: Excited pathi oru secret sollatta?
+
+Answer: Excited ah! Sollu!
