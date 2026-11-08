@@ -923,3 +923,6 @@ A: 244 - Science & Nature
 Knowledge Quiz
 Q: Which cartoon family lives in 742 Evergreen Terrace, Springfield USA?
 A: The Simpsons - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: Ellen McLain, the voice of GLaDOS in the Portal game series, is married to the voice actor for which Team Fortress 2 character?
+A: Sniper - Entertainment: Video Games
