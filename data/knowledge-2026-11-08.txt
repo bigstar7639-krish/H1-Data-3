@@ -738,3 +738,6 @@ A: Chikorita, Cyndaquil, and Totodile - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these is a colony of polyps and not a jellyfish?
 A: Portuguese Man-of-War - Animals
+Knowledge Quiz
+Q: The default playermodel of Garry's Mod is this Half Life 2 character.
+A: Isaac Kleiner - Entertainment: Video Games
