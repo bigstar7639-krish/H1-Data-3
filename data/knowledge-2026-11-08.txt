@@ -143,3 +143,6 @@ A: India - Sports
 Knowledge Quiz
 Q: How long was Ken Jennings' win streak on Jeopardy?
 A: 74 - Entertainment: Television
+Knowledge Quiz
+Q: Who made Garry's Mod?
+A: Garry Newman - Entertainment: Video Games
