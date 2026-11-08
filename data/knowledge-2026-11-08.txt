@@ -1270,3 +1270,6 @@ A: Seahorse - Animals
 Knowledge Quiz
 Q: Which player has scored the most goals in the England Premier League (EPL)?
 A: Alan Shearer - Sports
+Knowledge Quiz
+Q: Artis Leon Ivey Jr. is better known as which rap artist?
+A: Coolio - Entertainment: Music
