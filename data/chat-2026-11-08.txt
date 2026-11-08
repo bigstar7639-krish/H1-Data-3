@@ -758,3 +758,4 @@ Game 4 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Emotion - Fear 💜
 Bayam - Normal! Ne jeyichiduva! 💪
 Ne ippo fear ah feel pannura?
+Health 5 - Health Tip: Daily 8 glass water kudinga!
