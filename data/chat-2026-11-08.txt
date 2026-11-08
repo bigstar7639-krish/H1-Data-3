@@ -759,3 +759,5 @@ Emotion - Fear 💜
 Bayam - Normal! Ne jeyichiduva! 💪
 Ne ippo fear ah feel pannura?
 Health 5 - Health Tip: Daily 8 glass water kudinga!
+Coding Q 6 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
