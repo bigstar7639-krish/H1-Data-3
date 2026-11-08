@@ -1,7 +1,3 @@
-Paravalla! Rest edu - Thirumba try pannu!
-Pazhamozhi 12 - Sontha Kaal la Ninnu - Jeyippa!
-Vocab 13 - Happy = Santhosham
-Aira AI: Aira: Reading pathi oru secret sollatta? - Itha paathi naan yosichen! Unakku puriyura maari solluren - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
 Movie 15 - Leo - Vijay - Action!
 Health 16 - Health Tip: 7 mani neram thoongunga!
 Health 17 - Health Tip: Daily 30 min walk ponga!
@@ -1998,3 +1994,7 @@ Question: JavaScript la function enna?
 Answer: JS function: `function hi(){ return 'Hi Aira!' }`
 
  Oru kaalathula oru oor la New York nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan New York oda arumaiya purinjikittan, avan New York pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam New York ah purinjikittanga, antha oor ye New York nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, New York ah purinjikita life ye azhagahum.
+World Story 34
+Oru chinna madurai la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+
+ Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Bird pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Bird la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Bird oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
