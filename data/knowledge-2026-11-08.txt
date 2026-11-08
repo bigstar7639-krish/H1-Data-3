@@ -116,3 +116,6 @@ A: Nine - Sports
 Knowledge Quiz
 Q: In which state of America was the Fresh Prince of Bel-Air born and raised in?
 A: Pennsylvania - Entertainment: Television
+Knowledge Quiz
+Q: What year did the game "Overwatch" enter closed beta?
+A: 2015 - Entertainment: Video Games
