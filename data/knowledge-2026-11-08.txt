@@ -235,3 +235,6 @@ Knowledge 13 - Chemistry - Hey buddy! Chemistry‑na **matter‑oda magic**�
 Knowledge Quiz
 Q: Who sang the theme song for the TV show 'Rawhide'?
 A: Frankie Laine - Entertainment: Television
+Knowledge Quiz
+Q: The Andrew Lloyd Webber musical "Cats" is based off a book of poems written by which author?
+A: T.S. Elliot - Entertainment: Musicals & Theatres
