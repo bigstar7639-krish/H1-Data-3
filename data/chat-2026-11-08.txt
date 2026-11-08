@@ -1196,3 +1196,5 @@ Q 105 - Music pathi oru story kekkura?
 Emotion - Sad 💜
 Paravalla! Aira irukka - Pesu! 💜
 sad - Ithu normal thaan da!
+Coding Q 106 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
