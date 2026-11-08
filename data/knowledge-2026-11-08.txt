@@ -851,3 +851,6 @@ A: Esteem - Science & Nature
 Knowledge Quiz
 Q: What's the square root of 49?
 A: 7 - Science: Mathematics
+Knowledge Quiz
+Q: In "ALF", what was ALF's real name?
+A: Gordon Shumway - Entertainment: Film
