@@ -866,3 +866,6 @@ A: Mozambique - Geography
 Knowledge Quiz
 Q: Who wrote the 1967 horror novel "Rosemary's Baby"?
 A: Ira Levin - Entertainment: Books
+Knowledge Quiz
+Q: How many voice channels does the Super Nintendo Entertainment System support?
+A: 8 - Entertainment: Video Games
