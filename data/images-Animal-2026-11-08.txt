@@ -74,3 +74,7 @@ Animal - Wikimedia - https://commons.wikimedia.org/wiki/File:Deer_in_Windsor_For
 Animal - Unsplash - https://source.unsplash.com/800x600/?monkey%20cute
 Animal - Openverse - https://www.flickr.com/photos/16935369@N06/3780385613
 Animal - Openverse - https://www.flickr.com/photos/29056926@N02/6603189345
+Animal - Openverse - https://www.flickr.com/photos/91952637@N02/11585776306
+Animal - Openverse - https://www.flickr.com/photos/76338186@N03/16408647203
+Animal - Openverse - https://www.flickr.com/photos/77935962@N00/8916714578
+Animal - Openverse - https://www.flickr.com/photos/32135758@N02/5426336798
