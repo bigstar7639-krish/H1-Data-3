@@ -534,3 +534,6 @@ A: France - Entertainment: Musicals & Theatres
 Knowledge Quiz
 Q: Which team was the 2015-2016 NBA Champions?
 A: Cleveland Cavaliers - Sports
+Knowledge Quiz
+Q: What engine is in the Lexus SC400?
+A: 1UZ-FE - Vehicles
