@@ -1203,3 +1203,6 @@ A: Quake Engine - Entertainment: Video Games
 Knowledge Quiz
 Q: Which Formula 1 driver switched teams in the middle of the 2017 season?
 A: Carlos Sainz Jr. - Sports
+Knowledge Quiz
+Q: In "Donkey Kong Country", why does Donkey Kong want to know the secret of the crystal coconut?
+A: He's the big kahuna. - Entertainment: Television
