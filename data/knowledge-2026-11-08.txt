@@ -289,3 +289,6 @@ A: Lothar Matthäus - Sports
 Knowledge Quiz
 Q: When was the play "Macbeth" written?
 A: 1606 - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: What is Gabe Newell's favorite class in Team Fortress 2?
+A: Spy - Entertainment: Video Games
