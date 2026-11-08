@@ -292,3 +292,5 @@ Knowledge 25 - Earth - Aira: Earth pathi sollu - Itha paathi naan yosichen! Unak
 Kavithai 26 - Un Sirippu - En Vazhkai! - Aira
 Joke 27
 Teacher: Yen late? Student: School Ahead board!
+Emotion Q 28 - angry?
+Aira: Kovam ah? Deep breath edu!
