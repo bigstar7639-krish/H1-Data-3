@@ -1,13 +1,3 @@
-Auto Quiz - Bird 🧠
-Q: Which variant of the MP5 is depicted in Counter-Strike 1.6?
-A: MP5N - Entertainment: Video Games
-Auto Quiz - Animal 🧠
-Q: What is not a default game mode in Counter-Strike (2000)?
-A: Arms Race - Entertainment: Video Games
-Auto Quiz - Baby 🧠
-Q: What is the romanized Russian word for "winter"?
-A: Zima - General Knowledge
-Auto Quiz - Teacher 🧠
 Q: In "Call Of Duty: Zombies", which map features the "Fly Trap" easter egg?
 A: Der Riese - Entertainment: Video Games
 Auto Quiz - Student 🧠
@@ -1998,3 +1988,13 @@ Q+A Katha - Desert 🧠
 Question: Who wrote the children's story "The Little Match Girl"?
 
 Answer: Hans Christian Andersen - Entertainment: Books. Itha kelvi Desert pathi - Answer Hans Christian Andersen. Desert pathi kelvi patta oru ponnu, ava daily Desert pathi yosichittu iruntha, oru naal ava oru puthu book padichu Desert oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Desert ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Desert la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Snow 🧠
+
+Question: Which Greek sculptor designed the Athena Parthenos statue inside the Parthenon?
+
+Answer: Phidias - Art. Itha kelvi Snow pathi - Answer Phidias. Snow pathi kelvi patta oru ponnu, ava daily Snow pathi yosichittu iruntha, oru naal ava oru puthu book padichu Snow oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Snow ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Snow la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Fire 🧠
+
+Question: What number does the Roman numeral "D" stand for?
+
+Answer: 500 - History. Itha kelvi Fire pathi - Answer 500. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Fire pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Fire la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Fire oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
