@@ -1,13 +1,3 @@
-A: Miranda Wright - Entertainment: Cartoon & Animations
-Auto Quiz - Cat 🧠
-Q: What is the capital of the American state of Arizona?
-A: Phoenix - Geography
-Auto Quiz - Dog 🧠
-Q: Which Elite Four member from the first generation of Pokémon became the champion in the next generation?
-A: Lance - Entertainment: Video Games
-Auto Quiz - Food 🧠
-Q: How many timezones does Russia have?
-A: 11 - Geography
 Auto Quiz - Cricket 🧠
 Q: The character Plum from "No Game No Life" is of what race?
 A: Dhampir - Entertainment: Japanese Anime & Manga
@@ -1998,3 +1988,13 @@ Q+A Katha - Cake 🧠
 Question: Where are the Nazca Lines located?
 
 Answer: Peru - Geography. Itha kelvi Cake pathi - Answer Peru. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Cake pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Cake la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Cake oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Pizza 🧠
+
+Question: How many obsidian blocks are required to build a nether portal in Minecraft?
+
+Answer: 10 - Entertainment: Video Games. Itha kelvi Pizza pathi - Answer 10. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Pizza pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Pizza la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Pizza oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Burger 🧠
+
+Question: In the 1995 film "Balto", who are Steele's accomplices?
+
+Answer: Kaltag, Nikki, and Star - Entertainment: Film. Itha kelvi Burger pathi - Answer Kaltag, Nikki, and Star. Burger pathi kelvi patta oru ponnu, ava daily Burger pathi yosichittu iruntha, oru naal ava oru puthu book padichu Burger oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Burger ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Burger la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
