@@ -1,10 +1,3 @@
-Oru chennai la oru artist irunthan! Daily padichan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
-Q 58 - Un life la Moon eppadi irukku?
-Story 59
-Oru madurai la oru raja irunthan! Daily travel pannan pannan! Oru naal book kedaichuchu! Life maariduchu!
-World Story 60
-Oru delhi la oru doctor irunthan! Daily help pannan pannan! Oru naal dream kedaichuchu! Life maariduchu!
-Talk 61 - Bhagavad Gita pathi pesalama? Sollu!
 Q 62 - Ne Chemistry la eppadi improve panna mudiyum?
 Movie 63 - Harry Potter - Magic!
 Thirukkural 64 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
@@ -1998,3 +1991,10 @@ Emotion Katha - Excited ❤
 Emotion - Excited 💜
 Super Excited! Sollu Sollu!
 Sollu, excited ah irukka? excited pathi kelvi patta oru ponnu, ava daily excited pathi yosichittu iruntha, oru naal ava oru puthu book padichu excited oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama excited ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava excited la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
+Q+A Training - Coding
+
+Question: App eppadi pannurathu?
+
+Answer: App - Idea - Design - Code!
+
+ Thirukkural pathi kelvi patta oru ponnu, ava daily Thirukkural pathi yosichittu iruntha, oru naal ava oru puthu book padichu Thirukkural oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Thirukkural ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Thirukkural la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam, vittu kudutha illana jeyichidalam.
