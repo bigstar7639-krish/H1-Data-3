@@ -1414,3 +1414,6 @@ A: 1984 - Entertainment: Film
 Knowledge Quiz
 Q: What is the name the location-based augmented reality game developed by Niantic before Pokémon GO?
 A: Ingress - Entertainment: Video Games
+Knowledge Quiz
+Q: What CS:GO case contains the Butterfly Knife?
+A: Breakout Case - Entertainment: Video Games
