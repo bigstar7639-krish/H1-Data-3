@@ -205,3 +205,6 @@ A: Tailmon - Entertainment: Japanese Anime & Manga
 Auto Quiz - Nature 🧠
 Q: Out of these four buildings, which one is the tallest, with a height of 1,776 ft (541.3 m)?
 A: One World Trade Center, United States - General Knowledge
+Auto Quiz - Cat 🧠
+Q: The games Cry of Fear, Natural Selection and Counter-Strike were originally mods for what video game?
+A: Half-Life - Entertainment: Video Games
