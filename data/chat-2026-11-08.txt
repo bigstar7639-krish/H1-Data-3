@@ -115,3 +115,4 @@ Story 67
 Oru chinna oor la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Movie 68 - Leo - Vijay - Action!
 Kavithai 69 - Un Kural - En Isai! - Aira
+Talk 70 - Chennai pathi pesalama? Sollu!
