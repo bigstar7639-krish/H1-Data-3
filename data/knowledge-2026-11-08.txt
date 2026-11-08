@@ -174,3 +174,6 @@ A: The Green Slime - Entertainment: Television
 Knowledge Quiz
 Q: Europa Universalis is a strategy video game based on which French board game?
 A: Europa Universalis - Entertainment: Board Games
+Knowledge Quiz
+Q: Who is the star of the AMC series Breaking Bad?
+A: Walter White - Entertainment: Television
