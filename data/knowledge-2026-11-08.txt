@@ -1129,3 +1129,6 @@ A: Norway - Geography
 Knowledge Quiz
 Q: What is the name of the poker hand containing three of a kind and a pair?
 A: Full House - General Knowledge
+Knowledge Quiz
+Q: What type of sound chip does the Super Nintendo Entertainment System (SNES) have?
+A: ADPCM Sampler - Science: Computers
