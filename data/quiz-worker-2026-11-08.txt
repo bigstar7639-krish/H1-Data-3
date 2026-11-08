@@ -109,3 +109,6 @@ A: Dakar - Geography
 Auto Quiz - Health 🧠
 Q: Which city is the seat of government of the Netherlands?
 A: The Hague - Politics
+Auto Quiz - Movie 🧠
+Q: Which of the following is the term for "surgical complications resulting from surgical sponges left inside the patient's body?
+A: Gossypiboma - Science & Nature
