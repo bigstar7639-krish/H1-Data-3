@@ -1528,3 +1528,6 @@ Fact 2 - Tamil - 2000+ varusha mozhi!
 Emotion - Hungry 💜
 Pasila irukka? Water kudi, konjam sapdu!
 Health 54 - Health Tip: Daily 30 min walk ponga!
+Emotion - Tired 💜
+Rompa tired ah? Water kudi, rest edu!
+Sollu, tired ah irukka?
