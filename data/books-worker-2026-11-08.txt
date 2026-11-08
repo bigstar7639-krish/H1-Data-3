@@ -1718,3 +1718,9 @@ Horse - On a pale horse
 Train - The Mystery of the Blue Train
 Train - The Girl on the Train
 Train - Train to Pakistan
+Bike - Franklin Rides a Bike (Franklin)
+Bike - Duck on a Bike
+Bike - The bike ride
+Car - The Boxcar Children
+Car - How cars work
+Car - The Car
