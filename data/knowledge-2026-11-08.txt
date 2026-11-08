@@ -1218,3 +1218,6 @@ A: Eiichiro Oda - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What year is on the flag of the US state Wisconsin?
 A: 1848 - Geography
+Knowledge Quiz
+Q: Which Pokemon generation did the fan-named "Masuda Method" first appear in? 
+A: Diamond/Pearl - Entertainment: Video Games
