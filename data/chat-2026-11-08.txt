@@ -1,10 +1,3 @@
-- **Balanced diet**: ப்ரோட்டீன் (dal, chicken, fish), carbs (brown rice, whole wheat roti), veggies (அறவம், பசலை), fruits (ஆப்பிள், பப்பாளி) எல்லாம் சேர்த்துக் கொள்.
-- **Hydration**: 하루에 2‑3 லிட்டர் நீர் குடி. Coffee/tea அதிகமாக இல்லாமல், sugar‑less பண்ணு.
-
-**2. உடற்பயிற்சி (Exercise)**
-- **30 mins** brisk walk, jogging, or dancing daily. 
-- **Strength training**: 2‑3 times a week (push‑ups, squats, dumbbell). 
-- **Stretching**: காலை, மாலை 5‑10 mins yoga or simple stretches.
 
 **3. நித்திரை (Sleep)**
 - **7‑8 hours** quality sleep. Phone/TV ஒளி மங்கிய பின்னர், மெதுவாக lights off பண்ணு. 
@@ -1998,3 +1991,10 @@ Emotion Katha - Happy ❤
 Emotion - Happy 💜
 Super! Happy ah irukka! 💜
 Sollu, happy ah irukka? Oru naal oru chinna oor la oru paiyan irunthan, avan manasula happy pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan happy la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan happy oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Training - Coding
+
+Question: React la component enna?
+
+Answer: React component - Chinna piece!
+
+ Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Movie pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Movie la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Movie oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
