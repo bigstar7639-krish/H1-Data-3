@@ -657,3 +657,6 @@ A: Kobicha - Art
 Knowledge Quiz
 Q: What mutated animals act as monsters in the movie 'Night of the Lepus'?
 A: Rabbits - Entertainment: Film
+Knowledge Quiz
+Q: Which of the following computer components can be built using only NAND gates?
+A: ALU - Science: Computers
