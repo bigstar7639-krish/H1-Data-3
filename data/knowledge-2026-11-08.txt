@@ -445,3 +445,6 @@ A: Phoenix - Geography
 Knowledge Quiz
 Q: On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?
 A: Europe and Africa - Geography
+Knowledge Quiz
+Q: How many dots are on a single die?
+A: 21 - Entertainment: Board Games
