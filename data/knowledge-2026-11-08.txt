@@ -362,3 +362,6 @@ A: Clefairy - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the main character of the anime "One-Punch Man"?
 A: Saitama - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: What did the abbreviation "RMS" stand for in the RMS Titanic in 1912?
+A: Royal Mail Ship - History
