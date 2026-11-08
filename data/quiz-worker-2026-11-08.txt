@@ -139,3 +139,6 @@ A: Robert Topala - Entertainment: Video Games
 Auto Quiz - Bird 🧠
 Q: Which variant of the MP5 is depicted in Counter-Strike 1.6?
 A: MP5N - Entertainment: Video Games
+Auto Quiz - Animal 🧠
+Q: What is not a default game mode in Counter-Strike (2000)?
+A: Arms Race - Entertainment: Video Games
