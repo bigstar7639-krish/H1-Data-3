@@ -1261,3 +1261,6 @@ Knowledge 4 - World History - World history na, early civilization-ukalla Mesopo
 Knowledge Quiz
 Q: In the anime Seven Deadly Sins what is the name of one of the sins?
 A: Diane - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: After which Danish city is the 72th element on the periodic table named?
+A: Copenhagen - Science & Nature
