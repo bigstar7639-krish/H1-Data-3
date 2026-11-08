@@ -383,3 +383,4 @@ Knowledge 35 - Python - Hey buddy! 🙌
 - **Game Development** – Pygame use panni
 Knowledge 36 - Internet - Aira: Internet pathi sollu - Itha paathi naan yosichen! Ithu mukkiyamana vishayam - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
 Vocab 37 - Friend = Nanban
+Vocab 38 - Courage = Thairiyam
