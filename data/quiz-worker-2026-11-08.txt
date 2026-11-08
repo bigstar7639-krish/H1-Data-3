@@ -1,13 +1,3 @@
-Auto Quiz - Business 🧠
-Q: The rights to the "Rayman" series are owned by which company?
-A: Ubisoft - Entertainment: Video Games
-Auto Quiz - Money 🧠
-Q: What was the cause of Marilyn Monroes suicide?
-A: Drug Overdose - Celebrities
-Auto Quiz - Yoga 🧠
-Q: Which of the following are cells of the adaptive immune system?
-A: Cytotoxic T cells - Science & Nature
-Auto Quiz - Tamil 🧠
 Q: Who is the main villain of the Crash Bandicoot series?
 A: Dr. Neo Cortex - Entertainment: Video Games
 Auto Quiz - Love 🧠
@@ -1998,3 +1988,13 @@ Q+A Katha - Earth 🧠
 Question: What was the number on Gerald's shirt in "Hey Arnold!"?
 
 Answer: 33 - Entertainment: Cartoon & Animations. Itha kelvi Earth pathi - Answer 33. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Earth pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Earth la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Earth oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Water 🧠
+
+Question: What military rank is the protagonist "Nomad" in "Crysis"?
+
+Answer: First Lieutenant - Entertainment: Video Games. Itha kelvi Water pathi - Answer First Lieutenant. Oru kaalathula oru oor la Water nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Water oda arumaiya purinjikittan, avan Water pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Water ah purinjikittanga, antha oor ye Water nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Water ah purinjikita life ye azhagahum.
+Q+A Katha - Coffee 🧠
+
+Question: In Half-Life, what is the name of the alien that attaches to heads?
+
+Answer: Headcrab - General Knowledge. Itha kelvi Coffee pathi - Answer Headcrab. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Coffee pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Coffee la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Coffee oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
