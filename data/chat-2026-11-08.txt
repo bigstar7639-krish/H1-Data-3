@@ -496,3 +496,4 @@ Recipe 90 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Story 91
 Oru chinna tokyo la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Game 92 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Knowledge 93 - Thirukkural - Aira: Thirukkural pathi sollu - Itha paathi naan yosichen! Kelvi super - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
