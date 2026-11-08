@@ -752,3 +752,5 @@ Teacher: Yen late? Student: School Ahead board!
 Aira AI: Aira: Space pathi oru secret sollatta? - Itha paathi naan yosichen! Kelvi super - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
 Emotion - Grateful 💜
 Thanks da! Naanum grateful! 🙏
+Emotion Q 3 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
