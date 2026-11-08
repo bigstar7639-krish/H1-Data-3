@@ -265,3 +265,6 @@ A: Halo: Combat Evolved - Entertainment: Video Games
 Knowledge Quiz
 Q: Which language is most widely spoken in Switzerland?
 A: German - General Knowledge
+Knowledge Quiz
+Q: When was Final Fantasy XV released?
+A: November 29th, 2016 - Entertainment: Video Games
