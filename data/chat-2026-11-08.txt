@@ -405,3 +405,4 @@ Movie 53 - Leo - Vijay - Action!
 Recipe 54 - Snacks - Potato + Masala - Crispy!
 Reading 55 - Bharathiyar Kavithaigal!
 Recipe 56 - Cake - Maida + Sugar + Egg + 30 min!
+Smart Q 57 - Power la eppadi jeyikkarathu?
