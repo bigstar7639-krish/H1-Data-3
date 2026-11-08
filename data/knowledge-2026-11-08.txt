@@ -69,3 +69,6 @@ A: 1998 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following guitarists recorded an album as a member of the Red Hot Chili Peppers?
 A: Dave Navarro - Entertainment: Music
+Knowledge Quiz
+Q: What is the first Mersenne prime exponent over 1000?
+A: 1279 - Science: Mathematics
