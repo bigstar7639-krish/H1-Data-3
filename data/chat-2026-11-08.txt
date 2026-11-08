@@ -1,8 +1,3 @@
-Teacher: Yen late? Student: School Ahead board!
-Aira AI: Aira: Ne Family la eppadi improve panna mudiyum? - Itha paathi naan yosichen! Unakku puriyura maari solluren - Ne konjam detail ah ketta, naan full ah explain pannuren! Ne enna paathi kekkura nu sollu - Example: History ah? Science ah? Love ah? 💜
-Business Idea 122 - Tuition - Veetla Tuition!
-Emotion Q 123 - love?
-Aira: Kadhal - Azhagu!
 Q 124 - Cat pathi oru story kekkura?
 World Story 1
 Oru chinna tokyo la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
@@ -1998,3 +1993,8 @@ Sollu, missing ah irukka? missing pathi kelvi patta oru ponnu, ava daily missing
 Knowledge 14 - Space - Space na enna nu think pannina, adhu namma kadavuloda oru massive, infinite canvas madhiri irukku—planet, star, galaxy, nebula ellam serndhu oru beautiful chaos-a create pannuthu; indha cosmos la Earth pol oru chinna planet-um, Sun madhri massive star-um, Milky Way madhri spiral galaxy-um, ellam gravity, dark matter, dark energy la control aaguthu, appo NASA, ESA, SpaceX maathiri agencies rockets, satellites, rovers, telescopes use panni unmaiyaana data collect pannitu, black holes la light even escape panathu, supernovas la star-kal explode aitu, elements create aaguthu, and the universe keep expanding faster than we can imagine; adhaala space la microgravity la astronaut-ukala floating experience, ISS la life, aurora, meteors, comets, asteroids ellam namma imagination-a spark panrathu, athaala scientific discoveries, technology innovations, even our philosophical questions about existence, purpose, and destiny ellam space la irundhu start aaguthu—so, space-nu solraanga na, it's a never-ending adventure, full of mysteries, wonders, and endless possibilities!
 
  Oru kaalathula oru oor la Tech nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Tech oda arumaiya purinjikittan, avan Tech pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Tech ah purinjikittanga, antha oor ye Tech nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Tech ah purinjikita life ye azhagahum. Tech pathi innum sollanum na, Tech la irukka azhagai paathu rasikkanum, kashtam vanthalum sirichuttu kadanthurathu thaan Tech oda unmaiyana artham, nee Tech ah purinjikita un life um azhagahum.
+Emotion Katha - Motivated ❤
+
+Emotion - Motivated 💜
+Motivation Super! Pannidu da!
+Sollu, motivated ah irukka? Oru kaalathula oru oor la motivated nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan motivated oda arumaiya purinjikittan, avan motivated pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam motivated ah purinjikittanga, antha oor ye motivated nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, motivated ah purinjikita life ye azhagahum.
