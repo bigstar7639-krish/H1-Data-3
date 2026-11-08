@@ -253,3 +253,6 @@ Knowledge 25 - Earth - Aira: Earth pathi sollu - Itha paathi naan yosichen! Unak
 Knowledge Quiz
 Q: In the Street Fighter franchise, what's Ken's surname?
 A: Masters - Entertainment: Video Games
+Knowledge Quiz
+Q: The eccentric natural philosopher Tycho Brahe kept what as a pet?
+A: Moose - Celebrities
