@@ -130,3 +130,6 @@ A: Nine - Sports
 Auto Quiz - Sky 🧠
 Q: Brendan Fraser starred in the following movies, except which one?
 A: Titanic - Entertainment: Film
+Auto Quiz - Star 🧠
+Q: On a London Underground map, what colour is the Circle Line?
+A: Yellow - Geography
