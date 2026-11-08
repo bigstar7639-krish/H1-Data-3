@@ -238,3 +238,6 @@ A: Hironobu Sakaguchi - Entertainment: Video Games
 Auto Quiz - Story 🧠
 Q: Which Greek god was the god of the Sun?
 A: Helios - History
+Auto Quiz - Health 🧠
+Q: Which artist curated the official soundtrack for "The Hunger Games: Mockingjay - Part 1"?
+A: Lorde - Entertainment: Music
