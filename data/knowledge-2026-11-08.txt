@@ -1339,3 +1339,6 @@ A: Mocha Latte - Entertainment: Board Games
 Knowledge Quiz
 Q: In the book & video game Metro 2033, which Moscow Metro station is the main character Artyom's home station?
 A: VDNKh - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of the largest planet in Kerbal Space Program?
+A: Jool - Entertainment: Video Games
