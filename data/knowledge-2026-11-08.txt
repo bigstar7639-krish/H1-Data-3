@@ -1157,3 +1157,6 @@ A: New York - Celebrities
 Knowledge Quiz
 Q: The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:
 A: 0.1m - Vehicles
+Knowledge Quiz
+Q: What is the common name of the chemical compound "dihydrogen monoxide"?
+A: Water - Science & Nature
