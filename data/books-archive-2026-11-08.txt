@@ -455,3 +455,5 @@ Football - FootballMatchesAvailableWithEMU14032018ByKhanSat.com - Football Match
 Football - com.davincistudio.footballfreekick - Football Free Kick
 Science - bwb_Y0-BTC-960 - Famous Men of Science
 Science - balzaclesmedecin0000doct - Balzac Les Medecins , La Medecine et la Science
+History - bwb_S0-CWF-509 - A HISTORY OF HISTORICAL WRITING
+History - bwb_KV-352-464 - a history of the english baptists
