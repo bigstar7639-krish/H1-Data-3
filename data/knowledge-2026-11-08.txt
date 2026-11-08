@@ -1135,3 +1135,6 @@ A: ADPCM Sampler - Science: Computers
 Knowledge Quiz
 Q: In "Magic: The Gathering", what instant card has the highest converted mana cost?
 A: Blinkmoth Infusion - Entertainment: Board Games
+Knowledge Quiz
+Q: Who plays the Nemesis in the Resident Evil movies?
+A: Matthew Taylor - Entertainment: Film
