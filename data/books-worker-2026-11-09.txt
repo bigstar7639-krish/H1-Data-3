@@ -1,9 +1,3 @@
-Paris - Down and Out in Paris and London
-Paris - Notre Dame de Paris
-Paris - Behind Closed Doors
-Tokyo - 東京喰種 1
-Tokyo - Norwegian Wood
-Tokyo - Tokyo Ever After
 Cake - A Piece of Cake
 Cake - Black Cake
 Cake - Cherry the Cake Fairy
@@ -1998,3 +1992,9 @@ Writing - On Writing Well
 Poetry - A Poetry Handbook
 Poetry - Halloween Howls
 Poetry - Poetics
+Singing - Where the Crawdads Sing
+Singing - I Know Why the Caged Bird Sings
+Singing - Sing, Unburied, Sing
+Dancing - ダンス・ダンス・ダンス
+Dancing - Dance Upon the Air
+Dancing - Dance of the Snake
