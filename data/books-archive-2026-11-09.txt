@@ -1631,3 +1631,7 @@ Winter - winterterm0000john - Winter Term
 Winter - bwb_S0-EGL-729 - THE WINTER IN AMERICA
 Monsoon - longrangeforecas1094556833 - Long-range forecasting of the onset of southwest monsoon winds and waves near the Horn of Africa
 Monsoon - eastmonsoon0000gepc_x3g2 - East Monsoon
+Morning - bwb_S0-BAN-560 - Trumpets in the Morning
+Morning - bwb_KV-424-598 - A BREEZE OF MORNING
+Night - nightlifeofgods0000thor_i4v4 - The Night Life of the Gods
+Night - bwb_KU-716-199 - All on a Summer's Night
