@@ -885,3 +885,7 @@ Moon - isbn_9781424109401 - Watercolour Essences of Moon
 Moon - frommuletomoon0000jfra - from the mule to the moon
 Sun - bwb_Y0-EAO-914 - THe Sun Also RIses
 Sun - bwb_T5-DGH-052 - The Sun and Its Influence
+Bird - wishingbirdco0000jone - Wishing Bird & Co.
+Bird - wildbirdneighbor0000alvi - Wild bird neighbors
+Animal - bwb_Y0-DRW-648 - The Animal Stroy Book
+Animal - bwb_W9-CFY-464 - Animal Behavior
