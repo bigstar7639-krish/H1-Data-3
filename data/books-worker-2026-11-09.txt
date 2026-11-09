@@ -1,12 +1,3 @@
-Teacher - An Expert Teacher
-Teacher - My Teacher Is an Alien
-Teacher - Lies My Teacher Told Me
-Student - The students' companion
-Student - Summarized and Analyzed
-Student - Fundamentals Of Electricity And Magnetism
-Business - Business adventures
-Business - The Very Busy Spider
-Business - The Phoenix Project
 Money - The art of money getting, or, Golden rules for money getting
 Money - One for the Money
 Money - Making Money
@@ -1998,3 +1989,12 @@ Flower - the sun and her flowers
 Sea - Wide Sargasso Sea
 Sea - The Old Man and the Sea
 Sea - Vingt mille lieues sous les mers
+Mountain - My side of the mountain
+Mountain - At the Mountains of Madness
+Mountain - Go Tell It on the Mountain
+River - The River
+River - River god
+River - Mystic river
+Sky - Pebble in the Sky
+Sky - A Deepness in the Sky (Zones of Thought)
+Sky - A Hat Full of Sky
