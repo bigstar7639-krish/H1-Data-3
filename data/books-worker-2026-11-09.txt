@@ -1,9 +1,3 @@
-Village - The Vile Village
-Village - Village school
-Village - The village by the sea
-City - A Tale of Two Cities
-City - City of Bones
-City - The City & The City
 Chennai - Madras, Chennai
 Chennai - Share Market Classes in Chennai
 Chennai - Madras-Chennai, its history and environment
@@ -1998,3 +1992,9 @@ Computer - Advances in Computers, Volume 49 (Advances in Computers)
 Book - The Book Thief
 Book - The Book of Dragons
 Book - The Foot Book
+Kavithai - Dina kavithai
+Kavithai - Kavithai Kathambam
+Kavithai - Dina kavithai
+Thirukkural - Tirukkur̲aḷ
+Thirukkural - Readings from Thirukkural
+Thirukkural - The wisdom of Thirukkural
