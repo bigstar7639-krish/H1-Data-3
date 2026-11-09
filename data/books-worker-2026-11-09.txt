@@ -1,10 +1,3 @@
-Paris - Notre Dame de Paris
-Paris - Behind Closed Doors
-Tokyo - 東京喰種 1
-Tokyo - Norwegian Wood
-Tokyo - Tokyo Ever After
-New York - The New York Trilogy
-New York - Smile
 New York - Severance
 Taj Mahal - Taj Mahal
 Taj Mahal - Taj Mahal
@@ -1998,3 +1991,10 @@ Book - The Foot Book
 Kavithai - Dina kavithai
 Kavithai - Kavithai Kathambam
 Kavithai - Dina kavithai
+Thirukkural - Tirukkur̲aḷ
+Thirukkural - Readings from Thirukkural
+Thirukkural - The wisdom of Thirukkural
+Pazhamozhi - Pazhamozhi Nanooru
+Pazhamozhi - Pazhamozhi Naanooru
+Pazhamozhi - Pazhamozhi Naanuru
+Joke - Batman
