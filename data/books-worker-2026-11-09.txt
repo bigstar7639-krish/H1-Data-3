@@ -1,6 +1,3 @@
-Music - Soul Music
-Music - Blood Music
-Music - Night Music
 Movie - Better Than the Movies
 Movie - The wimpy kid movie diary
 Movie - How to Write a Movie in 21 Days
@@ -1998,3 +1995,6 @@ Sleep - Sleeping Murder
 Beauty - Black Beauty
 Beauty - The Beautiful and Damned
 Beauty - Beauty
+Fashion - An Old-Fashioned Girl
+Fashion - Patternmaking for fashion design
+Fashion - An Old-Fashioned Girl
