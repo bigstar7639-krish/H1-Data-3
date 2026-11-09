@@ -1111,3 +1111,9 @@ Flower - bwb_Y0-AAD-155 - A New World of Flower Arrangement
 Flower - flowernet0000seel_b4z2 - The flower net
 Sea - bwb_S0-CBX-141 - Fortune in the North Sea
 Sea - bwb_S0-CCA-529 - The alcarve the land,the sea and its people
+Future - bwb_W9-BBK-047 - the future of the research library
+Future - futureforfreechu0000chri_z0s5 - A Future for free Churches
+Freedom - freedombureaucra0000unse - Freedom, Bureaucracy, & Schooling
+Freedom - letfreedomring0000camp - let freedom ring
+Hope - chidrentheirtrai0000vari - chidren : their training and their hope
+Hope - losseschangesfin0000rand - Losses and Changes: Finding Hope in Life's Difficult Times
