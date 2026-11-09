@@ -1,6 +1,3 @@
-Chinese Temple - Chinese temple architecture in Singapore
-Chinese Temple - Chinese temples in Singapore
-Chinese Temple - Chinese temples in California
 Shanghai - Shanghai girls
 Shanghai - Life and death in Shanghai
 Shanghai - 上海寶貝
@@ -1998,3 +1995,6 @@ Bike - The bike ride
 Car - The Boxcar Children
 Car - How cars work
 Car - The Car
+Train - The Mystery of the Blue Train
+Train - The Girl on the Train
+Train - Train to Pakistan
