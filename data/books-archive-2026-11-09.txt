@@ -1385,3 +1385,7 @@ Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
 Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945
 Phone - isometric-gradient-3d-mobile-phone-background - isometric-gradient-3d-mobile-phone-background
 Phone - PhoneDoctor_20170313 - Phone Doctor
+Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
+Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
+Book - bwb_T3-BRL-524 - A Study of the Book of Acts
+Book - bwb_S0-BWV-057 - Fish and Game Cook Book
