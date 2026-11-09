@@ -1,9 +1,3 @@
-Burger - Burger's daughter
-Burger - Burger boy
-Burger - The 5 elements of effective thinking
-Chocolate - Charlie and the Chocolate Factory
-Chocolate - Como agua para chocolate
-Chocolate - Una cascata di cioccolato
 Fruit - Forbidden Fruit
 Fruit - Oranges Are Not the Only Fruit
 Fruit - Silver Fruit upon Silver Trees
@@ -1998,3 +1992,9 @@ Tamil - Tamil̲ viyācaṅkaḷ
 Love - Twisted Love
 Love - The Spanish Love Deception
 Love - The Love Hypothesis
+God - American Gods
+God - The Great God Pan
+God - The God Delusion
+Nature - The Laws of Human Nature
+Nature - The natural
+Nature - The Wealth of Nations
