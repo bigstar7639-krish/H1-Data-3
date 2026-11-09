@@ -38,3 +38,5 @@ Cat - Openverse - https://www.flickr.com/photos/93587218@N00/1269252660
 Cat - Openverse - https://www.flickr.com/photos/8070463@N03/15971449167
 Cat - Openverse - https://www.flickr.com/photos/92476579@N00/4313954972
 Cat - Unsplash - https://source.unsplash.com/800x600/?cat%20with%20flower
+Cat - Wikimedia - https://commons.wikimedia.org/wiki/File:It_means_a_cute_cat_to_play_with_2014-05-14_20-17.jpg
+Cat - Wikimedia - https://commons.wikimedia.org/wiki/File:Cute_white_cat.jpg
