@@ -661,3 +661,5 @@ Star - bwb_W9-DGH-853 - Morning Star
 Star - bwb_S0-BKM-870 - Lone Star General Hiram Bronson Granbury
 Moon - isbn_9781424109401 - Watercolour Essences of Moon
 Moon - jubasnewmoon0000isab - Jubas New Moon
+Sun - sunwithinus0000jame - The sun within us
+Sun - bwb_Y0-EAO-914 - THe Sun Also RIses
