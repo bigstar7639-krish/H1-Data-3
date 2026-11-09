@@ -1,13 +1,3 @@
-Q+A Katha - Meditation 🧠
-
-Question: Which band released songs such as "Electric Feel", "Kids", and "Time to Pretend"?
-
-Answer: MGMT - Entertainment: Music. Itha kelvi Meditation pathi - Answer MGMT. Oru kaalathula oru oor la Meditation nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Meditation oda arumaiya purinjikittan, avan Meditation pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Meditation ah purinjikittanga, antha oor ye Meditation nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Meditation ah purinjikita life ye azhagahum.
-Q+A Katha - Fitness 🧠
-
-Question: In which country is Tallinn located?
-
-Answer: Estonia - Geography. Itha kelvi Fitness pathi - Answer Estonia. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Fitness pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Fitness la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Fitness oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
 Q+A Katha - Diet 🧠
 
 Question: How many times do you fight Gilgamesh in "Final Fantasy 5"?
@@ -1998,3 +1988,13 @@ Q+A Katha - Story 🧠
 Question: Which of the following music bands is not from Finland?
 
 Answer: Sabaton - Entertainment: Music. Itha kelvi Story pathi - Answer Sabaton. Oru kaalathula oru oor la Story nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Story oda arumaiya purinjikittan, avan Story pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Story ah purinjikittanga, antha oor ye Story nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Story ah purinjikita life ye azhagahum.
+Q+A Katha - Health 🧠
+
+Question: What was the title of the first Bond movie, released in 1962?
+
+Answer: Dr. No - Entertainment: Film. Itha kelvi Health pathi - Answer Dr. No. Oru kaalathula oru oor la Health nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Health oda arumaiya purinjikittan, avan Health pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Health ah purinjikittanga, antha oor ye Health nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Health ah purinjikita life ye azhagahum.
+Q+A Katha - Music 🧠
+
+Question: What vulnerability ranked #1 on the OWASP Top 10 in 2013?
+
+Answer: Injection  - Science: Computers. Itha kelvi Music pathi - Answer Injection . Music pathi kelvi patta oru ponnu, ava daily Music pathi yosichittu iruntha, oru naal ava oru puthu book padichu Music oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Music ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Music la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
