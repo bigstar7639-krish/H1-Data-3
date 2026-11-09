@@ -1873,3 +1873,12 @@ Law - The Alloy of Law
 Education - A Deadly Education
 Education - Educational psychology
 Education - Educated
+Psychology - Dark Psychology
+Psychology - Dream Psychology
+Psychology - Psychology
+Philosophy - The Problems of Philosophy
+Philosophy - The Story of Philosophy
+Philosophy - A History of Western Philosophy
+Economics - Economics
+Economics - Principles of Economics
+Economics - Economic development
