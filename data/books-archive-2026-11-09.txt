@@ -261,3 +261,7 @@ Joke - etwiki-Joke_keel-20200726.pdf - etwiki-Joke_keel-20200726.pdf
 Joke - isbn_9781442481503 - Yuck's pet worm ; and Yuck's rotten joke
 Reading - bwb_W1-BHS-810 - INNOVATION AND CHANGE IN READING INSTRUCTION
 Reading - developmentalsen0000wand - Developmental sentence scoring as a measure of readability for first grade reading textbooks
+Writing - writingskillsgr70000stec - Writing Skills Gr 7 (Writing Skills)
+Writing - writinggamecente0000naha - Writing Game Center apps in iOS
+Poetry - skyclearspoetryo0000unse - The Sky Clears: Poetry of the American Indians by A. Grove Day
+Poetry - virtuesofpoetry0000unse - the virtues of poetry
