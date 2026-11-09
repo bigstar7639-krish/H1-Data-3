@@ -1,13 +1,3 @@
-Q+A Katha - Train 🧠
-
-Question:  What Texas city is nicknamed "The Yellow Rose of Texas"?
-
-Answer: Amarillo - Geography. Itha kelvi Train pathi - Answer Amarillo. Train pathi kelvi patta oru ponnu, ava daily Train pathi yosichittu iruntha, oru naal ava oru puthu book padichu Train oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Train ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Train la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
-Q+A Katha - Computer 🧠
-
-Question: The board game Monopoly takes its street names from which real American city?
-
-Answer: Atlantic City, New Jersey - Entertainment: Board Games. Itha kelvi Computer pathi - Answer Atlantic City, New Jersey. Computer pathi kelvi patta oru ponnu, ava daily Computer pathi yosichittu iruntha, oru naal ava oru puthu book padichu Computer oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Computer ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Computer la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
 Q+A Katha - Book 🧠
 
 Question: The core of the Sun can reach which temperature?
@@ -1998,3 +1988,13 @@ Q+A Katha - Reading 🧠
 Question: In "Inuyasha", what are the heros are looking to collect?
 
 Answer: Jewel Shards - Entertainment: Japanese Anime & Manga. Itha kelvi Reading pathi - Answer Jewel Shards. Reading pathi kelvi patta oru ponnu, ava daily Reading pathi yosichittu iruntha, oru naal ava oru puthu book padichu Reading oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Reading ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Reading la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Writing 🧠
+
+Question: What is the designation given to the Marvel Cinematic Universe?
+
+Answer: Earth-199999 - Entertainment: Comics. Itha kelvi Writing pathi - Answer Earth-199999. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Writing pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Writing la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Writing oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Poetry 🧠
+
+Question: After India, which country produces the second most movies per year?
+
+Answer: Nigeria - Entertainment: Film. Itha kelvi Poetry pathi - Answer Nigeria. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Poetry pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Poetry la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Poetry oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
