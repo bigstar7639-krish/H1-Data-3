@@ -1,6 +1,3 @@
-Biryani - History, mystery dal, and biryani
-Biryani - Biryani
-Biryani - Pulaos and biryanis
 Diwali - Holly Jolly Diwali
 Diwali - Diwali
 Diwali - Amma, Tell Me About Diwali!
@@ -1998,3 +1995,6 @@ Pazhamozhi - Pazhamozhi Naanuru
 Joke - Batman
 Joke - "Surely You're Joking, Mr. Feynman"
 Joke - Žert
+Reading - Beach Read
+Reading - I Can Read With My Eyes Shut!
+Reading - Nostradamus
