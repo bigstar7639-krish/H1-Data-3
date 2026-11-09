@@ -1,6 +1,3 @@
-Mountain - My side of the mountain
-Mountain - At the Mountains of Madness
-Mountain - Go Tell It on the Mountain
 River - The River
 River - River god
 River - Mystic river
@@ -1998,3 +1995,6 @@ Football - Football Genius
 Science - Chemistry
 Science - The science of getting rich, or, financial success through creative thought
 Science - Chaos
+History - The Secret History
+History - A People's History of the United States
+History - Sapiens
