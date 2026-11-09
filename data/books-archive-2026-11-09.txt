@@ -761,3 +761,9 @@ Summer - bwb_S0-BOD-626 - The Summer of Katya
 Summer - bwb_KV-620-365 - Summer Storm
 Winter - unset0000unse_l8w6 - Journal of the Russian Numismatic Society: No. 41, Winter 1990-91
 Winter - winterholidayb0000arhu - Winter Holidayb
+Dog - bwb_S0-AWJ-200 - ghost dog of killicut
+Dog - dogitwasthatdied0000unse - the dog it was that died
+Food - bwb_Y0-BWT-663 - Wine, Food & The Arts
+Food - foodpracticesofh0000phyl - Food Practices of Homemakers in a Surburan area of Greensboro, North Carolina
+Cricket - cricketcage00shim - The cricket cage
+Cricket - winbuzz-login-the-future-of-online-gaming-ids - Winbuzz Login: The Perfect Online Betting ID for Cricket
