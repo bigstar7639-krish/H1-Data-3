@@ -449,3 +449,7 @@ Sky - os505-sky-securitized-liens_202405 - OS505 SKY SECURITIZED LIENs
 Sky - huntersfromskyhi0000char - HUNTERS FROM THE SKY: THE HISTORY OF THE GERMAN PARACHUTE REGIMENT 1940-1945.
 Star - isbn_9781841490960 - The Star Fraction
 Star - bwb_S0-BKM-870 - Lone Star General Hiram Bronson Granbury
+Moon - isbn_9781424109401 - Watercolour Essences of Moon
+Moon - frommuletomoon0000jfra - from the mule to the moon
+Sun - cityinsunjapanes0000paul - City in the Sun: The Japanese Concentration Camp at Poston, Arizona
+Sun - sun0000etie - The Sun
