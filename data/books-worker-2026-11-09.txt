@@ -1,7 +1,3 @@
-Japanese Food - Japanese food and cooking
-Japanese Food - Japanese food and cooking
-Sushi - Sushi für Anfänger
-Sushi - My Mom Loves Me More Than Sushi
 Sushi - All I Wanted Was Sushi but I Got Abducted by Aliens Instead
 Kyoto - A lake in Kyoto
 Kyoto - Shiroi kyotō
@@ -1998,3 +1994,7 @@ Education - Educational psychology
 Education - Educated
 Happiness - The Happy Prince and other tales
 Happiness - Ikigai
+Happiness - Price of Happiness
+Smile - Smile
+Smile - A certain smile
+Smile - The smile of the stranger
