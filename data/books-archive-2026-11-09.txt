@@ -941,3 +941,5 @@ Osaka - gov.uscourts.laed.159827 - Osaka 21, LLC v. Zurich Insurance Company
 Osaka - pubmed-PMC3628117 - Prevalence of Insomnia Among Residents of Tokyo and Osaka After the Great East Japan Earthquake: A Prospective Study.
 Japanese Temple - japanese-temple-architecture-and-joinery-v-1 - Japanese Temple Architecture & Joinery V1
 Japanese Temple - jstor-3793658 - Japanese Ramma, or Temple Carving
+Japanese Girl - sakurasou4koma - The Pet Girl of Sakurasou Official 4koma Anthology (4-Koma Koushiki Anthology: Sakurasou no Pet na Kanojo) (Volumes 1-8, English & Japanese)
+Japanese Girl - electricshadowgi0000unse_g4k6 - Electric shadow girl 9 ISBN: 4088718097 [Japanese Import]
