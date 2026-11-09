@@ -537,3 +537,7 @@ City - tamingoffrontier0000dunc_d4c3 - The Taming of the Frontier: El Paso, Ogde
 City - bwb_S0-BFQ-128_10 - The Rise of the City
 Chennai - ramuchennaibroth00foxm - Ramu and Chennai, brothers of the wild
 Chennai - TNLA-DB-03-1965-6-25-4-QH11_1965-01-22 - Krishnagiri-Chennai(Government buses)
+Madurai - tamildigitallibrary.004404 - Madurai Collectorate Records-Miscellaneous Records-Letters sent to the Board of Revenue, Government-from 2nd January 1841 to 21st December 1841 - Vol. 5337
+Madurai - TNLA-DB-03-1964-4-21-2-QH5_1964-03-24 - Broad guage railway line (madras-madurai)
+Delhi - delhi.egaz.2009.7.30 - Gazette of Delhi, (2011)/1/9
+Delhi - delhi.egaz.2015.4.24 - Gazette of Delhi, (2015)/4/50
