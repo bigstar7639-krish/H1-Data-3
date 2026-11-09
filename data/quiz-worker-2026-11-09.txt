@@ -1,13 +1,3 @@
-Q+A Katha - Diet 🧠
-
-Question: How many times do you fight Gilgamesh in "Final Fantasy 5"?
-
-Answer: 6 - Entertainment: Video Games. Itha kelvi Diet pathi - Answer 6. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Diet pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Diet la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Diet oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
-Q+A Katha - Sleep 🧠
-
-Question: What is known as "the brain" of the Computer?
-
-Answer: Central Processing Unit - Science: Computers. Itha kelvi Sleep pathi - Answer Central Processing Unit. Sleep pathi kelvi patta oru ponnu, ava daily Sleep pathi yosichittu iruntha, oru naal ava oru puthu book padichu Sleep oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Sleep ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Sleep la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
 Q+A Katha - Beauty 🧠
 
 Question: Which team won the 2015-16 English Premier League?
@@ -1998,3 +1988,13 @@ Q+A Katha - Music 🧠
 Question: What vulnerability ranked #1 on the OWASP Top 10 in 2013?
 
 Answer: Injection  - Science: Computers. Itha kelvi Music pathi - Answer Injection . Music pathi kelvi patta oru ponnu, ava daily Music pathi yosichittu iruntha, oru naal ava oru puthu book padichu Music oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Music ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Music la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Movie 🧠
+
+Question: Which of these board games do NOT utilize standard 6-sided dice?
+
+Answer: The Game of Life - Entertainment: Board Games. Itha kelvi Movie pathi - Answer The Game of Life. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Movie pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Movie la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Movie oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Temple 🧠
+
+Question: In which African country was the 2006 film 'Blood Diamond' mostly set in?
+
+Answer: Sierra Leone - Entertainment: Film. Itha kelvi Temple pathi - Answer Sierra Leone. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Temple pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Temple la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Temple oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
