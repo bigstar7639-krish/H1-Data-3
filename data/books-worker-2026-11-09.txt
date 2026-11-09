@@ -1,9 +1,3 @@
-Story - Lisey's Story
-Story - Labyrinths
-Story - I Too Had a Love Story
-Health - Nudge
-Health - Health psychology
-Health - Health Psychology
 Music - Soul Music
 Music - Blood Music
 Music - Night Music
@@ -1998,3 +1992,9 @@ Fitness - The total money makeover
 Diet - Dick Gregory's natural diet for folks who eat
 Diet - Fat is a feminist issue
 Diet - Krause's food, nutrition, & diet therapy
+Sleep - The Big Sleep
+Sleep - Doctor Sleep
+Sleep - Sleeping Murder
+Beauty - Black Beauty
+Beauty - The Beautiful and Damned
+Beauty - Beauty
