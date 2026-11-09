@@ -375,3 +375,7 @@ Flower - flowernet0000seel_b4z2 - The flower net
 Flower - bwb_P9-APT-968 - flower arrangement designs for today
 Sea - bwb_S0-CBX-141 - Fortune in the North Sea
 Sea - bwb_S0-CCA-529 - The alcarve the land,the sea and its people
+Mountain - andrewsublettero0000unse - Andrew Sublette Rocky Mountain Prince 1808-1853
+Mountain - glassmountain0000mari - The Glass Mountain
+River - PsRiverSpotlightBrushesFree - Ps River Spotlight Brushes Free
+River - hudsonriver0000carl - The Hudson River
