@@ -439,3 +439,5 @@ Temple - intellectualheri0000temp - Intellectual Heritage 52 (For Temple Univers
 Temple - geologymineralre0000davi_v5e9 - GEOLOGY AND MINERAL RESOURCES OF THE TEMPLE AND FLEETWOOD QUADRANGLES, BERKS COUNTY, PENNSYLVANIA
 Flower - flowernet0000seel_b4z2 - The flower net
 Flower - bwb_Y0-BSC-654 - The flower girls
+Sea - bwb_S0-CBX-141 - Fortune in the North Sea
+Sea - bwb_S0-CCA-529 - The alcarve the land,the sea and its people
