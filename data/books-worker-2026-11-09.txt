@@ -1,12 +1,3 @@
-Kindness - A Kind of Magic
-Kindness - All-of-a-Kind Family
-Kindness - Not His Kind of Woman
-Truth - The Truth About Stacey
-Truth - The Truth
-Truth - The Ugly Truth
-Wisdom - The Wisdom of Insecurity
-Wisdom - The Wisdom of Father Brown
-Wisdom - Poor Charlie's Almanack
 Power - The 48 Laws of Power
 Power - The Power of Your Subconscious Mind
 Power - The Power of Positive Thinking
@@ -1998,3 +1989,12 @@ Elephant - Elephants Can Remember
 Tiger - Steel Tiger
 Tiger - The Velvet Tiger
 Tiger - Tiger in his lair
+Lion - The Lion, the Witch and the Wardrobe
+Lion - The Lion's Lady
+Lion - The Lion of La Roche
+Horse - The Horse and His Boy
+Horse - War Horse
+Horse - On a pale horse
+Bike - Franklin Rides a Bike (Franklin)
+Bike - Duck on a Bike
+Bike - The bike ride
