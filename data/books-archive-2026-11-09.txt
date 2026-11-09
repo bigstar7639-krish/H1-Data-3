@@ -1737,3 +1737,7 @@ Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Alg
 Student - psychologypsytre0005nair - Psychology psytrek 3.0 student user guide with printed access card
 Business - pioneersinbusine0000juli - Pioneers in business
 Business - bwb_O6-BGC-949 - IEEE Engineers Guide to Business: Writing for Carreer Growth
+Money - forloveormoneyma0000fynn - For love or money : Manchester United and England : the business of winning?
+Money - bwb_S0-AXX-331 - Stop burning your money
+Yoga - bwb_KU-662-423 - the perfection of yoga
+Yoga - sahaja-yoga - Sahaja Yoga
