@@ -1,9 +1,3 @@
-Kyoto - A lake in Kyoto
-Kyoto - Shiroi kyotō
-Kyoto - Kyoto
-Osaka - Stories of Osaka life
-Osaka - Naomi Osaka
-Osaka - Naomi Osaka
 Japanese Temple - Sacred mathematics
 Japanese Temple - Japanese temples
 Japanese Temple - Japanese Temple Geometry Problems Sangaku
@@ -1998,3 +1992,9 @@ Winter - The Winter Bride
 Monsoon - Monsoon
 Monsoon - Chasing the monsoon
 Monsoon - Swimming in the Monsoon Sea
+Morning - Kingfisher Morning
+Morning - The Morning After
+Morning - Morning Star
+Night - A Midsummer Night's Dream
+Night - Twelfth Night, or What You Will
+Night - The Night Before Christmas
