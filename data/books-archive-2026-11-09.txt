@@ -1231,3 +1231,7 @@ Health - bwb_KU-773-442 - The Cost of Health
 Health - pubmed-PMC3890914 - Prevalence and pattern of psychiatric morbidity and health related quality of life in patients with ischemic heart disease in a tertiary care hospital.
 Music - theyallplayedrag0000unse_a9c7 - They all Played Ragtime The True Story Of An American Music
 Music - bwb_S0-BQA-647 - A General HIstory of MUsic
+Politics - politicscommunic0000unse_k3l7 - Politics and Communication
+Politics - movingmountainsm0000arno - Moving mountains and molehills : [local politics 101]
+Law - caribbeanlawreviewv05n01 - The Caribbean Law Review
+Law - bwb_KV-027-074_1 - the all england law reports annotated
