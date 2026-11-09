@@ -1805,3 +1805,7 @@ Pizza - the-pizza-tower - The Pizza Tower (ptle4.5 level)
 Pizza - pizzamorethan60r0000morg - Pizza : more than 60 recipes for delicious homemade pizza
 Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
 Burger - elviskingburger0000jott - The Elvis King-Burger
+Chocolate - faithgriefpassch0000wall - Faith, Grief and Pass the Chocolate Pudding
+Chocolate - 101perfectchocol0000stee - 101 perfect chocolate chip cookies
+Fruit - bwb_T3-BSD-639 - so good with fruit
+Fruit - antagonisticacti0003ygut - Antagonistic Action Of Bacillus Subtilis Against Citrus Fruit Pathogens
