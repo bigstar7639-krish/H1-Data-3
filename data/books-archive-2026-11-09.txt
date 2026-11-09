@@ -1007,3 +1007,7 @@ Earth - chemicalequilibr0000wall - Chemical Equilibria in the Earth
 Earth - bwb_S0-ASZ-517 - foods of earth tastes of heaven
 Water - geologygroundwat0000unse_k7g3 - Geology and Ground-Water Resources of Martin County, Florida [Report of Investigations No. 23]
 Water - black-water-12-0_201810 - black-water-12-0
+Coffee - bwb_KU-577-151 - pets of coffee
+Coffee - gov.uscourts.nyed.348607 - Duran v. Bridge Coffee Shop Inc.
+Tea - bwb_T4-AKD-432 - tea technology
+Tea - tea_to_parti - tea_to_parti
