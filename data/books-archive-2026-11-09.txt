@@ -1133,3 +1133,7 @@ Japanese Food - gov.uscourts.nyed.368296 - Chen v. Osaka Japanese Food Service, 
 Japanese Food - modernjapanesecu0000cwie - Modern Japanese cuisine : food, power and national identity
 Sushi - isbn_9781405483162 - Sushi a Classic Collection of Japanese S
 Sushi - gov.uscourts.flsd.430949 - Kiriacon v. Buddha Sushi Bar, LLC
+Kyoto - gov.uscourts.nyed.306626 - Navarrete v. Kyoto Sushi Inc.
+Kyoto - silkweaversofkyo0000hare - The silk weavers of Kyoto : family and work in a changing traditional industry
+Osaka - gov.uscourts.txeb.185809 - Dallas Osaka, Inc.
+Osaka - jstor-41454474 - JAPAN. Plague at Osaka—Dysentery reappearing epidemically
