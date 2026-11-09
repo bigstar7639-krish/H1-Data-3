@@ -1,9 +1,3 @@
-Panda - Panda Bear, Panda Bear, what do you see?
-Panda - Python For Data Analysis
-Panda - The Panda's Thumb
-Chinese Food - The Fortune Cookie Chronicles
-Chinese Food - Ching's Chinese Food in Minutes
-Chinese Food - Ching's Chinese food made easy
 Chinese Temple - Chinese temple architecture in Singapore
 Chinese Temple - Chinese temples in Singapore
 Chinese Temple - Chinese temples in California
@@ -1998,3 +1992,9 @@ Lion - The Lion of La Roche
 Horse - The Horse and His Boy
 Horse - War Horse
 Horse - On a pale horse
+Bike - Franklin Rides a Bike (Franklin)
+Bike - Duck on a Bike
+Bike - The bike ride
+Car - The Boxcar Children
+Car - How cars work
+Car - The Car
