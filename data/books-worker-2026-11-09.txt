@@ -1,9 +1,3 @@
-Sushi - All I Wanted Was Sushi but I Got Abducted by Aliens Instead
-Kyoto - A lake in Kyoto
-Kyoto - Shiroi kyotō
-Kyoto - Kyoto
-Osaka - Stories of Osaka life
-Osaka - Naomi Osaka
 Osaka - Naomi Osaka
 Japanese Temple - Sacred mathematics
 Japanese Temple - Japanese temples
@@ -1998,3 +1992,9 @@ Happiness - Price of Happiness
 Smile - Smile
 Smile - A certain smile
 Smile - The smile of the stranger
+Heart - Heart of Darkness
+Heart - The Tell-Tale Heart
+Heart - Hearts in Atlantis
+Future - The Once and Future King
+Future - The Ministry for the Future
+Future - Elon Musk
