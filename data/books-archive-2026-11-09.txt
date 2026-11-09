@@ -1283,3 +1283,7 @@ Great Wall - buildinggreatwal0000coll - Building the Great Wall of China : an Is
 Great Wall - great-wall-chinese-restaurant-matchbook-vacaville - Great Wall Chinese Restaurant Matchbook, Vacaville
 Panda - b78jk - Episodul 35 Maestrul Si Panda
 Panda - isbn_9782244250069 - LE PANDA. Autocollants repositionnables
+Chinese Food - glossaryoffoodsc0000zhou - A glossary of food science and technology : English- Chinese/ Chinese- English
+Chinese Food - paulbocusefoodco0000unse - Paul Bocuse Food Collection(Chinese Edition)
+Chinese Temple - catalogueofarmsa00amer - Catalogue of arms and armor of old Japan : examples of the famous Miyocin's, and others celebrated for their work in metals : also important Chinese carved screen, cloissoné, Japanese temple and palace carvings, and other objects of interest to amateurs and connoisseurs : gathered on a recent visit to Japan by Bunkio Matsuki
+Chinese Temple - catalogueofcolle00lowl_12 - Catalogue of the collection of Chinese coins, amulets, temple money, etc., formed by the Rev. Henry Kingman ... [11/06/1899]
