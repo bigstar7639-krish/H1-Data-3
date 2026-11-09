@@ -1,11 +1,3 @@
-Tiger - Steel Tiger
-Tiger - The Velvet Tiger
-Tiger - Tiger in his lair
-Lion - The Lion, the Witch and the Wardrobe
-Lion - The Lion's Lady
-Lion - The Lion of La Roche
-Horse - The Horse and His Boy
-Horse - War Horse
 Horse - On a pale horse
 Bike - Franklin Rides a Bike (Franklin)
 Bike - Duck on a Bike
@@ -1998,3 +1990,11 @@ Diet - Krause's food, nutrition, & diet therapy
 Sleep - The Big Sleep
 Sleep - Doctor Sleep
 Sleep - Sleeping Murder
+Beauty - Black Beauty
+Beauty - The Beautiful and Damned
+Beauty - Beauty
+Fashion - An Old-Fashioned Girl
+Fashion - Patternmaking for fashion design
+Fashion - An Old-Fashioned Girl
+Game - Twisted Games
+Game - The Hunger Games
