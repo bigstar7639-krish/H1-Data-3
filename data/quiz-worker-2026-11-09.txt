@@ -1673,3 +1673,13 @@ Q+A Katha - Student 🧠
 Question: What year was Huun Huur Tu's album Altai Sayan Tandy-Uula released? 
 
 Answer: 2004 - Entertainment: Music. Itha kelvi Student pathi - Answer 2004. Oru kaalathula oru oor la Student nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Student oda arumaiya purinjikittan, avan Student pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Student ah purinjikittanga, antha oor ye Student nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Student ah purinjikita life ye azhagahum.
+Q+A Katha - Business 🧠
+
+Question: If you were to code software in this language you'd only be able to type 0's and 1's.
+
+Answer: Binary - Science: Computers. Itha kelvi Business pathi - Answer Binary. Business pathi kelvi patta oru ponnu, ava daily Business pathi yosichittu iruntha, oru naal ava oru puthu book padichu Business oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Business ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Business la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Money 🧠
+
+Question: Who invented the "Flying Shuttle" in 1738; one of the key developments in the industrialization of weaving?
+
+Answer: John Kay - History. Itha kelvi Money pathi - Answer John Kay. Money pathi kelvi patta oru ponnu, ava daily Money pathi yosichittu iruntha, oru naal ava oru puthu book padichu Money oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Money ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Money la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
