@@ -1801,3 +1801,7 @@ Tea - cbfc-ecinepramaan-100010292100005277 - SOCIETY TEA
 Tea - isbn_9781930052093 - Exhale: A Tea Time Devotional for Healing the Heart of a Woman
 Cake - bwb_Y0-DBQ-598 - the homemaker's pictorial encyclopedia pf modern cake decorating
 Cake - cbfc-ecinepramaan-100010291800000230 - PILLSBURY COOKIE CAKE 01
+Pizza - the-pizza-tower - The Pizza Tower (ptle4.5 level)
+Pizza - pizzamorethan60r0000morg - Pizza : more than 60 recipes for delicious homemade pizza
+Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
+Burger - elviskingburger0000jott - The Elvis King-Burger
