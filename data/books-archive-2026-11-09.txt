@@ -1267,3 +1267,7 @@ Kyoto - environmentalsys0002unse - Environmental systems planning, design, and c
 Kyoto - sedmak-1100-60-symp-kyoto-ieee-1980 - Univac 1100 60 Symp Kyoto IEEE 1980
 Osaka - micro_IA40386005_0155 - Osaka Shosen Kaisha v. Pacific Export Lumber Co., 260 U.S. 490 (1923) (No. 129)
 Osaka - gov.uscourts.tnwd.66101 - Garcia-Moreno v. Osaka Japanese Cuisine, LLC
+Japanese Temple - greateasterntemp0000unse - The Great Eastern Temple : treasures of Japanese Buddhist art from Tōdai-ji
+Japanese Temple - catalogueofarmsa00amer - Catalogue of arms and armor of old Japan : examples of the famous Miyocin's, and others celebrated for their work in metals : also important Chinese carved screen, cloissoné, Japanese temple and palace carvings, and other objects of interest to amateurs and connoisseurs : gathered on a recent visit to Japan by Bunkio Matsuki
+Japanese Girl - pubmed-PMC4004909 - Hormonal and Genetical Assessment of a Japanese Girl with Weaver Syndrome.
+Japanese Girl - konnichiwaiamjap0000brow - Konnichiwa! : I am a Japanese-American girl
