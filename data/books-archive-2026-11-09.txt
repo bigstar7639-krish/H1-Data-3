@@ -1619,3 +1619,7 @@ Cake - cbfc-ecinepramaan-100090292200000317 - CAKE REELS
 Cake - isbn_9781939429247 - I Want Chocolate Cake for Dinner! For Dinner: Let Nursing Rock Your World
 Pizza - the-pizza-tower - The Pizza Tower (ptle4.5 level)
 Pizza - isbn_9783576010802 - Pasta, Pizza, Reis und Korn
+Chocolate - isbn_9781433336218 - Make It Chocolate
+Chocolate - isbn_9780613683241 - Chocolate By Hershey: A story About Milton S. Hershey
+Fruit - bwb_T3-BSD-639 - so good with fruit
+Fruit - antagonisticacti0003ygut - Antagonistic Action Of Bacillus Subtilis Against Citrus Fruit Pathogens
