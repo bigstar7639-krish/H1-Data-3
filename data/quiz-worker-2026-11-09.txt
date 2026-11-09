@@ -1,8 +1,3 @@
-Q+A Katha - Wisdom 🧠
-
-Question: Which team won the "Tom Clancy's Rainbow Six Siege" Invitational Event February 2017 in the PC Category?
-
-Answer: Continuum - Entertainment: Video Games. Itha kelvi Wisdom pathi - Answer Continuum. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Wisdom pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Wisdom la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Wisdom oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
 Q+A Katha - Power 🧠
 
 Question: What is the capital city of Bermuda?
@@ -1998,3 +1993,8 @@ Q+A Katha - Forest 🧠
 Question: Who is the main antagonist in the Portal franchise?
 
 Answer: GLaDOS - Entertainment: Video Games. Itha kelvi Forest pathi - Answer GLaDOS. Oru kaalathula oru oor la Forest nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Forest oda arumaiya purinjikittan, avan Forest pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Forest ah purinjikittanga, antha oor ye Forest nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Forest ah purinjikita life ye azhagahum.
+Q+A Katha - Desert 🧠
+
+Question: Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?
+
+Answer: Heartbleed - Science: Computers. Itha kelvi Desert pathi - Answer Heartbleed. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Desert pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Desert la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Desert oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
