@@ -1,7 +1,3 @@
-Money - The art of money getting, or, Golden rules for money getting
-Money - One for the Money
-Money - Making Money
-Yoga - Light on Yoga
 Yoga - Tree of Yoga
 Yoga - The complete yoga book
 Meditation - Meditations
@@ -1998,3 +1994,7 @@ River - Mystic river
 Sky - Pebble in the Sky
 Sky - A Deepness in the Sky (Zones of Thought)
 Sky - A Hat Full of Sky
+Star - Number the Stars
+Star - The Fault in Our Stars
+Star - Star Wars - Thrawn
+Moon - New Moon
