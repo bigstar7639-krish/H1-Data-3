@@ -1,120 +1,4 @@
- #21389 - Health eppadi paathukkanum?
-
-💬 Nalla question da! Health eppadi paathukkanum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21390 - Music yen pudikkum?
-
-💬 Nalla question da! Music yen pudikkum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21391 - Food la enna best?
-
-💬 Nalla question da! Food la enna best? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21393 - Happy na enna?
-
-💬 Nalla question da! Happy na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21392 - Family na enna?
-
-💬 Nalla question da! Family na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21395 - History la enna irukku?
-
-💬 Nalla question da! History la enna irukku? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21394 - Food la enna best?
-
-💬 Nalla question da! Food la enna best? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21397 - Success eppadi varum?
-
-💬 Nalla question da! Success eppadi varum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21396 - Technology na enna?
-
-💬 Nalla question da! Technology na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21398 - Travel yen pannanum?
-
-💬 Nalla question da! Travel yen pannanum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21399 - Health eppadi paathukkanum?
-
-💬 Nalla question da! Health eppadi paathukkanum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21400 - Family na enna?
-
-💬 Nalla question da! Family na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21401 - Thirukkural na enna?
-
-💬 Nalla question da! Thirukkural na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21402 - Nature yen azhagu?
-
-💬 Nalla question da! Nature yen azhagu? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21405 - History la enna irukku?
-
-💬 Nalla question da! History la enna irukku? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21403 - Family na enna?
-
-💬 Nalla question da! Family na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21406 - Health eppadi paathukkanum?
-
-💬 Nalla question da! Health eppadi paathukkanum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21407 - Music yen pudikkum?
-
-💬 Nalla question da! Music yen pudikkum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21404 - Thirukkural na enna?
-
-💬 Nalla question da! Thirukkural na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
-
----
-
-❓ Auto Q #21408 - Love na enna?
-
-💬 Nalla question da! Love na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+lame puriyum!
 
 ---
 
@@ -187,3 +71,123 @@ Nalla question da! QA-Happy-na-enna-Love-na-enna-Python-na-enna-Vaanam-yen-blue-
 ❓ Auto Q #21419 - Travel yen pannanum?
 
 💬 Nalla question da! Travel yen pannanum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21420 - Money na enna?
+
+💬 Nalla question da! Money na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21421 - Nature yen azhagu?
+
+💬 Nalla question da! Nature yen azhagu? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21423 - Success eppadi varum?
+
+💬 Nalla question da! Success eppadi varum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21426 - Dreams eppadi achieve pannanum?
+
+💬 Nalla question da! Dreams eppadi achieve pannanum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21424 - Study eppadi padikkanum?
+
+💬 Nalla question da! Study eppadi padikkanum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21422 - Python na enna?
+
+💬 Nalla question da! Python na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21427 - Courage na enna?
+
+💬 Nalla question da! Courage na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21425 - Food la enna best?
+
+💬 Nalla question da! Food la enna best? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21428 - Courage na enna?
+
+💬 Nalla question da! Courage na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21429 - Success eppadi varum?
+
+💬 Nalla question da! Success eppadi varum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21430 - Python na enna?
+
+💬 Nalla question da! Python na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21431 - Food la enna best?
+
+💬 Nalla question da! Food la enna best? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21432 - Love na enna?
+
+💬 Nalla question da! Love na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21433 - Success eppadi varum?
+
+💬 Nalla question da! Success eppadi varum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21434 - Study eppadi padikkanum?
+
+💬 Nalla question da! Study eppadi padikkanum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21436 - Friendship na enna?
+
+💬 Nalla question da! Friendship na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21437 - History la enna irukku?
+
+💬 Nalla question da! History la enna irukku? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21435 - Love na enna?
+
+💬 Nalla question da! Love na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21438 - Study eppadi padikkanum?
+
+💬 Nalla question da! Study eppadi padikkanum? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
+
+---
+
+❓ Auto Q #21439 - Love na enna?
+
+💬 Nalla question da! Love na enna? pathi oru katha solluren, vazhkai la chinna chinna vishayathula thaan periya unmai irukku, daily yosichu, daily padichu, daily sirichu vazhntha ellame puriyum!
