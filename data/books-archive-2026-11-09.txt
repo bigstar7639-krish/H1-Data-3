@@ -1433,3 +1433,7 @@ Psychology - isbn_070345708 - Social psychology
 Psychology - readingsinhistor0000wayn_j2w7 - Readings in the History of Psychology
 Philosophy - fightsmarternoth1094568348 - FIGHT SMARTER, NOT HARDER: MCDP-7 – REINVIGORATING THE PHILOSOPHY OF MANEUVER WARFARE THROUGH LEARNING
 Philosophy - historyofphiloso0000seym_z6e0 - a history of philosophy
+Economics - bwb_S0-ADF-033 - economics of national security
+Economics - bwb_S0-DQB-196 - Urban Economics and Public Policy
+Politics - bwb_S0-DHY-403 - Christians and Power Politics
+Politics - bwb_T5-BAV-164 - Mass politics: Studies in political sociology
