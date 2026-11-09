@@ -1,11 +1,3 @@
-Yoga - Tree of Yoga
-Yoga - The complete yoga book
-Meditation - Meditations
-Meditation - Meditations
-Meditation - Meditation
-Fitness - Fitness for dummies
-Fitness - Fit & well
-Fitness - The total money makeover
 Diet - Dick Gregory's natural diet for folks who eat
 Diet - Fat is a feminist issue
 Diet - Krause's food, nutrition, & diet therapy
@@ -1998,3 +1990,11 @@ Star - Number the Stars
 Star - The Fault in Our Stars
 Star - Star Wars - Thrawn
 Moon - New Moon
+Moon - Goodnight Moon
+Moon - The moon is a harsh mistress
+Sun - The Sun Also Rises
+Sun - Midnight Sun
+Sun - A Thousand Splendid Suns
+Bird - I Know Why the Caged Bird Sings
+Bird - Bird by Bird
+Bird - The Thorn Birds
