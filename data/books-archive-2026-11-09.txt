@@ -203,3 +203,9 @@ Tea - teaatcavendish0000drro - Tea at the Cavendish
 Tea - teaatsams0000suec - TEA AT SAM'S
 Cake - WhatMakesAGoodCakeDecorator - What Makes A Good Cake Decorator
 Cake - isbn_9781323307014 - Let Them Eat Cake, Why Leaders Fail
+Pizza - deepak-moorjani-venture-capitalist-lucas-county-prosecutor-san-diego-district-attorney-20190108 - Deepak Moorjani (venture capitalist); Doctor Zubie Moorjani (Medical Board #35.034433, Emeritus); Anthony Pizza (former Lucas County Prosecutor); Madlynn Pizza; Julia Bates (Lucas County Prosecutor); Summer Stephan (San Diego District Attorney)
+Pizza - isbn_9781480199033 - Day of the Living Pizza
+Burger - gov.uscourts.txsd.1416935 - Gonzalez v. Burger King Corporation
+Burger - gov.uscourts.txsd.2046832 - VDPP, LLC v. Burger King Company LLC
+Chocolate - discoveryofchoco0000runc - The discovery of chocolate
+Chocolate - whenwillbroccoli0000bodi - When Will Broccoli Taste Like Chocolate?: Your Questions on Genetic Traits Answered by Stanford University Scientists
