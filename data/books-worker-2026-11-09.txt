@@ -1,9 +1,3 @@
-Pizza - Playing for Pizza
-Pizza - The Pizza Mystery
-Pizza - Pete's a Pizza
-Burger - Burger's daughter
-Burger - Burger boy
-Burger - The 5 elements of effective thinking
 Chocolate - Charlie and the Chocolate Factory
 Chocolate - Como agua para chocolate
 Chocolate - Una cascata di cioccolato
@@ -1998,3 +1992,9 @@ Sky - A Hat Full of Sky
 Star - Number the Stars
 Star - The Fault in Our Stars
 Star - Star Wars - Thrawn
+Moon - New Moon
+Moon - Goodnight Moon
+Moon - The moon is a harsh mistress
+Sun - The Sun Also Rises
+Sun - Midnight Sun
+Sun - A Thousand Splendid Suns
