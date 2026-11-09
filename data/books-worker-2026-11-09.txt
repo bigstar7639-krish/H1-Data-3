@@ -1,12 +1,3 @@
-Smile - The smile of the stranger
-Heart - Heart of Darkness
-Heart - The Tell-Tale Heart
-Heart - Hearts in Atlantis
-Future - The Once and Future King
-Future - The Ministry for the Future
-Future - Elon Musk
-Freedom - Freiheit
-Freedom - Long Walk to Freedom
 Freedom - Freedom To Love
 Hope - Losing hope
 Hope - I Fell in Love with Hope
@@ -1998,3 +1989,12 @@ Nature - The Laws of Human Nature
 Nature - The natural
 Nature - The Wealth of Nations
 Cat - The Cat in the Hat
+Egypt - The Egypt game
+Egypt - Ancient Egypt (DK Eyewitness)
+Egypt - The Kybalion
+Pyramids - The Red Pyramid
+Pyramids - Pyramids
+Pyramids - The pyramid principle
+Taj Mahal - Taj Mahal
+Taj Mahal - Taj Mahal
+Taj Mahal - Taj Mahal (Taj Mahal)
