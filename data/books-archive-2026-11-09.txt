@@ -1761,3 +1761,5 @@ Football - com.davincistudio.footballfreekick - Football Free Kick
 Football - fantasyfootballl0000lohh - Fantasy football league
 Science - bwb_Y0-BTC-960 - Famous Men of Science
 Science - wonderworldofsci0000warr_n9y3 - THE WONDERWORLD OF SCIENCE
+History - historyofmethodi0002wade - History of Methodist Missions; Early American Methodism
+History - churchmusicinhis0000winf_z3f4 - Church Music in History and Practice
