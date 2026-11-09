@@ -753,3 +753,5 @@ Burger - dlibra.bibliotekaelblaska.pl.79.2950709 - Montag, den 15. d. Mts., Nach
 Burger - bub_gb_F207AAAAcAAJ - Lehr und Handbuch der gesammten Feld und Hauswirtschaft für Bürger und Bauern, Prediger und Schullehrer, selbst zu Akademischen Vorlesungen worin das Altenburgische Ackersystem, Verhältniß zwischen Acker, Wiese und Vieh, Futterverhältniß und Eintheilung mit vielen Beyspielen
 Chocolate - discoveryofchoco0000runc - The discovery of chocolate
 Chocolate - whenwillbroccoli0000bodi - When Will Broccoli Taste Like Chocolate?: Your Questions on Genetic Traits Answered by Stanford University Scientists
+Fruit - EmmaFruitMania - Emma Fruit Mania
+Fruit - isbn_9780754826439 - Organic vegetable and fruit gardener : a practical directory of garden produce with over 250 photographs
