@@ -1,8 +1,3 @@
-Q+A Katha - Family 🧠
-
-Question: Who stars in Brutal Legend?
-
-Answer: Jack Black - Entertainment: Video Games. Itha kelvi Family pathi - Answer Jack Black. Family pathi kelvi patta oru ponnu, ava daily Family pathi yosichittu iruntha, oru naal ava oru puthu book padichu Family oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Family ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Family la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
 Q+A Katha - Friendship 🧠
 
 Question: Which iconic Disneyland attraction was closed in 2017 to be remodeled as a "Guardians of the Galaxy" themed ride?
@@ -1998,3 +1993,8 @@ Q+A Katha - Movie 🧠
 Question: "Tomb Raider" icon Lara Croft was originally called...
 
 Answer: Laura Cruz - Entertainment: Video Games. Itha kelvi Movie pathi - Answer Laura Cruz. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Movie pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Movie la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Movie oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Temple 🧠
+
+Question: In CSS, which of these values CANNOT be used with the "position" property?
+
+Answer: center - Science: Computers. Itha kelvi Temple pathi - Answer center. Temple pathi kelvi patta oru ponnu, ava daily Temple pathi yosichittu iruntha, oru naal ava oru puthu book padichu Temple oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Temple ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Temple la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
