@@ -1,9 +1,3 @@
-Animal - Animal Farm
-Animal - Animal Farm / Nineteen Eighty-Four
-Animal - The social animal
-Baby - Baby Einstein
-Baby - Semilla del Diablo
-Baby - Owl Babies
 Teacher - An Expert Teacher
 Teacher - My Teacher Is an Alien
 Teacher - Lies My Teacher Told Me
@@ -1998,3 +1992,9 @@ Movie - How to Write a Movie in 21 Days
 Temple - The Magic of the Lost Temple
 Temple - Temple of Fire
 Temple - Temple of the Winds
+Flower - Flowers in the Attic
+Flower - Flowers for Algernon
+Flower - the sun and her flowers
+Sea - Wide Sargasso Sea
+Sea - The Old Man and the Sea
+Sea - Vingt mille lieues sous les mers
