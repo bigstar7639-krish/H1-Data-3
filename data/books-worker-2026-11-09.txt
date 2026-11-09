@@ -1,9 +1,3 @@
-Sport - Saving the World and Other Extreme Sports
-Sport - Blood sport
-Sport - Sports Illustrated
-Football - Football Against the Enemy
-Football - Football champ
-Football - Football Genius
 Science - Chemistry
 Science - The science of getting rich, or, financial success through creative thought
 Science - Chaos
@@ -1998,3 +1992,9 @@ Tea - The Tiger Who Came to Tea
 Cake - A Piece of Cake
 Cake - Black Cake
 Cake - Cherry the Cake Fairy
+Pizza - Playing for Pizza
+Pizza - The Pizza Mystery
+Pizza - Pete's a Pizza
+Burger - Burger's daughter
+Burger - Burger boy
+Burger - The 5 elements of effective thinking
