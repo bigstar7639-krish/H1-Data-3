@@ -1,9 +1,3 @@
-Courage - 嫌われる勇気
-Peace - War and Peace
-Peace - A Separate Peace
-Peace - Private Peaceful
-Courage - The Red Badge of Courage
-Courage - Captains Courageous
 Kindness - A Kind of Magic
 Kindness - All-of-a-Kind Family
 Kindness - Not His Kind of Woman
@@ -1998,3 +1992,9 @@ Garden - The Garden of Dreams
 Park - Jurassic Park
 Park - Eleanor & Park
 Park - Mansfield Park
+Elephant - Water for Elephants
+Elephant - The Fifth Elephant
+Elephant - Elephants Can Remember
+Tiger - Steel Tiger
+Tiger - The Velvet Tiger
+Tiger - Tiger in his lair
