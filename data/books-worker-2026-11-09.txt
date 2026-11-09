@@ -1,6 +1,3 @@
-Rain - Rain of Diamonds
-Rain - The Art of Racing in the Rain
-Rain - Summer of the Weeping Rain
 Village - The Vile Village
 Village - Village school
 Village - The village by the sea
@@ -1998,3 +1995,6 @@ Phone - Phone Calls
 Computer - Computer Networks
 Computer - Hackers
 Computer - Advances in Computers, Volume 49 (Advances in Computers)
+Book - The Book Thief
+Book - The Book of Dragons
+Book - The Foot Book
