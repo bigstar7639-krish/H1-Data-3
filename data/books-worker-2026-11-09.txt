@@ -1,9 +1,3 @@
-Joke - Batman
-Joke - "Surely You're Joking, Mr. Feynman"
-Joke - Žert
-Reading - Beach Read
-Reading - I Can Read With My Eyes Shut!
-Reading - Nostradamus
 Writing - Labyrinths
 Writing - On Writing
 Writing - On Writing Well
@@ -1998,3 +1992,9 @@ Friendship - Love and Freindship
 Study - A Study in Scarlet
 Study - Study Guide -- The Other Wes Moore by Wes Moore
 Study - Study Guide The Lucifer Effect by Philip G. Zimbardo
+Dream - A Midsummer Night's Dream
+Dream - Anne's House of Dreams
+Dream - Dark Dream
+Success - The Law of Success
+Success - Outliers
+Success - The Compound effect
