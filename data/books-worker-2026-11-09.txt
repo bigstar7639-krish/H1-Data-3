@@ -1,9 +1,3 @@
-Shanghai - Shanghai girls
-Shanghai - Life and death in Shanghai
-Shanghai - 上海寶貝
-Chinese Culture - Revolutionary immortality
-Chinese Culture - The Chinese Cultural Revolution
-Chinese Culture - The ugly Chinaman and the crisis of Chinese culture
 Dragon - The Book of Dragons
 Dragon - Red Dragon
 Dragon - The Eyes of the Dragon
@@ -1998,3 +1992,9 @@ Car - The Car
 Train - The Mystery of the Blue Train
 Train - The Girl on the Train
 Train - Train to Pakistan
+Flight - Flight behavior
+Flight - Star Wars - Outbound Flight
+Flight - Bride in Flight
+Phone - Claudia and the Phantom Phone Calls
+Phone - The Black Phone [Movie Tie-in]
+Phone - Phone Calls
