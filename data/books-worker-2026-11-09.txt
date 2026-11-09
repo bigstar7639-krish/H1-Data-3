@@ -1,4 +1,3 @@
-Love - Twisted Love
 Love - The Spanish Love Deception
 Love - The Love Hypothesis
 God - American Gods
@@ -1998,3 +1997,4 @@ Animal - The social animal
 Baby - Baby Einstein
 Baby - Semilla del Diablo
 Baby - Owl Babies
+Teacher - An Expert Teacher
