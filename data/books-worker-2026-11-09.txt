@@ -1,9 +1,3 @@
-Japanese Food - A dictionary of Japanese food
-Japanese Food - Japanese food and cooking
-Japanese Food - Japanese food and cooking
-Kimono - Suki's Kimono
-Kimono - Y The Last Man, Vol. 8
-Kimono - Kimono
 Anime - Animal Farm
 Anime - Animal Farm / Nineteen Eighty-Four
 Anime - The social animal
@@ -1998,3 +1992,9 @@ Chocolate - Una cascata di cioccolato
 Fruit - Forbidden Fruit
 Fruit - Oranges Are Not the Only Fruit
 Fruit - Silver Fruit upon Silver Trees
+Vegetable - Animal, Vegetable, Miracle
+Vegetable - Growing Vegetable Soup
+Vegetable - Eating the Alphabet
+Summer - The Summer I Turned Pretty Trilogy
+Summer - It's Not Summer Without You
+Summer - The Summer I Turned Pretty
