@@ -1,6 +1,3 @@
-Study - A Study in Scarlet
-Study - Study Guide -- The Other Wes Moore by Wes Moore
-Study - Study Guide The Lucifer Effect by Philip G. Zimbardo
 Dream - A Midsummer Night's Dream
 Dream - Anne's House of Dreams
 Dream - Dark Dream
@@ -1998,3 +1995,6 @@ Monsoon - Swimming in the Monsoon Sea
 Morning - Kingfisher Morning
 Morning - The Morning After
 Morning - Morning Star
+Night - A Midsummer Night's Dream
+Night - Twelfth Night, or What You Will
+Night - The Night Before Christmas
