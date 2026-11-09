@@ -1131,3 +1131,5 @@ Anime - anime-clud-2text - Anime Clud 2text
 Anime - anime_20210928 - anime
 Japanese Food - gov.uscourts.nyed.368296 - Chen v. Osaka Japanese Food Service, Inc.
 Japanese Food - modernjapanesecu0000cwie - Modern Japanese cuisine : food, power and national identity
+Sushi - isbn_9781405483162 - Sushi a Classic Collection of Japanese S
+Sushi - gov.uscourts.flsd.430949 - Kiriacon v. Buddha Sushi Bar, LLC
