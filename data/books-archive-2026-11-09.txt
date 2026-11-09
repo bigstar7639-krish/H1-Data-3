@@ -1391,3 +1391,7 @@ Book - bwb_T3-BRL-524 - A Study of the Book of Acts
 Book - bwb_S0-BWV-057 - Fish and Game Cook Book
 Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
 Kavithai - kankal-sollum-kavithai - Kankal Sollum Kavithai
+Thirukkural - kzgo_thirukkural-of-maharshi-thiruvalluvar-tamil-hindi-tr.-sri-nanda-kumar-awasthi-19 - Thirukkural Of Maharshi Thiruvalluvar Tamil Hindi Tr. Sri Nanda Kumar Awasthi 1976 Lucknow Bhuvan Vani Trust
+Thirukkural - acc.-no.-15807-thirukkural-couplets-2000 - THIRUKKURAL COUPLETS WITH CLEAR PROSE RENDERING (In English)
+Pazhamozhi - 14PazhamozhiThirumanam1917 - 14 Pazhamozhi Thirumanam 1917
+Pazhamozhi - PazhamozhiNanooruMoolamumUraiyum - Pazhamozhi Nanooru Moolamum Uraiyum
