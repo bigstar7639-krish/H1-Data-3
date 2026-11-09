@@ -827,3 +827,7 @@ Health - readingsinhealth0000vari - Readings in Health Education
 Health - ministry_of_health_MH_2_coughs_and_sneezes_spread_diseases - ministry_of_health_MH_2_coughs_and_sneezes_spread_diseases
 Music - bwb_S0-ATN-225 - The chamber music of Brahams
 Music - bwb_Y0-BNN-921 - Sons of the San Joaquin- The Songs, The Music, The Men
+Movie - movie_201611 - movie
+Movie - MovieMenu - Movie Menu
+Temple - intellectualheri0000temp - Intellectual Heritage 52 (For Temple University)
+Temple - geologymineralre0000davi_v5e9 - GEOLOGY AND MINERAL RESOURCES OF THE TEMPLE AND FLEETWOOD QUADRANGLES, BERKS COUNTY, PENNSYLVANIA
