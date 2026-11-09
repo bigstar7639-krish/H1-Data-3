@@ -1,6 +1,3 @@
-Kolkata - Kolkata
-Indian Food - Indian food
-Indian Food - Nutritive value of Indian foods,2000
 Indian Food - Nutritive value of Indian foods
 Indian Girl - One Indian Girl
 Indian Girl - Two Indian Girls
@@ -1998,3 +1995,6 @@ Nature - The Wealth of Nations
 Cat - The Cat in the Hat
 Cat - Cat's Cradle
 Cat - Cat & Mouse
+Dog - Dog Man
+Dog - Shoe Dog
+Dog - Harry the Dirty Dog
