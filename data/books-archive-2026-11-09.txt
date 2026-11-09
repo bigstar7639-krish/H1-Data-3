@@ -241,3 +241,7 @@ Bike - fourcornersworld0000spit - Four Corners world bike ride : 4 teams of 4 cy
 Bike - twelvebabiesonbi0000dunn_c6g1 - Twelve babies on a bike : diary of a student midwife
 Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
 Car - ParisCharbonAndCar - Paris Charbon And Car
+Train - bwb_W9-CWQ-151 - Last Train to Alcatraz
+Train - entrainbibliothe0000revi - En Train (Bibliotheque Des Tout-petits)
+Flight - bwb_W9-CZI-694 - The Adventure of Flight
+Flight - bwb_Y0-AAI-128 - manual flight
