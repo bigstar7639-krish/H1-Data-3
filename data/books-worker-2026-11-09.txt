@@ -558,3 +558,10 @@ Flower - the sun and her flowers
 Sea - Wide Sargasso Sea
 Sea - The Old Man and the Sea
 Sea - Vingt mille lieues sous les mers
+Music - Soul Music
+Music - Blood Music
+Music - Night Music
+Movie - Better Than the Movies
+Movie - The wimpy kid movie diary
+Movie - How to Write a Movie in 21 Days
+Temple - The Magic of the Lost Temple
