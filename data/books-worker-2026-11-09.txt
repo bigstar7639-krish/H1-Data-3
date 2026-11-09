@@ -1,9 +1,3 @@
-Destiny - Uncertain Destiny
-Destiny - Broken Destiny
-Destiny - Bond of Destiny
-Karma - Karma
-Karma - The Karma of Love
-Karma - Karma-yoga
 Rain - Rain of Diamonds
 Rain - The Art of Racing in the Rain
 Rain - Summer of the Weeping Rain
@@ -1998,3 +1992,9 @@ Train - Train to Pakistan
 Flight - Flight behavior
 Flight - Star Wars - Outbound Flight
 Flight - Bride in Flight
+Phone - Claudia and the Phantom Phone Calls
+Phone - The Black Phone [Movie Tie-in]
+Phone - Phone Calls
+Computer - Computer Networks
+Computer - Hackers
+Computer - Advances in Computers, Volume 49 (Advances in Computers)
