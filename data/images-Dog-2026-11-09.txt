@@ -167,3 +167,5 @@ Dog - Openverse - https://www.flickr.com/photos/69573851@N06/15651619402
 Dog - Unsplash - https://source.unsplash.com/800x600/?dog%20with%20ball
 Dog - Wikimedia - https://commons.wikimedia.org/wiki/File:The_black-eyed_puppy_(IA_blackeyedpuppy00pyle).pdf
 Dog - Wikimedia - https://commons.wikimedia.org/wiki/File:Golden_Retriever_Puppy_2012_01.jpg
+Dog - Openverse - https://www.flickr.com/photos/48405916@N08/5070138557
+Dog - Openverse - https://www.flickr.com/photos/52887433@N00/5243964880
